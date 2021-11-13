@@ -3,6 +3,7 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
 
 ## TODO
 - [x] scan/photograph pages into JPEGs
+- [ ] rename images using page numbers
 - [ ] OCR German text from images
 - [ ] Translate German to English
 - [ ] Re-render molecule diagrams
