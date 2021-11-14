@@ -1,0 +1,37 @@
+	Wird ein Stoff rasch in unwirksame Metaboliten umgewandelt, besteht die
+Möglichkeit, die metabolisch wichtige Stelle mit einem Fluoratom zu blockieren. Para-
+Hydroxylierung am Aromaten oder ß- bzw. ω- Hydroxylierung an Seitenketten sind oft
+schnell erfolgende Metabolisierungen, die man damit unterbinden kann. Dann muss
+ein anderer Metabolismusweg eingeschlagen werden, und die Wirkung kann verlängert,
+verstärkt oder gar völlig verändert sein, weil neue aktive Metaboliten entstehen können,
+die zu einem anderen Target affın sind. Meistens tragen Arzneimittel, die auf diese Weise
+wirken, nur ein Fluoratom — eben an der entscheidenden Stelle.
+	Des Weiteren kann sich die Affinität zu einem bestimmten Targetprotein ändern
+weil z.B. eine kleine lipophile Bindungstasche besser ausgefüllt wird. Zudem können
+beim Ersatz von H gegen F bestimmte H-Donor-Eigenschaften des Liganden aus-
+bleiben, wodurch sich das Selektivitätsprofil ändert oder die erhöhte Elektronendichte
+die Bindungsverhältnisse modifiziert. Um derartige Änderungen zu bewirken, werden
+seltener einzelne F-Atome eingesetzt, sondern eher ganze CF3-Gruppen eingeführt, da
+sie zu diesen Zwecken oft effektiver sind.
+	All diese Punkte sollten beim Einsatz von Fluor in der Medizinalchemie bedacht
+werden. Die oben genannten multipolar interactions (C-F···C=O) und eventuell auch die
+H-Akzeptor-Eigenschaften können die Bindung ebenfalls entscheidend beeinflussen. In
+Ref. [6] sind detaillierte Beispiele und auch die damit verbundene Chemie aufgeführt.
+
+
+Mögliche Toxizität von Organofluor-Verbindungen
+
+	Das Anbringen eines Fluoratoms in einem Molekül kann, wie oben beschrieben,
+weitreichende Konsequenzen haben. Was mit einer positiven medizinalchemischen
+Absicht klappt, funktioniert auch in die andere, toxische Richtung. Fluorverbindun-
+gen findet man auch unter den stärksten synthetischen Giften (z.B. die irreversiblen
+Cholinesterase-Hemmstoffe wie Sarin und Soman), und die Natur kreiert mit einem
+Fluor-Atom aus einer ungiftigen Substanz (Essigsäure) eine für Säugetiere und Insekten
+stark toxische Verbindung, die Fluoressigsäure (1). Die extreme Toxizität von Fluor-
+acetat (Natriumsalz der Fluoressigsäure) beruht darauf, dass Acetat im Organismus eine
+entscheidende Rolle spielt, die beteiligten Systeme es jedoch nicht mehr von Essigsäure
+und Fluoressigsäure unterscheiden können [8]. Fluoressigsäure unterliegt im Organis-
+mus derselben enzymatischen "Transformation wie Essigsäure und bildet mit dem Co-
+enzym A das Fluoroacetyl-CoA, und dieses substituiert schließlich ‚für Acetyl-CoA im
+Tricarbonsäure-Zyklus. Das daraus resultierende Fluoreitrat interferiert mit dem Citrat-
+zyklus, so dass dieser zum Erliegen kommt (Enzymblockade).

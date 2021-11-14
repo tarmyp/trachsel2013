@@ -1,0 +1,37 @@
+	Die Trennung der Stereoisomere von 25, die bei der Hydrierung von 26 entstehen
+Wurde mit Hilfe diverser Weinsäuren beschrieben [17]. Diese Stereoisomere wurden
+einer Lokomotionsstudie mit Mäusen unterzogen und waren ähnlich aktiv wie die
+Vergleichssubstanz Amphetamin. Die Ähnlichkeit zu Lefetamin (24) lässt erwarten, dass
+Affinitäten zu NMDA- und Opioid-Rezeptoren bestehen.
+
+
+Zusammenfassung
+
+	Mit zunehmender Größe der Substituenten in α-Stellung nimmt die Fähigkeit ab, Mono-
+amine in die Synapse freizusetzen (Reverse Transport). Eine Hemmung der Transporter und
+die damit verbundene Erhöhung der Monoamin-Konzentrationen im synaptischen Spalt
+bleibt dabei teilweise erhalten, was zu Verbindungen führt, die sich potenziell als Antidepres-
+siva verwenden lassen. Je nach Beschaffenheit des Restes in α-Stellung können Seitenaffinitä-
+ten in Richtung NMDA- und Opioid-Rezeptoren auftreten (vgl. Lefetamin).
+
+Literatur
+
+[1] J. Van der Schoot, E.J. Ariens, J. Van Rossum, J.A. Hurkmanns. Arzneim. Forsch.
+    1962, 12, 902.
+[2] R. Oberlender, D.E. Nichols. Pharmacol. Biochem. Behav. 1991, 38, 581.
+[3] U.B. Paulsen-Sörman, K.H. Jönnson, B.G. Lindeke. J. Med. Chem. 1984, 27, 342.
+[4] A. Burger, S.E. Zimmerman, E.J. Ariens. J. Med. Chem. 1966, 9, 469.
+[5] D. W. Nachand, A.A. Kurland, T.E. Hanlon. J. Clin. Pharmacol. 1967, 7, 116.
+[6] J.T. Hitchins, R. Orzechowski, S. Goldstein. Taxicol. Appl, Pharmacol, 1972, 21,302.
+[7] F.J. McCarty, P. D, Rosenstock, J.P. Paolini, D.D. Micucci, L. Ashton, W. W.
+    Bennetts, F.P. Palopoli. J. Med. Chem. 1968, 17, 534.
+[8] A. Donetti, E. Marazzi-Uberti, S. Casadio, C. Bianchi. J. Med. Chem. 1972, 15, 590.
+[9] J. Knoll, A. Simay. New Psychostimulant Agent. WO8802254, 1988.
+[10] Dodds, W. Lawson, S.A. Simpson, P.C. Williams. J. Physiol. 1945, 104, 47.
+[11] P. Mannelli, L. Janiri, M. De Marinis, E. Tempesta. Drug Alcohol Depend. 1989, 24,95.
+[12] E. Paroli, P. Nencini, M. Moscucei. Pharmacol, Res. Commun. 1984, 16, 915.
+[13] M. G. De Monits, P. Devoto, A. Bucarelli, A. Tagliamonte. Pharmacol, Res. Commun.
+     1985, 17, 471.
+[14] L. Janiri, P. Mannelli, C. Pirrongelli, M. Lo Monaco, E. Tempesta. Brit. J. Addict.
+     1989, 84, 89.
+[15] S. Massa, G. Stefancich, M. Artico, F. Corelli, R. Silvestri, G. C. Pantaleoni, D.

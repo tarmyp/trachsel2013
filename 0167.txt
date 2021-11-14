@@ -1,0 +1,25 @@
+3.8. B-Substituierte Phenylalkylamine
+
+
+	Mit Hilfe des Einführens von Alkylresten in ß-Position zur Aminogruppe erhoffte man
+sich einen Zugang zu neuen, potenziell aktiven Wirkstoffen, die frei von einigen der unan-
+genchmen Nebenwirkungen sind, wie sie bei Amphetamin (1) selbst auftreten (siehe Kapitel
+2). Das einfachste Derivat B-Methylphenethylamin (2), das sich direkt von 2-Phenethylamin
+(siehe Kapitel 1) ableitet, ist beispielsweise 1946 synthetisch beschrieben worden [1]. Die
+Verbindungen 3-8 wurden 1943 von Warren et al. untersucht [2]. Ziel war es, ein flüchtiges
+und inhalativ anwendbares Amin zu finden, welches gute vasokonstriktive Aktivität und eine
+geringe Toxizität aufweist. Gleichzeitig erhoffte man sich eine niedrige ZNS-Stimulation.
+Getestet wurden die Pressor-Aktivität am Hund und die Toxizität am Kaninchen. Als beson-
+ders vielversprechend erwies sich Verbindung 3. Sie zeigte im Vergleich zu Amphetamin (1)
+keine ZNS-Stimulation. Später wurde Verbindung 3 der Name Vonedrin verliehen [3]. Sie
+erreichte den pharmazeutischen Markt nicht.
+
+
+
+	Bei der Suche nach einem Methamphetaminantagonisten (zwecks Behandlung der Ab-
+hängigkeit) wurden einige Dutzend Verbindungen untersucht, und darunter wurde auch die
+ß-substituierte Verbindung 9 erwähnt [4].
+	Die Verbindung 10 wurde als Inhibitor der Dopamin-ß-hydroxylase (DBH) getestet,
+wobei sie sich im Vergleich zu den heteroaromatischen Thienyl-Analoga (siehe Kapitel 4.3)
+als viel schwächer erwies. Die beiden Verbindungen 11 und 12 wurden auf dieselbe inhibi-
+torische Aktivität geprüft, wobei ihre beiden 4-HO-Analoga um einiges potenter waren [5].

@@ -1,0 +1,36 @@
+(protoniert) vorliegen, das Difluoro-Amin 36 jedoch nahezu ungeladen errel Nach einer
+i.p. Verabreichung an Versuchstieren zeigte 35 eine nahezu identische Körperverteilung wie
+Amphetamin, und 36 wurde hauptsächlich im Fett gefunden. Dies korreliert mit den Eigen-
+schaften, die aus den pKa-Werten vermutet werden. 4-Substituierte Analoga sind im Kapitel
+6.3.8 beschrieben.
+
+	Dubin et al. verglichen das (+)-Enantiomer von 2-Amino-3-fluor-1-phenylpropan (37)
+mit dem wirkungsstärkeren (+)-Amphetamin bezüglich der Effekte auf die Lokomotion und
+exploratorischen Aktivität in Mäusen [26]. Beide, (+)-Amphetamin und (+)-37, vermochten
+den Drang zur spontanen Erforschung der Umgebung zu senken, wobei dies bei (+)-37
+ausgeprägter zutraf. Ebenfalls erhöhten beide Substanzen die lokomotorische Aktivität. Al-
+lerdings bewirkte (+)-37 nach einer Stunde sedative Effekte, während die Mäuse, welche
+(+)-Amphetamin erhielten, immer noch stimuliert waren. Dieses sehr unübliche pharmako-
+logische Profil von 37 könnte auf aktive Metaboliten hindeuten.
+
+
+
+
+	Die ß-halogenierten Verbindungen des Typs 38 (X = Br, Cl, I) sind hochreaktive und
+höchstwahrscheinlich instabile Benzylhalogenide. Sie wurden von Rege et al. als mögliche
+Verunreinigungen in illegal hergestellten Methamphetamin-Proben diskutiert [27]. Insbe-
+sondere das (-)-Enantiomer mit X = Cl („Chlorephedrin“) wurde einige Male festgestellt.
+Es erwies sich als irreversibler Inhibitor des Isoenzyms CYP2D6 und könnte allgemein eine
+toxische Verbindung sein. Benzylhalogenide gelten als toxische Verbindungen, da sie sehr
+leicht Alkylierungen eingehen. Häufig dient das leicht erhältliche (+)-Pseudoephedrin (lc)
+als Präkursor (Vorläuferchemikalie) für die Synthese von Methamphetamin. Dieses wird
+dann beispielsweise in einer SNi-Reaktion mit 'Thionylchlorid oder Phosphorpentabromid
+zu Chlorephedrin umgesetzt und hydrogenolytisch zu Methamphetamin reduziert. Auch die
+Verwendung von Iodwasserstoffsäure und rotem Phosphor ist verbreitet. Dabei können in
+unterschiedlichem Ausmaß die Haloephedrine 38 entstehen. Nur die Stereoisomere la und
+lc liefern das zentral aktive S-Methamphetamin. Die Stereoisomere 1b und 1d liefern das fast
+wirkungslose R-Methamphetamin (siche Kapitel 3.1.1.1). Da jedoch nur 1a und 1c natürlich
+vorkommen, dürfte die Verwendung von 1b und 1d grundsätzlich schr gering ausfallen.
+
+en Sr Reaktivität berichtete Hunt als erster über die
+Antiepinephrin-Aktivität von N,N-Dimethyl-2-chlorophenethylamin (39) [28]. Weiter zeigte

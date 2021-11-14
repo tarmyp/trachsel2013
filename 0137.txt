@@ -1,0 +1,27 @@
+	Verbindung 20 ist unter dem Namen α-Pyrrolidinopentiophenon oder α-PVP bekannt
+und wurde in den 1960er Jahren patentiert [11]. Viele Jahre später wurde es, nebst ande-
+ren Phenyl-substituierten Derivaten, von Meltzer et al. auf die Interaktion mit der Neu-
+rotransmitter-Wiederaufnahme untersucht, mit dem Ziel, ein Mittel zur Bekämpfung des
+Cocainmissbrauchs zu finden, d.h. ein Mittel, das den Ausstieg aus der Sucht erleichtert
+[12]. α-PVP (20) ist strukturell nahe verwandt mit Pyrovaleron (21; siehe Kapitel 6.3.6) und
+Prolintan (22; siche Kapitel 3.2.1). Kompetitive Messungen ([125]RTI 55) zeigten, dass 20
+nicht mit dem SERT (Ki> 10uM), jedoch mäßig mit dem NET (Ki= 200nM) und stark mit
+dem DAT (Ki= 34nM) interagiert [12]. Zum Vergleich der Affinitäten wurde Cocain her-
+beigezogen (NET K= 2150nM und DAT Ki= 430nM). Diese Substanzen erwiesen sich vor
+allem als Reuptake-Inhibitoren und nicht als Releaser. Wie sich am Methylendioxy-Analog
+MDPV (23, siehe auch Kapitel 7.5.7.3 und Kapitel 6.3.6 für weitere Cathinone) zeigt, gibt
+es Hinweise, dass derartige Verbindungen ein ähnliches Missbrauchspotenzial wie Cocain
+selbst aufweisen [12, 39].
+
+	Das Derivat Diethylpropion (Diethylcathinon; 24) wies in der von Van der Schoot et al.
+im Jahre 1962 präsentierten umfangreichen Lokomotionsstudie eine relative Wirkungstärke
+von 68% verglichen mit Amphetamin auf (i.p., Mäuse) [4]. Es trägt auf dem Markt Na-
+men wie Amphepramone®, Anorex®, Linea®, Nobesine®, Prefamone®, Regenon®, Tenuate®,
+und Tepanil® und wird in wenigen Ländern zur kurzzeitigen Behandlung von Fettleibigkeit
+verwendet (Abb. 4). Es wird davon ausgegangen, dass Diethylpropion (24) ein tiefes Miss-
+brauchspotenzial aufweist. Allerdings steht Diethylpropion (24) im Verdacht, pulmonalar-
+terielle Hypertonie (Lungenhochdruck, PAH) hervorzubringen [13] und neurotoxisch zu
+wirken [14]. Es gibt Hinweise, dass Diethylpropion (24) eine Prodrug von Ethcathinon (14)
+darstellt [34]. Diethylpropion (24) zeigte keine Affinitäten zu den Monoamin-Transportern,
+hingegen erwies sich der Metabolit Ethcathinon (14) als selektives Substrat des Norepin-
+ephrin-Transporters [34].

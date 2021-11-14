@@ -1,0 +1,26 @@
+	Die Verbindungen 8-15 dienten zur Eintwicklung eines Monoaminooxidase Inhibito
+(MAOI) [7]. Von diesen erwies sich 15 als die aktivste, und so diente sie dann als Templat
+zur weiteren Diversifikation am Phenylring. Durch geeignete Aryl-Substituenten konnte
+die MAO-Selektivität gesteuert werden: mit einem 4-HO-Substituent (16) zugunsten der
+MAO-A, oder mit einer mit 4-MeO-Gruppe (17) zugunsten der MAO-B. Substanz 8 wurde
+weiter als Inhibitor der Dopamin-ß-hydroxylase getestet (siehe Kapitel 3.8).
+
+
+
+Zusammenfassung
+
+	Es liegen zu wenige Daten vor, um abschließende Trends zu benennen. Lipophile Reste
+in ß-Position können zu Verbindungen führen, die eine Affinität zu Monoamin-Transportern
+aufweisen. Als solche finden sie potenziell Anwendung zur Behandlung von ADHS, als Anti-
+depressiva oder als Anorektika, wie beispielsweise Sibutramin (7), das aber wegen kardiovasku-
+lären Nebenwirkungen vom Markt zurückgezogen wurde (siehe Kapitel 6.3).
+
+
+Literatur
+
+
+[1] C.M. Suter, A. W. Weston. J. Am. Chem. Soc. 1942, 64, 533.
+[2] A. Burger, H. H. Ong, J. Org. Chem. 1962, 29, 2588.
+[3] E. J. Jeffery, A. Kozlik. Substituierte Cyclobutane, Verfahren zu ihrer Herstellung
+     und pharmazeutische Zubereitungen, welche diese Verbindungen enthalten.
+     DE3212682, 1982.

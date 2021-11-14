@@ -1,0 +1,22 @@
+3.5. Phenylalkylamine mit Heteroatomen an der Seitenkette
+
+	Das Einfügen von Heteroatomen wie Sauerstoff, Schwefel, Halogenen oder eines weite-
+ren Stickstoffs an der Seitenkette ermöglicht wiederum einen Zugang zu einer Vielzahl neuer
+Verbindungen. Das wohl bekannteste Derivat ist das natürlich vorkommende Ephedrin (1a),
+das chemisch betrachtet zu den Phenylpropanolamin-Derivaten gehört. Ephedrin (1a) stellt
+das Hauptalkaloid der chinesischen Droge Ephedra oder Ma-Huang dar und kommt außer in
+Ephedra-Arten unter anderem auch im Eisenhut, in der Beereneibe sowie im Kath-Strauch
+Catha edulis vor [1]. Es wurde erstmals im Jahre 1885 durch Nagayoshi Nagai aus Ephedra vulga-
+nis isoliert. Ephedrin (1a) ist ein orales Sympathikomimetikum: es wirkt blutdrucksteigernd,
+herzstimulierend, bronchienerweiternd und appetithemmend. Daher wird es gegen Hypo-
+tonie (Abb. 1), chronische Bronchitis, Asthmaanfälle und zur Abschwellung der Schleimhäu-
+te bei Schnupfen eingesetzt. Weiter wurde die appetithemmende Wirkung ausgenutzt. In der
+Natur tritt nur [1R,2S]-(-)-Ephedrin (1a) auf. Sein Enantiomer [1S,2R]-(+)-Ephedrin (1b)
+wird synthetisch hergestellt.
+
+	Das natürlich vorkommende Enantiomer 1a entfaltet in Dosen von 20-60mg eine
+stimmungsaufhellende und euphorisierende Wirkung, die von deutlich erhöhter Wachheit
+begleitet ist und zwei bis acht Stunden anhalten kann [2]. Die peripheren Wirkungen äußern
+sich bei höheren Dosierungen als Kribbeln auf der Haut sowie stellenweise Bildung von
+Gänsehaut (pilomotorischer Reflex), und auch starkes Herzklopfen wird beobachtet. Das
+synthetische Enantiomer 1b zeigt eine wesentlich schwächere Wirkung [2].

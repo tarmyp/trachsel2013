@@ -1,0 +1,24 @@
+3.10. Phenylalkylamine mit variierter Aminoposition
+
+
+	Die beiden Pioniere George Bargerund Henry Hallet Dale waren bis zum Jahr 1910 wohl die
+ersten, die Bezichungen zwischen Struktur und physiologischer Wirkung von organischen
+Substanzen des Typs „Amin“ präsentierten[1]. Viele der chemisch reinen Verbindungen er-
+hielten sie durch Isolierung aus Putreszenz (faulige Nekrose). Als Startpunkt für aromatische
+Alkylamine diente das in verfaultem Fleisch identifizierte 2-Phenylethylamin (PEA; 4), von
+dem damals die blutdruckerhöhende Wirkung bereits bekannt war.
+	In einem Teil untersuchten sie aromatische (Alkyl-) Amine wie Anilin (1), Benzylamin
+(2), 1-Phenylethylamin (3), 2-Phenylethylamin (4), 3-Phenylpropylamin (5) und einige wei-
+tere auf die den Blutdruck beeinflussende Wirkung, Es stellte sich heraus, dass Anilin (1)
+und Benzylamin (2) sowie 1-Phenylethylamin (3) keine Wirkung auf den Blutdruck zeigten
+(.v.; Katzen). Ein großer Sprung ergab sich allerdings beim Verlängern der Seitenkette auf
+zwei C-Atome, wodurch man 2-Phenylethylamin (4) erhält. 2-Phenylethylamin (4) zeigte eine
+optimale Wirkung bezüglich der Blutdruckerhöhung, denn das weitere Homologisieren der
+Seitenkette zu 3-Phenylpropylamin (5) führt bereits wieder zu einer deutlichen Abnahme der
+Wirkstärke. Somit ist eine 2C-Einheit (Definition siehe auch Kapitel 8.5.2) zwischen dem
+Aromaten und dem Amin optimal, um eine sympathikomimetische Wirkung zu erhalten.
+	Schließlich waren es Barger und Dal, die den Begriff „sympathikomimetisch“ ins Leben
+riefen [1]. Als sympathikomimetisch bezeichnet man Substanzen, die auf die glatte Musku-
+latur des sympathischen Nervensystems ephinephrinartig (= adrenalinartig) wirken. Diese
+Stoffe können je nach Rezeptorprofil Wirkungen wie z.B. Broncholyse, Vasokonstriktion,
+Vasodilatation und auch zentralnervöse Erregung entfalten.

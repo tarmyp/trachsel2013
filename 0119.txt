@@ -1,0 +1,29 @@
+zeigte eine deutlich abgeschwächte Wirkung [23]. Sie war auch deutlich weniger toxisch,
+erzeugte in Katzen kein erregtes Verhalten und schien eher ein Sedativum als ein Stimulans
+zu sein.
+ 
+
+	Verbiscar und Abood versuchten die Wirkung von physiologisch aktiven Aminen durch
+Carbamat-Ester herauszuzögern (Latenzierung) [24]. Allgemein steigt durch diese chemi-
+sche Modifikation die Lipophilie der Substanzen, die so vor einem enzymatischen Abbau
+besser geschützt sind. Die Autoren derivatisierten unter anderem Phenethylamin, Ampheta-
+min und Ephedrin zu acht verschiedenen Carbamatestern, was zu den Verbindungen 20-22
+führte. Der Rest R bedeutet einen Phenyl-Ring mit oder ohne elektronenzichenden sowie
+-schiebenden Substituenten. Die aktivsten Verbindungen zeigten ein biphasisches Wirkspek-
+trum, charakterisiert durch eine anfängliche milde Sedation, welche danach direkt von einer
+mäßigen Stimulation gefolgt wurde. Die anorektische Wirkung im Versuchstier war deut-
+lich weniger von einer zentralen Stimulation begleitet, als dies von Amphetamin bekannt ist
+(die aktivsten Verbindungen trugen die Struktur 21 und zeigten nur rund ein Zehntel der
+ZNS-Stimulierung von Amphetamin). Innerhalb der phenylsubstituierten Derivate trugen
+die aktivsten Verbindungen Substituenten mit elektronenziehendem Charakter. Dies wurde
+durch die vereinfachte Spaltung der Carbamate und die sich daraus ergebende Freisetzung
+der Amine erklärt.
+
+
+	Eine weitere Idee, die Wirkung und den Wirkungseintritt in Form von Prodrugs zu la-
+tenzieren, sprich den eigentlichen Wirkstoff metabolisch langsam freizusetzen, wurde von
+Weiner et al. untersucht [25]. Sie banden Phenethylamin, Amphetamin, Ephedrin und Tyramin
+an Polymethacrylsäure (radikale Polymerisation der zuvor gebildeten Methacrylamide, z. B.
+Struktur 25, Abb. 2), woraus die Strukturen 26-28 resultierten. Weiter wurden Copolymere
+durch Reaktion der Methacrylamide mit Methacrylsäure, Vinylacetat oder Vinylpyrrolidon
+hergestellt.

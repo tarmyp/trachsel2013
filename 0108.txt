@@ -1,0 +1,22 @@
+	Die Verbindungen 9-10 [8], 11 [9] und 12-14 [10] dienten zur Aufklärung der strukturellen
+Anforderungen an Liganden der Sigma-Rezeptoren. Mit Hilfe der zahlreichen Derivaten
+zeigten Glennon et al. einen meistens kleinen Einfluss einer vorhandenen α-Me-Gruppe auf
+die Affinität, und auch die Stereochemie (R/S) spielte bei den untersuchten Verbindungen
+eine eher untergeordnete Rolle. Das Entfernen der N-Me-Gruppe resultierte tendenziell
+in einer Senkung der Affinitäten. Da das Stereozentrum relativ wenig Einfluss hat, wurden
+die meisten Verbindungen als α-unsubstituierte Phenethylamine untersucht (siehe Kapitel
+3.2.2). Das Phenethylamin 14 erwies sich mit einer Bindungskonstante von Ki= 0.25nM als
+sogenannter superpotenter Sigma-Ligand [10] und erwies sich als rund zehnmal affiner als
+(+)-5-10 (Ki= 2.6nM [8], [3H]DTG markiert, 0-Gesamtbindungsaffinität).
+
+	Cyanomethylmethamphetamin (CMMA; 15) entsteht beim Rauchen von Methamphet-
+amin mit Tabak in großem Ausmaß [11]. Sekine et al. zeigten, dass CMMA (15) das stereo-
+type Verhalten und die spontane motorische Aktivität in Mäusen und Ratten nahezu gleich
+potent beeinflusst wie Methamphetamin. Die Untersuchung des Plasmas zeigte, dass die
+Hauptmetaboliten von CMMA (15), namentlich Amphetamin und Methamphetamin, für
+die stimulierenden Effekte verantwortlich sind. Es ist isoelektronisch zu dem bekannten
+MAO-B Hemmstoff Selegilin (16). Angesichts dieser Tatsache ist es verwunderlich, dass die
+Verbindung nicht genauer auf ihre pharmakologischen Eigenschaften hin untersucht wurde.
+Allerdings ist für die MAO-hemmenden Eigenschaften des Selegilins (16), genauso wie beim
+Rasagilin (siehe Kapitel 3.13), die Propargylamin-Gruppe essenziell, da sie für die kovalente
+Bindung zum Enzym verantwortlich ist (siehe Exkurs zu Aminoxidasen).

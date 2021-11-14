@@ -1,0 +1,34 @@
+39 eine muscarin- und nicotinartige Wirkung und erwies sich als Substanz mit muskelre-
+laxantischen Eigenschaften [29]. Dies veranlasste Graham und James, die Substanzen 39 und
+40, sowie eine umfangreiche Serie von Analoga zu untersuchen [30, 31]. Dabei zeigten einige
+Verbindungen einen antagonisierenden Effekt zu Epinephrin, Norepinephrin, Histamin und
+Serotonin. Diesbezüglich war das Derivat (41) wirkungslos, jedoch erwähnten die Autoren
+einen starken lokalanästhesierenden Effekt.
+
+
+
+	Dass das Einführen elektronenziehender Gruppen in der Seitenkette einen wesentlichen
+Einfluss auf die Aktivität von Phenylalkylaminen hat, wurde auch mit der Verbindung
+1-Cyanophenethylamin (42) bestätigt [32]. Die mit 42 behandelten Mäuse zeigten bis
+200uM/kg keine veränderte Lokomotion (zum Vergleich: Amphetamin zeigt bereits
+bei Dosen von 10uM/kg eine sehr starke Zunahme der Lokomotion). Auch offenbarte
+42 im Gegensatz zu 1-Ethinylphenethylamin (43, siehe auch Kapitel 3.6), das als MAO-
+Inhibitor fungiert, keine Potenzierung der Aktivität von 2-Phenethylamin (Stimulation der
+Bewegungsaktivität). Weiter zeigte 42 einen schr geringen Einfluss auf den Blutdruck von
+Katzen. Die berechneten pKa-Werte zeigen, dass 42 seine Basizität (5.2) verloren hat und
+dadurch nicht mehr in protonierter Form mit einem Target wechselwirken kann. Verglichen
+mit Amphetamin (9.5) hat auch Verbindung 43 an Basizität eingebüßt, sie liegt aber mit
+einem pKa-Wert von 7.6 im Körper noch etwa zu 50% in protonierter Form vor.
+
+
+	Die frühen Untersuchungen zu den Metaboliten von psychotomimetischen Phenyl-
+alkylaminen führten zur Vermutung, dass aktive Metaboliten für die Wirkung solcher
+Substanzen verantwortlich sein könnten. Kaninchen schieden nach der Verabreichung von
+Mescalin (44) in signifikanten Mengen den Metaboliten 45 aus (Menschen jedoch nur in
+Spuren, siehe Kapitel 8.4.1.2). Wenn 45 Kaninchen injiziert wurde, so entfaltete sich von
+außen betrachtet ein „mescalinähnlicher“ Effekt (zusammengefasst in [33]). Es entstand die
+Idee, dass bei anderen Phenylalkylaminen möglicherweise diese Metaboliten ebenfalls einen
+Effekt haben und sogar die aktiven Metaboliten darstellen. Daher wurden, als Amphetamin-
+Analoga, unter anderen die Verbindungen 46 und 47 hergestellt und untersucht [33]. Bei der
+Verabreichung an Mäusen stellte sich heraus, dass diese Verbindungen nur eine Ataxie und
+dämpfende Wirkung entfalteten; Hyperaktivität wurde nicht beobachtet. Durch die später

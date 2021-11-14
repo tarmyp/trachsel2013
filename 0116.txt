@@ -1,0 +1,33 @@
+	Schließlich wurde der potente MAO-Inhibitor Pheniprazin (2) als Äntidepressivum ver.
+marktet; er war einer der ersten im Handel erhältlichen MAO-Hemmer. Später wurde er
+jedoch wegen seiner leberschädigenden Nebenwirkung wieder vom Markt genommen, In
+Ratten (i.p.) vermochte Pheniprazin (2) erst bei Dosierungen von 30mg/kg die motorische
+Aktivität für 1-10h stark anzuregen [6] (Amphetamin zeigt bereits bei Img/kg eine deutliche
+Steigerung der Lokomotion). Die orale Verabreichung an Mäusen verursachte ebenfalls eine
+sofortige Zunahme der Bewegungsaktivität [7]: Cristofoli et al. maßen nach der Verabreichung
+(i.p.) von Pheniprazin (2) die Konzentration von Amphetamin im Urin und im Gehirn der
+Ratte und fanden dabei beachtliche Mengen [8]. Vermutlich ist der Metabolismus von Pheni-
+prazin (2) hin zu Amphetamin so stark ausgeprägt, dass die beobachtete Bewegungszunahme
+dem Metabolit Amphetamin zugeschrieben werden kann. Ein weiteres Problem der medi-
+zinischen Anwendung von Pheniprazin (2) war der sogenannte "Tyramin- oder Cheese-Effekt
+[9] (siehe Exkurs zu Aminoxidasen).
+
+	Phenelzin (1) hat den Weg auf den pharmazeutischen Markt ebenfalls gefunden und
+wird seit Ende der 1950er Jahre unter dem Marktnamen Nardil® zur Behandlung von aty
+pischen Depressionen und Zwangsstörungen verwendet (Abb. 1) [10]. Phenelzin (1) weist
+ähnlich wie Tranylcypromin (siche Kapitel 3.11) eine nichtselektive Aktivität an MAO-A und
+MAO-B auf [11] und vermag dadurch die Levels von 5-HT, NE sowie DA zu erhöhen, was
+das pharmakologische Wirkprinzip darstellt [12]. Durch den ausgeprägten inhibitorischen
+Effekt auf die MAO ist eine entsprechende tyraminarme Diät vorausgesetzt. Weiter können
+mit Phenelzin (1) Panikattacken behandelt werden [13]. Die anxiolytischen Eigenschaften
+werden der Fähigkeit von Phenelzin (1) und seinem Metabolit Phenylethylidenhydrazin (8)
+zugeschrieben [12]. Beide erhöhen den GABA-Spiegel im Gehirn.
+	Des Weiteren wurde Phenelzin (1) früher als mögliches Behandlungsmittel von Bulimie
+[14] und prophylaktisches Agens für Migräne getestet [15]. Es besteht für die Anwendung
+von Phenelzin (1) ein Risiko einer Leberschädigung [16], dies vor allem bei einer bereits
+vorgeschädigten Leber.
+
+	Lespagnol et al. stellten die beiden N-Oxid Derivate 9 und 10 her [17]. Vorangetrieben wur-
+de ihre Idee durch den Fakt, dass trotz den bis anhin vielen chemischen Modifikationen von
+biologisch aktiven Verbindungen die N-Oxide nicht untersucht wurden. Verbindung 9 er-
+zeugte in mit zuvor Chloralhydrat behandelten Hunden bei 5mg/kg (i.v) eine Hypertension,

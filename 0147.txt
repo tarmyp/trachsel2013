@@ -1,0 +1,31 @@
+(Atorvastatin: Lipitor®, Sortis®; 9, Umsatz 2008: 14.4 Mia US$). Es wird zur Behandlung
+von Hypercholesterinämie verwendet. Umsatzmäßig auf Platz zwei (6.1 Mia US$) steht
+das Corticosteroid Fluticasonpropionat (Advair®, Seretide®; 10), es trägt gar drei Fluora-
+tome. Es dient zur Behandlung von Asthma und allergischer Rhinitis. Nebst diesen zwei
+Beispielen gibt es dutzende andere.
+
+
+Darsteller in der Diagnostik
+
+	Das 18F-Isotop (Halbwertszeit 110min) hat in Radiopharmaka zu diagnostischen
+Zwecken einen großen Stellenwert erlangt, da es Positronen aussendet. Ein Stoff, der
+statt dem natürlichen 19F-Atom das 18F-PET (Positronen-Emissions-Tomographie) Nu-
+klid enthält, geht im Körper dieselben Wege wie derjenige mit dem natürlichen 19F. Das
+heißt, dass die Substanz dieselben Wechselwirkungen mit Targetproteinen eingeht und
+auf ihrem Weg ständig Positronen emittiert. Die Positronen reagieren mit den überall
+vorhandenen Elektronen unter Aussendung von Photonen und vernichten sich somit
+selbst. Daher spricht man von sogenannter Vernichtungsstrahlung. Die ausgesandten
+Photonen werden mit Detektoren sichtbar gemacht und erlauben — anders als beim
+normalen Röntgen — einen dreidimensionalen Blick in den Körper, da einzelne Schnitt-
+ebenen gescannt und abgebildet werden können.
+
+	Wird eine 18F-markierte Substanz verabreicht, so kann ihre Verteilung oder An-
+teicherung im Körper mit Hilfe eines PET-Scanners verfolgt werden und es können
+so diejenigen Regionen ausfindig gemacht werden, zu denen die Substanz eine hohe
+Affinität hat. Mit zusätzlicher Information der Affinität zum Target (Rezeptor, Enzym,
+Kanal, Transporter etc.) kann man darauf schließen, in welcher Körperregion das Target
+vorkommt. Fluoxetin (29, siehe auch Kapitel 3.10), das mit dem 18F-Isotop markiert ist,
+dient dazu, Regionen ausfindig zu machen, an denen es wirkt; wäre es ein absolut selekti-
+ver Hemmstoff des Serotonin-Transporters, könnte man sehen, in welchen Arealen die
+Serotonintransporter verortet sind. Leider stellte sich heraus, dass Fluoxetin (29) auch
+&ine hohe Affinität zu Mitochondrien und der Monoaminoxidase hat Bl-

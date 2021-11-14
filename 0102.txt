@@ -1,0 +1,15 @@
+Tabelle 4. Relative Wirkstärke der Verbindungen Phenethylamin (5) und 41-47 zu Amphetamin (1) be-
+züglich der Steigerung der lokomotorischen Aktivität in Mäusen [33] a
+
+
+
+Die beiden Verbindungen 48 und 49 wurden, nebst einer weiteren Reihe von Amphet-
+amin-Derivaten (siehe z. B. Substanz 29), von Glennon et al. 1991 als potenzielle σ-Liganden
+untersucht [43]. Da σ-Liganden des Phenylalkylamin-Typs 50 ebenfalls eine hohe Affinität an
+5-HT1A-Rezeptoren zeigen, wurde versucht, die Selektivität durch strukturelle Modifikation
+zu Gunsten der o-Affinität zu erhöhen, was teils auch gelang, Die Verbindungen 48-49 zeig-
+ten allerdings keine höhere Selektivität (IC50 σ/5-HT1A= 20nM/76nM und 4.6nM/35nM,
+zespektive) [43]. 1994 wurde von Glenmon et al. ein Modell für den σ-Rezeptor und die struk-
+turellen Anforderungen für eine hohe Bindungsaffinität aufgestellt [45]. Dabei wurden Ver-
+bindungen mit der generellen Struktur von 50 erwähnt, und die Verbindung 51 erwies sich als
+sogenannter superpotenter σ-Ligand (K1 = 0.17nM, o-Gesamtbindungsaffinität).

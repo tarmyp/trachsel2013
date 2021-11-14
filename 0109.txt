@@ -1,0 +1,41 @@
+	Eine bemerkenswerte Eigenschaft von Cyanomethylenaminen ist die im Vergleich zu
+alkylierten Aminen enorm herabgesetzte Basizität. Der für N,N-Dimethylamphetamin (1)
+mit Chemaxon-Marvin berechnete PKa-Wert beträgt 9.54. Das bedeutet, dass unter physio-
+Iogischen Bedingungen (pH 7.4) 9.27% protoniert vorliegen. Für CMMA (15) wird ein pKa
+von 5,66 berechnet, was im physiologischen Milieu ein entgegengesetztes Verhältnis zeigt: So
+liegen bei pH 7.4 lediglich 118% protoniert vor, und der Rest als Basc, Solche Überlegungen
+sind immer dann wichtig, wenn ein Stoff an einem GPCR des Amin-Clusters (z.B. Dopa.
+min-, Serotonin-, Histamin-, Opioid-, Adrenorezeptoren u.v.a.) wirken soll, da in den meis-
+ten Fällen der Arzneistoff in der Bindungstasche protoniert vorliegen muss, um mit einem
+negativ geladenen Aspartat-Anion die entscheidende Wechselwirkung eingehen zu können.
+
+	(+)-S-Benzphetamin (17) wird als Arzneimittel unter dem Namen Didrex® gehandelt und
+wird als Appetithemmer eingesetzt. Es konnte gezeigt werden, dass es, wie viele andere N-
+alkylierte Amphetamine, im Körper dealkyliert wird (zusammengefasst in [12]). Benzpheta-
+min (17) selber hat vermutlich wenig Suchterzeugende Eigenschaften, es wird relativ langsam
+N-debenzyliert und auch N-demethyliert, und somit liegt eine Art langsame „fortwährende
+Freisetzung“ von Methamphetamin und Amphetamin vor. Durch die tiefere Konzentration
+der eigentlichen Wirkstoffe erfolgt im Normalfall keine ausgeprägte Stimulation. Die anfal-
+lenden Metaboliten (z.B. Amphetamin und Methamphetamin) weisen dabei die gleiche Ste-
+reochemie wie die eingenommene Substanz auf. Dies bedeutet, dass beim Metabolismus von
+enantiomerenreinen Medikamenten wie Benzphetamin (17) oder Selegilin (16) keine Race-
+misierung erfolgt. Das Problem, das dabei auftritt, liegt im Nachweis eines Missbrauchs von.
+Stimulanzien wie Amphetamin oder Methamphetamin unter anderem im Sport als Doping,
+Wird in einer Urinprobe (+)-S-Amphetamin oder (+)-S-Methamphetamin nachgewiesen, so
+kann u. U. nicht eindeutig bewiesen werden, ob tatsächlich eine dieser Verbindungen einge-
+nommen wurde, oder ob nur das legale Medikament (+)-S-Benzphetamin (17) zu diesem
+positiven Nachweis geführt hat. (+)-S-Methamphetamin wird teils auch enantiomerenrein
+auf dem Schwarzmarkt angeboten, da die Herstellung oft aus dem enantiomerenreinen Na-
+turstoff (-)-Ephedtrin erfolgt.
+
+
+
+Im Gegensatz dazu wird Selegilin (16) — ein selektiver, irreversibler Hemmer der Mo-
+noaminooxidase B — unter Namen wie Deprenyl® und Movergan® als (-)-R-Enantiomer
+vertrieben. Dies bedeutet, dass auch nur (-)-R-Amphetamin und (-)-R-Methamphetamin als
+Metabolite anfallen. Ein Missbrauch der beiden letztgenannten Enantiomere ist nicht be-
+kannt und hätte auch keinen Sinn, da ihre Wirkungsstärke ungefähr fünfmal schwächer als
+die ihrer optischen Antipoden (+)-S-Amphetamin oder (+)-S-Methamphetamin ist. Wird
+von einem Wirkstoff nur das (-)-R- ohne das (-)-S-Enantiomer nachgewiesen, so handelte
+es sich bei der Einnahme höchstwahrscheinlich um ein Medikament wie Selegilin (16). Es
+Wurde aber auch gezeigt, dass bei einigen Medikamenten das eine Enantiomer selektiver

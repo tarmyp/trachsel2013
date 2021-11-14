@@ -1,0 +1,23 @@
+Warum haben fluorierte Verbindungen
+eine besondere Wirkung im Menschen?
+
+	Ein entscheidender Grund kann der geänderte Metabolismus sein: Wie für das
+18F-Radionuklid der D-Glucose (18FDG, 12) gezeigt, kann der Körper, in diesem Falle
+ein Glucosetransporter, oft nicht zwischen Glucose und der fluorierten Form unter-
+scheiden. So wandert das Molekül so lange zncognito durch den Körper, bis seine Tarnung
+auffliegt und der reguläre Weg nicht mehr weitergeht. In vielen Fällen wird dann ein
+bestimmtes Enzym gehemmt. Diese Tarnung klappt oft, wenn eine bestimmte HO-
+Gruppe oder ein bestimmtes H-Atom durch ein Fluor ersetzt wird.
+	Das ist z.B. auch der Fall für den Antimetaboliten 5-Fluoruracil (8). Prinzipiell wan-
+delt das Enzym Thymidylateyclase mit Hilfe des Methylgruppen-Überträgers Methylen-
+tetrahydrofolat die Pyrimidinbase Uracil (26) in den DNA-Baustein 'Thymin (27) um.
+Thymin ist essenziell für die Zellteilung und muss im Körper aus Uracil hergestellt wer-
+den. Wenn die Synthese gehemmt wird, kann keine DNA mehr aufgebaut werden und
+die Zellen können nicht mehr wachsen. Dadurch verringert sich auch das Wachstum
+eines Tumors, Das Enzym bindet im aktiven Zentrum an das Uracil, methyliert es zum
+Thymin und regeneriert sich wieder, indem es das H in 5-Position des Uracils als H+
+abspaltet. Findet das Enzym nun ein 5-Fluoruracil vor, müsste es, um sich vom Substrat
+wieder zu befreien, ein F+ abspalten, was schlichtweg nicht möglich ist. Somit hängt das
+5-Fluoruracil kovalent gebunden an der Thymidylateyclase und hemmt sie langanhal-
+tend [7]. Da das Hemmstoffmolekül sich sozusagen unwiederbringlich aufopfert, nennt
+man solche Liganden auch „suicide Iigands“.

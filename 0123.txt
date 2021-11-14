@@ -1,0 +1,40 @@
+keitsdefizit-/Hyperaktivitätssyndroms (ADHS) eingesetzt. Die Firma New River Pharmaceuti-
+cals wurde von Shire Pharmaceuticals kurz vor Marktzulassung aufgekauft. Die Pharmakoki-
+netik und orale Bioverfügbarkeit wurden u.a. in einer einarmigen Open-Label-Studie in ge-
+sunden Erwachsenen erprobt, und das multidosierte pharmakokinetische Profil deckte sich
+mit dem von Release-Formulierungen (z.B, Adderall XR®). Durch diesen beachtenswerten
+Kunstgriff (Amid-Struktur) bleibt die orale Bioverfügbarkeit von Amphetamin bei thera-
+peutischen Dosierungen erhalten, jedoch wird bei Erhöhung der Dosierung von Lisdexam-
+fetamin (33) die Bioverfügbarkeit substanziell reduziert. Das Missbrauchspotenzial wird auf
+diese Weise stark verringert, denn je höher die oral eingenommene Lisdexamfetamin-Menge
+anfällt, desto weniger Amphetamin wird enzymatisch im Organismus freigesetzt. Es wird
+vermutet, dass der Hydrolyseprozess im gastrointestinalen Trakt an eine natürliche Grenze
+stößt und überschüssiges Lisdexamfetamin unverändert ausgeschieden wird.
+	Weiter erfolgt durch intravenöse oder nasale Applikation sowie durch Rauchen von Lis-
+dexamfetamin (33) keine signifikante Hydrolyse, so dass selbst durch. derartige Missbrauchs-
+Konsumformen kein Amphetamin entsteht und so die Stimulation ausbleibt. Die Patent-
+inhaber vermuten, dass diese Prodrugs von Amphetamin allgemein keine intrinsische Akti-
+vität haben, denn durch diese chemische Modifikation besitzt das Molekül Lisdexamfetamin
+(83) einerseits eine hohe Polarität, die verhindert, dass es die Blut-Hirn-Schranke passiert [29,
+30]. Andererseits wird eine stark erniedrigte Affinität zu den Monoamin-Transportern (DAT
+und NET) vermutet; die Affinität zu diesen Transportern wird für die euphorische Wirkung
+von Amphetamin verantwortlich gemacht (siehe Kapitel 2.3.2).
+	Der Idee, Amphetamin durch chemische Hydrolyse von Lisdexamfetamin (33) freizuset-
+zen, erteilen die Patentinhaber eine Absage. Sie zeigen zwar, dass durch Säuren (z.B. konz.
+HCl oder H2SO4) und Basen (z.B. NaOH oder K2CO3) teilweise eine Hydrolyse erzielbar
+ist, die dabei entstehenden Zersetzungsprodukte sowie auch die aufwändige Isolation diesen
+Weg jedoch einschränken. Auch kommerzielle Putzmittel, die Enzym-Mischungen enthalten,
+wurden getestet. Das effektivste vermochte nach 24 Stunden nur gerade 7% Lisdexamfet-
+amin (33) hin zu Amphetamin zu hydrolysieren. Auch reine Enzyme vermochten nach 24
+Stunden maximal 24% Amphetamin freizusetzen.
+
+
+
+	Das Einbringen einer Nitril- resp. Cyano-Gruppe in biologisch aktive Amine wurde
+ebenfalls untersucht. Smmissman et al. testeten unter anderem die Verbindungen N-Cyano-
+Phenethylamin (34), N-Cyano-N-methylphenethylamin (35) und N-Cyanoamphetamin (36)
+auf ihre biologische Aktivität [31]. Grund für ihr Unternehmen war die Entdeckung einer N-
+Cyanoverbindung, die unerwünscht in einer Abbaureaktion eines Naturstoffs anfiel. Solche
+Organischen Cyanamid-Derivate zeigten unerwartet interessante Eigenschaften, so dass die
+Idee aufkam, den diversen Phenylalkylaminen ebenfalls diese Cyano-Gruppe aufzusetzen.
+Die Derivate können in einer tautomeren Carbodiimid-Struktur auftreten. Die Substanzen

@@ -1,0 +1,41 @@
+	Desmethylselegilin (39) ist ein Metabolit von Selegilin® (40) und ebenfalls ein irreversibler
+Inhibitor der Monoaminoxidase B (MAO-B) im Menschen [47]. Es gibt Hinweise, dass die
+Inhibition von MAO-B bei der Einnahme von Selegilin (40) aufgrund des im Menschen sehr
+rasch entstehenden Metaboliten Desmethylselegilin (39) erfolgt [48]. Selegilin (40) wird zur
+Behandlung von Parkinson verwendet (zum weiteren Metabolismus und zur medizinischen
+Anwendung von Selegilin siehe Kapitel 3.2. und Exkurs Aminoxidasen). Desmethylselegilin
+wird weiter zu (-)-R-Amphetamin metabolisiert [49], das jedoch im Gegensatz zu (+)-S-
+Amphetamin nahezu keine klinische Wirksamkeit zeigt. Somit ist eine stimulierende Wirkung
+durch Desmethylselegilin (39) oder Selegilin® (40)auszuschließen.
+
+
+
+
+3.1.2. Phenethylamine
+
+	Obwohl oder vielleicht gerade weil das unsubstituierte Phenethylamin (5) sehr wenig aus-
+geprägte Wirkungen entfaltet (siehe Kapitel 1.), wurden einige Diversifikationen an dessen
+Molekülstruktur getätigt. Im Folgenden werden einige von den untersuchten N-monoalky-
+lierten Phenethylaminen aufgezeigt.
+
+	Nebst den zuvor beschriebenen, von Van der Schoot et al. untersuchten N-monoalkylierten
+Amphetaminderivaten zeigte die Forschungsgruppe auch die Struktur-Wirkungsbeziehungen
+einer Reihe N-monoalkylierter Phenethylamine [33]. Es wurde die Zunahme der Bewegungs-
+aktivität getestet (Mäuse, i.p. Verabreichung). Wie Tabelle 4 zeigt, bewirken die Verbindungen
+5 und 41-47 verglichen mit Amphetamin keine erhöhte Lokomotion. Eine Erklärung hierfür
+dürfte folgender Sachverhalt liefern: Während sich Verbindungen mit Amphetaminstruktur
+(also Phenethylamin mit einer zusätzlichen α-Methylgruppe) ziemlich resistent gegenüber
+dem Enzym Monoaminoxidase (MAO) verhalten, werden einfache Phenethylamine sehr
+leicht von diesem Enzym oxidiert und somit inaktiviert (siehe Exkurs Aminoxidasen). Die
+Resultate spiegelten dies wider, und es kam die Idee auf, dass dieser Bio-Inaktivierung mit
+Hilfe der Inhibition dieses Enzyms entgegengewirkt werden könnte. Dazu wurde Mäusen
+zunächst der MAO-Inhibitor Iproniazid verabreicht (erste Portion 20h, zweite Portion 2h
+vor Verabreichung der Testsubstanzen). Das Verabreichen ‚der beiden getesteten Substanzen
+Phenethylamin (5) und N-Methylphenethylamin (41) bewirkte dann eine stark ausgeprägte
+Zunahme der lokomotorischen Aktivität. Dieses Resultat unterstützt die These einer Bio-
+Inaktivierung von einfachen Phenethylaminverbindungen.
+	Verbindungen 42-44 wurden bereits Jahre zuvor, 1943 auf wenige pharmakologische
+Eigenschaften untersucht [50]. Im Hund vermochten 42 und #3 im Vergleich zu Amphet-
+amin eine sehr schwache Blutdruckerhöhung zu erzeugen, und ihre Toxizität war vier- bis
+fünfmal tiefer als diejenige von Amphetamin (Kaninchen, i.v.): Substanz 44 zeigte keine Be-
+einflussung des Blutdrucks und eine zwei- bis dreimal geringere Toxizität als Amphetamin.

@@ -1,0 +1,31 @@
+	Bei der Synthese von Ephedrin (la) entstand das Diamin-Nebenprodukt 32 [21]. Bei
+pharmakologischen Untersuchungen wurden lediglich schwache sympathomimetische
+Wirkungen festgetellt. Eine signifikante Stimulierung der Versuchstiere wurde nur bei
+Konzentrationen nahe der letalen Dosis beobachtet,
+
+	Thioketone (auch 'Thione genannt) sind allgemein chemisch recht instabil und wurden
+bisher im Zusammenhang mit Phenethylaminen (z.B. Thiocathinone) nicht beschrieben.
+
+
+
+Das Einführen von Fluoratomen in die Seitenkette der Phenylalkylamine wurde ebenfalls
+untersucht. Es gibt eine Vielzahl von pharmakologisch aktiven Verbindungen, die eines oder
+mehrere Fluoratome tragen, und dadurch werden die Eigenschaften z.T. bedeutend verän-
+dert (siehe Exkurs Fluor in der Medizinalchemie).
+	Pinder und Burger untersuchten 1967 den Einfluss dreier F-Atome an der α-Me-Gruppe in
+Amphetamin und stellten dazu die Verbindung 2-Amino-3-phenyl-1,1,1-trifluorpropan (33)
+sowie dessen ß-Hydroxy-Analog 34 her [22]. Diese Verbindungen zeigten weder eine anorek-
+tische, antiemetische, ZNS-, MAO-inhibitorische noch eine Pressor-Aktivität. Verbindung
+34 kann strukturell als Norephedrin-Analog betrachtet werden; es zeigte im Vergleich dazu
+jedoch nur 0.3% der Pressor-Aktivität. In der kurz darauf folgenden Arbeit argumentierten
+Pinder, Brimblecombe und Green mit den elektronischen Effekten [23]. Durch die stark elek-
+tronenziehenden Fluoratome wird die Basizität der Aminogruppe derart gesenkt, dass das
+Molekül die Fähigkeit, unter physiologischen Bedingungen protoniert zu werden, verliert.
+Amphetamin weist einen pKa-Wert von 9,93 auf, das trifluorierte Amin 33 hingegen besitzt
+einen pKa-Wert von nur noch 4.97.
+
+	Fuller, Molloy und Shaw zeigten durch ihre Untersuchungen an den beiden Verbindungen
+ß-Fluoramphetamin (35) und β,β-Difluoramphetamin (36) ebenfalls, dass das Einführen von
+Fluoratomen einen sehr wesentlichen Einfluss mit sich bringen kann [24, 25]. Die pKa-Werte
+von 35 (8.4) und 36 (7.0) waren im Vergleich zu Amphetamin (95) verändert. Dies bedeutet,
+dass die beiden ersten Amine bei physiologischem pH-Wert noch hauptsächlich als Kationen

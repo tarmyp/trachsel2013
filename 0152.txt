@@ -1,0 +1,37 @@
+	Die Gefahr besteht, dass Verbindungen, die Monofluorethylgruppen und allgemein
+geradzahlige Monofluoralkylreste aufweisen, durch ß-Oxidation zu Fluoressigsäure
+(1) metabolisiert werden können. In welchem Ausmaß und in welcher Menge Fluor.
+essigsäure (1) entsteht, ist nicht restlos geklärt. Bei der oxidativen Desalkylierung von
+@-Fluoralkanen entsteht zunächst alphaständig ein Aldehyd, der dann zur entsprechen.
+den w-Fluorofettsäure oxidiert wird. Im Rahmen der ß-Oxidation werden Fettsäuren
+sukzessive vom Carbonsäure-Rest her um zwei Kohlenstoffe verkürzt bis entweder, bei
+Alkylketten mit geradzahliger C-Zahl, Fluoroessigsäure (0) oder, im Falle von ungerad-
+zahligen C-Atomen, Fluoropropionsäure übrig bleibt. Toxizitätsuntersuchungen mit ho-
+mologen ω-Fluoroalkvlethern oder -estern zeigen dies eindeutig [9, 10].
+
+
+Fluor in Phenylalkylaminen
+
+	Die Fortschritte in der Fluorchemie spiegeln die medizinalchemische Entwicklung
+auch am Gerüst der Phenylalkylamine wider. Exemplarisch konnte bei Fenfluramin (25)
+durch das Anbringen einer CF3-Gruppe die stimulierende von der hungerunterdrücken-
+den Wirkung des Amphetamins getrennt werden (siehe auch Kapitel 6.2.2). Eine Ände-
+rung des Selektivitätsprofils bezüglich Hemmung der Wiederaufnahme von Serotonin
+(5-HT) und Norepinephrin (NE) wurde beim Antidepressivum Fluoxetin (29, siche
+auch Kapitel 3.10) erreicht. Bei den 4-arylsubstituierten Amphetaminen wiederum hebt
+sich das 4-Fluoroamphetamin (30) von seinen Halogengeschwistern ab, indem es ein
+eigenes Wirkungspektrum zeigt (siehe auch Kapitel 6.3.4).
+
+
+	Innerhalb der am Serotonin 5-HT2A-Rezeptor wirkenden Phenylalkylamine, welche
+psychedelisch wirksame Verbindungen sind, gibt es mittlerweile auch eine Reihe fluorier-
+ter Derivate (siche auch den ausführlichen Review-Artikel von Trachse/ [18]). Alexander
+Shulgin, der mit 2C-T-21 (31) das erste fluorierte Phenylalkylamin mit psychedelischer
+Wirkung herstellte und entdeckte, hat den Grundstein für die Realisierung vieler neuer
+aktiver fluorierter Verbindungen gelegt (siehe Kapitel 8.5.7) [11]. Dabei gleicht 2C-T-
+21 (31) strukturell dem im Menschen aktiven 2C-T-2 (32) und ist nicht minder aktiv,
+jedoch weist es durch diese strukturell gesehen kleine Änderung doch eigene, von 32
+deutlich abgrenzbare Wirkungen auf. Es ist auch nicht undenkbar, dass ein anderer Me-
+tabolismus vorliegt, und aktive Metaboliten ein anderes Selektivitätsprofil und damit
+eine andere Wirkung haben. So wird 2C-T-2 im Körper zum Einen endständig an der
+Ethylgruppe hydroxyliert und zum Anderen der Thioether zum Sulfoxid oxidiert [12-

@@ -1,0 +1,35 @@
+	In Lokomotionsstudien mit Mäusen untersuchten Van der Schoot et al. 1962 verschie-
+denste Amine [2]. Unter ihnen fanden sich auch Analoge der Muttersubstanz Amphetamin,
+welche die Aminogruppe in unterschiedlicher Distanz zum Phenylring fragen. Die Verbin-
+dungen 2-5 sowie 6-7 waren in diesem Experiment allesamt inaktiv (i.p. Verabreichung).
+
+	Um Aufschluss über die Stereochemie der Norepinephrin-N-Methyltransferase (NMT)
+-Inhibitoren zu erhalten, studierten Rafferty et al. unter anderen die Verbindungen 3, 3a und
+3b [3]. Die S-Stereoisomere der untersuchten Verbindungen erwiesen sich tendenziell als
+aktiver. Das heißt im konkreten Fall, dass das S-Enantiomer 3a in vivo ungefähr zehnmal so
+stark die NMT hemmte wie das Enantiomer R-3b.
+	Substanzen des Typs 8 wurden von Forschenden der Firma EA Lilly als MAO-Hemmer
+untersucht [4].
+
+
+
+	Eine der bekannteren Verbindungen, die nicht wie die meisten Phenylalkylamine eine
+2C-Einheit zwischen der Amino-Gruppe und dem Benzol-Ring trägt, ist Fluoxetin (9), bes-
+ser bekannt unter dem Namen Prozac” oder Fluctin®. Diese Substanz wurde 1974 erstmals
+öffentlich unter dem Namen Lilly 110140 erwähnt (Zusammenfassung; [5]). Es vergingen 13
+Jahre, bis die amerikanische Behörde FDA im Jahr 1987 grünes Licht zur Markteinführung
+gab. Der racemische Wirkstoff Fluoxetin wird bis heute als Hemmstoff des Serotonintrans-
+porters (SERT) zur Behandlung von Depressionen verkauft. Näheres zum Wirkmechanis-
+mus siehe den Exkurs über Monoamin-Transporter sowie zu Antidepressiva.
+	Prozac, das „Einmal-am-Tag-Medikament “, entwickelte sich zu dem am häufigsten ein-
+gesetzten Medikament gegen Depressionen weltweit. Weitere Indikationen wurden unter-
+sucht und die Zulassung für Zwangsstörungen (Obsessive-compulsive disorder, OCD) und Buli-
+mie erteilt. Beachtlich ist, wie diese Substanz nicht nur das mediale Interesse weckte, sondern
+auch das der wissenschaftlichen Forschung, Bis 1995 wurden über 5500 wissenschaftliche
+Beiträge verfasst. Die Datenbank Pubmed lieferte im März 2012 ‚gegen 10000 Treffer (Stich-
+wort fluoxetine) [6]:
+	Die Chemiker bei Lilly entdeckten, dass die Trifluormethyl-Gruppe am Phenoxy-Ring
+von Fluoxetin (9) die Hemmung der Wiederaufnahme von Serotonin (5-HT) im Vergleich
+seiner aryl-unsubstituierten analogen Verbindung um den Faktor 6 verbessert und dafür die
+Fähigkeit, die NE-Wiederaufnahme zu hemmen, um den Faktor 200 verschlechtert [7]. Flu-
+oxetin (9) wurde demnach gegenüber der unsubstituierten. Verbindung um mehr als Faktor

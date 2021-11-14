@@ -1,0 +1,25 @@
+3.9. ß,ß-Disubstituierte Phenylalkylamine
+
+
+
+	Wie bereits bei den B-substituierten Phenylalkylaminen erwähnt (Kapitel 3.8), untersuch-
+ten ‚Suterund Weston 1942 den Einfluss von Alkylsubstituenten in B-Position von Amphetamin
+() auf die Toxizität sowie den Einfluss auf den Blutdruck [1]. Als einzige ß,ß-disubstituierte
+Verbindung führten sie ß,ß-Dimethylamphetamin (2) auf. Sie soll zwar eine höhere Toxizität
+als die B-monosubstituierten Verbindungen aufweisen, wurde aber als immer noch weniger
+toxisch als Amphetamin eingestuft.
+
+	Die Phenylalkylamine 3 und 4 wurden 1962 von Burger und Ong synthetisch beschrieben
+[2]. Verbindungen des Typs 5 gleichen der Verbindung 3; sie wurden im Jahre 1982 von der
+Firma Boots Co. patentiert und sollten zur Behandlung von Depressionen dienen [3]. Daraus
+entwickelten sich Substanzen wie 6 und 7. Die Verbindung 7 (BTS 54 524) wurde zwar kli-
+nisch an depressiven Patienten untersucht, bewirkte jedoch nur eine ungenügende Besserung
+der Stimmungslage. Sibutramin, wie die Substanz 7 später benannt wurde, reduzierte vor al-
+lem das Gewicht und wurde so zur Behandlung von Adipositas (Fettsucht; BMI > 30kg/m2)
+profiliert, da präklinische Studien an gesunden Probanden weder stimulatorische noch se-
+dative Effekte zeigten [4]. Sibutramin (7) hemmt die Wiederaufnahme der Monoamine mit
+folgender Stärke: Norepinephrin < Serotonin > Dopamin [5]. Diesen zentral wirkenden Ef-
+fekten werden die anorektischen Wirkungen zugeschrieben (siehe auch Exkurs Anorektika).
+Sibutramin (7) wurde 1999 als Medikament unter dem Namen Meridia® oder Reductil® zur
+Behandlung von Adipositas zugelassen, jedoch musste Anfang 2010 wegen kardiovaskulären
+Nebenwirkungen der Vertrieb ausgesetzt werden [6] (Siehe auch Kapitel 6.3.8).

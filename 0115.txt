@@ -1,0 +1,38 @@
+3.3. N-Heterosubstituierte Phenylalkylamine
+
+	Das Einführen eines anderen Atoms respektive einer anderen Atomgruppe als Was-
+serstoff oder Kohlenstoff — wie z.B. Stickstoff, Sauerstoff oder funktionelle Gruppen wie
+Carbamate und Sulfonamide an den basischen Stickstoff von Phenylalkylaminen — hat eine
+drastische Änderung der physikochemischen Eigenschaften zur Folge. Amine sind proto-
+nierbar. Somit können sie je nach pH-Wert im Körper entweder als basische, nichtionische
+Verbindung in lipophile Medien wandern, oder aber in ionisierter Form (Salz) in hydrophilen
+Medien transportiert werden. Wird nun eine der oben genannten Änderungen in der che-
+mischen Struktur vorgenommen, so verliert das Amin u. U. seine Basizität und somit die
+ambivalente Fähigkeit. Dies kann sehr drastische Auswirkungen auf das Wirkspektrum einer
+Substanz mit sich bringen.
+
+	Hydrazine lassen sich, im Gegensatz zu vielen anderen N-heterosubstituierten Verbin-
+dungen, dennoch durch Säuren protonieren, und zwar ein- wie auch zweifach. Erste Un-
+tersuchungen zur physiologischen Aktivität eines einfachen Phenylalkylhydrazin-Derivats
+wurden von Benoit und Bovet im Jahre 1942 gemacht [1]. So zeigte β-Phenethylhydrazin (spä-
+ter bekannt als Phenelzin, Nardil®, 1) in Versuchstieren (i.v.) eine mit Phenethylamin (siehe
+Kapitel 1.) vergleichbare Pressoraktivität. Im Jahre 1952 entdeckten Zeiler et al., dass einfache
+Hydrazin-Derivate wie Methyl- und Ethylhydrazin potente Inhibitoren des Enzyms Mono-
+aminoxidase (MAO) sind [2, 3]. Doch diese Hydrazine sind toxisch und karzinogen, was eine
+medizinische Anwendung komplett ausschloss.
+	In der Hoffnung, die MAO-inhibitorischen Eigenschaften der Hydrazine von den to-
+xischen Wirkungen trennen zu können, veröffentlichten Biel et al. 1959 eine Studie über
+eine Vielzahl von Arylalkylhydrazinen [4]. Man versprach sich von der Einführung einer
+Hydrazin-Gruppe gleichzeitig Substanzen mit bevorzugten Wirkungen, wie sie bereits von
+einfachen Arylalkylaminen bekannt waren, und strebte ein tieferes Nebenwirkungsprofil an.
+Einige der von Biel et al. präsentierten Hydrazin-Derivate 1-7 erwicsen sich schließlich in
+Versuchen als sehr wirkungsvolle MAO-Hemmer (Siehe auch Exkurs Antidepressiva) [4].
+Das N-Aminoamphetamin (2; Pheniprazin, JB-516, Catron®, Cavodil®, PIH) wurde als die
+potenteste Verbindung betitelt, und zudem zeigte 2 als einzige auch eine potente analeptische
+Aktivität. Aus den vielen Untersuchungen ging hervor, dass die Hydrazine im Vergleich zu
+den entsprechenden Aminen allgemein eine stärkere MAO-Inhibition, eine erhöhte meta-
+bolische Stabilität und somit längere Wirkdauer aufweisen und eine Senkung des Blutdrucks
+anstelle einer Steigerung erzeugen. Die gefäßerweiternde Wirkung von Pheniprazin (2) wur-
+de zumindest teilweise als Folge der Stimulierung von adrenergen Rezeptoren betrachtet [5].
+Weiter erhöhten die Hydrazine tendenziell den Appetit, was im Gegensatz zu den Amin-
+Verbindungen steht (Amphetamin gilt als starker Appetithemmer, siehe Kapitel 2) [4].

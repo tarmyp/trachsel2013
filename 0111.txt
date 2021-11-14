@@ -1,0 +1,36 @@
+	Während eine N,N-Dimethylierung von Amphetamin das nahezu inaktive N,N-DMA
+(1) liefert und eine Homologisierung der Seitenkette (siehe Kapitel 3.6) von Amphetamin
+ebenfalls mit einem Wirkungsverlust einhergeht, zeigt Prolintan (20) deutliche stimulierende
+Effekte. Amphetamin wirkt durch Freisetzung und Hemmung der Wiederaufnahme von
+NE und DA, und Prolintan (20) erzeugt seine Wirkungen durch Hemmung der Wieder-
+aufnahme dieser beiden Monoamine. Die dazwischen liegenden Strukturen N,N-DMA (9)
+oder seitenkettenhomologisierten Amphetamine (Kapitel 3.6) weisen vermutlich keine dieser
+pharmakologischen Wirkungen in genügendem Ausmaß auf, so dass sie bezüglich der stimu-
+lierenden Effekte nahezu inaktiv sind.
+
+	Ein weiteres Amphetaminderivat, das auf dem illegalen Markt auftauchte, ist Alpha-
+methylfentanyl (21). Hinsichtlich seiner Wirkung hat der hochpotente u-Opioidagonist mit
+Amphetamin nichts mehr zu tun. Er ist als „China White“ bekannt und tauchte Mitte der
+1970er Jahre auf dem Schwarzmarkt als Heroinersatz auf.
+
+
+3.2.2. N,N-Dialkylsubstituierte Phenethylamine
+
+	Erstaunlicherweise wurden N,N-disubstituierte Phenethylamine nur wenig untersucht.
+Dies könnte nicht zuletzt daran liegen, dass sowohl Phenethylamin selbst (Kapitel 1), wie
+auch seine N-monoalkylierten Analoge allgemein sehr wenig nutzbare pharmakologische Ei-
+genschaften aufweisen (Kapitel 3.1.2). N,N-Dimethylphenethylamin (22) wurde, zusammen
+mit seinen nahesten strukturellen Verwandten (Ph-CH2CH2-NH2, -NHMe und -N+Me3) in
+Katze und Hund auf den Blutdruck untersucht [17].
+
+
+
+	Wie auch schon in der Amphetamin-Serie beschrieben (Kapitel 3.2.1), entdeckten Gien-
+non et al. bei den Phenethylaminen eine Reihe superpotenter Sigma-Liganden (14, 23-28;
+Werte als Ki, [3H]DTG markiert, σ-Gesamtbindungsaffinität). Diese werden als superpotent
+bezeichnet, wenn die Affinitäten im subnanomolaren Bereich liegen. Faszinierend sind die
+einfachen strukturellen Anforderungen und die Toleranz gegenüber strukturellen Modifika-
+tionen. Obwohl die Sigma-Rezeptoren schon vor Jahren entdeckt wurden, bleibt ihre Funk-
+tion diskutierbar und ein therapeutischer Gebrauch ist, trotz potenten Liganden, bis anhin
+nicht absehbar.
+

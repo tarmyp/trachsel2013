@@ -1,0 +1,20 @@
+Zusammenfassung
+
+	Aufgrund ihrer Ähnlichkeit mit dem pharmakologisch erfolgreichen Betablocker-
+Grundgerüst wurden vor allem Mitte der 1960er Jahre zahlreiche Phenoxyalkylamine auf
+ihre kardiovaskulären Effekte, aber auch auf MAO-hemmende Eigenschaften untersucht.
+Für blutdrucksenkende Eigenschaften gilt dem Substituenten in der 2-Position ein beson-
+deres Augenmerk (siehe Kapitel 6.1.2). Um die MAO zu inhibieren, erwies sich eine Cy-
+clopropylgruppe am Stickstoff oder auch in der Seitenkette als wichtig (siehe auch Exkurs
+zu Aminoxidasen).
+
+Literatur
+
+[1] R. J. Fessenden, M. D. Coon. J. Med. Chem. 1964, 7, 561.
+[2] J. Augstein, W. C. Austin, R. J. Boscott, S. M. Green, C. R. Worthing. J. Med. Chem.
+    1965, 8, 356.
+[3] A. Sunshine, I. Zighelboim, A. De Castro, J. V. Sorrentino, D. S. Smith, R. D.
+    Bartizek, N. Z. Olson. J. Clin. Pharmacol. 1989, 29, 660.
+[4] J. Mills, R. Kattau, I. H. Slater, R. W. Fuller. J. Med. Chem. 1968, 11,95.
+[5] J. Finkelstein, E. Chiang, J. Lee. J. Med. Chem. 1965, 8, 432.
+[6] J. Finkelstein, E. Chiang, J. Lee. J. Med. Chem. 1966, 9, 440.

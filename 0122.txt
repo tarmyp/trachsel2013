@@ -1,0 +1,40 @@
+	Eine naheliegende Derivatisierung des basischen Stickstoffs ist dessen Acylierung, Im
+Jahr 1958 und 1959 präsentierten Shapiro et al. von diversen N-acylierten Amphetaminderi
+vaten die Wirkung auf die Bewegungsaktivität; das S-Enantiomer von N-Fos mylampheta
+min (31; Formetorex) erwies sich dabei als die effektivste Verbindung (10mg/kg, s.c., Ratten)
+und erhöhte die Lokomotion im Vergleich zur Kontrollgruppe um 500% (rac. Amphetamin:
+534%) [32, 33]. Im Vergleich zu Amphetamin traten keine kardiovaskulären Effekte auf
+(Blutdruckerhöhung; geprüft am isolierten Meerschweinchenherz sowie an anästhesierten
+Hunden). Die für Mäuse minimale letale Dosis von $-31 war dreimal höher als die von rac,
+Amphetamin. Die beiden Forscher Cavallito und Gray zeigten ın einem Patent von 1970, dass
+die N-Formylierung von R-Amphetamin eine anorektisch recht wirksame Verbindung liefert
+(R-31; 2.5-5mg/kg, Hunde, p.o,); R-31 zeigte dabei keine ZNS-Stimulierung (2.5-10mg/kg,
+Hunde, p.o., sowie Mäuse, i.p.) [34]. Das Enantiomer S-31 - ausgehend von S-Amphetamin —
+erwies sich im Vergleich zu R-31 als nur leicht potenter bezüglich der anorektischen Wirkung;
+dagegen blieb die von Amphetamin her bekannte ZNS-Stimulierung weitgehend erhalten
+[34]. Den pharmazeutischen Markt hat Formetorex (31) nie erreicht; hingegen macht es nach
+wie vor Karriere als chemisches Verunreinigungsprodukt (Leuckart-Reaktion) in illegalen
+Amphetamin- und Methamphetaminproben [35-37].
+	Mit der N-Acetylierung (N-Acetylamphetamin; 32) erfolgt eine sehr effektive Ausschal-
+tung der von Amphetamin bekannten gesteigerten lokomotorischen Aktivität [26]. Fristrom
+et al. präsentierten die Untauglichkeit von N-Acetylamphetamin (32), in Ratten den Blut-
+druck zu erhöhen; im Gegensatz zu Amphetamin wurde dieser durch 32 sogar leicht ge-
+senkt [27]. N-Acetylamphetamin (32) wurde zusammen mit N-Formylamphetamin (31) und
+weiteren N-Acylmethamphetamin-Derivaten als Pyrolyseprodukte im Rauch von mit Tabak
+vermischtem Methamphetamin gefunden [28].
+
+Trotz all den Versuchen, das Wirkprofil von Amphetamin durch Retardierung mit Hilfe
+von Polymeren, Stärke oder Umwandlung in andere funktionelle Gruppen zu verbessern,
+konnte sich diese Technik nicht durchsetzen. Retardierungsformulierungen, wie Adderall
+XR® (extended release), setzen racemisches sowie enantiomerenreines Amphetamin aus
+verschiedenen Salzformen kontinuierlich frei und werden primär zur Behandlung des
+Aufmerksamkeits-Defizit-Hyperaktivitätssyndroms (ADHS) und Narkolepsie verschrieben
+(siehe Kapitel 2).
+
+	Eine spektakulär einfache Erfindung hat die Firma New River Pharmaceuticals in den Jahren
+2005 und 2006 patentiert [29, 30]. In diesen Dokumenten sind die Herstellung sowie die
+Bioverfügbarkeit von missbrauchresistenten Amphetamin-Prodrugs beschrieben. Die Erfin-
+der stellten Amide aus Amphetamin und diversen Aminosäuren her, wobei sich das Deri-
+vat (+)-S-Lysinyl-(+)-S-Amphetamin (33) als optimal erwies. Später erhielt 33 den Namen
+Lisdexamfetamin, und nach einer Zulassungsstudie 2008 gab die FDA grünes Licht für die
+Marktzulassung (Handelsname Vyvanse®). Es wird seither zur. Behandlung des Aufmerksam-

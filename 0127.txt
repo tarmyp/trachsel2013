@@ -1,0 +1,24 @@
+3.4. Phenylalkylamine mit in die Seitenkette inkorporierten
+Heteroatomen
+
+
+	Chemiker synthetisierten 1964 ein Silicium-Analog von einem sympathomimetischen
+Amin, um die Wirkung von Silicium auf die physiologischen Eigenschaften zu untersuchen
+[1]. Die Silicium-Kohlenstoffbindung (Si-C) ist länger als die C-C-Bindung. Man erwartet
+nebst einer veränderten Geometrie auch eine unterschiedliche Basizität des Stickstoffs, da
+Silicium weniger elektronegativ als Kohlenstoff ist. Tatsächlich wurde für 1 ein pKa-Wert von
+10.26 gemessen und für 2 betrug der pKa-Wert 9.73.
+	Die phantasielose LD50-Bestimmung ist ein typisches Merkmal früherer Forschungs-
+methoden, bei denen mangels Alternativen zur Bestimmung pharmakologischer Werte für
+neue Substanzen erst einmal die LD,-Werte bestimmt wurden. Substanz 1 weist eine LD50
+von 105-113mg/kg und Substanz 2 eine vergleichbare LD50 von 102-107mg/kg auf (i.p.,
+Maus). Des Weiteren zeigen das Elektrokardiogramm (EKG) und die Elektroenzephalogra-
+fie (EEG) „qualitative Ähnlichkeiten“ [1].
+
+
+
+	Über hundert Aryloxyalkylamin-Derivate der generellen Formel 3 wurden 1965 von
+Pfizer synthetisiert und mit biologischen Daten versehen [2]. Die Forschenden untersuch-
+ten die Verbindungen auf ihre kardiovaskulären Effekte und kamen in ihren ausführlichen
+Studien zur Struktur-Aktivitätsbeziehung zum Schluss, dass ein 2-Methoxysubstituent als
+essenziell gilt, um ein Maximum an blutdrucksenkender Wirkung zu erhalten (Struktur 4).

@@ -1,0 +1,33 @@
+	Strukturell erinnern diese Verbindungen an die klassischen Betablocker, wie beispiels.
+weise Penbutolol (5). Solche Verbindungen, die ausführlicher im Kapitel 6.1.2 beschrieben
+sind, ermöglichen effizient eine mehr oder weniger unselektive Blockade der ß-Rezeptoren
+und werden zur Behandlung von arteriellem Bluthochdruck und/oder zur Senkung der Herz.
+frequenz sowie Erregbarkeit des Herzens eingesetzt. Diese Kombination beider Strukturele-
+mente, der Phenoxyalkylamine aus diesem Kapitel und der Hydroxy-funktionalisierten Sei-
+tenkette aus Kapitel 3.5, hat sich bis heute als ’Templat für ß-Blocker durchgesetzt.
+
+	Phenyltoloxamin (6) ist ein weiteres Beispiel eines Vertreters der Phenoxyalkylamin-
+Substanzklasse. Als Antihistaminikum und Anticholinergikum wird es wegen seiner zusätz-
+lichen analgetischen, sedierenden und spasmolytischen Eigenschaften in Kombination mit
+nicht-steroidalen Antirheumatika (NSAIDs) als Grippemittel verwendet [3].
+
+
+
+	In einem andern Zusammenhang interessierten sich Forschende der Firma Eli Lilly für
+die Strukturklasse mit der allgemeinen Formel 7 [4]. Und zwar sollten diese Verbindungen,
+wie 8 und 9 — im Speziellen mit einem Cyclopropyl-Rest am Stickstoff versehen — als MAO-
+Inhibitoren dienen. Die Autoren weisen auf das wichtige Vorhandensein einer solchen Cy-
+clopropylgruppe hin, um Substanzen mit MAO-inhibitorischen Eigenschaften zu erhalten
+(vgl. Tranylcypromin (11), siche auch Kapitel 3.11).
+
+
+
+	Aus dem Hause Hoffmann-La-Roche stammen weitere 40 Substanzen, wobei der MAO-
+Hemmer Tranylcypromin (11) als Leitstruktur diente [5]. Für die Strukturisomerie cis/trans
+wurden z.B. die In-vitro-MAO-Inhibition im Vergleich zu Iproniazid angegeben. Je nach ge-
+messenem Ort, z.B. im Mäusehirn, war das /rans-Isomer 12 rund 70-mal und das cis-Isomer
+13 über 30-mal potenter als Iproniazid (Tranylcypromin: - 100-mal stärker als Iproniazid).
+	Die gleichen Leute publizierten ein Jahr später das entsprechende Methylderivat 14 [61-
+Interessanterweise erwies sich diese Substanz als inaktiv, sowohl in vivo wie auch in vitro (Rat-
+ten). Da die Verbindung 14 drei Chiralitätszentren besitzt, existieren theoretisch 3², also 9
+Stereoisomere, die sehr unterschiedlich ausgeprägte Wirkungen haben könnten.

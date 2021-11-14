@@ -1,0 +1,38 @@
+3.7. α,α-Disubstituierte Phenylalkylamine
+
+	Addiert man eine Methyl-Gruppe zum α-C-Atom von Amphetamin hinzu, erhält man
+das achirale α,α-Dimethylphenethylamin (1) bzw. α-Methylamphetamin, welches als Medika-
+ment den Namen Phentermin trägt (Handelsnamen: Adipex®, Duromin®, Fastin®, Linyl®,
+Mirapront", Normaform®, Obenix®, Zantryl® usw.). Der Name leitet sich von Phenyl-tert-bu-
+tylamın ab. Diese Struktur tauchte zunächst 1943 bei der Suche nach einem flüchtigen Amin
+mit guten vasokonstriktiven, jedoch möglichst schwach ZNS-stimulierenden Eigenschaften
+auf [1]. Wie bei anderen Aminen wurde von 1 der Einfluss auf den Blutdruck in Hunden
+und die LD,, in Kaninchen bestimmt. Phentermin (1) zeigte in beiden Tests zu Amphetamin
+vergleichbare Werte.
+	Später wurde jedoch die hungerunterdrückende Wirkung entdeckt; Ende der 1950er Jah-
+re wurde Phentermin (1) von der FDA zugelassen, und so findet Phentermin (1) gegenwärtig
+noch als kurzzeitiges Behandlungsmittel von Fettleibigkeit Verwendung, Dessen Anwendung
+als Appetitzügler wird jedoch zunehmend ausgeschlossen, da signifikante Nebenwirkungen
+auf das Herz bekannt wurden [2], insbesondere in Kombination mit anderen zentral wirken-
+den Anorektika (Phentermin alleine scheint keine Herzklappenfehler hervorzurufen [3]). Die
+damit verbundenen Verdachtsfälle auf Herzschäden veranlassten schließlich einige Länder,
+das Medikament ganz vom Markt zu nehmen. Phentermin erhielt als Diätpräparat in Kom-
+bination mit Fenfluramin (Redux) — unter dem Namen Fen/Phen - in den 1990er Jahren
+starke mediale Aufmerksamkeit, da die kombinierte Einnahme der Wirkstoffe eindeutig mit
+einer Herzklappenveränderung und der pulmonalen Hypertonie in Verbindung gebracht
+werden konnte [3]. Es wird vermutet, dass diese Nebenwirkungen primär durch Fenfluramin
+verursacht wurden. Es ist noch nicht vollends geklärt, welche Mechanismen für diese Ne-
+benwirkungen verantwortlich sind. Im Fokus stehen der Serotonintransporter (SERT) und
+der 5HT2B-Rezeptor. Letzterer kann durch Aktivierung eine pulmonale Vasokonstriktion be-
+wirken [4]. Rorhman et al. zeigten, dass Anorektika, die Substrate des SERT sind, ein Risiko
+zur Entwicklung der pulmonalen Hypertonie sein können [5] (zur ausführlichen Diskussion
+siehe Aminorex im Kapitel 3.12.3). Phentermin (1) erwies sich als Substrat des Dopamin-
+Transporters (DAT) und als nur schwaches Substrat des SERT sowie als Wiederaufnahme-
+Hemmer des Serotonins (zum Wirkmechanismus und zur Besprechung der Appetithemmer
+siche Exkurs Anorcktika).
+	Phentermin (1) zeigte nebst der In-vitro-Freisetzung von Dopamin auch eine Freisetzung
+von Norepinephrin [6]. Es gibt Hinweise aus in vivo Experimenten die vermuten lassen, dass
+Phentermin beim Menschen in typischen klinischen Dosierungen nur unwesentlich Dopa-
+min freisetzt [7]. In hohen Dosen wird Phentermin (1) auch als Aufputschmittel (Doping,
+Psychostimulant) verwendet, wobei möglicherweise die Monoamin-Freisetzung zum Tragen
+kommt. Die stimulierenden Eigenschaften von Phentermin (1) konnten in den Untersuchun-

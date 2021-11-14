@@ -1,0 +1,46 @@
+Potenz, vermindertes Potenzial für Proteinbindung — dies sind einige der Schlagzeilen
+von Fallstudien zu F-substituierten Verbindungen aus verschiedenen Gebieten der
+Medizinalchemie [3, 4].
+
+	Die Auswirkungen mehrerer Fluor-Atome werden mit drastischen physiko-
+chemischen Konsequenzen insbesondere an der Trifluoromethyl-Gruppe sichtbar.
+Sterisch wird diese zwar als „leicht größer“ als eine Isopropyl-Gruppe beschrieben. Je
+nachdem, welches Modell gewählt wird, um das Volumen abzuschätzen, erhält die CF3-
+Gruppe die Größe eines tert-Butylrests oder gar eines Phenylringes [4].
+
+	Durch die stark elektronenziehende Wirkung beeinflusst Fluor die Dissoziations-
+konstanten von organischen Säuren und Basen empfindlich. Säuren werden saurer
+und Basen weniger basisch, und dieser Effekt ist über vier Kohlenstoffatome messbar.
+Durch die äußerst starke Bindung zwischen F- und C-Atomen in organischen Molekü-
+len sind Organofluor-Verbindungen im Gegensatz zu den übrigen Organohalogen-Ver-
+bindungen (Chlor, Brom, Iod) allgemein viel stabiler. Da Fluorid auch eine schlechte
+Abgangsgruppe ist, sind aliphatische Alkylfluoride im Gegensatz zu allen anderen Al-
+kylhalogeniden keine klassischen Alkylierungsreagenzien und zumindest diesbezüglich
+toxikologisch weniger bedenklich. Ein weiterer wichtiger Faktor, der zu den Besonder-
+heiten von Organofluor-Verbindungen gehört, ist die Tatsache, dass ein Fluor-Atom
+in einem organischen Molekül bestimmte neue Wechselwirkungen ermöglichen kann.
+Zum einen die sogenannte multipolar interaction mit einem partiell positiv geladenen
+Kohlenstoffatom (z.B. C-F···C=O). Zum anderen kann es wegen seiner Elektrone-
+gativität und seinen Lonepair-Elektronen — ähnlich wie Sauerstoff, nur weniger stark
+ausgeprägt — als H-Akzeptor fungieren. Diese beiden Wechselwirkungen können so-
+wohl intramolekular von Bedeutung sein, weil das Molekül dadurch eine bestimmte
+Konformation einnimmt, aber auch intermolekular, indem es mit polaren Teilen eines
+Proteins interagieren kann. Beide Faktoren können zu einer verbesserten Bindung und
+damit zu einer höheren Affinität beitragen [6].
+
+
+Einfluss auf die Basizität und die Azidität
+
+	Die Azidität und Basizität eines Wasserstoffatoms ist für die Wirkung von Arznei-
+stoffen von großer Bedeutung. Ob es unter physiologischen Bedingungen, also bei pH
+7.4 protoniert oder deprotoniert, bzw. geladen oder ungeladen vorliegt, hat einen ent-
+scheidenden Einfluss auf die Verteilung eines Moleküls im Körper. Dies beeinflusst
+Interaktionsmöglichkeiten mit diversen Proteinen, die für die Biotransformation oder
+die eigentliche Wirkung verantwortlich sein können.
+	Beispielsweise ist 2,2,2-Trifluorethylamin (16) rund 100 000-mal weniger basisch als
+Ethylamin (13)! Die protonierte Form von 16 verhält sich mit ihrem pKa=5.7 bereits
+leicht sauer. Auch bei den Essigsäuren beeindruckt der Einfluss von Fluor-Atomen:
+Trifluoressigsäure (25) ist ca. 34 000-mal saurer als Essigsäure (22). Beeindruckend ist
+weiter, dass selbst über vier Sigma-Bindungen eine CF3,-Gruppe immer noch einen
+signifikanten Einfluss hat: Das 4,4,4-Trifluorbutylamin (21) ist rund 10mal weniger
+basisch als Butylamin (20) [4].

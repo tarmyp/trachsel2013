@@ -1,0 +1,28 @@
+	Das N-Demethyl-Analog von Ephedrin (1a), Norephedrin (2; die Stereochemie wurde
+in der Publikation nicht angegeben) zeigte wie Ephedrin (la) nahezu keine Erhöhung der
+Lokomotion in Mäusen (i.p., 4% Aktivität relativ zu Amphetamin) [4]. An den Monoamin-
+Transportern zeigten (+)- und (-)-Norephedrin (2a und 2b) eine dem Ephedrin (da)
+vergleichbare Aktivität [6]. Die beiden Cathin-Stereoisomere 2c und 2d verloren im Vergleich
+zu Amphetamin ihre Fähigkeit, Dopamin freizusetzen [6]:
+
+	Die beiden Phenethyl-Analoga 3 und 4 erwiesen sich beim Lokomotionstest in Mäusen
+(i.p.) als inaktiv [4]. Prinzipiell kann man mit dem Phenylethanol-Grundgerüst auch Liganden
+für adrenerge Rezeptoren erhalten. Etafedrin (5) wird noch heute in einigen Ländern
+als Bronchodilator verwendet. Durch den größeren Alkylrest am Stickstoff verliert die
+Substanz die monoaminfreisetzenden Eigenschaften und gewinnt an Affinität zu adrenergen
+Rezeptoren. Im Falle von Etafedrin (5) entsteht ein B2-Agonist [7].
+
+
+	Das Konzept, sterisch anspruchsvolle Gruppen wie Isopropyl- oder zerz.-Butyl-Gruppen
+am Stickstoff anzubringen, um dadurch Affinität zu ß-adrenergen Rezeptoren zu erhalten,
+scheint tragfähig zu sein, aber keinen Einfluss auf die Funktionalität zu haben. So findet
+man eine Reihe adrenerger Agonisten mit diesem Grundgerüst, aber auch Antagonisten
+(ß-Blocker, siche auch Kapitel 6.1.2). Die Substituenten am Aromaten entscheiden letztendlich
+darüber, ob eine Substanz ein Agonist oder Antagonist ist. So fungieren Orciprenalin (6),
+Terbutalin (7) und Salbutamol (8) als ß2-Agonisten und werden als Bronchodilatoren bei
+Asthma verwendet. Die phenolischen HO-Gruppen verhindern die Penetration der Blut-
+Hirn-Schranke, weshalb keine zentralen Effekte erwartet werden können. Methoxamin (9)
+als α1-Agonist erhöht vor allem den Blutdruck.
+	Dichlorisoprenalin (10) und Sotalol (11) sind Antagonisten von ß-adrenergen Rezeptoren,
+also ß-Blocker, die den Blutdruck senken. Sotalol (11) wird zur Behandlung von Herz-
+Rhythmus-Störungen sowie Hypertension verwendet.

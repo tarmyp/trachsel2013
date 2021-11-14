@@ -1,0 +1,38 @@
+	Die Aufnahme von Glucose (11) in die Zellen spiegelt im Körper direkt den Ener-
+gieumsatz wider. 18FDG (2-Deoxy-2-[18F]Auoro-D-glucose; 12) wird wie Glucose in die
+Zellen transportiert, die gerade einen erhöhten Energieumsatz haben. In der Tumordja-
+gnostik hat dies einen großen Stellenwert, da auf diese Weise exakt die Stellen lokalisiert
+werden können, die sich vermehrt zellteilen oder wuchern.
+
+
+	Da die zu diagnostischen Zwecken verabreichte Menge nur im pico- oder femtomo-
+laren Bereich liegt, sind die PET-Untersuchungen für den Menschen völlig ungefährlich,
+sowohl bezüglich der Strahlung als auch hinsichtlich der Substanz. Daher kann man
+einem Probanden gefahrlos neue, selektive Liganden verabreichen — auch ohne vorher
+ein exaktes toxikologisches Profil erstellt zu haben — und in einem PET-Scanner sehen,
+an welcher Stelle im Körper die Verbindung angereichert ist.
+
+
+Klein, hart und elektronegativ
+
+	Die hohe Reaktivität von Fluor (F2) steht im Gegensatz zur hohen Stabilität von
+Organofluor-Verbindungen [19]. Fluor selbst besitzt eine sehr geringe homolytische
+Dissoziationsenergie (durch die kurze Bindungslänge in F2 stoßen sich die freien e-Paare
+ab; es folgt eine rasche Radikalbildung und Folgereaktionen) und ein sehr hohes Redox-
+potenzial. Die per Definition höchste Elektronegativität (3.98) aller Atome, die hohe
+Elektronenaffinität (3.45eV) und Ionisierungsenergie (17.4eV; 1680 kJ/mol), der kleine
+Ionenradius (133ppm) und die dadurch sehr geringe Polarisierbarkeit von Fluor erklä-
+ren die schr niedrige Reaktivität von Organofluor-Stoffen [19]. Diese spezielle Natur
+von Fluor ermöglicht das Verändern von physikalischen Parametern wie Lipophilie oder
+Dipolmoment. Erstaunlicherweise kann ein Fluor-Atom an einer Alkylkette deren Lipo-
+philie senken [4]. Das Verbessern von Bindungseigenschaften sowie das Variieren der
+metabolischen Stabilität von potenziellen neuen Wirkstoffen zeichnet Fluor als Werk-
+zeug in der Entwicklung von Wirkstoffen aus. Die Fortschritte in der Fluorchemie er-
+möglichen heute den Chemikern das gezielte Einführen von Fluor und Fluoralkylgrup-
+pen an die gewünschten Stellen des Zielmoleküls [3, 4, 19).
+	Bezogen auf die Van der Waals-Radien ist Fluor (1.47A) nur ungefähr 20% größer
+als ein Wasserstoffatom (1.20Å). Obwohl - je nach kalkulierten Modellen - der Van der
+Waals-Radius eher einem Sauerstoff (1.52Å) gleichkommt, bleibt die Annahme, dass
+F gegen H mit minimalen sterischen Konsequenzen ersetzt werden kann, gültig Bl-
+In der Literatur gibt es zahlreiche Beispiele dafür, wo Fluor entweder ein Sauerstoff-
+oder ein Wasserstoff-Atom erfolgreich ersetzt hat [3, 4]. Verlängerte Wirkzeit, erhöhte

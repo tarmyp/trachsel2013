@@ -1,0 +1,37 @@
+1000 selektiver gemacht. Auf der anderen Seite reduzieren Substituenten in jeder Position
+im Phenoxy-Ring die Potenz für die 5-HT-Wiederaufnahmehemmung, (untersucht wurden
+nebst CF3 auch OCH3 CH3 BE, und C)). Die Zusammenhänge dieser Grundstruktur wurden
+mit Dutzenden Derivaten, samt zugehörigem IC50-Werten zur Wiederaufnahmehemmung
+(NE, 5-HT) in einem Patent von Eli Lilly beschrieben [7]:
+	Fluoxetin (9) ist als Racemat auf dem Markt. Die R- und S-Enantiomere hemmen die
+Aufnahme von 5-HT ähnlich stark (funktioneller Assay, zusammengefasst in [5]): Ki R-Isomer:
+~ 21nM und S-Isomer: ~ 16nM. Interessanterweise ändert sich das Selektivitätsprofil der
+Metaboliten. Bei der entsprechenden N-demethylierten Verbindung 10 (Norfluoxetin) ist das
+S-Isomer 14mal potenter gegenüber dem R-Isomer (Ki= 20nM zu 268nM, zusammengefasst
+in [5]):
+	Die Plasma-Halbwertszeit von Fluoxetin (9) beträgt 1-3 Tage und die des Metaboliten Nor-
+Auoxetin beachtliche 7-15 Tage. Die übliche Dosierung liegt bei 20mg pro Tag, Fluoxetin (9)
+weist auch eine relative hohe Affinität zum Serotonin r5-HT2A-Rezeptor auf (3H]Ketanserin, Ki
+~ 140nM) [8]. Weiter ist Fluoxetin ein CYP2D6-Inhibitor [9].
+
+
+
+Das Thienyl-Derivat Duloxetin (LY227942, 11) ist ein dualer Norepinephrin- und
+Serotonin-Wiederaufnahmehemmer (SNRI) [10]. Das (+)-S-Enantiomer von 11 hemmt
+die Serotonin-Wiederaufnahme rund zweimal potenter als (-)-R-11, und daher wurde dieses
+weiterentwickelt, so dass das Medikament enantiomerenrein vorliegt. Es ist ein Fluoxetin-
+Analog sowie ein Nachfolge-/Ergänzungsprodukt von Fluoxetin und zeichnet sich durch
+ein schnelleres Einsetzen der Wirkung zur Behandlung von Depressionen aus. Auch wird
+es zur Behandlung von generalisierten Angststörungen eingesetzt. Die Zulassung erfolgte
+im Jahr 2004 und seither wird es in den USA unter den Namen Cymbalta® oder Yentreve®
+und in der EU unter Cymbalta® sowie Xeristar® gehandelt [11]. Für Duloxetin ergaben sich
+diverse neue Indikationsmöglichkeiten, die nichts mit Depressionen zu tun haben, wie z.B.
+Schmerzzustände unterschiedlicher Art, chronische Müdigkeit, stressbedingte Inkontinenz
+(aur in der EU) und vorzeitige Ejakulation 112].
+	Atomoxetin (R-Konfiguration; 12) ist ein selektiver Norepinephrin-Wiederaufnahme-
+hemmer. In den USA und Deutschland ist ‚Atomoxetin (12, Strattera®, Tomoxetin®, At-
+tentin®) für die Behandlung des hyperkinetischen Syndroms (Aufmerksamkeits-Defizit-
+Hyperaktiyitäts-Syndrom; ADHS) zugelassen, und es scheint derzeit das einzige nicht-stimu-
+lierende Medikament für dessen Behandlung zu sein [13] (Amphetamin und Ritalin führen
+im gesunden Menschen zu einer Stimulierung der Motorik und der Psyche und bergen daher
+&in hohes Missbrauchspotenzial; siehe Kapitel 1 und Kapitel 3.12.4.1). Der Einsatz bedarf
