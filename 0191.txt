@@ -1,0 +1,46 @@
+schließen, dass Amitriptylin (17) selbst (ohne seinen Metaboliten) stärker sedierend
+wirkt, als Imipramin (15) alleine.
+	Wichtig zu erwähnen ist, dass all diese trizyklischen Antidepressiva eine hohe akute
+Toxizität besitzen, was für ein Antidepressivum besonders ungünstig ist. In manchen
+Fällen ist das Drei- bis Vierfache einer Tagesdosis bereits tödlich! Neuere Substanzklas-
+sen zeichnen sich glücklicherweise durch eine viel größere therapeutische Breite aus [27].
+
+
+Ansatzpunkte, Hypothesen und neue Wege
+
+	Wie erwahnt, sind die genauen Ursachen für Depressionen immer noch nicht voll-
+ständig geklärt. Tausende von Studien wurden durchgeführt, um die Funktion der jeweili-
+gen Neurotransmitter-Systeme zu erforschen und so die biologische Basis für Depressio-
+nen zu ergründen. Trotz der Fortschritte, die in diesem Zusammenhang gemacht wurden,
+bleibt das Wissen in diesem Bereich fragmentarisch und unvollständig. Weit verbreitet ist
+die Monoaminhypothese. Bei Depressionen ist die Homöostase der Neurotransmitter (DA,
+NE, 5-HT) in bestimmten Hirnarealen gestört. Dabei geht man generell von einem Man-
+gel der Neurotransmitter aus. Da die Transmitter selbst zu hydrophil sind, um die Blut-
+Hirn-Schranke zu überwinden und von den Monoaminoxidasen (MAO) rasch abgebaut
+werden, kann man sie selbst nicht als Medikament einsetzen. Daher wird in der Regel
+entweder ihr Abbau (MAO-Hemmer) oder die Wiederaufnahme gehemmt (Hemmstof-
+fe an den jeweiligen Transportern), um die Verweildauer der endogen ausgeschütteten
+Neurotransmitter zu verlängern. Da die Zahl der verfügbaren Neurotransmitter mit der
+ersten Gabe eines Antidepressivums deutlich ansteigt, der stimmungsaufhellende und
+antidepressive Effekt aber erst nach etwa zwei Wochen auftritt, scheint der genaue neuro-
+chemische Wirkmechanismus doch etwas komplizierter zu sein [28].
+	Eine Erklärung für das verzögerte Einsetzen der Wirkung ist, dass die sofort eintre-
+tende Erhöhung der Transmitter-Konzentration auch präsynaptische Autorezeptoren
+wie z.B. den Serotonin 5-HT1A- und den adrenergen α2-Rezeptor stimuliert. Präsynapti-
+sche Autorezeptoren sind ein wichtiger Feedback-Mechanismus, der die Intensität der
+Signalweiterleitung reguliert (siehe Exkurs zu Aspekten der molekularen Pharmakolo-
+gie). Wenn präsynaptische Autorezeptoren agonistisch stimuliert werden, versuchen sie
+der vermeintlichen Signalflut entgegenzusteuern, indem sie die Ausschüttung und die
+Synthese der jeweiligen endogenen Transmitter nach unten regulieren. Das führt pa-
+tadoxerweise zu einer verringerten Signalübertragung und wäre kontraproduktiv. Nach
+einer langanhaltenden Überstimulation der präsynaptischen Autorezeptoren werden
+diese selbst über den Arrestin-Clathrin-Mechanismus desensibilisiert oder internalisiert.
+Das hat eine gesteigerte Stimulation der 5-HT1A-Rezeptoren zur Folge und wird für
+die eigentliche antidepressive und stimmungsaufhellende Wirkung der herkömmlichen
+Antidepressiva verantwortlich gemacht [29]. Im Gegensatz dazu führt eine generelle
+und unselektive Steigerung der serotonergen Transmission vor allem zu unerwünschten
+Nebenwirkungen wie Müdigkeit und Gewichtszunahme. Um den 5-HT1A-spezifischen
+Effekt zu verstärken, erwies sich unterstützend zur Therapie mit SSRI eine Gabe eines
+5-HT1A-Agonisten wie Buspiron (26) als hilfreich [30, 31].
+	Durch die Gabe eines präsynaptisch wirksamen 5-HT1A-Antagonisten würde
+im Gegenzug mehr Serotonin ausgeschüttet werden, was ähnliche Konsequenzen

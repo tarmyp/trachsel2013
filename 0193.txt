@@ -1,0 +1,39 @@
+Unglücklich mit Prozac?
+
+	Als bedeutender Vertreter wird Fluoxetin (30) etwas genauer beleuchtet, da sein Ein-
+Auss auf die Gesellschaft enorm war. Erstmals erschien der Wirkstoff „Lilly 110140"
+in einer wissenschaftlichen Publikation im Jahre 1974, danach verstrichen 13 Jahre, bis
+Fluoxetin (30) 1987 von der FDA die Zulassung für die Behandlung Depressiver erhielt
+[33] (siehe auch Kapitel 3.10). Die Chemiker bei Lilly entdeckten, dass die Trifluor-
+methyl-Gruppe am Phenoxy-Ring die Hemmung der Wiederaufnahme von Serotonin
+(5-HT) im Vergleich zur aryl-unsubstituierten Verbindung um den Faktor 6 verbessert
+und dafür die Fähigkeit, die NE-Wiederaufnahme zu hemmen, um einen Faktor 200
+verschlechtert. Fluoxetin (30) wurde demnach gegenüber der unsubstituierten Verbin-
+dung um einen Faktor über 1000 selektiver gemacht. Auf der anderen Seite reduzieren
+Substituenten in jeder Position im Phenoxy-Ring die Potenz für die 5-HT-Wiederauf-
+nahmehemmung, Untersucht wurden nebst CF3 auch OCH3, CH3, Fluor, und Chlor.
+Diese Grundstruktur wurde intensiv untersucht, und so sind in einem Patent von Eh
+Lilly einige Dutzend Derivate, welche auch Heteroaromaten enthalten, synthetisch mit
+zugehörigem IC50-Werten zur Hemmung der Wiederaufnahme für NE und 5-HT be-
+schrieben [36].
+
+	Fluoxetin (30) ist nach wie vor als Racemat auf dem Markt. Grund dazu könnten
+die Resultate liefern, dass die R- und S-Enantiomere die Wiederaufnahme von 5-HT
+ähnlich stark hemmen (zusammengefasst in [33]): Ki R-Isomer: = 21nM und S-Isomer:
+~ 16nM. Interessanterweise ändert sich dies bei den Metaboliten. Bei der entsprechen-
+den N-demethylierten Verbindung Norfluoxetin (31) ist das S-Isomer 14mal potenter
+gegenüber dem R-Isomer (20nM vs. 268nM). Die Plasma-Halbwertszeit von Fluoxetin
+beträgt 1-3 Tage und die des Metaboliten Norfluoxetin (31) beachtliche 7-15 Tage. Die
+übliche Dosierung liegt bei 20mg pro Tag.
+
+
+
+	Lilly feierte die Zulassung als wissenschaftlichen Durchbruch, und die Marketing-
+Kräfte bezeichneten Fluoxetin (30) als ersten SSRI, was Carlsson veranlasste, mittels Pu-
+blikation diese Sichtweise zu korrigieren, da Zimeldin (29) der erste SSRI-Wirkstoff war
+[7]. Nichtsdestotrotz wurde Fluoxetin (30) unter dem Namen Prozac® berühmt und
+entwickelte sich in kurzer Zeit zum meistverschriebenen Antidepressivum weltweit [33].
+	Beachtlich sind nicht nur die Verkaufszahlen, das mediale Interesse und die
+gesellschaftliche Relevanz, sondern auch die wissenschaftliche Forschung. Bis 1995
+wurden über 5500 methodische Beiträge verfasst; Mitte 2012 waren es bereits knapp
+zchntausend, das ergibt im Schnitt über 260 wissenschaftliche Publikationen im Jahr,
