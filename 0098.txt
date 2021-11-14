@@ -1,0 +1,47 @@
+	Nachdem es etliche Hinweise gab, dass bei zunehmender Größe des N Alkylrestes (d.h,
+größer als Ethyl) von Amphetamin die Aktivität generell abnimmt (ZNS-Effekte, lokomo-
+torische Aktivität, Freisetzen von ’H-NE im Herz der Maus, Inhibition der Akkumulation
+von NE im Rattenhirn und in der Aorta des Kaninchens etc., zusammengefasst in [35]),
+untersuchten Woolverton et al. die d-Isomere der Verbindungen 1-3, 6 und 8 auf die Selbstver-
+abreichung in Affen und das Hemmen der Milchaufnahme von Ratten, was ein Maß für die
+anorektischen Eigenschaften darstellen soll [35]. Des Weiteren wurde beobachtet, wie diese
+Substanzen das spontane Schlagen des isolierten Meerschweinchen-Vorhofs beeinflussen.
+Auch hier zeigte sich, dass Amphetamin (1), Methamphetamin (2) und Ethylamphetamin
+(8) vergleichbare Wirkungsstärken aufweisen. Überschritt der N-Substituent die Größe einer
+Ethyl-Gruppe, so nahmen die untersuchten Effekte generell deutlich ab.
+
+	Die Verbindungen 18-24 wurden nebst anderen Substanzen als neue psychostimulieren-
+de Agenzien patentiert [36]. Sie weisen ein anderes Spektrum von Effekten auf und können
+laut Patentinhaber in der Therapie für verstärkte psychische Aktivität (Lernen und Erinnern)
+und zum Behandeln von Depressionen sowie Lern- und Erinnerungsdefiziten (z.B. Alzhei-
+mer-Krankheit) eingesetzt werden. Da sie vermutlich nicht als Releaser, sondern lediglich
+als Wiederaufnahmehemmer fungieren, sollen sie nach Angaben der Patentinhaber frei von
+den suchterzeugenden Nebeneffekten sein (dass dieses Konzept jedoch nicht immer funk-
+tioniert, wird im Exkurs zu den Monoamin-Transportern dargelegt).
+	Auch die Verbindungen 25-26 wurden zusammen mit anderen (Phenyl- und/oder
+β-hydroxysubstituierten) Verbindungen patentiert und auf die Appetithemmung untersucht
+[37]. Erwähnt wurde eine teilweise milde stimulierende Wirkung. Das Adamantyl-Derivat
+27 (N-(1-Adamantanylmethy])-2-phenylisopropylamin) wurde von Kudryashova et al. auf sei-
+ne pharmakologische Aktivität getestet (u. a. Toxizität und spontane motorische Aktivität).
+Erstaunlicherweise zeigte 27 keine stimulierende, sondern sogar eine ZNS-dämpfende Wir-
+kung.
+
+	Biamphetamin (Di(ß-phenylisopropylJamin; DPIA; 28) wurde als Verunreinigung in
+illegalen Amphetaminproben gefunden [38, 39], teils sogar in beträchtlichen Mengen (bis
+zu 38%(!), zusammengefasst in [40]). Die pharmakologischen und toxikologischen Effek-
+te wurden demnach eingehender untersucht [40]. In Mäusen und Ratten vermochte es die
+Motilität und das stereotype Verhalten zu erhöhen. Amphetamin war in diesen Tests neun-
+respektive zwölfmal so potent. Wie auch Amphetamin konnte 28 die Nahrungsaufnahme
+von Versuchstieren hemmen. Die Toxizität war mit Amphetamin vergleichbar. Interessan-
+terweise waren die Effekte auf das kardiovaskuläre System (in anästhesierten Ratten und an
+dem isolierten Atrium) gegenläufig zu denen von Amphetamin: Blutdruck, Kontraktions-
+stärke und Herzfrequenz wurden gesenkt. Zusammengefasst ergaben die Untersuchungen,
+dass DPIA (28) vergleichbare zentrale Eigenschaften aufweist und der Hauptunterschied in
+der tieferen Potenz von DPIA liegt. Es wurde aber auch erwähnt, dass hier S-Amphetamin
+mit einem Gemisch der drei möglichen Stereoisomeren von DPIA verglichen wurde. Es
+ist wahrscheinlich, dass die drei Stereoisomere verschieden aktiv sind. Denn eine primäre
+Untersuchung des Metabolismus in Ratten lässt vermuten, dass eine Biotransformation zu
+Amphetamin erfolgt [39]. Wird nun ein Stereoisomer von DPIA (28) tatsächlich in großem
+Ausmaß zu Amphetamin metabolisiert, wird die Wirkstärke maßgeblich von der Konfigura-
+tion des Stereoisomers abhängig sein. Denn (-)-R-Amphetamin zeigt im Gegensatz zu (+)-S-
+Amphetamin nahezu keine ZNS-Wirkung (siehe Kapitel 2.3.4).

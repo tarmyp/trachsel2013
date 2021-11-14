@@ -1,0 +1,47 @@
+Von der zufälligen Eintdeckung zum Verkaufsschlager — eine Erfolgsstory ohne
+Happy End
+
+
+	Die Konsultation verschiedener Zeittabellen zur Geschichte von Methamphetamin (2)
+zeigte, dass einige Widersprüche herrschen. Um den aulien Verlauf zu eruieren, wurden die
+beiden Datenbanken SciFinder® und Beilstein XFire® zu Hilfe genommen. Die früheste Li-
+teratur, die Methamphetamin (2) aufführt, ist gemäss XFire® die Arbeit von Ernst Schmidt aus
+dem Jahre 1914 [2]. In seiner Arbeit Ueber das Ephedrin und Pseudoephedrin lieferte der am phar.
+mazeutisch-chemischen Institut der Universität Marburg arbeitende Forscher in einer schr
+detaillierten Abhandlung die Beweisführung für die chemische Struktur des Ephedrins. Des
+weiteren leitet er auch ab, wie die räumliche Anordnung (Stereochemie) des Ephedrins sowie
+Pseudoephedrins (siehe auch Kapitel 3.5) aussehen müsste. Die Summenformel C10H15NO,
+also die relative Anzahl der vorhandenen chemischen Elemente, war damals aus Verbren-
+nungsexperimenten und Elementaranalyse bereits bekannt; deren Anordnung jedoch konnte
+nur erahnt werden. Durch oxidativen Abbau (Entstehung von Benzaldehyd) wusste man,
+dass die HO-Gruppe in der Benzyl-Position liegen muss (siehe Struktur C, Abb. 1). Gleich-
+zeitig war bekannt, dass ‚Aminoalkohole mit geminaler ‚Anordnung allgemein nicht stabil sind
+(Struktur A). Durch einen Abbau resp. das Entfernen der HO-Gruppe im Ephedrin erhielt
+er eine Base, die immer noch optisch aktiv war (Struktur 2a). Dadurch hat er bewiesen, dass
+für die (bereits bekannte) Methylaminogruppe nur noch eine einzige Position im Molekül
+Ephedrin möglich sein kann. Wäre diese nämlich wie in Struktur B gezeigt, so hätte das
+Entfernen der HO-Gruppe eine achirale Substanz hervorbringen müssen. Ephedrin musste
+demzufolge Struktur € besitzen. Bei dieser Beweisführung hatte Schmidt also Methamphet-
+amin (2) hergestellt (Abb. 1) — ohne Absichten, eine physiologisch aktive Substanz zu ent-
+wickeln. Er lieferte nicht nur Schmelzpunkte des reinen kristallinen HCl-Salzes sowie von
+anderen Salzen, sondern auch den Wert der optischen Rotation. Spätere Messungen dieser
+Werte zeigten, dass Schmidt damals bereits schr reines S-(+)-Methamphetamin-Hydrochlorid
+vorliegen hatte.
+	Fünf Jahre später, 1919, publizierte der japanische Wissenschaftler Akira Ogata seine
+Untersuchungen zur Strukturaufklärung von Ephedrin [3], wobei er an und für sich keine
+Abweichung zur von Schmidt vorgeschlagenen Struktur des Ephedrins präsentierte, sondern
+vielmehr eine weitere Beweisführung für die Struktur von Ephedtin: Über eine natriumge-
+stütze Reduktion des Kondensationsprodukts aus 2-Phenylpropanon und Methylamin er-
+hielt er racemisches Methamphetamin (2). Durch Trennen der beiden Enantiomere (mit Hil-
+fe von Umkristallisation des Tartratsalzes) und anschließendes Überführen in das HCI-Salz
+erhielt er schließlich eine Substanz, die vergleichbare Werte für den Schmelzpunkt sowie die
+optische Rotation lieferte, wie sie von Schmidt 1914 präsentiert wurden [2].
+	In den Chemical Abstracts von 1920 [4] über die Arbeit von Ogata [3] wurden in der gege"
+benen Tabelle zu den Schmelzpunkten sowie zur optischen Rotation in der Spalte „Smidf“
+(gemeint ist der Wissenschaftler E. Schmidt) die von Schmidt erhaltenen Werte schlicht unter“
+schlagen [4]. Ob dies an mangelnder Fähigkeit zur Übersetzung des deutschen ManusktiptS
+von Schmidt lag, oder ob Ogatas eigene Arbeiten hervorgehoben werden sollten, ist nicht Be
+Diese Tatsache jedoch führte möglicherweise zu der falschen Aussage, dass Ogata die erste
+Person sei, die kristallines Methamphetamin-HCl (2) hergestellt habe.
+	In der Arbeit von Ogata (1919) erfährt man, dass die physikalischen Eigenschaften von
+„Desoxyephedrin“ (= (+)-S-Methamphetamin (2a)) gut mit denen von Nagayoshi Nagai [5]

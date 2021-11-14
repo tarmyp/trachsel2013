@@ -1,0 +1,51 @@
+und anderen, bezüglich des subjektiven Wirkprofils verwandten psychoaktiven Substanzen
+(z. B. Cocain und Methamphetamin) zu bestätigen [22, 26, 27]. DA (7) wird für die eupho-
+risierende, NE (8) für die zentral stimulierende, antriebssteigernde Wirkung verantwortlich
+gemacht [22]. Bei hohen Dosen kann auch die serotonerge (5-HT) Neurotransmission eine
+Rolle spielen [27]. Zudem haben Del Arco et al. in ihren Untersuchungen an Ratten gezeigt,
+dass bei der intracerebralen Verabreichung von Amphetamin (1) nebst DA (7) und NE (8)
+die extrazellulären Konzentrationen von Glutamat, Aspartat, GABA, and Taurin erhöht
+werden [28]. Für die gesteigerten Konzentrationen der Catecholamine sind zwei Mechanis-
+men verantwortlich: Zum einen werden die jeweiligen Monoamintransporter (siehe Exkurs
+Monoamin-Transporter) „umgepolt“, so dass sie statt vom synaptischen Spalt ins Zellinnere
+von der Präsynapse in den synaptischen Spalt transportieren (reverse transport). Zum anderen
+wird die Wiederaufnahme durch diese Transporter gehemmt.
+
+
+Norepinephrin — ein entscheidender Faktor? Noradrenerge Hypothese
+
+	Man erkannte an und für sich bereits früh, dass Amphetamin (1) nebst DA (7) auch die
+NE-Ausschüttung fördert [29]. Jedoch tätigten nahezu alle Forscher ihre Untersuchungen
+rund um die dopaminerge Neurotransmission, so dass die noradrenerge Neurotransmissi-
+on lange nicht beachtet wurde. Die im Jahr 2001 von Rothman et al. [25] postulierte „Nor-
+adrenerge Hypothese“ schreibt das positive Empfinden von psychostimulierenden Substan-
+zen vor allem NE (8) zu. Dabei wird nicht angezweifelt, dass DA (7) der Mediator für die
+Aufrechterhaltung der Selbstverabreichung von Substanzen in Tiermodellen ist, sondern es
+wird die Frage gestellt, was für ein pharmakologisches Profil psychoaktive Substanzen auf-
+weisen müssen, um die subjektiv empfundenen Higbs zu bewirken. In ihrer Studie zeigen
+Rothman et al., dass Stimulanzien, die amphetaminähnlichen Charakter zeigen, vor allem NE
+ausschütten (Tabelle 2). Bei der Analyse der vorhandenen Daten wurde zudem festgestellt,
+dass die für den Menschen erforderliche orale Dosis (zum Erzeugen amphetaminartiger sub-
+jektiver Effekte) besser mit der Potenz der NE-Freisetzung korreliert als mit der von DA (7)
+[25]. Allerdings ist beizufügen, dass der Datensatz für diese Aussage auf n=5 beschränkt war
+(Amphetamin, Methamphetamin, Phentermin, Ephedrin und MDMA). Die Autoren schrei-
+ben: „(..) Although it is tempting to speculate that stimulant-induced positive subjective effects in humans
+are mediated by a single neurotransmitter, the more likely scenario is that multiple neurochemicals and brain
+regions contribute to the subjective experience described as the ‚high‘ “ a)[25].
+
+	Neueren Untersuchungen zufolge gewinnt der Spurenamin-Rezeptor (trace amine receptor)
+TAARI zunehmend an Bedeutung beim Erklärungsansatz der Suchterzeugung und Tole-
+ranz durch Amphetamin (1) und Methamphetamin (9) [30, 31]. Wenn der TAARI durch
+Methamphetamin (9) stimuliert wird, führt das am DA-Transporter zu einer gesteigerten
+Dopamin-Freisetzung, aber auch zu vermehrter Phosphorylierung, was seine Internalisie-
+rung zur Folge hat. Das bedeutet, dass die Transporter ins Zellinnere aufgenommen werden
+und damit auch nicht mehr funktionell zur Verfügung stehen (siehe Exkurs zu Aspekten
+der molekularen Pharmakologie). Die Konsequenz ist, dass im Laufe der Zeit immer mehr
+Stimulanz benötigt wird, um vergleichbare Effekte zu erzeugen [32].
+
+
+
+
+a) „(...) auch wenn es verlockend wäre, einen einzelnen Neurotransmitter für die positiven subjektiven Effekte verantwortlich zu
+machen, ist das wahrscheinliche Szenario, dass multiple Neurochemikalien und Hirnregionen an der Erfahrung des ‚High‘ beteiligt
+sind

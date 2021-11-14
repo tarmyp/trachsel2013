@@ -1,0 +1,5 @@
+	Die Shikimisäure (1) wird nun zum Phosphatester 8 überführt, der dann mit einem
+weiteren Molekül PEP (2) reagiert, um die Chorisminsäure (9) zu bilden. Der gebildete
+Phosphatester in 8 dient als Abgangsgruppe. Die Chorisminsäure (9) unterliegt selbst
+auch wieder einer intramolekularen Claisen-Umlagerung und bildet durch Chorismat-
+Mutase die Prephensäure (10).

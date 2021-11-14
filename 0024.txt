@@ -1,0 +1,41 @@
+	Der Begriff „Phenethylamine“ ist diffus, stellt sich hier doch die I rage, ob damit
+Derivate gemeint sind, die dem 2-Phenethylamin gleichen. Der Begtiff „gleichen“ ist
+wiederum abhängig von der Sichtweise. Das Spektrum der betrachteten Phenethylami-
+ne erweitert sich folglich massiv, je mehr Substitutionen miteinbezogen werden: Zieht
+man N-Substituenten in Betracht, so stellt sich daraus beispielsweise die Frage nach
+tigidisierten Derivaten wie z. B. den Tetrahydroisochinolinen, einer enorm verbreiteten
+Naturstoffklasse. Auch in den Indolen und somit den ’Tryptaminderivaten findet man
+gewissermaßen eine abgewandelte Phenethylaminstruktur, und schließlich sogar in Mor-
+phin und LSD,
+
+	Mit dem Begriff „Arylalkylamine“ lassen sich noch mehr Derivate einschließen,
+denn mit ihm kommen beispielsweise auch all die Verbindungen mit Benzylamin- oder
+3-Arylpropylamin-Struktur hinzu. Vielleicht wäre der Begriff „(Hetero)Arylethylamine“
+etwas präziser. Umgangssprachlich hat sich jedoch einfach „Phenethylamine“ durch-
+gesetzt, und damit werden primär die dem Phenethylamin wie auch dem Amphetamin
+gleichenden Verbindungen und all ihre Derivate eingeschlossen.
+
+	Die Abzweigungen (Polycyclen, Kettenlänge, etc.) sind mannigfaltig, darum fällt
+der Fokus primär auf Substanzen mit einer Ethyl-Einheit, eingespannt zwischen einem
+Aromaten oder Heteroaromaten und einer Aminogruppe. Dabei fällt die Variation am
+‚Aromaten am schwersten ins Gewicht; heteroaromatische Substanzen wurden cher als
+Repräsentanten ihrer eigenständigen Klassen aufgezeigt.
+
+
+Biologische Herkunft des Phenethylamins:
+Ein Lob auf die Shikimisäure
+
+	Obwohl Säugetiere - und damit auch wir Menschen — beachtliche Mengen an Phen-
+ethylamin-Derivaten benötigen und diese als Hormone und Neurotransmitter eine zen-
+trale Rolle im Proteinhaushalt spielen, so sind wir doch nicht in der Lage, Phenylringe
+im Körper aufzubauen. Man zählt die aromatischen Aminosäuren zu den essentiellen
+‚Aminosäuren, weil sie unsere Quelle für Aromaten darstellen. Doch woher stammen die
+Phenylringe in unserer Nahrung? Sie sind allesamt pflanzlichen Ursprungs [3, 4]. Somit
+müssen wir entweder die Pflanzen selbst essen oder eben die Tiere, die vorher die Pflan-
+zen gefressen haben. Die Pflanzen verfügen über einen raffinierten Biosyntheseweg,
+von dem die ganze belebte Welt profitiert: den Shikimisäureweg, Ausgangspunkt für
+die Herstellung der Shikimisäure (1) sind der C3-Körper Phosphoenolpyruvat (2, PEP),
+der aus der Glycolyse stammt, und der C4-Körper Erythrose-4-phosphat (3) aus dem
+Pentosephosphatweg. Das folgende Schema zeigt, wie aus dem C3- und dem C4-Körper
+ein cyclisches Halbacetal mit sieben Kohlenstoffen (5) gebildet wird, das über eine Phos-
+phatabspaltung und eine Umlagerung den Cyclohexenring der Shikimisäure (9) bildet.

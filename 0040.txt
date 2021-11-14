@@ -1,0 +1,26 @@
+strukturell eng verwandt mit den Lissoclinotoxinen. Beide wurden aus den sack- oder
+knollenförmigen wirbellosen Seescheiden (Ascidiae oder Ascidiacea) isoliert, Die aryl-
+tetrasubstituierten Varacine (100-103) werden in Kapitel 9.1 besprochen. Es existiert
+auch eine Reihe von 5-(Methylthio)-varacinen (104-107), die arylpentasubstituiert sind
+und daher auch im Kapitel 10.3 besprochen werden. Varacine besitzen stark antifungale
+und cytotoxische Bigenschaften, letztere vermutlich aufgrund ihrer DNA-schädigenden
+Wirkung, Auch die 5-(Methylthio)-varacine, ganz besonders aber das Dimethylderivar
+107 erwiesen sich als ausgeprägt cytotoxisch, antimikrobiell und antifungal wirksam,
+Verbindung 107 hemmt auch die Proteinkinase C [34] (zusammengefasst in [35]).
+
+	Ebenfalls aus mariner Umgebung stammen die Verbindungen 108-110 (siehe Kapitel
+9.1). Searle und Molinski isolierten 1994 die Derivate Lissoclinotoxin A (108), Lissoc.
+linotoxin € (109) und Lissoclinotoxin D (110) aus der tropischen Seescheide Lissoci
+num sp. vom Great Barrier Reef |36]. Aufgrund der eingeschränkten Inversion des Penta-
+thiepinrings beschreiben sie Lissoclinotoxin A (108) als chiral. Lissoclinotoxin A (108)
+und Lissoclinotoxin D (110) zeigen eine fungizide Wirkung gegen Candida albicans. Lis
+soclinotoxin A (108) ist strukturell als O-Desmethylvaraein anzusehen.
+	Die Lissoclinotoxine E und F (111 und 112, siche Kapitel 10.3) sowie Lissoclibadine
+1-3 (113-115, siehe Kapitel 10.3) sind Dimere und Trimere einer Substrukur von N,N-
+Dimethyl-5-(Methylthio)varacin (107, siche auch Kapitel 9.3). Auch sie wurden aus
+einer tropischen Seescheide isoliert (Lissoclinum badium, heimisch in der Gegend von
+Indonesien) und auf ihre Fähigkeit geprüft, die Zellprofileration zu hemmen. Weiter
+wurde ihre Cytotoxizität bestimmt. Lissoclibadin 2 (114) wurde als die interessanteste
+Verbindung bezeichnet. Gegenüber menschlichen Dickdarm-, Brust-, Nieren- und
+manchen Lungenkrebs-Zelllinien war 114 verglichen mit Cisplatin über 100mal stärker
+aktiv, ohne dabei eine hohe allgemeine Toxizität zu besitzen [37].

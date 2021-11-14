@@ -1,0 +1,27 @@
+	Die primären pharmakologischen Wirkungen von Methamphetamin (1) werden durch die
+erhöhte Ausschüttung der Monoamine Norepinephrin (NE) und Dopamin (DA) vermittelt.
+
+	Das Vergrößern des N-Alkylrests geht mit einem deutlichen Wirkverlust einher, so dass
+bereits N-Ethylamphetamin (4) wenn überhaupt, nur noch wenig stimulierende Eigenschaf-
+ten aufweist. Werden N-(Arylalkyl)-Reste eingeführt, so erhält man potente σ-Rezeptor-
+Liganden (z.B. mit der Struktur 5).
+	2-Phenethylamin mit einem (wie auch ohne) N-Alkylrest (Struktur 6) erweist sich im
+Menschen sowie im Tier (Lokomotionsstudie) als nicht-stimulierend. Auch hier konnten mit
+N-(Arylalkyl)-Resten ausgeprägt potente o-Rezeptor-Liganden erschaffen werden (Struktur
+7).
+
+
+
+
+
+	N,N-Dialkylierung (Kapitel 3.2): Während N,N-Dimethylamphetamin (8) höchstens noch
+schwach stimulierend wirkt, verschwinden diese Effekte bei höheren Alkylierungen gänzlich.
+Wird in die beispielsweise zuvor erwähnten σ-Rezeptor-Liganden 5 oder 7 eine N-Me-
+Gruppe eingeführt, so bleibt die σ-Affinität erhalten.
+
+Ein prominenter Vertreter der N,N-dialkylierten Derivaten ist Selegilin (9). Es ist
+ein selektiver, irreversibler Hemmer der Monoaminoxidase B und wird als Medikament
+(Deprenyl, Movergan) zur Behandlung der Parkinson-Krankheit eingesetzt.
+
+Prolintan (10) zeigt interessanterweise mit seiner längeren Seitenkette sowie größerem N,N-
+Substitutent wiederum psychostimulierende Effekte (Kapitel 3.2).

@@ -1,0 +1,14 @@
+ne Formen) [42]. Die zunehmende Größe bzw. Kettenlänge des Substituenten bewirkt eine
+höhere Affinität, und so zeigte das (+)-S-Isomer von 34 ein Ki= 6.3nM.
+	Kurz darauf wurde festgestellt, dass beispielsweise (-)-R-PPAP (29) gleichzeitig eine
+höhere Affinität zum Serotonin 5-HT1A-Rezeptor zeigt (IC,,= 115nM) [43]. Deshalb wurde
+eine Reihe von Verbindungen hergestellt, mit dem Ziel, eine σ/5-HT1A-Selektivität zu finden,
+So wurden nebst diversen schon erwähnten Verbindungen auch 37-38 gemessen [43]. Das
+(-)-R-Enantiomer von Verbindung 38 zeigte mit einer o-Affinität von K= 1.2nM und einer
+S-HT1a-Affinität von K= 195nM eine σ/5-HT1A-Selektivität von 1: 163.
+	Ungefähr zur selben Zeit wurde entdeckt, dass es Subpopulationen des o-Rezeptors gibt
+(σ1- und σ2-Rezeptoren) [44]. Glennon et al. untersuchten die strukturellen Anforderungen
+innerhalb der Phenylalkylamin-Gruppe und entwarfen schließlich ein Bindungsmodell für
+den σ1-Rezeptor (Review und SAR) [45]. Über o-Rezeptor-Liganden und deren Wirkung ist
+noch wenig bekannt. Es wird vermutet, dass Agonisten eine antidepressive Wirkung haben
+können [46].
