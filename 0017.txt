@@ -1,0 +1,35 @@
+1. 2-Phenethylamin
+
+Das 2-Phenethylamin (1), auch als β-Phenethylamin, Phenethylamin oder PEA bezeich-
+net, stellt die Grundstruktur der in diesem Buch gezeigten Verbindungen dar. Bei der Re-
+cherche nach chemischen oder Naturstoffen, die diese Substruktur aufweisen, gelangt man
+zu einer ungeheuren Vielzahl an Substanzen. Vertreter aus Naturstoffen in Tier- und Pflan-
+zenwelt sowie aus der Agrochemie oder Medikamenten bis hin zu körpereigenen Stoffen
+weisen diese zentrale 2-Phenethylamin-Substruktur auf (siehe auch Exkurs zu Naturstoffen).
+	Das unsubstituierte Phenethylamin (1) ist ein Alkaloid, das man im Pflanzen- sowie
+Tierreich findet. Als wohl bekanntester Vertreter sei hier Kakao bzw. Schokolade genannt.
+Erwähnenswert ist auch, dass Tiger (Panthera tigris) zur Markierung ihres Territoriums Phen-
+ethylamin (1) im Urin ausscheiden [1, 2]. Allerdings wurde Phenethylamin (1) auch im Urin
+von Leoparden gefunden [3]; daher kann Phenethylamin (1) alleine nicht zur Reviermarkie-
+rung dienen. Von Bedeutung ist auch das Vorkommen von Phenethylamin (1) im mensch-
+lichen Körper. Es wird als biogenes Amin bezeichnet, da es durch Decarboxylierung der
+natürlichen Aminosäure L-Phenylalanin (2a) im Organismus entsteht.
+
+
+
+	Phenethylamin (1) wurde gemäß der Datenbank Beilstein CrossFire® das erste Mal im
+Jahre 1875 von den Forschern Colombo und Spica chemisch hergestellt [4]. Im Jahre 1910
+konnte es aus verfaultem Fleisch (Putreszenz) isoliert werden, und danach wurde seine Akti-
+vität auf den Blutdruck festgestellt (zusammengefasst in [5]). Von den beiden bedeutenden
+Forschern Barger und Dal wurde es im Jahre 1910 zusammen mit einer Vielzahl anderer
+Amine intensiv in einer Vergleichsstudie zum Einfluss auf den Blutdruck in Katzen geprüft
+[5]. Bei i.v.- Verabreichung vermag es diesen deutlich zu erhöhen.
+	Eine weitere bedeutende Studie erfolgte im Jahre 1938: Phenethylamin (1) wurde zu-
+sammen mit Amphetamin und einigen N-monoalkylierten Amphetaminderivaten auf seine
+Pharmakologischen Eigenschaften getestet [6] (siehe auch Kapitel 3.1.1.2). Es stellte sich
+heraus, dass Phenethylamin (1), im Gegensatz zu Amphetamin, narkotisierte Mäuse nicht
+zu wecken vermag, Als dann noch die Wirkung in Menschen untersucht wurde, war sicher-
+gestellt, dass Phenethylamin (1) keine amphetaminähnliche Wirkungen hat. Shulgin führt in
+dem Standardwerk PiHKAL p.o. Versuchsdosierungen bis zu 1600mg Phenethylamin (1)
+im Menschen auf, die allesamt ebenfalls keine Wirkung zu entfalten vermochten [7]. Dem
+widersprechen Informationen, die im Internet kursierten: Angeblich sollen Dosierungen im

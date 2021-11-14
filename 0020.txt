@@ -1,0 +1,29 @@
+Abb. 2. Vereinfachte Darstellung der Biosynthese von Phenethylamin (1) sowie der darauf folgenden
+Verstoffwechselung (siehe auch "Biologische Herkunft des Phenethylamins' im Exkurs zu Naturstoffen).
+
+
+	Es wurde argumentiert, zu tiefe Phenethylamin-Konzentrationen im Gehirn könnten ein
+Grund für das Entstehen von Depression sein [24]. Um die Hypothese zu testen, dass Phen-
+ethylamin (1) affektive Störungen moduliert, wurde die Konzentration von Phenylessigsäure
+(,, dem Hauptmetabolit von Phenethylamin (1), im Plasma und Urin depressiver Personen
+gemessen [24]. Im Vergleich zu gesunden Personen waren die Konzentrationen deutlich
+geringer. Dies ließ vermuten, dass niedrige Phenylessigsäure-Konzentrationen im Plasma
+und Urin als Diagnose der Depression dienen könnten. Weiter zeigten sie, dass mit der Ver-
+abreichung des Phenethylamin-Präkursors L-Phenylalanin (2a) die Stimmung bei 31 von 40
+Patienten positiv beeinflusst wurde.
+	In einem weiteren Experiment verabreichte man oral während 20-50 Wochen täglich
+10-60mg Phenethylamin (1), wobei gleichzeitig 10mg Selegilin abgegeben wurde, um ei-
+nem schnellen Abbau von Phenethylamin (1) durch MAO entgegenzuwirken [25]. In 12
+von 14 Patienten zeigte Phenethylamin (1) eine antidepressive Wirkung. Dies untermauer-
+te die Hypothese der Autoren, dass defizitäre Phenethylamin-Konzentrationen in direktem
+Zusammenhang zu Depressionen stehen könnten. Die verabreichte Dosis von Phenethyl-
+amin (1) blieb bei den Probanden konstant. Dies zeigte, dass im Gegensatz zu Ampheta-
+min mit Phenethylamin (d) keine Toleranzentwicklung erfolgt. Allerdings bleibt zu ergänzen,
+dass die alleinige Wirkung von Selegilin nicht in einer Kontrollgruppe geprüft wurde und
+dass heute in einzelnen Ländern Selegilin auch zur Behandlung von Depressionen eingesetzt
+wird. Dies stellt die Aussagekraft der klein angelegten Studie zurzeit in Frage.
+
+	Interessanterweise zeigt das unnatürliche Enantiomer D-Phenylalanin (2b) auch pharma-
+kologische Effekte. Ihm werden ebenfalls antidepressive [26], aber auch analgetische [27]
+Effekte zugeschrieben. Welcher Mechanismus bzw. welche Targets dabei involviert sind, ist
+letzlich nicht geklart. Das Enzym Carbopeptidase, das auch Endorphine abbaut, scheint

@@ -1,0 +1,43 @@
+Einführung in die Struktur-Aktivitäts-Beziehungen der
+Phenylalkylamine
+
+
+	Die Abb. 1 zeigt sehr grob skizziert die Trends, die man aus den strukturellen Modi-
+fikationen an Substanzen ohne Substituenten am Phenyl-Ring ableiten kann. Selbstverständlich
+existieren immer wieder Ausnahmen, der Einfachheit und Übersicht zuliebe wird nur auf die
+wichtigsten Erkenntnisse eingegangen. Man bedenke, dass der Abb. 1 eine Datenmenge von
+rund 500 Verbindungen zugrundeliegt und sich daher schlicht nur einzelne Vertreter präsen-
+tieren lassen. Präzisere Details sind in den Einleitungen der Hauptkapitel sowie am Ende der
+Kapitel in einer Zusammenfassung zu finden (gilt auch für Abb. 2).
+
+	2-Phenethylamin (1; Kapitel 1) ist an sich eine relativ unspektakuläre Verbindung. Die
+orale Verabreichung bleibt nahezu wirkungslos, erst bei Umgehung des Verdauungstrak-
+tes erzeugt 2-Phenethylamin eine Erhöhung des Blutdrucks. Das simple Einführen einer
+α-Methyl-Gruppe verändert das Wirkspektrum massiv; das daraus resultierende Ampheta-
+min (2; Kapitel 2) ist metabolisch stabiler und erzeugt bei oraler Applikation eine deutliche
+Stimulation auf physischer sowie psychischer Ebene; der Appetit wird verringert und der
+Blutdruck steigt an. Die dopaminerge und noradrenerge Neurotransmission wird angeregt.
+Eine N-Methylierung des Amphetamins liefert das leicht potentere Methamphetamin (3;
+Kapitel 3.1), eine N,N-Dialkylierung führt zu einem Wirkverlust der stimulierenden Effekte
+(Substanz 4; Kapitel 3.2). Durch elektronenziehende N-Substituenten gehen die stimulieren-
+den und hungerunterdrückenden Wirkungen verloren (Substanz 5; Kapitel 3.3). Werden He-
+teroatome in die Seitenkette inkorporiert, so verändern sich die Wirkspektren deutlich (z.B.
+Substanz 6; Kapitel 3.4). Und wird beispielsweise eine β-Hydroxylierung vorgenommen, so
+können sympathomimetisch wirksame Substanzen mit einer gewissen physischen und psy-
+chischen Stimulierung erhalten werden (z.B. Ephedrin, 7; Kapitel 3.5). Wird die Seitenkette
+in «-Position homologisiert, so gehen die stimulierenden Eigenschaften verloren (Substanz
+8; Kapitel 3.6). Das Anbringen zweier Me-Gruppen in α-Position senkt die stimulierenden
+Eigenschaften und erhält eine hungerunterdrückende Wirkung aufrecht (Phentermin, 9; Ka-
+pitel 3.7). Der Einfluss von Alkyl-Gruppen in β-Position wurde eher spärlich untersucht,
+die stimulierenden Effekte nehmen ab (Substanzen 10 und 11; Kapitel 3.8 respektive 3.9).
+Das Variieren der Position der Amino-Gruppe zeigte, dass für stimulatorische Effekte und
+eine blutdruckerhöhende Wirkung optimalerweise eine Ph-C-C-N Einheit vorhanden ist
+(Struktur 12; Kapitel 3.10). Das Cyclisieren der Seitenkette bringt eine Vielzahl an neuen
+Wirksubstanzen mit pharmakologischer Diversität, so z.B. MAO-Inhibitoren (Tranyleypro-
+min, 13; Kapitel 3.11). Das Inkorporieren des Stickstoffs in einen Cyclus bringt eine enorme
+Vielfalt an Wirkstoffen unterschiedlicher pharmakologischer Profile, darunter auch Stimu-
+lanzien (z.B, 1-Benzylpiperazin, 14; Kapitel 3.12). Das zweifache Anbinden der Seitenkette
+an den Phenyl-Ring ergibt die benzannelierten Derivate; sie verlieren ihre Eigenschaften als
+Stimulanzien weitgehend (2-Aminoindan, 15; 3-Methyl-TIQ, 16; AMDA, 17; Kapitel 3.13,
+respektive 3.14 und 3.15); durch den zweiten Aromaten in AMDA (17) werden potente Li-
+ganden der Serotonin 5-HT2A/C-Rezeptoren erhalten.

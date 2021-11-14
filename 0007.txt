@@ -1,0 +1,44 @@
+Navigation und Aufbau
+
+	In diesem Werk werden mehr als 2300 verschiedene Substanzen präsentiert. Beim Zu-
+sammentragen der immensen Literaturfülle wurde schnell ersichtlich, dass mit sehr unter-
+schiedlichen chemischen Strukturen ähnliche pharmakologische Wirkungen erzielt werden
+können. Umgekehrt können zwei chemisch sehr verwandte Substanzen stark unterschiedli-
+che Wirkprofile besitzen. Die einzig logische Strategie für das Erfassen dieser Materialfülle
+schien uns schließlich die chemische Struktur der Moleküle selbst. Es soll dem Wissensaufbau
+entgegenkommen, die schnelle Navigation fördern und Nachschlagemöglichkeiten vereinfa-
+chen. Dieser Aufbau hat auch zur Folge, dass manche Verbindungen mehrmals in verschie-
+denen Kapiteln auftauchen können, um — wo sinnvoll — die Information in einen Kontext zu
+stellen. In solchen Fällen sind Querverweise Navigationshilfen, um die gewünschte Informa-
+tion zu finden. Die Informationsdichte der einzelnen Kapitel variiert zum Teil deutlich, da
+nicht alle Substanzen im gleichen Umfang untersucht wurden oder sich ihre gesellschaftliche
+Relevanz deutlich unterscheidet. Auf das Gegenüberstellen struktureller Zusammenhänge
+wurde besonders Wert gelegt. So zeigen Schemen grob den Einfluss der chemischen Struk-
+tur beispielsweise auf Affinitäten, Wirkstärke, Selektivität, aber auch den Einfluss auf die
+Ebene der menschlichen Wahrnehmung selbst. Weiter wird der Leser zwischendurch auf
+neue, bis anhin völlig unbekannte Strukturen hingewiesen. Dies soll zeigen, welche medizi-
+nalchemischen Möglichkeiten noch offen und unerforscht sind und welche Fragen bis anhin
+unbeantwortet blieben.
+
+Der Leser findet, damit er in der enormen Datenmenge nicht untergeht, jeweils zu Be-
+ginn eines Hauptkapitels grob skizziert die strukturellen Zusammenhänge, die strukturellen
+Untergruppen und je nachdem einen kurzen historischen Einblick. Am Ende eines Unter-
+kapitels ist, wo für notwendig erachtet, eine kurze Zusammenfassung der zuvor detailliert
+besprochenen Materie zu finden, und mancherorts wurde sie mit einer grafischen Übersicht
+zur qualitativen Struktur-Aktivitätsbeziehung ergänzt.
+
+
+Leitfaden durch die Kapitel
+
+	Verbindungen, die am Phenyl-Ring keine Reste tragen, werden zuerst aufgeführt (Kapıtel
+1-3), dann folgen Heteroarylalkylamine (Kapitel 4), das Weglassen des Phenyl-Rings (Kapitel
+5) und schließlich Substanzen mit sukzessiv steigender Anzahl an Aryl-Substituenten
+(Kapitel 6-10):
+
+	Das Kapitel 1 ist der allen zugrundeliegenden Struktur und dem Namensgeber — dem
+Phenethylamin selbst — gewidmet. Der anschließende Exkurs über Naturstoffe legt dar,
+wie vielfältig die Natur Phenethylamin-Strukturen konstruiert hat. Nebst den für das Funk-
+tionieren des Menschen wichtigen Aminosäuren und Botenstoffen existieren relativ unbe-
+kannte, aber nicht minder spannende Moleküle aus Flora und Fauna.
+
+	Eine zweite, gewichtige Grundstruktur erhält man durch das Hinzufügen einer einzel-

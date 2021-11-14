@@ -1,0 +1,48 @@
+[File: /home/zedar/Desktop/Phenethylamine - Von der Struktur zur Funktion (2013)/0019.jpg; Page: 1]
+Das zweifach deuterierte &,x-Dideuterophenethylamin (4) erwies sich stabil gegenüber
+der MAO (Abb. 1) [14]. Es zeigte einen lang anhaltenden Stimulus, generalisierte in einer
+Drug Discrimination-Studie (Ratten) vollständig für Phenethylamin (1) und war deutlich
+potenter als dieses [14]. Interessant wäre auch die Prüfung, ob α,α-Dideuterophenethylamin
+(4) in Amphetamin-trainierten Ratten substituieren würde. Bis anhin sind keine Berichte zu
+dessen Wirkung im Menschen bekannt. Es könnte durchaus sein, dass sich dieses Konzept
+der metabolischen Stabilisierung von Phenethylamin-Derivaten auch auf andere, an und für
+sich in »zvo inaktive Phenethylamine ausweiten lässt (siehe auch Kapitel 8.4.6, wo die Stei-
+gerung der Humanpotenz von Mescalin durch eine α,α-Dideuterierung dokumentiert ist).
+	Zwar konnte beispielsweise gezeigt werden, dass Phenethylamin (1) ohne Hilfsstoff in
+kleinen Dosen Katzen einen Zustand erhöhter Wachheit und Erregtheit verleiht, so wie es
+Amphetamin auch vermag, und bei höheren Dosierungen konnte Phenethylamin (1) alleine
+auch Effekte wie Amphetamin ausüben, obwohl die Dauer der Effekte kürzer war (wohl als
+Folge einer Autoinhibition; zusammengefasst in [12]). Auch konnte gezeigt werden, dass
+Phenethylamin (1) die Selbstadministration in Hunden aufrechterhalten kann [15]. Es be-
+stehen sich dennoch Zweifel darüber, ob Phenethylamin (1) aufgrund der metabolischen
+Labilität nach Erreichen des Gehirns überhaupt eine stimulatorische Wirkung im Menschen
+erzeugen kann. Bindungseigenschaften zu Monoamin-Transportern, den eigentlichen Tar-
+gets für Stimulanzien wie Amphetamin, fehlen offenbar bisher gänzlich [32].
+	Vaupel et al. präsentierten in ihrer Studie, dass die Verabreichung von Phenethylamin (1)
+an Hunde einige amphetaminartige Wirkungen zeigt [16]. Dabei wurde weiter verglichen,
+ob beispielsweise Atmungs- und Pulsfrequenz, Pupillendurchmesser und Körpertemperatur
+sich in mit LSD behandelten Hunden gegenüber unbehandelten Hunden gleich verhalten.
+S-Amphetamin zeigte keine Kreuztoleranz zu LSD, und auch Phenethylamin (1) wies nur
+eine sehr schwache Kreuztoleranz gegenüber LSD auf, was angesichts der unterschiedli-
+chen Targets (Dopamin- und Norepinephrin-Transporter für Amphetamin, und v.a. diverse
+5-HT- und Dopamin-Rezeptoren für LSD) auch nicht verwunderlich ist.
+
+	Nakajima, Kakimoto und Sano entdeckten 1964 das natürliche Vorkommen von Phen-
+ethylamin (1) im Gehirn von Säugern [17]. Später wurde Phenethylamin (1) zum biogenen
+Amin erklärt (zusammengefasst in [18]). L-Phenylalanin (2a) wird im kapillaren Endothelium
+des Gehirns und in catecholaminergen Nervenenden durch eine einfache Decarboxylierung
+in Phenethylamin (1) umgewandelt (Abb. 2) [19]. Die Umwandlung findet etwa in gleicher
+Geschwindigkeit statt wie die zentrale Synthese von Dopamin. Da Phenethylamin (1) nicht
+in intraneuronalen Vesikeln gespeichert wird, gilt es nicht als klassischer Neurotransmitter,
+ist aber nichtsdestotrotz neben anderen biogenen Aminen ein endogener Ligand am Trace-
+Amin-Rezeptor [20]. Es wird wie die anderen biogenen Amine sehr schnell durch die MAO,
+besonders die MAO-B, abgebaut und dadurch inaktiviert [21].
+	Es zeigte sich, dass die Konzentration von natürlichem Phenethylamin (1) im Gehirn
+stark ansteigt, wenn zuvor ein MAO-Inhibitor verabreicht wird (zusammengefasst in [22].
+Weiter gab es Hinweise, Phenethylamin (1) könnte ein Neuromodulator der Catecholamin-
+Aktivität sein. Karoum et al. untersuchten dies an der amphetamininduzierten Freisetzung
+von Dopamin [23]. Ihre Resultate ließen vermuten, dass nebst der Freisetzung von Dopamin
+nach der Amphetamin-Gabe auch Phenethylamin (1) gebildet und freigesetzt wird. Jedoch
+stehen diese beiden Vorgänge nicht in direktem Zusammenhang, und sie gingen davon aus,
+dass die beiden Substanzen nicht gleichzeitig freigesetzt bzw. gebildet werden. Somit sollte
+die Wirkung von Phenethylamin (1) nicht von der Freisetzung von Dopamin abhängig sein.
