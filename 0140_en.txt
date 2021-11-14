@@ -1,0 +1,36 @@
+(protonated), but the difluoro-amine 36 is almost uncharged. Administration to 
+test animals showed 35 a body distribution almost identical to that of amphetamine,
+and 36 was found mainly in fat. This correlates with the properties that are 
+assumed from the pKₐ values. 4-Substituted analogues are described in Section 6.3.8.
+
+Dubin et al. compared the (+) - enantiomer of 2-amino-3-fluoro-1-phenylpropane (37)
+with the more potent (+) - amphetamine with regard to the effects on locomotion
+and exploratory activity in mice [26]. Both (+) - amphetamine and (+) - 37 were 
+able to reduce the urge to spontaneously explore the environment, although this 
+was more pronounced in (+) - 37. Both substances also increased the locomotor 
+activity. However, (+) - 37 caused sedative effects after one hour, while the mice
+that received (+) - amphetamine were still stimulated. This very unusual
+pharmacological profile of 37 could indicate active metabolites.
+
+
+
+
+The ß-halogenated compounds of type 38 (X = Br, Cl, I) are highly reactive and most
+likely unstable benzyl halides. They were discussed by Rege (et al.) As possible
+contaminants in illegally produced methamphetamine samples [27]. In particular, the
+(-)- enantiomer with X = Cl (“chlorephedrine”) has been found several times. It was
+shown to be an irreversible inhibitor of the isoenzyme CYP2D6 and could be a toxic
+compound in general. Benzyl halides are considered toxic compounds because they are
+very easy to alkylate. Often the readily available (+)- pseudoephedrine (1c) serves
+as a precursor (precursor chemical) for the synthesis of methamphetamine. This is 
+then converted into chlorephedrine, for example in a Sₙi reaction with thionyl chloride
+or phosphorus pentabromide, and reduced to methamphetamine with hydrogen. The use
+of hydriodic acid and red phosphorus is also common. The haloephedrines 38 can 
+thereby arise to different extents. Only the stereoisomers 1a and 1c provide the
+centrally active S-methamphetamine. The stereoisomers 1b and 1d provide the almost
+ineffective R-methamphetamine (see chapter 3.1.1.1 for sure). However, since only
+1a and 1c occur naturally, the use of 1b and 1d should generally be very low.
+
+Despite the potentially high chemical reactivity, Hunt was the first to report the
+antiepinephrine activity of N, N-dimethyl-2-chlorophenethylamine (39) [28]. 39 also
+showed
