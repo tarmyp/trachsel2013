@@ -1,0 +1,33 @@
+39 had a muscarinic and nicotinic effect and was found to be a substance 
+with muscle relaxant properties [29]. This prompted Graham and James to use 
+substances 39 and 40, as well as an extensive series of analogues to investigate [30, 31]. 
+Some compounds showed an antagonizing effect on epinephrine, norepinephrine, histamine and
+Serotonin. The derivative (41) was ineffective in this regard, but the authors mentioned
+a strong local anesthetic effect.
+
+
+
+The fact that the introduction of electron-withdrawing groups in the side chain has a 
+significant influence on the activity of phenylalkylamines was also demonstrated with 
+the compound 1-Cyanophenethylamine (42) is confirmed [32]. The mice treated with 42 
+showed no changes in locomotion up to 200 μM / kg (for comparison: amphetamine shows a very 
+strong increase in locomotion even at doses of 10 μM / kg). In contrast to 
+1-ethylphenethylamine (43, see also Chapter 3.6), which acts as a MAO inhibitor, 42 also 
+did not reveal any potentiation of the activity of 2-phenethylamine (stimulation of 
+locomotor activity). Furthermore, 42 showed a very small influence on the blood pressure 
+of cats. The calculated pKa values show that 42 has lost its basicity (5.2) and can 
+therefore no longer interact with a target in protonated form. Compared to amphetamine (9.5),
+compound 43 has also lost its basicity, but with a pKa value of 7.6 it is still about 
+50% in protonated form in the body.
+
+
+The early studies on the metabolites of psychotomimetic phenylalkylamines led to the 
+assumption that active metabolites could be responsible for the effects of such substances.
+After administration of mescaline (44), rabbits excreted the metabolite 45 in significant 
+amounts (humans, however, only in traces, see Section 8.4.1.2). When rabbits were injected with 45,
+a “mescaline-like” effect developed from the outside (summarized in [33]). The idea arose 
+that with other phenylalkylamines, these metabolites may also have an effect and are even
+the active metabolites. For this reason, compounds 46 and 47, among others, were prepared
+and investigated as amphetamine analogues [33]. When administered to mice, it was found
+that these compounds only cause ataxia and had a dampening effect; hyperactivity was not 
+observed. By later
