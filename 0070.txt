@@ -1,6 +1,6 @@
-	N-Heteroatome (Kapitel 3.3): Grundsätzlich werden durch Beton und -gruppen die
-physikochemischen Rigenschaften des basischen Stickstoffs von Phenylalkylaminen massiv
-beeinflusst. Phenelzin (11) und Pheniprazin 2) sind Hydrazin-Derivate, welche durch
+	N-Heteroatome (Kapitel 3.3): Grundsätzlich werden durch Heteroatome und -gruppen die
+physikochemischen Eigenschaften des basischen Stickstoffs von Phenylalkylaminen massiv
+beeinflusst. Phenelzin (11) und Pheniprazin (12) sind Hydrazin-Derivate, welche durch
 diese chemische Gruppe im Vergleich zu ihren einfachen Phenylalkylamin-Analogen sehr
 unterschiedliche pharmakologische Eigenschaften aufweisen. So war Pheniprazin (12) einer
 der ersten kommerziell erhältlichen Monoaminoxidase (MAO)-Hemmer, wurde jedoch
@@ -9,12 +9,12 @@ nichtselektiver MAO-Hemmer und ist ein bis heute eingesetztes Medikament beispie
 unter dem Namen Nardil. Es wird primär zur Behandlung von Depressionen, Angst- oder
 Zwangsstörungen verwendet.
 
-	Die N-Hydroxylierung hielt in Versuchstieren einige Wirkungen von Amphetamin (3
-aufrecht, das N-Methoxylieren jedoch bewirkte eher eine Sedierung (Substanzen 13 und 19),
+	Die N-Hydroxylierung hielt in Versuchstieren einige Wirkungen von Amphetamin (3)
+aufrecht, das N-Methoxylieren jedoch bewirkte eher eine Sedierung (Substanzen 13 und 19).
 
 	Es wurden diverse Versuche unternommen, durch eine simple Modifikation der Amin-
 Gruppe von Amphetamin (3) seine stimulierenden Effekte loszuwerden, mit dem Wunsch,
-die anorektischen Eigenschaften oder das zur Behandlung von Aufmerksamkeitsdefizit-
+die anorektischen Eigenschaften oder das zur Behandlung von Aufmerksamkeitsdefizit-/
 Hyperaktivitätsstörung (ADHS) erforderliche Wirkprofil aufrecht zu erhalten. Dies gelang
 mit dem Derivat Lisdexamfetamin (15; vermarktet als Vyvanse®). Es ist eine Prodrug für
 Amphetamin und kann durch die limitierte In-vivo-Hydrolyse nur sehr erschwert als solches
@@ -25,7 +25,7 @@ zu Amphetamin sehr langsam vonstatten geht.
 
 
 
-Fazit N-Substitution: Alkylreste, welche die Größe einer Me-Gruppe übersteigen, be-
+	Fazit N-Substitution: Alkylreste, welche die Größe einer Me-Gruppe übersteigen, be-
 wirken einen massiven Wirkungsverlust bezüglich der stimulierenden Effekte von Amphet-
 amin, Dialkylierungen lassen diese Effekte ebenfalls verschwinden. Ausnahme: Substanzen
 wie Prolintan (10). Mit großen Alkylphenylresten werden die Substanzen zu potenten σ-Li

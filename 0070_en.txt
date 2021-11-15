@@ -1,0 +1,29 @@
+	N-heteroatoms (Chapter 3.3): Basically, heteroatoms and groups have 
+a massive influence on the physicochemical properties of the basic nitrogen of 
+phenylalkylamines. Phenelzine (11) and pheniprazine (12) are hydrazine derivatives which,
+due to this chemical group, have very different pharmacological properties compared to 
+their simple phenylalkylamine analogues. Pheniprazine (12) was one of the first 
+commercially available monoamine oxidase (MAO) inhibitors, but was withdrawn from the 
+market because of side effects. Phenelzine (11) also acts as a non-selective MAO inhibitor 
+and is a drug that is still used today, for example under the name Nardil. It is 
+primarily used to treat depression, anxiety, or obsessive-compulsive disorder.
+
+	N-hydroxylation maintained some of the effects of amphetamine (3) 
+in experimental animals, but N-methoxylation was more likely to cause sedation (substances 13 and 19).
+
+	Various attempts have been made to get rid of its stimulatory effects by a simple modification of 
+the amine group of amphetamine (3) with the desire to maintain the anorectic properties or the activity 
+profile required for the treatment of attention deficit / hyperactivity disorder (ADHD). This was 
+achieved with the derivative lisdexamfetamine (15; marketed as Vyvanse®). It is a prodrug for amphetamine 
+and can only be misused as such with great difficulty due to the limited in vivo hydrolysis, since only 
+a small amount is constantly released. In addition, it cannot be misused via any other type of 
+application (e.g. cold), as the metabolism to amphetamine is very slow.
+
+
+
+
+	Conclusion N-substitution: alkyl residues that exceed the size of an Me group cause 
+a massive loss of effectiveness with regard to the stimulating effects of amphetamine, 
+dialkylations also make these effects disappear. Exception: substances such as 
+Prolintan (10). With large alkylphenyl residues, the substances become potent σ-ligands, 
+while no general statements can be made for heteroatoms.
