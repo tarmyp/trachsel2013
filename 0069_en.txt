@@ -1,0 +1,22 @@
+	The primary pharmacological effects of methamphetamine (1) are mediated by the 
+increased release of the monoamines norepinephrine (NE) and dopamine (DA).
+
+	The enlargement of the N-alkyl group is accompanied by a significant loss of 
+effectiveness, so that even N-ethylamphetamine (4) has little, if any, stimulating 
+properties. If N- (arylalkyl) radicals are introduced, potent σ-receptor 
+ligands (e.g. with structure 5) are obtained.
+	2-Phenethylamine with (as well as without) an N-alkyl radical (structure 6) 
+proves to be non-stimulating in humans as well as in animals (locomotion study). Here, too, 
+highly potent σ-receptor ligands could be created with N- (arylalkyl) residues (structure
+7).
+
+
+
+	N,N-dialkylation (Chapter 3.2): While N, N-dimethylamphetamine (8) only 
+has a weak stimulating effect, these effects disappear completely with higher alkylations. 
+If an N-Me group is introduced into the σ-receptor ligands 5 or 7 mentioned above, 
+for example, the σ-affinity is retained.
+	A prominent representative of the N, N-dialkylated derivatives is selegiline (9). It is 
+a selective, irreversible inhibitor of monoamine oxidase B and is used as a drug 
+(Deprenyl, Movergan) to treat Parkinson's disease.
+Interestingly, Prolintan (10) again shows psychostimulating effects with its longer side chain and larger N,N substitute (Section 3.2).
