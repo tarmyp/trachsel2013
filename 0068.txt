@@ -1,30 +1,30 @@
 	Es wurden insgesamt rund 500 Substanzen gesammelt und hier beschrieben. Die Fülle
-von Verbindungen sowie die strukturelle Diversität erschwert es ungemein, eine übergreifen
-de Struktur-Aktivitätsbeziehung (SAR) herauszulesen. Schr unterschiedliche biologische Tar.
+von Verbindungen sowie die strukturelle Diversität erschwert es ungemein, eine übergreifen-
+de Struktur-Aktivitätsbeziehung (SAR) herauszulesen. Sehr unterschiedliche biologische Tar-
 gets können involviert sein, so dass mit deutlich unterschiedlicher chemischer Struktur eine
 ähnliche pharmakologische Wirkung erzielt werden kann. Umgekehrt können mit kleinsten
 strukturellen Variationen unterschiedliche Wirkungen erfolgen. Deshalb werden in dieser
-Einleitung mehrere Kapitel zusammengezogen, so dass sechs Gruppen präsentiert werden,
+Einleitung mehrere Kapitel zusammengezogen, so dass sechs Gruppen präsentiert werden.
 Auf eine grafische Darstellung der SAR wurde aufgrund der zu komplexen, überlagernden
 und teilweise an Ausnahmen haftenden Befunde verzichtet.
 
 
 Substitution am Stickstoff (Kapitel 3.1, 3.2 und 3.3)
 
-	N-Alkylierung (Kapitel 3.1): Historisch betrachtet ist N-Methylamphetamin, besser be
+	N-Alkylierung (Kapitel 3.1): Historisch betrachtet ist N-Methylamphetamin, besser be-
 kannt als Methamphetamin (MA; 1), eines der ersten synthetisch hergestellten Phenylalkyl-
 amine überhaupt. Auch wenn der japanische Professor Nagai im Jahre 1893 die chemische
 Struktur seines, aus Ephedrin (2) hergestellten Methamphetamins (1) nicht kannte, wurde
 damals doch bereits das Fundament für eine Wirksubstanz gelegt, die im folgenden Jahrhun-
 dert stark an Bedeutung gewinnen sollte. Erst rund 20 Jahre später wurden weitere Untersu-
-chungen an dem Naturstoff Ephedrin (2; siche Kapitel 3.5) durch den deutschen Chemiker
+chungen an dem Naturstoff Ephedrin (2; siehe Kapitel 3.5) durch den deutschen Chemiker
 Schmidt getätigt, worin er unter anderem — rein zwecks struktureller Beweisführung — eben-
 falls Methamphetamin (1) herstellte.
 
 
 
 	Der weitere geschichtliche Verlauf von Methamphetamin (1) verläuft in gewissem
-Maße parallel zum Aufkommen von Amphetamin (3; siehe Kapitel 2). Nachdem die außer
+Maße parallel zum Aufkommen von Amphetamin (3; siehe Kapitel 2). Nachdem die außer-
 gewöhnlichen Eigenschaften von Amphetamin (3) bekannt geworden waren und anfangs der
 1930er Jahre vermarktet werden konnten, war es naheliegend, das strukturell eng verwandte
 Methamphetamin (1) ebenfalls auf seine pharmakologischen Wirkungen zu prüfen und zu
@@ -32,7 +32,7 @@ vermarkten — mit gutem Ergebnis. Dies erfolgte an mehreren Fronten, nämlich a
 wenige Jahre später Teil des Zweiten Weltkrieges werden sollten (Japan, Deutschland und
 Amerika). Der Krieg verhalf Methamphetamin (1) zu einer weitreichenden Popularität, da
 es Zähigkeit und Durchhaltekraft steigerte. In der Nachkriegszeit erlangte Methamphetamin
-(1) als Pharmawirkstoff (va. zur Bekämpfung von Übergewicht und Depression) ähnlich
+(1) als Pharmawirkstoff (v.a. zur Bekämpfung von Übergewicht und Depression) ähnlich
 wie Amphetamin seine Verbreitung, wurde dann aber wegen zunehmenden massiven Miss-
 bräuchen indiziert. Der darauf folgende Rückzug vom Markt tat der Verbreitung und dem
 illegalen Konsum keinen Abbruch. Die epidemische Verbreitung rund um den Globus hält
