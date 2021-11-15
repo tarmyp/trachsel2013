@@ -4,6 +4,7 @@ Heteroatome im Bereich der Seitenkette (Kapitel 3.4 und 3.5)
 senkenden Mitteln (Kapitel 3.4) vom Typus ß-Blocker.
 
 
+
 	Das Heteroatom, als Hydroxy-Gruppe an der Seitenkette, ist ein typisches Merkmal des
 Ephedrins (2), das in Ephedra-Arten vorkommt und ein oral wirksames, indirektes Sympathi-
 komimetikum ist. Analoge Verbindungen haben deshalb meist ähnliche blutdrucksteigernde,
@@ -18,7 +19,7 @@ Struktur 16 und der Aminoethanol-Struktur der Sympathomimetika, resultierte schl
 die Aryloxypropanolamin-Struktur, die heute als Standard-Scaffold für B-Blocker angesehen
 wird (siehe auch Kapitel 6.1.2).
 
-	Wird die B-HO-Gruppe zum Keton oxidiert, erhält man, besonders mit verlängerter
+	Wird die ß-HO-Gruppe zum Keton oxidiert, erhält man, besonders mit verlängerter
 α-Alkylkette (vgl. 22) ebenfalls Stimulanzien, die als Transporter-Hemmstoffe wirken. Das
 einfachste Amphetamin-Analog ist die oxidierte Form von Pseudonorephedrin ((+)-Cathin;
 17) und heißt Cathinon (18). Das (-)-S-Enantiomer kommt wie (+)-Cathin (17) natürlich in

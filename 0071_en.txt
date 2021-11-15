@@ -1,0 +1,29 @@
+Heteroatoms in the area of the side chain (Chapters 3.4 and 3.5)
+
+	With substances of type 16, depending on the aryl and N substitution, one arrives at antihypertensive agents (Chapter 3.4) of the ß-blocker type.
+
+
+
+	The hetero atom, as a hydroxyl group on the side chain, is a typical feature of 
+ephedrine (2), which occurs in ephedra species and is an orally active, indirect 
+sympathomimetic. Analogous compounds therefore usually have similar blood pressure-increasing,
+heart-stimulating, bronchodilator and appetite-suppressing effects. Although ephedrine 
+(2) mainly acts indirectly as a norepinephrine releaser and has only a minor effect on 
+the adrenergic receptors themselves, it was found that the ß-hydroxy group is also a 
+decisive factor for the binding to adrenergic receptors. Many direct sympathomimetics 
+(receptor ligands and not releasers) have been developed that are still of great importance as 
+bronchodilators in asthma or as decongestants of the nasal mucous membranes. The combination 
+of both structural features, the phenoxyalkylamine structure 16 and the aminoethanol structure 
+of the sympathomimetics, finally resulted in the aryloxypropanolamine structure, which is now 
+regarded as the standard scaffold for B-blockers (see also Section 6.1.2).
+
+	If the ß-HO group is oxidized to the ketone, stimulants that act as transporter inhibitors 
+are also obtained, especially those with an extended α-alkyl chain (cf. 22). The simplest 
+amphetamine analog is the oxidized form of pseudonorephedrine ((+) - cathine; 17) and is called 
+cathinone (18). Like (+)-cathine (17), the (-)-S enantiomer occurs naturally in Catha edulis, 
+which is native to Ethiopia, Kenya and Arabia. Its leaves were and are still chewed as a stimulant, 
+but ritual uses are also widespread.
+	The methyl analog of cathinone (18) is called methcathinone (19; = oxidized form of ephedrine).
+As far as we know today, methcathinone (19) is a purely synthetic product that is easily produced from 
+the natural substance ephedrine (2). In contrast to the ephedrine-like substances, they show values 
+for the release of norepinephrine and dopamine that are comparable to those of amphetamine (3).
