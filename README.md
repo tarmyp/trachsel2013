@@ -60,6 +60,7 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
 - [ ] hyperlinks for references
 - [ ] hyperlinks for chemistry terms and concepts
 - [ ] PubChem links for compounds
+- [ ] hyperlinks to profiles of authors/researchers
 
 
 ## Inhaltsverzeichnis
