@@ -3,13 +3,64 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
 
 ## TODO
 - [x] scan/photograph pages into JPEGs
-- [ ] rename images using page numbers
-- [ ] OCR German text from images
-- [ ] Translate German to English
-- [ ] Re-render molecule diagrams
-- [ ] Make images good
+- [x] rename images using page numbers
+- [ ] OCR German text from images:
+  - [x] pages 1-99
+  - [x] pages 100-199
+  - [x] pages 200-299
+  - [ ] pages 300-399
+  - [ ] pages 400-499
+  - [ ] pages 500-599
+  - [ ] pages 600-699
+  - [ ] pages 700-799
+  - [ ] pages 800-899
+  - [ ] pages 900-1003
+- [ ] Translate German to English:
+  - [ ] pages 1-99
+  - [ ] pages 100-199
+  - [ ] pages 200-299
+  - [ ] pages 300-399
+  - [ ] pages 400-499
+  - [ ] pages 500-599
+  - [ ] pages 600-699
+  - [ ] pages 700-799
+  - [ ] pages 800-899
+  - [ ] pages 900-1003
+- [ ] Re-render molecule diagrams:
+  - [ ] pages 1-99
+  - [ ] pages 100-199
+  - [ ] pages 200-299
+  - [ ] pages 300-399
+  - [ ] pages 400-499
+  - [ ] pages 500-599
+  - [ ] pages 600-699
+  - [ ] pages 700-799
+  - [ ] pages 800-899
+  - [ ] pages 900-1003
+- [ ] Make clean images from book (e.g. advertisements)
+  - [ ] pages 1-99
+  - [ ] pages 100-199
+  - [ ] pages 200-299
+  - [ ] pages 300-399
+  - [ ] pages 400-499
+  - [ ] pages 500-599
+  - [ ] pages 600-699
+  - [ ] pages 700-799
+  - [ ] pages 800-899
+  - [ ] pages 900-1003
+- [ ] Resolve all translation issues
 - [ ] Compile in LateX
-- [ ] Render PDFs in German and English
+- [ ] Render PDFs:
+  - [ ] link to/from chapters
+  - [ ] sections
+  - [ ] English
+  - [ ] German
+
+## Nice-to-have TODO
+- [ ] hyperlinks for references
+- [ ] hyperlinks for chemistry terms and concepts
+- [ ] PubChem links for compounds
+
 
 ## Inhaltsverzeichnis
 ```
