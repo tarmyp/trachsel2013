@@ -1,0 +1,30 @@
+4.4. Selenienylalkylamine
+
+
+
+	Selenophen (auch Selenol genannt) ist ein Mitglied der Chalkogenophene. Als Chalko-
+genophene werden diejenigen heterocylischen Fünfringe bezeichnet, die als Heteroatom ein
+Element aus der Reihe Chalkogene tragen (Periodensystem: O, S, Se, Te, Po). Die Aromatizi-
+tät von Selenophen wird wie folgt eingestuft: Benzen > Thiophen > Pyrrol > Selenophen >
+Tellurophen > Furan [1].
+	Selenophen ist ein selten verwendeter Heterocyclus. Er fand beispielsweise Verwendung
+in Molekülen, die als selektive Proteinkinase-C-Inhibitoren wirken (antitumorale Wirkung) [2].
+Es wurde nur eine sehr kleine Anzahl Arylalkylamine hergestellt, welche Selenophen als Hete-
+roaromat enthalten. Bei sämtlichen gefundenen Verbindungen ist die Seitenkette in Position 2
+angebracht. Wahrscheinlich ist die relativ hohe Toxizität von Selenverbindungen im Allgemeinen
+für die seltene Anwendung von Selenophen in der medizinischen Chemie verantwortlich. Erster
+Hinweis für eine Selenvergiftung ist ein penetranter, knoblauchartiger Mundgeruch, der die Com-
+pliance selenhaltiger Arzneistoffe ebenfalls beeinträchtigen könnte.
+
+	Eine Forschungsgruppe der staatlichen Moskauer [.0720n05sov-Universität untersuchte in
+den 1950er Jahren in mehreren Arbeiten die Chemie von Selenophen. Darunter fiel auch
+die Aminomethylierung von Selenienylalkylketonen [3], wobei die Verbindungen 1 und 2 als
+heteroaryl-unsubstituierte Selenienylalkylamine beschrieben wurden (Anmerkung: die Amin-
+Funktion ist drei C-Atome vom Heteroaromat entfernt).
+	An der gleichen Universität wurde kurz darauf eine weitere, kleine Reihe von 2-Selenie-
+nylalkylaminen untersucht [4]. Als einzige Heteroaryl-unsubstituierte Verbindung beschrie-
+ben sie 1-(2-Selenienyl)-2-aminopropan (2-SA, 3), ein Analogon zu Amphetamin (4). Nebst
+der dokumentierten Synthese wurde erwähnt, dass die untersuchten Verbindungen in den
+pharmakologischen Tests zentral-sympathomimetische Eigenschaften und erstaunlicherwei-
+se eine deutlich geringere Toxizität als vergleichbare, in der Medizin verwendete Substanzen
+aufwiesen.

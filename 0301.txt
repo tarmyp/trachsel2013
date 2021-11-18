@@ -1,0 +1,36 @@
+4.3. Thienylalkylamine
+
+
+
+	Unter den π-elektronenreichen Heteroaromaten besitzt Thiophen den ausgeprägtesten
+aromatischen Charakter. Dass es eine ähnliche Verhaltensweise wie Benzen aufweist, wurde
+früh erkannt. Den aromatischen Charakter zeigt Thiophen vor allem in den elektrophilen
+Substitutionen. Diese verlaufen im Allgemeinen leichter als beim Benzen. Aufgrund der dem
+Benzen nahen physico-chemischen Verwandtschaft wurden dementsprechend viele Substan-
+zen hergestellt und biologisch untersucht.
+
+
+4.3.1. 2-Thienylalkylamine
+
+	Im Jahre 1930 untersuchte Tainter die pharmakologische Wirkung von 2-(2-Thienyl)-
+ethylamin (2-THEA; 1) [1] und stellte dabei fest, dass 2-THEA in Katzen einen vergleichbar
+ausgeprägten Effekt auf den Blutdruck wie 2-Phenethylamin (PEA; 2, siehe Kapitel 1) auf-
+weist, es vermochte diesen bei Umgehung des Verdauungstrakts jeweils zu erhöhen. Weiter
+erzeugte die Vorverabreichung von Cocain bei beiden Verbindungen eine Antagonisierung
+dieses Effekts. Später konnten Barger und Easson (1938) [2] sowie Blicke und Burkhalter (1942)
+[3] mit ihren Untersuchungen ebenfalls eine sehr ähnliche Beeinflussung des Blutdrucks
+durch 2-THEA (1) und PEA (2) nachweisen.
+
+
+
+	Diesen Erkenntnissen folgte eine Reihe weiterer Untersuchungen (zusammengefasst in
+[4), und schließlich nahmen sich Alles und Feigen dem Amphetamin-Bioisoster 1-(2-Thienyl)-
+2-aminopropan (2-THAP; 3) an [4]. Sie verglichen es zusammen mit 1-(2-Furyl)-2-
+aminopropan (4, siehe Kapitel 4.2.) und Amphetamin (5) unter anderem bezüglich der
+Beeinflussung des Blutdrucks (Hund), der motorischen Effekte (Maus), LD50 (Maus) und
+der Effekte im Menschen (jeweils als Sulfatsalze).
+	2-THAP (3) und Amphetamin (5) erhöhten den Blutdruck in anästhesierten Hunden be-
+züglich Intensität und Dauer vergleichbar. Die motorische Aktivität von Mäusen (0.1mmol/
+kg; i.p.) war vergleichbar, jedoch wurde sie von 2-THAP (3) während nur rund zwei Stunden,
+und von Amphetamin (5) etwa vier Stunden erhöht. Bei der doppelten Dosis zeigten einige
+Versuchstiere der Gruppe mit Amphetamin noch nach fünf Stunden eine erhöhte motori-

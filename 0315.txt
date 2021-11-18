@@ -1,0 +1,25 @@
+4.6.2. 2-Imidazolylalkylamine
+
+	Die 2-Imidazolylalkylamine werden auch als Isohistamine (8) bezeichnet, da die Seiten-
+kette am C-Atom zwischen den beiden N-Atomen angebracht ist. Durant et al. untersuchten
+1975 Isohistamin (8) als möglicher selektiver H1, Histamin-Agonist [3]. Histamin (3) stimu-
+liert alle vier Histamin-Rezeptor-Subtypen (H1-4) mit geringer Selektivität. Isohistamin (8)
+zeigte eine Selektivität von H1:H2 = 90:1. Es wurde diskutiert, dass die Tautomerisierbar-
+keit eine entscheidende Rolle für die Aktivität darstellt. Isohistamin (8) diente später Steffens
+und Schunack als Leitstruktur bei der Suche nach neuen Histamin-H1-Agonisten [4]. In ihren
+Untersuchungen zum H1-Agonismus am isolierten Ileum und H2-Agonismus am spontan
+schlagenden rechten Vorhof des Meerschweinchens zeigten 9 (heterocyclisches Ampheta-
+minanalogon) und 10 allerdings keine histaminartige Wirksamkeit.
+
+
+
+4.6.3. 4(5)-Imidazolylalkylamine
+
+Wie eingangs erklärt, ist bei N-unsubstituierten Imidazolderivaten die Position 4
+und 5 auf Grund der möglichen Tautomerie nicht unterscheidbar, weshalb oft von
+46)-Imidazolylalkylaminen die Rede ist. Die prominentesten Vertreter dieser Klasse sind
+L-Histidin (2) und Histamin (3).
+
+
+	Die Aminosäure L-Histidin (2) kommt, wie der griechische Name andeutet (gr. ?????:
+Gewebe) in jungem Pflanzengewebe vor. Anders als 2-Phenethylamin stammt es nicht aus

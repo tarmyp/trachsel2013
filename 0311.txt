@@ -1,0 +1,30 @@
+4.5. Tellurolylalkylamine
+
+
+
+	Tellurophen (auch Tellurol genannt) ist das schwerste Mitglied der Reihe der Chalko-
+genophene. Seine Aromatizität wird wie folgt eingestuft: Benzen > Thiophen > Pyrrol >
+Selenophen > Tellurophen > Furan [1]. Tellurophen wird wie die anderen heteroaromatischen
+Fünfringe bevorzugt in Position 2 elektrophil substituiert und kann beispielsweise auch lithiiert
+werden [2].
+	Tellurophen ist ein selten verwendeter Heterocyclus. Die einzige mittels der Datenbanken
+SciFinder® oder X-Fire® gefundene Tellurolyl-Verbindung mit einer Alkylamin-Substruktur
+ist 1 [3]. Sie wurde hergestellt, um die 1H- und 13C-NMR-Parameter von gleich substituierten
+Heteroaromaten wie Furan, Thiophen und Selenophen vergleichen zu können.
+
+
+
+	Die Toxizität von Tellurverbindungen wird allgemein etwas geringer eingeschätzt als
+die von Selenverbindungen. Bei Tellurvergiftungen entsteht ausgeprägter knoblauchartiger
+Mundgeruch, der vom Dimethyltellur herrührt, ähnlich den Selenverbindungen.
+
+
+Literatur
+
+[1] A. R. Katritzky, A. F. Pozharsküi. Handbook of Heterocyclic Chemistry. 2nd. ed.; Elsevier
+     Science Ltd., Pergamon Press: Oxford, UK, 2000.
+
+[2] Houben-Weyl. Methods of Organic Chemistry. 4th ed.; Thieme Verlag: Stuttgart, Deutsch-
+     land, 1990; Vol. E12b.
+
+[3] F. Fringuelli. Acta Chem. Stand, Series B: Org, Chem. Biochem. 1976, B30, 605.

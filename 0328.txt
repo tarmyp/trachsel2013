@@ -1,0 +1,29 @@
+wenn andere Inhaltsstoffe wie das toxische Muscarin (6) selbst wohl Keine PSychoaktive
+Wirkung entfalten, so ist die Beeinflussung und Modulation neuronaler Prozesse durch sie
+immerhin denkbar. Bis heute sind über 200 Inhaltstoffe aus dem Fliegenpilz isoliert worden
+(zusammengefasst in [3]). Den wenigsten dieser Inhaltsstoffe konnte eine Wirkung zugewie-
+sen werden, und obschon bei einigen eine Wirkung ausgeschlossen werden kann, stellt sich
+die Frage nach synergistischen Effekten. Diesem Zusammenspiel und insbesondere dem
+Muscimol (5) selber gebührt deshalb mehr ‚Aufmerksamkeit. Viele Fragen sind auch aus me-
+dizinalchemischer Sicht spannend. Strukturell analoge Verbindungen könnten helfen, neuro-
+psychologische Prozesse näher zu untersuchen.
+
+	Der Fakt, dass Muscimol (5) die GABAerge Neurotransmission moduliert, machte diese
+Substanz attraktiv als Ausgangspunkt für die Suche nach einem neuen Schlafmittel (Benzodi-
+azepine und Z-drugs wie Zolpidem wirken ebenfalls am GABA-System, jedoch anders). Die
+Substanz Gaboxadol (TIHP; 10) wurde von Lumdbeck und Merck als Schlafmittel entwickelt,
+jedoch wurden die klinischen Studien 2007 aufgrund von Nebenwirkungen und zu wenig
+Wirksamkeit abgebrochen. Diese Verbindung ist an und für sich seit den 1970er Jahren be-
+kannt [17, 18], wurde aber damals klinisch nicht als Schlafmittel weiterentwickelt. Die che-
+mische Struktur ähnelt der von Muscimol (5) stark; es wurde lediglich eine Ethylen-Brücke
+zwischen dem Amin und dem Heteroaromaten angebunden (Abb. 2). Die schlaffördernde
+Wirkung von Gaboxadol (10) wurde der Wechselwirkung mit dem GABA-System zuge-
+schrieben. Gaboxadol (10) wie auch Muscimol (5) wirken — anders als Benzodiazepine und
+Barbiturate — nicht als GABAerge allosterische Modulatoren, sondern als echte Agonisten an
+der orthosterischen GABA Bindestelle, da sie die natürliche Konformation des Transmitters
+GABA selbst mit der aciden Isoxazolol-Gruppe mimetisieren.
+
+
+
+Abb. 2. Das in klinischen Studien gescheiterte Gaboxadol (10, geprüft als Schlafmittel) unterscheidet sich
+lediglich durch eine Ethylenbrücke von Muscimol (5).

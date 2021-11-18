@@ -1,0 +1,31 @@
+	Im Jahre 1869 wurde als einer der ersten Stoffe Muscarin (6) aus dem Fliegen, iso-
+liert, wenn auch nicht in Reinform (zusammengefasst in [3]). Schon die Untersuchungen
+im 19. Jahrhundert zeigten, dass Muscarin (6) nicht für die eigentümlichen Wirkungen des
+Fliegenpilzes verantwortlich gemacht werden kann, höchstens für Teile der parasympathomi-
+metischen Effekte. Heute weiß man, dass Muscatin (6) die Wirkung des Neurotransmitters
+Acetylcholin an muscarinergen Acetylcholin-Rezeptoten mimetisiert (zusammengefasst in
+[2))- Anfangs der 1960er Jahre wurden Isolation und Synthese verschiedener Inhaltsstof-
+fe vorangetrieben und der Fokus unter anderem auf Muscimol (5) gerichtet (z.B. [4-8]).
+Es konnte gezeigt werden, dass unter den verschiedenen Inhaltsstoffen Muscimol (5) und
+etwa 5-10mal schwächer wirksam die Ibotensäure (7) [9] zu den psychoaktiven Effekten
+beitragen [9]. Es wird vermutet, dass Ibotensäure (7) durch Decarboxylierung zu Musicimol
+(5) umgewandelt wird und die Wirkung sich primär dadurch entfaltet. Auch Muscazon (8)
+wurde als psychoaktive Substanz diskutiert [10]. In diesem Zusammenhang wäre es interes-
+sant zu untersuchen, inwieweit die Substanzen 5-8 mit Hilfe des aromatischen Aminosäure-
+transporters durch die Blut-Hirn-Schranke transportiert werden können. Die Isoxazolol-
+Grundstruktur ist an sich ein Bioisoster zur Carbonsäure (siehe Exkurs Bioisosterie). Fragen
+zur Pharmakokinetik sind in diesem Fall von ganz entscheidender Bedeutung.
+
+
+
+	Im Jahre 1970 wurde gezeigt, dass Muscimol (5) und Ibotensäure (7) nach i.p. Verabrei-
+chung die Serotonin-Konzentrationen im Gehirn der Ratte erhöhten [11]. Die Dopamin-
+und Norepinephrin-Konzentration wurden nur durch Muscimol gesenkt, Ibotensäure er-
+höhte sie [11].
+	Später fand man, dass Muscimol (5) mit seiner nahen strukturellen Verwandtschaft zum
+Neurotransmitter γ-Aminobuttersäure (GABA; 9) potent agonistisch am GABAA-Rezeptor
+wirkt, aber auch am GABAC erwies sich Muscimol (5) als potenter partieller Agonist [12]. Es
+ist bekannt, dass durch Modulation der GABAergen Neurotransmission die Schlafarchitektur
+reguliert werden kann (z.B. durch Benzodiazepine, zusammengefasst in [13]). Muscimol (5)
+beeinträchtigte kaum die Zeit des non-rapid eye movement sleap (non-REMs) und REMS, jedoch
+wurde eine signifikant verstärkte EEG Aktivität im Frequenzbereich von 2 und 6 Hz während

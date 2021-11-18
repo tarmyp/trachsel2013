@@ -1,0 +1,17 @@
+im Gehirn: Peripher wird Histamin (3) von einer Diaminoxidase (DAO) (über die Stufen
+12 und 13) abgebaut. Im Gehirn wird Histamin (3) von der Histamin-N-methyltransferase
+und S-Adenosyl-Methionin (SAM) als C1-Gruppen-Überträger methyliert. Das entstehende
+Nτ-Methylhistamin (5) wird dann durch die Monoaminoxidase MAO-B zu 15 abgebaut. In
+geringem Masse findet man im Cerebrospinalfluid von Menschen auch Nπ-Methylhistamin
+(6) und dei korrespondierende Imidazolylessigsäure (17) [8].
+	Der Histamin-Metabolismus zum Nτ-Methylhistamin (5) wird durch viele Arzneistof-
+fe beeinflusst. So erhöhen MAO-Hemmer wie Pargylin und Tranylcypromin, Morphin,
+Phencyclidin und Ketamin die Umsetzung zum Nτ-Methylhistamin (5), während THC, Al-
+kohol, Barbiturate, Benzodiazepine und Enflurane die Umsetzung hemmen [9, 10].
+
+
+
+Abb. 4. Metabolismus von Histamin (3) im peripheren Gewebe (Oxidation durch Diaminoxidase DAO und
+anschließende Oxidation zur Imidazolylessigsäure (13)), sowie im Gehirn (Imidazol-N-Methylierung durch
+Histamin-N-Methyltransferase und S-Adenosylmethionin SAM, anschließende Oxidation durch Monoa-
+minoxidase B (MAO-B) und Oxidation zu den entsprechenden N-Methylimidazolylessigsäuren 15 und 17).

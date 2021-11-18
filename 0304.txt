@@ -1,0 +1,20 @@
+	Warren et. al untersuchten beim Design eines flüchtigen Amins, das eine bronchiale
+Entspannung auslösen und dabei möglichst eine geringe Toxizität und wenig ZNS-Stimu-
+lation mit sich bringen sollte, unter vielen Phenylalkylaminen auch die beiden Bioisostere
+1-(2-Thienyl)-2-aminopropan (2-THAP; 3) und 2-(2-Thienyl)-3-aminobutan (17) [5]. Auch
+hier zeigte sich, dass diese beiden Bioisostere den Blutdruck deutlich steigerten und ver-
+gleichbar mit ihren Phenyl-Analoga waren (1mg/kg; i.v., Hunde). Die Toxizität wurde gerin-
+ger als die der Phenyl-Analoga festgelegt.
+
+
+
+	In einem US-Patent (1945) wurde die Herstellung von diversen potenziell pharmako.
+logisch aktiven Verbindungen dokumentiert, wobei die Thienyl-Derivate im Vergleich zu
+den Pyrrol-, Pyridin- und Furan-Analoga als die vorteilhaftesten deklariert wurden [9]. Den
+Verbindungen 18-29 (R = H, Alkyl oder Aryl) wurde eine physiologische Aktivität zugespro-
+chen, die vergleichbar mit anderen sympathomimetischen Verbindungen sei. Zusätzlich wur-
+de eine generell tiefere Toxizität als bei den Phenyl-Derivaten festgestellt. Die Substanzen 28
+und 29 (beide mit R= H) wurden 1950 ein weiteres Mal in einem US-Patent erwähnt [10].
+Des Weiteren wurden die Synthese und Hinweise auf anwendbare physiologische Eigen-
+schaften von Struktur-Homologen gegeben (anstelle des Cyclopentyl-Rings wurden auch
+Cyclopropyl-, Cyclobutyl- und Cyclohexyl-Systeme beschrieben).

@@ -1,0 +1,33 @@
+als sein 2-Thienyl-Analog 33 (Ki= 35µM), jedoch war es immer noch viel potenter als die
+Phenyl-Verbindung 36 (Ki= 13000µM).
+
+	Wie die 2-Thienyl-Verbindungen 38 und 39 wurden auch die 3-Thienyl-Derivate 46 und
+47 als Tranylcypromin-Analoga hergestellt, und Verbindung 47 untersuchte man auf die
+Wechselwirkung mit 5-HT1A-Rezeptoren [15]. Dessen Affinität war verglichen mit 39 (Ki=
+21 vs. 11nM) leicht tiefer.
+
+
+
+Zusammenfassung
+
+	Die pharmakologische Wirkung von Thiophen-Derivaten ist im Vergleich zu den Phe-
+nyl-Derivaten ähnlich. Die Erhaltung der Wirkung der Ausgangssubstanz ist praktisch bei
+allen untersuchten Thiophen-Derivaten beobachtet worden, oft schwächer, in einzelnen Fäl-
+len stärker. Durch die im Menschen kürzere Wirkzeit der beiden Amphetamin-Bioisostere
+2-THAP (3) und 3-THAP (43) sowie der Methamphetamin-Bioisostere 2-THMAP (13) und
+3-THMAP (44) kann man in diesen Fällen von einem schnelleren Metabolismus ausgehen.
+In diversen Untersuchungen erwiesen sich die Thienylalkylamine als weniger toxisch als ihre
+Benzen-Kontrahenten. Allgemein wurden unter den hier gezeigten Substanzen die 3-Thie-
+nyl-Derivate im Vergleich zu den 2-Thienyl-Verbindungen als weniger toxisch beschrieben.
+Dies lässt den Schluss zu, dass sich Thiophen häufig hervorragend als Bioisoster für Benzen
+eignet.
+
+
+Literatur
+
+[1] M. L. Tainter. Quart. J. Pharm. Pharmacol. 1930, 3, 584.
+[2] G. Barger, A.P.T. Easson. J. Chem. Soc. 1938, 2100.
+[3] F.F. Blicke, J. H. Burckhalter. J. Am. Chem. Soc. 1942, 64, 477.
+[4] G.A. Alles, G. A. Feigen. J. Pharmacol. Exp. Ther. 1941, 72, 265.
+[5] M.R. Warren, D. G. Marsh, C. R. Thompson, R. S. Shelton, T. J. Becker. J. Pharmacol.
+    Exp. Ther. 1943, 79, 187.

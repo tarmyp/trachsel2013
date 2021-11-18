@@ -1,0 +1,28 @@
+Zusammenfassung
+
+	Furan als Bioisoster ist in unsubstituierten Heteroarylalkylaminen deutlich weniger ver-
+wendet worden als Thiophen. Falls die ‚Aromatizität eine entscheidende Rolle spielt, dürfte
+das Verwenden eines Furan-Heterocyclus nicht zum Erfolg führen. Es stellt sich zudem die
+Frage nach der metabolischen Stabilität von einfachen Furan-Derivaten, da Furanyl-Derivate
+eine erhöhte Reaktivität zeigen, insbesondere in biologischer Umgebung. Die untersuchten
+2-Furanylalkylamine wiesen allgemein eine deutlich schwächere Wirkung auf als ihre Phenyl-
+oder 2-Thienyl-Kontrahenten. Vermutlich liegt darin der Grund, weshalb keine ausgeprägte-
+ren Untersuchungen zu Furanylalkylaminen vorliegen. In noch geringerem Ausmaß wurden
+die 3-Furanylalkylamine untersucht. Sie sind chemisch schwieriger zugänglich.
+
+
+Literatur
+
+[1] A. Windaus, O. Dalmer. Chem. Ber. 1920, 53, 2304.
+[2] M. Fujii. Ber. Ges. Physiol. 1926, 37, 905.
+[3] G. Hildebrandt, W. Klavehn. Verfahren zur Herstellung von linksdrehenden
+    Aminopropanolen. DE585667, 1933.
+[4] M. S. H. Erlenmeyer. Helv. Chim. Acta. 1941, 24, 1210.
+[5] G.A. Alles, G. A. Feigen. J. Pharmacol. Exp. Ther. 1941, 72, 265.
+[6] H. B. Hass, A. G. Susie, R. L. Heider. J. Org. Chem. 1950, 15, 8.
+[7] W. C. McCarthy, R. J. Kahl. J. Org. Chem. 1956, 21, 1118.
+[8] W.O. Foye, S. Tovivich. J. Pharm. Sci. 1979, 68, 591.
+[9] T. M. Bargar, R. J. Broersma, L. C. Creemer, J. R. McCarthy, J. M. M. Hornsperger,
+    M. G. Palfreyman, J. Wagner, M. J. Jung, J. Med. Chem. 1986, 29, 315.
+[10] A. Arnoldi, G. Bregante, P. Caldirola, L. Merlini, B. Tamburini. J. Heterocycl. Chem.
+     1990, 27, 1169.

@@ -1,0 +1,25 @@
+	Das Homologe α-Methylhistamin (18) wurde intensiv untersucht. Dabei hat sich l
+R-Enantiomer als H3-Agonist erwiesen [11], was den Schluss zulässt, dass dieses Amphet-
+aminanalogon eher sedierende als stimulierende Eigenschaften besitzt. Die Synthese wurde
+in Ref. [12] beschrieben.
+
+
+
+	2-(4-Imidazoly)eyclopropylamin (19) [13] ist ein heterocyclisches Analogon von Tra-
+nyleypromin (20), ein Antidepressivum und ein unselektiver MAO- lemmer (siehe Kapitel
+3.11). Verbindung 19 wurde mit der Wirkung von Tranylcypromin (20) verglichen, wobei 19
+mit 77% der Wirkstärke von Tranylcypromin (20) ebenfalls ein potenter in vitro MAO-Inhi-
+bitor ist. Durch die Einbindung der Seitenkette in einen Cyclopropanring verliert Histamin
+(3) seine typische Wirkung.
+
+
+
+	Bernabe und Burger untersuchten den Einfluss einer β-Hydroxy-Gruppe in den Imid-
+azolen 21-25 auf die Herzfrequenz am isolierten Kaninchenherz [14]. Die Stammverbindung
+β-Hydroxyhistamin (21) wurde bereits im Jahr 1916 hergestellt; deren Untersuchung ergab
+eine schwächere Aktivität im Vergleich zu den sympathomimetischen Eigenschaften von
+Histamin (3) [15]. Verbindungen 21 und 22 bewirkten am isolierten Kaninchenherz eine
+Tachykardie und eine sehr schwache Erweiterung der koronaren Gefässe, jedoch keine
+β-blockierende Aktivität [14]. 23 und 24 lösten keine messbare Erhöhung des Herzschlags
+aus. Die Wirkungen des dem Norephedrin (26) strukturell verwandten Derivats 25 wurden
+in dieser Publikation nicht beschrieben.

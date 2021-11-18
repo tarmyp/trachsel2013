@@ -1,0 +1,29 @@
+	Bei Untersuchungen zur Chemie von Heterocyclen wurde unter anderem die Synthese
+von 1, 3 und 30 (1-(2-Thienyl)-2-aminobutan; 2-THAB) beschrieben [11]. Mit dem Ziel, die
+von Aletamin (1-Phenyl-2-aminopenten; 31) bekannten analgetischen Eigenschaften durch
+eine Ähnliche Struktur hervorzuheben, wurden eine Vielzahl von analogen Verbindungen
+untersucht [12]. Darunter befand sich auch das Thiophen-Analog 32 (1-(2-Thienyl)- 2-ami-
+nopenten). Die Autoren betonten, dass mit den vielen getesteten Substanzen allgemein keine
+signifikante Verstärkung der von Aletamin bekannten Eigenschaften erzielt wurde.
+	Die drei 2-Thienylalkenylamine 33-35 wurden bei der Suche nach Inhibitoren von
+Dopamin-ß-Hydroxylase (DBH) untersucht [13]. Die Verbindung 36 diente als Leitstruktur.
+33 (Ki= 35µM) erwies sich in einem In-vitro-Experiment (DBH aus Nebenniere des Rindes)
+als potenter DBH-Inhibitor und wies eine fast 400-fache Verstärkung der inhibitorischen
+Aktivität gegenüber dem entsprechenden Phenyl-Analog 36 (Ki= 13000µM) auf. Das α-Me-
+Analogon 35 war rund 10-mal schwächer (Ki= 360µM). Weiter zeigte 33 in vivo eine zeitab-
+hängige antihypertensive Aktivität (i.p., in hypertensiven Ratten).
+
+
+
+	Corral et al. untersuchten bei der Suche nach Betablockern Verbindungen des Typs 37 (R
+und R’= H, iPr, tBu etc.) [14]. Speziell ringchlorierte analoge Verbindungen erwiesen sich als
+potente ß-B-Blocker. Die Struktur ähnelt den Phenylethanolaminen (siehe Kapitel 3.5).
+
+
+
+	Bei der Untersuchung von diversen trans-2-Aryl-N,N-dipropyleyelopropylaminen wur-
+den auch die beiden 2-Thienyl-Derivate 38 und 39 hergestellt [15]. 38 ist das Strukturanaloge
+von Tranylcypromin (40), ein unselektiver MAO-Hemmer (siehe Kapitel 3.11). Verbindung
+39 (Racemat und deren Enantiomere) wurde auf die Wechselwirkung mit 5-HT1A-Rezepto-
+ten getestet [15]. Sie zeigte in Radioligand-Verdrängungsstudien (hippocampale und korti-
+kale 5-HT1A-Rezeptoren von Ratten) mit [3H]-8-OH-DPAT eine hohe Affinität, wobei das

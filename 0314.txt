@@ -1,0 +1,32 @@
+Stickstoff nimmt. Somit bekommt er die Nummer 3. Da bei N-unsubstituierten Imidazol-De-
+rivaten die Positionen 4 und 5 wegen der Tautomerie nicht zu unterscheiden sind, spricht man
+oft von 4(5)-substituierten Imidazolen. Somit ist 4-Methylimidazol (4a) dasselbe wie 5-Methyl-
+imidazol (4b) und kann auch als 4(5)-Methylimidazol bezeichnet werden (Abb. 2) [1].
+
+
+	Sobald ein Stickstoffatom alkyliert ist, ist der Rest an einem N fixiert und kann nicht
+mehr wandern, und es liegt kein tautomeres Gleichgewicht vor. Somit ist es nötig, die beiden
+Stickstoffatome eindeutig durch die Benennung zu unterscheiden. Beim Histamin (3) oder
+Histidin (2) nimmt man als Anker die funktionalisierte Seitenkette. Mit diesem Bezugspunkt
+kann man sagen, dass ein Stickstoff benachbart zur Seitenkette und der andere entfernt ist. Die
+griechischen Wörter dafür lauten ??????? [proximo] für benachbart, und τηλε [tele] für ent-
+fernt (Abb. 3). So ist es beim Histidin und seinen Derivaten Standard, die beiden Stickstoffe
+mit den jeweiligen griechischen Anfangsbuchstaben x und 7 zu benennen, um sie eindeutig
+auseinanderzuhalten. Somit sind N-tele-Methylhistamin (5) und N: proximo-Methylhistamin
+(6) nicht ineinander überführbar und zwei unterschiedliche Substanzen, ganz anders als beim
+normalen Histamin, wo 3a und 3b identisch sind.
+
+
+
+Abb. 3. Um die N-Atome in Imidazol-Derivaten auseinanderzuhalten, verwendet man für den näher zur
+Seitenkette liegenden Stickstoff die Bezeichnung π (für proximo = benachbart) und für den entfernteren
+Stickstoff τ (für tele = entfernt). N-Alkylierte Imidazole zeigen keine Tautomerie, da Alkylreste nicht wan-
+dern können (Strukturen 5 und 6). N-tele-H-Histamin (3a) und N-proximo-H-Histamin (3b) sind ineinan-
+der überführbar und somit identisch.
+
+
+4.6.1. 1-Imidazolylalkylamine
+
+	Imidazol kann am basischen Stickstoff substituiert werden, so dass der Alkylamin-Teil in
+Imidazol auch an Position 1 angebracht werden kann. 2-(1-Imidazolyl)ethylamin (7) wurde
+synthetisch beschrieben [2].

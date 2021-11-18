@@ -1,0 +1,24 @@
+4.6. Imidazolylalkylamine
+
+	Das Imidazol-Grundgerüst (1) ist in einigen Naturstoffen enthalten. In Form der Purine
+ist es z.B. fester Bestandteil unserer DNA. Die essenzielle Aminosäure L-Histidin (2) wie auch
+deren Decarboxylierungsprodukt, der Neurotransmitter bzw. das Hormon Histamin (3) sind
+die bekanntesten Vertreter (Abb. 1).
+
+
+
+Abb. 1. Imidazol (1) und der Neurotransmitter Histamin (3), der aus der essenziellen Aminosäure L-Histidin
+(2) entsteht.
+
+
+	Nachdem man es einmal als Neurotransmitter erkannt hatte, leitete man vom Histamin
+(3) eine Vielzahl von Strukturen ab. Einige davon sollen im Folgenden gezeigt werden. Bei
+Imidazol-Derivaten ist es wichtig, sich über die Nomenklatur ein paar Gedanken zu machen:
+Als erstes stellt sich die Frage, wo die beiden Doppelbindungen eingezeichnet werden müssen
+bzw. an welchem N ein H hängt. Prinzipiell ist das wegen eines tautomeren Gleichgewichts
+egal. Man hat sich beim Durchnummerieren darauf geeinigt, dass der Stickstoff, der ein H
+oder etwas anderes trägt, die Nummer 1 bekommt und man den kürzesten Weg zum nächsten
+
+
+
+Abb. 2. Tautomerie von N-unsubstituierten Imidazol-Derivaten.

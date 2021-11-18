@@ -1,0 +1,26 @@
+4.8. Thiazolylalkylamine
+
+
+
+	Thiazol steht zu Pyridin in einem ähnlichen Verhältnis wie Thiophen zu Benzen. Einige
+wenige Thiazolylalkylamine wurden hergestellt, um deren biologischen Eigenschaften mit
+den Histamin-Analoga (Imidazoalkylamine, siehe Kapitel 4.6) zu vergleichen. Die Herstel-
+lung der Verbindungen 1-4 wurden, ohne Angaben zur Pharmakologie, von Jones et al. 1950
+veröffentlicht [1]. 1-(4-Thiazolyl)-2-ethylamin (4) wurde bereits fünf Jahre zuvor von Erlen-
+meyer und Müller beschrieben [2]. Dieser Substanz wurde eine qualitativ gleiche Wirkung wie
+die des Histamins (5) zugewiesen [2].
+
+
+
+	Die Verbindungen 2 und 4 können als strukturanaloge Verbindungen von Histamin (5) be-
+trachtet werden, obwohl der Heteroaromat nach dem Isosterieprinzip eher dem Pyridin gleicht
+(-S- entspricht oft -CH=CH-; siehe Exkurs Bioisosterie). Im Kapitel 4.11 ist das entsprechen-
+de Pyridin-Analogon präsentiert, das ebenfalls eine dem Histamin (5) ähnelnde Wirkung zeigte.
+Weiter sind die der Aminosäure Histidin (6) analogen Verbindungen 7 und 8 beschrieben [2].
+
+
+
+	Erne et al. beschrieben kurz darauf die Herstellung der beiden Verbindungen 1-(4-Thi-
+azolyl)-2-aminopropan (9) und 1-(5-Thiazolyl)-2-aminopropan (10) [3]. Auch diese Substan-
+zen können als Analoga zu den Pyridinverbindungen betrachtet werden (siehe Kapitel 4.11).
+Sie sind strukturell betrachtet heterocyclische Analoge von Amphetamin.

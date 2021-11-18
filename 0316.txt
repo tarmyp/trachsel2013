@@ -1,0 +1,41 @@
+dem Shikimisäureweg (siehe Exkurs Naturstoffe), sondern aus 7 MANDasen. Der aromatische
+Imidazolinting liegt bei pH 7.4 zu etwa 10% protoniert und zu 90% ungeladen vor. Histiain
+(2) ist wichtiger Bestandteil von Metalloproteasen, weil es mit seinem Imidazolinring an Me-
+tallionen wie Eisen, Zink und Nickelionen koordinativ binden kann. Histidin (2) kann durch
+die Histidindecarboxylase in den Neurotransmitter bzw. das Hormon Histamin (3) überführt-
+werden.
+
+	Histamin (3) ist das Decarboxylierungsprodukt der Aminosäure Histidin (2) [5]. Im
+Menschen kommt es als Hormon vor und wirkt auch als Neurotransmitter. Per Definition ist
+es ein Neurotransmitter, wenn er in der Synapse synthetisiert und gespeichert wird, um dann
+in den synaptischen Spalt ausgeschüttet zu werden. Ein Hormon ist es, wenn es an anderer
+Stelle (z.B. in Drüsen oder anderen Zellen) synthetisiert wird und in die Blutbahn abgegeben
+wird. Histamin ist auch im Tier-und Pflanzenreich weit verbreitet.
+	Histamin (3) entfaltet vielseitige Wirkungen: Es steigert die Drüsensekretion, erweitert
+die Blutgefässe und kontrahiert die glatte Muskulatur. Weiter hat Histamin (3) eine besondere
+Stellung bei allergischen Reaktionen. Tritt beispielsweise Histamin (3) durch einen Insekten-
+stich oder durch Kontakt mit Brennnesselhaaren (zusammen mit anderen Substanzen wie
+Ameisensäure) in die Haut, so kann eine schmerzhafte Rötung entstehen (zusammengefasst
+in [5)). Bei allergischen Reaktionen wird aus Mastzellen Histamin (3) freigesetzt, was sich in
+verschiedenen Symptomen äußern kann (Juckreiz, Niesen, Atemnot...). Dem wirken die
+Antihistaminika entgegen. Diese verdrängen Histamin (3) kompetitiv von den Histamin-
+Rezeptoren, wodurch die Erregung des Rezeptors unterbunden wird.
+	Heute unterscheidet man zwischen vier Histamin-Rezeptoren (H1, H2, H3, und H4). H1-
+Antihistaminika wirken allgemein gegen Allergien, während H2-Antihistaminika genutzt
+werden, um die Sekretion von Magensäure zu verringern und dadurch Magengeschwüre
+schneller heilen zu lassen. Der H3,-Rezeptor ist Gegenstand aktueller ZNS-Forschung, Als
+klassischer Heterorezeptor reguliert er die Freisetzung von Dopamin, Serotonin, Norepi-
+nephrin neben GABA und Acetylcholin. Demnach kann man mit H3-Antagonisten eine
+gesteigerte Freisetzung der genannten Neurotransmitter bewirken. Die potenziellen Anwen-
+dungsgebiete erstrecken sich von ADHS über Depression bis hin zur Regulierung des Hun-
+gergefühls. Bisher ist allerdings noch kein H3,-Antagonist als Arzneistoff auf dem Markt [6].
+Der H4-Rezeptor wurde erstmals im Jahr 2000 kloniert. Es wird angenommen, dass seine
+Funktion bei allergischen Reaktionen von Bedeutung ist. 4-Methylhistamin (11) ist ein selek-
+tiver potenter H4-Agonist [7].
+
+
+
+	Metabolisch wiederfährt dem Histamin (3) ein ähnliches Schicksal wie den anderen
+aminergen Neurotransmittern (Abb. 4). Es wird durch eine Aminoxidase (hier eine sog. Di-
+aminoxidase) in einen instabilen Aldehyd überführt, der daraufhin vor allem zur Carbon-
+säure 13 oxidiert wird. Allerdings unterscheidet sich der Metabolismus in der Periperie und

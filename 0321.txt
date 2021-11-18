@@ -1,0 +1,20 @@
+4.7. Oxazolylalkylamine
+
+
+
+	Eine Recherche mit SciFinder® und Beilstein X-Fire® ergab keinen Hinweis darauf, dass
+die Oxazolylalkylamine 1-3 (als Substanzen und als Substruktur; offenkettig) chemisch oder
+pharmakologisch untersucht wurden. Das Derivat 2 wurde zumindest in molekularmecha-
+nischen Berechnungen als möglicher Histamin H,-Agonist untersucht und mit Histamin (4)
+sowie 2-(4-Thiazolyl)ethylamin (5) verglichen [1]. Aus ihrer Studie schlossen sie auf eine
+Abnahme der Aktivität in der Reihenfolge Histamin (4), 5 und 2.
+	4-Aminomethyloxazol (6) wurde als mögliches, um ein C-Atom verkürztes Analogon
+zu Histamin (4) auf eine histaminartige Wirksamkeit geprüft (am isolierten Dünndarm des
+Meerschweinchens) [2]. Wie vom Autor erwartet, zeigte 6 keine agonistische Wirksamkeit.
+
+
+
+Literatur
+
+[1] C. Olea-Azar, J. Parra-Mouchet. Bol. Soc. Chilena Quimica 1999, 44, 99.
+[2] W. Schunack. Arch. Pharm. (Weinheim) 1974, 308, 75.

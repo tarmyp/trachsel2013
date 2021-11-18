@@ -1,0 +1,33 @@
+(1R,2R)-Enantiomer die 75-fache Affinität seiner Antipode aufwies (Ki= 11 vs. 820nM). Das
+aktivere Enantiomer verhielt sich bei In-vivo-Experimenten als partieller Agonist.
+
+
+
+4.3.2. 3-Thienylalkylamine
+
+	Lange Zeit wurden die Untersuchungen von Thiophen als Bioisoster nur an 2-substi
+tuierten Thiophenen vorgenommen. Die Gründe dafür dürften in der erschwerten syn-
+thetischen Zugänglichkeit von 3-substituierten Thiophen-Derivaten liegen. Thiophen re-
+agiert mit elektrophilen Agenzien stark bevorzugt in 2-Position (bei der entstehenden Zwi-
+schenstufe ist die positive Ladung besser delokalisiert als bei einem Angriff an 3-Position).
+	Die Tatsache, dass 2-THEA (1) eine den Blutdruck steigernde Wirkung vergleichbar dem
+Phenylethylamin (2) aufweist, und andere 2-Thienyl-Derivate mit den Phenyl-Verbindungen
+sehr große Ähnlichkeiten zeigen, veranlasste Campaigne und MeCarthy 1954, die entsprechen-
+den 3-Thienyl-Derivate 41-44 zu untersuchen [16]. Die Synthese wurde beschrieben, und
+ein Experiment zeigte, dass 3-THEA (41) rund einen Drittel der blutdrucksteigernden Wir-
+kung von Phenethylamin (2) aufweist [16]. Im Vergleich zur blutdruckerhöhenden Wirkung
+von Epinephrin (100%) war 3-THEA (41, 0.76%) etwa dreimal wirksamer als 2-THEA (1,
+0.19%)[16].
+
+
+
+	Die beiden Verbindungen 3-THAP (43) und 3-THMAP (44) wurden wie 2-THAP (3) und
+2-THMAP (13) bezüglich ihrer psychopharmakologischen Wirkung mit Amphetamin und
+Methamphetamin verglichen [6, 7]. Auch sie führten zu ähnlichen Effekten wie Amphetamin
+(5) resp. Methamphetamin (16), es wird jedoch eine höhere Dosis benötigt. Die Wirkdauer
+von 50mg 3-THAP (43) betrug rund 6 Stunden. Interessanterweise wurden im Gegensatz
+zum Regioisomer 2-THAP (3) bei 3-THAP (43) keine unangenehmen schwefelartigen
+Ausdünstungen nach Einnahme festgestellt (siehe Kapitel 4.3.1).
+
+	Das Derivat 45 wurde als möglicher Inhibitor der Dopamin-ß-Hydroxylase getestet
+[13]. Substanz 45 (Ki= 5704M) zeigte zwar eine deutlich schwächere inhibitorische Aktivität
