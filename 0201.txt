@@ -1,0 +1,34 @@
+3.11. Phenylalkylcycloalkylamine
+
+
+
+	Das Einbetten der Seitenkette von Phenylalkylaminen in einen Alicyclus bringt eine
+Vielzahl von strukturellen Möglichkeiten hervor. Cyclopropan wurde als kleinstmöglicher
+Alicyclus in einige Verbindungen eingebaut und führte teils auch zu sehr wirksamen Stoffen.
+
+	Die wohl grösste Bekanntheit dürfte das noch heute auf dem pharmazeutischen Markt
+vertretene (±)-Tranyleypromin (1, racemisch, trans) erlangt haben. Synthetisch wurde es erst-
+mals 1948 von Burger und Yost beschrieben [1]. Rund zehn Jahre später wurde entdeckt, dass
+diese Verbindung ein potenter, irreversibler und unselektiver Inhibitor der Monoaminoxida-
+se (MAO) A und B ist [2-4]. Durch die Hemmung der MAO-Enzyme erhöht sich allgemein
+die synaptische Konzentration von Norepinephrin, Epinephrin und Serotonin im Gehirn
+(siehe Exkurs Aminoxidasen). Diese Erhöhung lässt sich mit Hilfe von Tranylcypromin (1)
+positiv ausnutzen, und so wird es bis heute als effektives Antidepressivum verschrieben (Par-
+nate®, Jatrosom®). Bei der Verwendung ist allerdings eine strenge Diät einzuhalten, da durch
+die gleichzeitige Einnahme von Tranylcypromin (1) und tyraminreichen Nahrungsmitteln
+(z.B. Käse) ernsthafte Komplikationen auftreten können (siehe Exkurs Aminoxidasen). Ty-
+ramin wird normalerweise von der MAO-B abgebaut; wird dieses Enzym nun durch Tra-
+nyleypromin (1) inhibiert, so kann Tyramin nicht mehr abgebaut werden und es kommt zu
+einem bedrohlichen Blutdruckanstieg.
+	Klinische Studien ergaben, dass die einzelnen Enantiomere von Tranylcypromin (1a und
+1b), das im Handel immer als Racemat der frans-Stereoisomere vorliegt, unterschiedliche
+Wirkungen aufweisen [5]. Nur das (+)-[1S,2R]-Enantiomer 1a erzeugt eine Verbesserung
+der Symptome einer Depression, das (-)-[1R,2S]-Enantiomer 1b erwies sich als ineffektiv.
+Unterschiede im allgemeinen Befinden der Patienten wurden nicht festgestellt.
+
+
+
+	Nachdem von Tranylcypromin (1) die wertvollen pharmakologischen Eigenschaften be-
+kannt waren, wurde eine große Reihe von strukturellen Analoga (2-10) hergestellt [6] und
+Pharmakologisch untersucht [7]. Verbindung 8 zeigte in vitro und in vivo ungefähr die gleiche
+inhibitorische Potenz bezüglich der Monoaminoxidase-Inhibition [8].
