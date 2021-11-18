@@ -1,0 +1,25 @@
+	Ein Bromo-Substituent (Substanz 50, Ki= 1.3nM) oder gar ein großer (3-Phenyl
+Rest (Substanz 51, Ki= 3.2nM) erhöhen die Affinität von AMDA (4, Ki= 20nM) zum 5-HT2A-
+Rezeptor nochmals signifikant. Hier scheint allerdings eine Variation des 4-Substituenten
+nicht eine derart ausgeprägte Auswirkung auf die Affinität zu haben, wie dies bei den
+4-substituierten 2,5-Dimethoxyphenylalkylaminen beobachtet wurde (z.B. ein 4-MeO- oder
+gar 4-HO-Substituent vermindert die Affinität enorm, siehe Kapitel 8.5.6 sowie Tabelle 10 im
+Kapitel 8.5.12). Dies liegt vermutlich daran, dass AMDA mit seinem lipophilen Grundgerüst
+die antagonistischen Bindungserfordernisse bereits weitgehend abdeckt.
+
+	Aus all den strukturellen Erforschungen schlossen die Autoren, dass zwischen AMDA-De-
+rivaten und Phenylalkylaminen sowie den tricyclischen/polycyclischen Klassen der 5-HT2-Li-
+ganden eine gewisse Ähnlichkeit vorliegt, jedoch AMDA (1) und seine Derivate unterschiedlich
+zum 5-HT2A-Rezeptor binden [1]. Es wurde spekuliert, dass AMDA möglicherweise ähnlich
+wie die antagonistischen Phenylalkylamine binden könnte (z.B. DOPP, 48) und dass an diesen
+Rezeptoren multiple Bindungsmodi herrschen. Bei den AMDA-Derivaten liegen praktisch nur
+hydrophobe Wechselwirkungen mit den Rezeptoren vor. Entscheidend ist die Distanz zwi-
+schen Aromat und Stickstoff, der Abstand zwischen den beiden Aromaten sowie die Win-
+kelung, Geometrie und Spreizung der Aromaten. Wie bei den Phenylalkylaminen allgemein
+bekannt [21], konnte auch hier keine höhere Serotonin-5-HT2A vs. 5-HT2C-Subtyp-Selektivität
+erreicht werden (siehe auch Kapitel 8.5.1) [1].
+
+
+
+Tabelle 3. Einfluss verschiedener Substituenten im aromatischen Bereich von Phenylalkylaminen sowie
+AMDA (1) auf die Affinitäten zum [3H]Ketanserin-markierten 5-HT2A-Rezeptor (zusammengefasst in [1]).

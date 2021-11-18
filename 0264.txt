@@ -1,0 +1,29 @@
+	In einer Untersuchung aus dem Jahre 1973 ging man der Frage nach, inwiefern die
+einfache Struktur von 2-AT (20) Teile der LSD-Struktur nachahmen kann 28] (siehe dazu
+Kapitel 7.3.3.2 sowie 8,5.27.1).
+	2-AT (20) zeigte eine rund 50mal stärkere inhibitorische Eigenschaft auf das Enzym
+Phenylethanolamin-N-Methyltransferase (PNMT) als Amphetamin [5]. PNMT katalysiert
+den Transfer einer aktiven Methylgruppe von S-Adenosyl-L-methionin (SAM) auf Norepi-
+nephrin, woraus das Epinephrin (Adrenalin) entsteht (siehe auch Exkurs Naturstoffe).
+
+	Um die konformationellen Anforderungen für die Hemmung der Norepinephrin
+Aufnahme zu untersuchen, verglichen de Jong et al. 2-AT (20) mit Amphetamin, a-Ethyl-
+Pphenethylamin (α-EPEA, siehe Kapitel 3.6) und 2-Amino-1,2-dihydronaphthalin (2-ADN,
+25) [29]. Amphetamin war ein potenter Inhibitor (siehe Kapitel 2.3.2), und das um ein C-
+Atom verlängerte α-Ethylphenethylamin erwies sich als deutlich weniger aktiv in seiner inhi-
+bitorischen Potenz. Die beiden Verbindungen 2-AT (20) und 2-ADN (25) zeigten eine mit
+der von Amphetamin nahezu identische Inhibition der Norepinephrin-Aufnahme [29].
+
+	In Mäusen stimulierte 2-ADN (25) die Lokomotion um drei Viertel weniger potent als
+(+)-Amphetamin [26]. Durch die Trennung der Enantiomere von 2-ADN (25) offenbarte
+sich, dass ausschließlich das (-)-S-Isomer für die Wirkung des Racemates verantwortlich ist.
+Eine spätere Studie bestätigte die gefundenen Resultate mit einer Diskriminationsstudie in
+Mäusen [24]. In diesem Test war 2-ADN (25) ein Viertel und 2-AT (20) ein Achtel so potent
+wie (+)-Amphetamin.
+
+	Glennon et al. synthetisierte und untersuchte eine Reihe von N-alkylierten Phenylal-
+kylaminen (siehe Kapitel 3.1.1.2), um Liganden mit möglichst hoher Affinität zum Sigma-
+Rezeptor zu erhalten [30]. Dabei wurden auch rigide, benzannellierte Derivate (26-29) unter-
+sucht, die sich als potente Sigma-Liganden entpuppten. Verbindung 28 wies ein Ki= 7.90nM
+auf. Modifikationen am Aromaten veränderte die Affinitäten wenig, hingegen ist die Länge
+des „Linkers“, der C-Kette vom Stickstoff zum Phenyl-Ring, bestimmend.

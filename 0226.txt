@@ -1,0 +1,46 @@
+ZNS mit ungefähr 15mg Amphetamin vergleichbar, und die euphorischen Reaktionen seien
+deutlich weniger ausgeprägt als mit 30mg Amphetamin [7].
+	Pemolin (11; als Pemolin-Magnesiumkomplex auf dem Medikamentenmarkt vorhanden)
+wird heute z.B, unter Namen wie Tradon®, Hyperilex*, Cylert” oder Stimul® vorwiegend zur
+Behandlung von Narkolepsie und ADHS (Aufmerksamkeitsdefizit-Hyperaktivitätsstörung;
+auch als hyperkinetisches Syndrom bezeichnet) vermarktet. Es gibt seltene Fälle, bei welchen
+ein lebensbedrohliches Leberversagen aufgetreten ist. Daher sollte laut der Ärzteinformation
+von der Firma 13/}y [8] Pemolin (11) nur verwendet werden, wenn eine Behandlung mit an-
+deren verwendeten Medikamenten (z.B. Ritalin, siehe Kapitel 3.12.4.1) erfolglos war. Zudem
+müssen die Leberfunktionswerte regelmäßig geprüft werden.
+	Durch die antreibenden und leistungsteigernden Effekte wurde Pemolin (11) auf die Do-
+Ping-Liste genommen und steht in einigen Ländern auch auf der Liste der Betäubungsmittel.
+Ein Missbrauch von Pemolin (11) wurde unter anderem in Belgien, Deutschland, England,
+Thailand und Argentinien verzeichnet [7].
+
+	Dem Wirkmechanismus von Pemolin (11) liegt zumindest in vitro die kompetitive Hem-
+mung der Norepinephrin- und Dopamin-Aufnahme zugrunde [9]. Die verwandte Verbin-
+dung Fenozolon (15) zeigte diese Wirkungsweise ebenfalls, und zudem vermag Fenozolon
+(15) Norepinephrin, Dopamin und Serotonin freizusetzen [10] (siehe folgende Seiten). Die
+große strukturelle Ähnlichkeit zwischen Pemolin (11) und Fenozolon (15) lassen ähnliche Ef-
+fekte der Monoamin-Freisetzung vermuten. Es wäre daher von großem Interesse, ob Pemo-
+lin (11) als potenzieller Serotonin-Freisetzer allenfalls wie das Anorektikum Aminorex (17) zu
+einer pulmonalen Hypertonie führen kann (Diskussion siehe folgende Seiten).
+
+	Im Jahre 1962 publizierten Howell et al. eine Reihe von N,N-dialkyl-substituierten
+strukturellen Analoga (12) von Pemolin (11) [11]. Das N,N-Dimethyl-Analog 13 erwies sich
+als mildes Stimulans und Antidepressivum mit anorektischen Eigenschaften. Später erhielt es
+den Namen Thozalinon [12]. Verbindung 14 trägt eine zusätzliche Methyl-Gruppe in Benzyl-
+Position. Es erwies sich eher als zentraldämpfendes Agens [11].
+	Das N-Ethyl-Derivat 15 trägt den Namen Fenozolon (auch Phenozolon genannt) und
+wirke in klinischen Studien als Psychostimulans [13]. Baumevieille et al. berichten über dessen
+Missbrauchspotenzial [14]. Ramirez et al. zeigten 1978, dass Fenozolon (15) in vitro die Nor-
+epinephrin- und Dopamin-Aufnahme kompetitiv zu hemmen vermag [9]. Später zeigte sich,
+dass es Norepinephrin, Dopamin und Serotonin aus den intrazellulären Speicher freisetzen
+kann [10]. Somit fungiert es sowohl als Dopamin- als auch als Norepinephrin-Releaser und
+Reuptake-Inhibitor. Durch funktionelle Nuklear-Magnetresonanz konnte gezeigt werden,
+dass Fenozolon (15) (20mg) in einer Versuchsperson die cerebrale motorische Aktivität zu
+modulieren vermag [15].
+	
+	Weitere Substitutionen am exocyclischen Stickstoff sind in Ref. [16] zusammengefasst
+Darin ist auch die pharmakologische Untersuchung von Propargylpemolin (16) beschrieben.
+Mit dem Einführen eines Propargyl-Restes sollte überprüft werden, ob dieses Strukturele-
+ment, wie bei Selegilin (Kapitel 3.2.1) und Rasagilin (Kapitel 3.13), auch hier zu MAO-In-
+hibitoren und einer antidepressiven Wirkung führt, Diese Substanz zeigte sich in den Tests
+zur antidepressiven Wirkung (Maus-Dopa-Response Test) potenter als Pemolin (I) und Me-
+thylphenidat.

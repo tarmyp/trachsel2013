@@ -1,0 +1,14 @@
+	2.) Kupferhaltige Aminoxidasen benötigen als Cofaktor TPQ 2,4,5-Trihydr
+phenylalanin-Chinon; 2). Die zugehörigen Gene nennt man AOC für „Aminoxidase
+Copper-containing“. Der bekannteste Vertreter ist die Semicarbazid-sensitive Amin-
+oxidase (SSAO), die manchmal auch nach ihrem Gen AOC3 genannt wird. In diesem
+Zusammenhang sind die Diaminoxidase DAO und die Retina-spezifische Aminoxida-
+se RAO erwähnenswert; ihre Gene heißen AOC1 sowie AOC2. Das α-ständige H des
+Amins wird dabei formal auf ein Aspartat-Anion übertragen. In diesem Fall entsteht das
+Wasserstoffperoxid bei der Regeneration des TPQ [2].
+
+
+
+	Für beide gezeigten Abbaumechanismen ist die Abstraktion eines α-ständigen H der
+entscheidende Schritt. Somit wird Phenethylamin (3) in Phenylacetaldehyd (4) umge-
+wandelt. Das erklärt auch, weshalb Amphetamin (5) nicht von der MAO abgebaut wird.

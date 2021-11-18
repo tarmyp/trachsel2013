@@ -1,0 +1,39 @@
+	Das 2-Benzylaziridin (8) kann als cyclisiertes Amphetamin-Analogon betrachtet werden,
+bei den der Stickstoff mit der terminalen Methylgruppe verbunden ist. Es zeigte jedoch im
+Gegensatz zu Amphetamin (siehe Kapitel 2) in Mäusen keine Erhöhung der motorischen
+Aktivität, nach Verabreichung von 5mg/kg wurde sie sogar leicht gesenkt [3]. Die rektale
+Temperatur von Kaninchen wurde durch 2-Benzylaziridin (8) nicht beeinflusst [3]. Einerseits
+wurde die Fähigkeit des Moleküls, leicht hydrolysiert zu werden, diskutiert, wobei eine In-
+kubation (fünf Stunden bei 37°C in einem wässrigen Puffer bei pH 7.3) keine Veränderung
+der chemischen Struktur bewirkte. Andererseits diskutieren die Autoren den deutlich tieferen
+pKa-Wert: Amphetamin hat einen pKa-Wert von 9.9, und Verbindung 8 wird mit einem pKa-
+Wert von 7.2 im physiologischen Medium möglicherweise nicht wie erforderlich vollständig
+protoniert. Aziridine unterliegen einer enormen Ringspannung und werden daher, analog zu
+Epoxiden, sehr leicht von Nucleophilen angegriffen. Da sämtliche DNA-Basen nucleophile
+Eigenschaften haben, werden sie von Aziridinen alkyliert und dadurch chemisch verändert.
+Aziridine werden als krebserregend eingestuft.
+
+3.12.2. Azetidine
+
+	Die Verbindungen 9 und 10a-b (Racemate; nur ein Isomer gezeichnet) tragen einen
+viergliedrigen Ring und wurden als Azetidin-Analoga von Ephedrin auf ihre Inhibition
+der [H3]-Norepinephrin-Aufnahme untersucht [4]. Die räumliche Anordnung der Methyl-
+Gruppe relativ zum Phenyl-Ring oder zur Hydroxy-Gruppe war wie auch beim Ephedrin
+für die Inhibition entscheidend.
+
+
+
+3.12.3. Fünfgliedrige Azacyclen
+
+	Die Firma Boehringer patentierte 1959 die Substanz 2-Amino-5-phenyloxazolin-4-
+on (11), die später den Namen Pemolin erhielt (manchmal auch Phenoxazol, Phenyliso-
+hydantoin und Phenylpseudohydantoin genannt) [5]. Da Amphetamin zwar ein breites
+Wirkspektrum aufweist (siche Kapitel 2) und einige Effekte auch wünschenswert waren
+(z.B. die anorektischen oder die psychostimulierenden Eigenschaften), jedoch die vielen
+Nebenwirkungen überwogen (z.B. starkes Abhängigkeitspotenzial, Toleranzbildung, starke
+Blutdruckerhöhung, Schlaflosigkeit etc.) war eine Substanz wünschenswert, die frei von den
+unangenehmen Begleiterscheinungen ist. Pemolin (11) zeigte laut Aussagen der Patentin-
+haber in ersten psychopharmakologischen Untersuchungen eine Steigerung der Eiffizienz
+und funktionellen Kapazität, dies ohne euphorisierende Effekte. Versuchstiere (Ratten, Ka-
+ninchen, Katzen und Hunde) zeigten zudem nach der oralen sowie parenteralen Verabrei-
+chung einer Dosis von 5mg/kg Pemolin (11) eine bemerkenswerte Zunahme an physischer

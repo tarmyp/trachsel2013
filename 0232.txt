@@ -1,0 +1,30 @@
+	Es existieren vier mögliche Stereoisomere von 4 Methylaminorex (23a-d), wobei
+normalerweise das (±)-cis-Derivat 23a und 23b im Umlauf ist [38]. Young und Glennon
+zeigten, dass das (±)-cis-4-Methylaminorex (23a und b) in Cocain-trainierten Ratten
+(ED50 = 2.60mg/kg) mit einem ED50= 1.1mg/kg zwar potenter als Cocain, jedoch rund
+sechsmal weniger potent als rac. Aminorex (17; ED50= 0.22mg/kg) war [33]. Batsche et al.
+zeigten, dass 4-Methylaminorex (23) die Lokomotion von Versuchstieren anregt und ste-
+reotypes Verhalten erzeugt [39].
+	Kankaanpää et al. untersuchten die vier Stereoisomere auf ihre akuten neurochemischen
+Wirkungen und präsentierten, wie sie sich auf Lokomotion und stereotypes Verhalten von
+Ratten auswirken [38]. Die Autoren schlossen aus ihren Studien, dass die Substanzen vor
+allem via Freisetzung von Dopamin und in geringerem Ausmaß auch Serotonin wirken. Außer
+23c erhöhten alle Isomere die extrazellulären Dopamin- und Serotonin-Konzentrationen
+(DA: 23d > 23a ≈ 23b > 23c; 5-HT: 23a > 23d ≈ 23b > 23c). Aufgrund der Serotonin-
+freisetzenden Wirkung besteht bei der Einnahme von 4-Methylaminorex (23) das Risiko zur
+Entwicklung einer tödlich verlaufenden pulmonalarteriellen Hypertonie. Erste dokumentierte
+Fälle scheinen diese Hypothese zu bestätigen [40].
+
+
+
+	Naheliegend ist auch die Substitution am exocyclischen Stickstoff, und so wurden von Poos
+et al. auch eine Reihe solcher Substanzen untersucht (Struktur 18, siehe vorhergehende Seiten)
+[6]. Die anorektische Wirkung wird mit der Substitution am Stickstoff (Verbindungen 26
+und 27) eingebüßt. Einzig das Dimethyl-Derivat 28 bewahrte seine hungerunterdrückenden
+Eigenschaften mit einem ED50-Wert von 7mg/kg.
+	Die Substitution am endocyclischen Stickstoff führte ebenfalls zu aktiven Verbindungen;
+zumindest das Derivat 29 (3,4-Dimethylaminorex oder N-Methyl-4-methylaminorex; 4S,5S-
+Isomer) substituierte in einer Diskriminationsstudie mit einem ED50 von 2.0μmol/ kg kom-
+plett für (+)-Amphetamin (ED50= 1.9μmol/kg; Ratten) [34] und war somit ähnlich potent
+wie Amphetamin selbst. So wie Aminorex aus 2-Amino-1-phenylethanol und 4-Methylami-
+norex aus Norephedrin in einem einfachen Einschritt-Verfahren hergestellt werden kann,

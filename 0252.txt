@@ -1,0 +1,39 @@
+	Die als Medikament erhältliche Form von Phendimetrazin ist ein racemisches Gemisch
+der transoiden Stereoisomere. Phendimetrazin (101) war essenziell inaktiv an den DA-, NE-
+sowie 5-HT-Transportern [30]. Im Gegensatz dazu erwies sich das N-Desmethyl-Derivat
+Phenmetrazin (100) als potentes Substrat für den DAT und NET und vermochte DA sowie
+NE freizusetzen. Serotonin konnte es rund 100mal weniger und somit nur unwesentlich
+freisetzen. Da NE rund fünfmal stärker freigesetzt wurde als DA, wird vermutet, dass Phen-
+dimetrazin (101) resp. dessen Metabolit Phenmetrazin (100) seine Effekte primär durch Frei-
+setzung von NE erzeugt (siehe dazu auch noradrenerge Hypothese im Kapitel 2.3.2).
+	Die beiden transoiden 100a und 100b erwiesen sich als potenter als die cisoiden Ste-
+reoisomere 100c und 100d (rund 10mal potenter für das Freisetzen von NE). Interessan-
+terweise zeigten die cisoiden Stereoismere eine unterschiedliche (schwache) Interaktion mit
+dem DA-Transporter: 100c ist ein Wiederaufnahme-Hemmer von Dopamin und 100d ist ein
+Freisetzer von Dopamin [30].
+
+
+
+	Da Phendimetrazin (101) als Anorektikum verwendet wird/wurde, stellt sich unweiger -
+lich die Frage, ob es wie andere Anorektika (siehe bei Aminorex (17) im Kapitel 3.12.3.) zu
+pulmonaler Hypertonie oder Herzkrankheiten führen kann. Bisher gibt es keinen konkreten
+Hinweis darauf. Die allgemeine Patienteninformation weist zumindest darauf hin, dass bei
+erhöhtem Blutdruck von dessen Verwendung abzusehen ist und dass Herzrhythmusstörun
+gen entstehen können. Vergleicht man die molekularen Mechanismen von Anorektika, die
+mit einer pulmonalen Hypertonie in Zusammenhang gebracht wurden, so lassen diese nicht
+direkt eine mögliche Gefahr erkennen. Die problematischen Anorektika sind alle potente
+Substrate des Serotonin-Transporters, und Phendimetrazin (101) resp. Phenmetrazin (100)
+zeigte nahezu keine Aktivität an diesem Transporter.
+
+	Interessanterweise schienen arylsubstituierte Analoge des Phenmetrazins (100) bislang
+nahezu unbekannt zu sein; erst im Jahr 2011 wurde (unter anderem von Rothman) eine
+Patentschrift offengelegt, die — unter Berücksichtigung der Stereochemie — zahlreiche aryl-
+substituierte Phendimetrazin-Analoga (102) sowie Positionsisomere (103-104) und deren
+Interaktion mit den Monoamin-Transportern beschreibt [137]. Ziel der Erfindung ist die
+Modulation der Monoamin-Levels mit Hilfe der neuen Substanzen und damit die Behand-
+lung von Krankheiten wie Adipositas, Depression oder Abhängigkeit. Da der Serotonin
+5-HT2B-Rezeptor als sogenanntes Antitarget gilt (siehe Exkurs Anorektika), wurden jeweils
+zusätzlich die Aktivitäten an diesem Rezeptor bestimmt. Ähnlichen Verbindungen, z. B.
+105 [138] oder G 130 (106) [139], wurden bereits Jahrzehnte zuvor anorektische und sti-
+mulierende Eigenschaften zugeschrieben. Spannend wäre, die sauerstofffreien analogen
+Verbindungen ebenfalls auf die Interaktion mit der monoaminergen Neurotransmission

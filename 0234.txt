@@ -1,0 +1,45 @@
+3.12.4. Sechsgliedrige Azacyclen
+
+3.12.4.1. Piperidine
+
+	1-Phenylpiperidin (36) wurde von Glenmon et al. in einer Struktur-Aktivitäts-Studie zu
+Liganden für den Serotonin 5-HT1A-Rezeptor untersucht. Zu diesem Rezeptor zeigte 36 nur
+eine mäßige Affinität (Ki= 1520nM) [44].
+	Um die Rolle des Cycloalkyl-Rings in Phencyclidin (39) zu erforschen, stellten MeOuinn et
+al. eine Reihe von Substanzen des Typs 37 her (n= 0; 2-7) [45]. 1-Benzylpiperidin (38; n= 0 in
+37) zeigte zn vitro (PCP-Bindungsassay, Rattenhirn) und in vivo (diskriminativer Stimulus-Test,
+Ratten) nahezu keine messbare biologische Aktivität.
+
+	Phencyclidin (39; Phenyloyclohexylpiperidin, kurz PCP) wurde in den 1960er Jahren un-
+ter dem Namen Sernyl® als nichtnarkotisches Anästhetikum für die Humanmedizin ein-
+geführt. Das Auftreten von Halluzinationen während des Erwachens aus der Anästhesie
+führten jedoch zu dessen Rückzug vom pharmazeutischen Markt [46]. Die psychotrope
+Wirkung war es schließlich, die dem Phencyclidin Popularität verlieh. So findet es noch
+heute unter Namen wie PCP oder „Angel Dust“ auf dem illegalen Betäubungsmittelmarkt
+seinen Absatz. Weitere Derivate, in denen das Piperidin durch andere cyclische sowie alicy-
+clische Amine ersetzt wurde, wie Eticyclidin (40) und Rolicyclin (41), werden missbraucht.
+Der bioisostere Austausch des Phenylrings durch einen 2-Thienylrest führt teilweise zu
+noch potenteren Verbindungen, wie Tenocyclidin (42). Tiletamin (43), das als ein Thio-
+phen-Analogon des Ketamins (45) gesehen werden kann, wird in der Veterinärmedizin
+zum Betäuben von Großwild verwendet. Diese dissoziativ wirkenden Verbindungen sind
+Open-channel-Blocker des NMDA-Rezeptors (N-Methyl-D-Aspartat), der zu den ionotro-
+pen Glutamatrezeptoren gehört.
+
+	Das ebenfalls populäre Ketamin (45) weist eine ähnliche Struktur wie Phencyclidin
+(39) auf. Da eine dissoziative Anästhesie (Trennung von Körper und Geist) oft auch mit
+einem tiefgreifenden, von Ängsten geprägten psychischen Erlebnis einhergeht, ist die
+medizinische Anwendung von Ketamin (45) am Menschen problematisch. Trotzdem ist es in
+der Notfallmedizin immer noch ein wichtiger Arzneistoff. Ein Zusatz von Benzodiazepinen
+wie z.B. Midazolam kann die albtraumartigen Halluzinationen während der Aufwachphase
+mindern. Als Dissoziativum und Rauschmittel wird es ähnlich wie Phencyclidin (39) häufig
+missbraucht. Es liegen zahlreiche Berichte von Horrortrips vor, die nicht selten mit einer
+Aufnahme in einer psychiatrischen Klinik enden, dies wegen unvorsichtiger Dosierung. Die
+beiden Stoffe bewirken beim Konsumenten eine intensive Analgesie und Amnesie, ohne dass
+dabei Schlaf eintritt. Das Erlebte wurde gelegentlich mit einer Nahtoderfahrung verglichen
+[47]. Auf Grund der Analgesie kann es während des Trips zu Selbstverletzungen kommen
+	Neuere Untersuchungen zeigen, dass einige NMDA-Antagonisten dieser Klasse
+antidepressiv wirksam sind, und im Gegensatz zu herkömmlichen Antidepressiva sofort
+wirken [48].
+
+	Ein anderer wichtiger Faktor ist die Dosis solcher Verbindungen. Bei Erowid findet man
+z.B. für Phencyclidin (39) unter „light oral PCP dose“ einen Bereich von 3-5mg. Dabei werden

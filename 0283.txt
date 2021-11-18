@@ -1,0 +1,20 @@
+zum 5-HT2A-Rezeptor wieder deutlich schlechter. Interessanterweise nehmen mit einer
+C4-Kette (36, Ki= 32nM) die Affinitäten wieder zu und sind fast im selben Bereich wie
+AMDA (1) selbst. In diesem Fall ist der Abstand derselbe, wie bei Chlorpromazin (21), das
+als Antipsychotikum als Dopamin-, Histamin- und Serotonin-Antagonist wirkt. Dieser
+Affinitätsknick in einer homologen Reihe könnte auf einen anderen Bindungsmodus
+schließen lassen.
+
+	Im Rahmen der Untersuchungen zu AMDA (1) wurden konsequenterweise auch Ver-
+bindungen auf ihre Affinität hin untersucht, die am aromatischen Teil einen oder mehrere
+Substituenten tragen (Substanzen 50-56, Tabelle 3, zusammengefasst in [1]). Die R1-
+Substituenten in 50-56 sind vor allem solche, die sich in 4-substituierten 2,5-Dimethoxy-
+phenethylaminen bewährt haben: ein zur Alkylamin-Kette in para-Position stehender
+Substituent bestimmt sowohl maßgebend die Affinität als auch die funktionelle Akti-
+vität am 5-HT2A-Rezeptor (siehe Kapitel 8.5). Während DMA (46) keine nennenswerte
+Affinität zum 5-HT2A-Rezeptor hat, weisen die 4-substituierten Derivate 47 und 48 hohe
+Affinitäten auf. Dabei ist DOB (47) ein Agonist und DOPP (48) ein Antagonist (siehe
+Kapitel 8.5.4). Mit geeignetem (großem, lipophilem) 4-Substituent können auch ohne die
+2,5-Dimethoxysubstitution relativ affıne Phenethylamine zu dieser Bindungsstelle erreicht
+werden, allerdings sind dies Antagonisten (z.B. 4-PPPEA, 49, siehe Kapitel 7.2.1). Dieselben
+Substituenten wurden an den AMDA-Derivaten geprüft (siehe Tabelle 3).

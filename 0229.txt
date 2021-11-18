@@ -1,0 +1,47 @@
+Serotonin aus den Nervenendigungen). Daraus stellte sich die Frage, ob sich dies auch im
+vegetativen Nervensystem abspielen kann. In der Lunge sind Serotonin-Rezeptorsysteme
+vorhanden, und die im Lungengewebe vorhandenen Serotonin-Transporter (SERT) sind mit
+denen des Hirns identisch [20].
+	Serotonin ist ein aktives Mitogen und regt als solches, vor allem durch den 5-HT2B-Re-
+zeptor vermittelt, die Zellteilung von Myocyten an [21 22] Dadurch wuchert das Gewebe
+um die Herzklappen, was zu einer Verengung führt. Erschwerend kommt noch hinzu, dass
+Serotonin ein extrem potenter Vasokonstriktor ist. Im Blut findet man Serotonin vor allem
+in den Blutplättchen. Normale Plasmaspiegel liegen sehr tief (<1nM), da Serotonin durch
+Transporter von den Bluttplättchen wieder aufgenommen wird [23] Die Monoaminoxidase
+trägt durch den Metabolismus von Serotonin ebenfalls zum Erhalten dieser tiefen Konzen-
+trationen bei.
+	Patienten mit PAH wiesen verglichen mit Kontrollpersonen erhöhte Konzentrationen
+von im Blutstrom zirkulierendem Serotonin auf (zusammengefasst in [23]). Bereits 1974
+zeigten Seiler, Wassermann und Wensky, dass Aminorex (17) in isolierten Lungen der Ratte die
+Aufnahme von Serotonin hemmt [24]. Dies führte zu erhöhten Serotonin-Konzentrationen
+im Plasma und folglich zu einer pulmonalen Vasokonstriktion. Nun könnten Personen, die
+bereits erhöhte Serotonin-Konzentrationen im Blut aufweisen oder solche die eine erhöhte
+pulmonale Sensitivität gegenüber Serotonin zeigen, durch die Einnahme von Aminorex (17)
+eine zusätzliche Belastung erfahren, was schließlich zur PAH führen könnte [23]. Auch Rubin
+et al. weisen darauf hin, dass anorektische Mittel die Entwicklung einer PAH in Patienten mit
+einer Prädisposition der PAH beschleunigen könnten [25]. Was allerdings dieser Hypothese
+zunächst widersprach, war die Erkenntnis, dass es auch Serotonin freisetzende Substanzen
+wie das Anorektikum Fenfluramin gibt, die gemäß Untersuchungen in den 1990er Jahren die
+Plasmakonzentrationen von Serotonin nicht erhöhen, obwohl Fenfluramin eine PAH auslö-
+sen kann (zusammengefasst in [23]).
+	Es stellte sich dann aber heraus, dass durch die noch bis heute sehr anspruchsvolle Mes-
+sung von Serotonin im Blutplasma vermutlich Fehler in den früheren Messungen erfolgten
+[23]. Denn neuere In-vitro- und In-vivo-Untersuchungen zeigten klar, dass diverse Amphet-
+amin-Analoge (Fenfluramin, MDMA, Methamphetamin, Amphetamin) dosisabhängig die
+Serotoninkonzentration im Blut erhöhen [23].
+
+	Die meisten Anorektika entfalten ihre hungersenkende Wirkung durch eine Erhöhung
+der 5-HT-, DA- und NE-Spiegel, oder einer Aktivierung des 5-HT2C-Rezeptors (zusammen-
+gefasst in [26]). Weiter gibt es Substanzen, die den Cannabinoid-Rezeptor CB1, antagonisieren
+[27]. Gegenstand aktueller Untersuchungen sind Opioid-Rezeptoren [22]. Im Exkurs Ano-
+rektika werden verschiedene Substanzklassen und Targets besprochen.
+
+	Rothman et al. publizierten, dass alle bekannten anorektischen Substanzen, die das
+(unterschiedlich stark ausgeprägte) Risiko für die Entwicklung einer PAH erhöhen, Substrate
+des SERT sind (Tabelle 1) [26, 28]. Sie vermuteten, dass einige dieser Substanzen oder deren
+Metaboliten in die pulmonalen Zellen transportiert werden und so eine PAH auslösen könnten.
+Substanzen, die eine hohe Affinität zum SERT aufweisen, jedoch als Wiederaufnahme-
+Hemmer (Reuptake-Inhibitoren; RIs) fungieren und nicht in die Zelle transportiert werden,
+bewirken folglich keine Freisetzung von Serotonin aus der Zelle, sondern erhöhen die
+Plasmakonzentration durch Hemmung der Wiederaufnahme von Serotonin. Diese Art von
+Substanzen scheint nicht mit einer PAH in Verbindung gebracht werden zu können [26, 28].

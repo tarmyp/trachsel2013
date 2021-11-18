@@ -1,0 +1,33 @@
+	Um allenfalls an noch potentere Verbindungen zu gelangen, wurden auch die cyclischen
+Verbindungen (6-9) auf diese Eigenschaften geprüft [13]. Die Substanzen 4 und 7 erwiesen
+sich als die potentesten MAO-Hemmer. Verantwortlich für die irreversible MAO-Hemmung
+ist die N-Propargylgruppe, die eine kovalente Bindung zum FAD (Flavin-Adenin-
+Dinukleotid) ausbilden kann, das Bestandteil des Enzyms MAO ist (siehe auch Exkurs
+Aminoxidasen) [14].
+
+
+
+	Die frühen Studien rund um diese Moleküle brachten schließlich Rasagilin (10a) hervor, das
+Demethyl-Produkt des einen Stereoisomers von 4. Es ist heute als irreversibler und selektiver
+MAO-B Inhibitor bekannt [15] (siehe auch Exkurs Aminoxidasen), und erhielt 2005, nach
+eingehenden Studien mit 0.5mg bis 2mg pro Tag, die Zulassung zur Behandlung der Parkinson-
+Krankheit (Handelsname: Azilect®). Des weiteren wurden in vitro und in vivo neuroprotektive
+Effekte gefunden [16]. Rivastigmin (11) wird seit 2006 als Exelon® für die symptomatische
+Behandlung der leichten bis mittelschweren Alzheimer-Krankheit eingesetzt und ist zusätzlich
+für die Behandlung der Parkinson-Demenz zugelassen [17]. Rivastigmin (11) hemmt die Ace-
+tycholinesterase und die Butyrylcholinesterase [18]. Es wird von Novartis nebst oralen Formu-
+lierungen auch als transdermales Pflaster vermarktet 119].
+
+	Das evolutionäre Kombinieren der Pharmakophoren von Rasagilin (10a) und Rivastigmin
+(11) ebnete Ladostigil (TV-3,326, 12) den Weg für klinische Untersuchungen [20]: Ladostigil
+(12) ist ein neuroprotektives Mittel, das für die Behandlung von neurodegenerativen Erkran-
+kungen wie Alzheimer- oder Parkinson-Krankheit untersucht wird. Es wirkt als reversibler
+Acetylcholinesterase- und Butyrylcholinesterase-Inhibitor und ist zugleich ein irreversibler
+MAO-B-Inhibitor [21]. Es soll die Wirkmechanismen von Medikamenten wie Rasagilin (10a)
+und Rivastigmin (11) in einem einzigen Molekül vereinen.
+
+	Das Stereoisomer 10b, die zwei N-Methyl-Derivate 13a und 13b sowie eine weitere
+umfangreiche Reihe von analogen Strukturen von 10-12 wurden ebenfalls auf die MAO-A
+und MAO-B sowie auf die Acetylcholinesterase (AChE) hemmende Wirkung untersucht [20].
+
+5

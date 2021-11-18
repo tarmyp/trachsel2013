@@ -1,0 +1,34 @@
+3.14. Benzannellierte Azacycloalkane
+
+
+
+	Das Einbetten des Stickstoffs in den benzannellierten Alicyclus ergibt eine immense An-
+zahl von Verbindungen. Die in der Natur äußerst weit verbreiteten Indol-, Tetrahydrochi-
+nolin- sowie Tetrahydroisochinolin-Derivate geben davon Zeugnis. Das Gebiet ist eindeutig
+zu umfassend, als dass es hier angemessen behandelt werden könnte, und hat daher eine
+Abhandlung in eigenständigen Büchern verdient. Deshalb sollen von den genannten Klassen
+nur wenige, chemisch einfache Strukturen behandelt werden. Eine kleine Übersicht ist auch
+im Exkurs Naturstoffe zu finden.
+
+
+3.14.1. Indolin- und Indol-Derivate
+
+	Das Verbinden der Alkylamin-Seitenkette mit einem Benzen-Ring wurde im vorher-
+gehenden Kapitel (3.13) mit diversen Positionen besprochen, ausser mit dem Stickstoff selbst.
+Man gelangt hier aber in eine völlig neue Substanzklasse, nämlich zu den Indolin-Derivaten
+(1), die nach Oxidation den aromatischen Heterocyclus Indol (2) bilden. Da die Lonepair-
+Elektronen des Indol-Stickstoffs zur Aufrechterhaltung seiner Aromatizität benötigt werden,
+kann Indol eher deprotoniert, als protoniert werden. Das heißt, dass der Stickstoff anders
+als bei den Phenethylaminen nicht basisch ist. Die basische Funktion übernimmt in solchen
+Verbindungen oft ein zweiter, meist mit zwei Kohlenstoff-Atomen vom Indol-Gerüst
+entfernter Stickstoff, woraus man Tryptamin (3) und seine Derivate erhält.
+
+
+
+	Vorneweg sei gesagt, dass dem Tryptamin (3) und dem Serotonin (4) sowie deren span-
+nenden Derivaten in diesem Buch aus konzeptionellen Gründen nicht angemessen Rechnung
+getragen werden kann, Seit den ersten in Pubmed erfassten Publikationen (1948) wurden
+Serotonin (4), seine Rezeptoren und dessen Transporter überaus intensiv erforscht; dabei
+erschienen bis Ende 2012 über hunderttausend (120 000 !) Publikationen mit dem Stichwort
+
+

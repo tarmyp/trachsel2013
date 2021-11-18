@@ -1,0 +1,39 @@
+	Prodin-Derivate wie das synthetische Opioid MPPP (81) sind auf dem Schwarzmarkt
+aufgetaucht und haben für Schlagzeilen gesorgt, da bei Konsumenten vermehrt Falle von
+Morbus Parkinson aufgetreten sind. Die Ursache für die Erkrankung liegt in einer chemischen
+Verunreinigung: Bei unsachgemäßer Synthese von MPPP (81) wird Propionsäure eliminiert,
+wobei MPTP (82) entsteht. Dieses kann die Blut-Hirn-Schranke überwinden und wird im
+Gehirn zu MPP+ (83) oxidiert (Abb. 6). MPP+ (83) kumuliert im Gehirn, da es als geladene
+Spezies die Blut-Hirnschranke nicht mehr in die Gegenrichtung überwinden kann. Es hat
+eine hohe Affinität zum Dopamin-Transporter (DAT), wird so in dopaminerge Neuronen
+geschleust und bringt in den Mitochondrien die Energieversorgung zum Erliegen. Dadurch
+gehen dopaminerge Neuronen zugrunde und es entstehen Symptome wie bei Morbus
+Parkinson [108, 109].
+
+
+
+Abb. 6. Bei unsachgemäßer Synthese von MPPP (81) entsteht MPTP (82). Beim Konsum entsteht durch
+das körpereigene Enzym Monoaminoxidase B (MAO-B) das Morbus Parkinson auslösende Neurotoxin
+MPP+ (83) [108, 108].
+
+
+3.12.4.2. Piperazine
+
+	Das 1-Phenylpiperazin (72; 1-PP) wurde in einer Struktur-Aktivitäts-Studie von Glennon
+etal. zusammen mit anderen Analoga untersucht [110]. In einer Drug-Discrimination-Studie
+an Ratten (Training Drug: (+)-Amphetamin; 1.0mg/kg) vermochte es bei keiner der ge-
+testeten Dosierungen (0.5-2.0mg/kg) zu generalisieren. Die Inaktivität konnte nicht damit
+erklärt werden, dass 1-Phenylpiperazin (72) im Vergleich zu Amphetamin einen sekundären
+Stickstoff trägt, denn Methamphetamin weist diesen ebenfalls auf und ist hochpotent. In-
+teressanterweise entspricht die Distanz des sekundären Stickstoffs zum Aromaten in 72 nä-
+herungsweise derjenigen in Amphetamin. Als mögliche Erklärungen erwähnten die Autoren
+elektronische Effekte des Piperazin-Ringes auf den Aromaten, eine ungünstige Ausrichtung
+des Phenyl-Rings zum Piperazin-Ring durch π-Überlappung des Elektronenpaars vom terti-
+ären Stickstoff mit dem Aromaten oder andere durch den Piperazin-Ring bedingte sterisch
+und/oder elektronisch ungünstige Faktoren, a 1nıdee
+	Weiter diente 1-Phenylpiperazin (72) als Leitstruktur bei der Suche nach Liganden des
+Serotonin 5-HT1A-Rezeptors [44]. 1-Phenylpiperazin (72) zeigte zu diesem Rezeptor eine
+Bindungskonstante von Ki= 380nM ([3H]OH-DPAT-Austausch) und, eine etwas tiefere
+Affinität am 5-HT1B-Rezeptor (Ki= 820nM). Diverse Substituenten am Aromaten und auch
+am zweiten Stickstoff führten teils zu sehr potenten Liganden, die eine vergleichbare Affinität
+wie Serotonin (5-HT1A Ki= 2nM) aufwiesen, 1-Phenylpiperazin (72) zeigte eine schwache

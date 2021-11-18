@@ -1,0 +1,45 @@
+vieler anderer Arzneistoffen verändert sein, was teils zu schweren Nebenwirkungen
+führt. In diesem Zusammenhang wird immer wieder das synthetische Opioid Pethidin
+siehe Kapitel 3.12.4.1) genannt, das in Kombination mit MAO-Hemmern lebensbe-
+drohliche Erregungszustände hervorrufen kann [20].
+	Da Tyrosin von der MAO-A und der MAO-B abgebaut werden, versucht man
+heute cher selektive Hemmstoffe zu verwenden, damit zumindest der andere, nicht
+gehemmte MAO-Subtyp zum Abbau von biogenen Aminen verfügbar ist. So werden
+bei Depression vor allem MAO-A-Hemmer eingesetzt, weil die MAO-A bevorzugt
+Serotonin abbaut, und bei Morbus Parkinson eher MAO-B-Hemmer. Trotzdem
+sollte jeder, der MAO-Hemmer einnimmt, besonders vorsichtig mit der Einnahme
+irgendwelcher Medikamente sein und auf seine Ernährung achten!
+	Von Schamanen in Südamerika wird seit Jahrtausenden ein halluzinogenes Gebräu
+mit dem Namen Ayahuasca hergestellt und rituell verwendet [21]. Es enthält einerseits
+Pflanzenteile (Blätter der Pflanze Psychotria viridis), die Dimethyltryptamin (DMT) enthal-
+ten. Dieser Stoff hätte oral eingenommen an sich im Menschen keinerlei Wirkung [22],
+da er von der MAO sofort abgebaut wird. Das wussten die Schamanen damals nicht;
+hingegen wussten sie, dass sie — wenn sie dem Gebräu andererseits weiteres Pflanzenma-
+terial beimischten (Dschungelliane Banisteriopsis caapi), das MAO-hemmende Harman-
+Alkaloide enthält (z.B. Harman, Harmol, Harmalol und Harmalin), dann ihren höchst
+wirksamen „Zaubertrank“ erhielten [21, 23, 24].
+
+	Eine weitere Komplikation kann auftreten, wenn MAO-Hemmer zusammen mit Ver-
+bindungen eingenommen werden, die über einen anderen Mechanismus den Serotonin-
+spiegel erhöhen. Dazu gehören die meisten Antidepressiva, vor allem Serotonin-Wieder-
+aufnahmehemmer (SERT-Inhibitoren) oder gar Serotonin-freisetzende Substanzen, wie
+MDMA (siehe Kapitel 7.5.6). Diese Kombination führt zu einer gefährlich überstei-
+gerten Serotoninkonzentration, die zu Symptomen wie Übelkeit, Durchfall, Schüttel-
+frost, Tremor, Muskelsteifheit, Kopfschmerzen, Schlaflosigkeit, Verwirrtheit und Fieber
+führen kann. Die Effekte ähneln in gewissem Maße den extrapyramidalen, parkinson-
+ähnlichen Störungen während einer Neuroleptika-Behandlung und können lebensbe-
+drohliche Zustände annehmen. Man spricht hier vom Serotonin-Syndrom. Ein Sero-
+tonin-Syndrom kann nicht nur in Kombination mit MAO-Hemmern auftreten, sondern
+generell durch Überstimulation des serotonergen Systems, z.B. durch eine Überdosie-
+rung eines Serotonin-Agonisten.
+
+	Es soll hier kurz über das Vorkommen der Aminoxidasen diskutiert werden, da
+das extrazelluläre oder intrazelluläre Vorkommen einen maßgeblichen Einfluss auf die
+tatsächliche Wirkung im Organismus hat, Wie erwähnt, kommen die MAO-A und die
+MAO-B nur intrazellulär vor.
+	Mit der Nahrung zugeführtes Tyramin hat so lange keinen Effekt, bis es von Mo-
+noamintransportern wie dem Norephedrin-Transporter (NET) oder dem Dopamin-
+Transporter (DAT) aktiv ins Zellinnere transportiert wird [25]. Sobald das Tyramin in
+der Zelle ist, kann es von der MAO abgebaut werden. Wenn das nicht geschieht, weil die
+MAO gehemmt ist, dann wirkt Tyramin an den Monoamintransportern als Norepine-
+Phrin- und Dopamin-Releaser [26]. Da Tyramin die Blut-Hirn Schranke nicht überwin-

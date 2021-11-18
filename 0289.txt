@@ -1,0 +1,63 @@
+4. Heteroatrylalkylamine
+
+	Bei den Heteroaromaten handelt es sich um aromatische Cyclen, die mindestens ein
+Heteroatom aufweisen. Sie können im Vergleich zu Benzen stark differierende physiko-
+chemische Eigenschaften aufweisen, was sie für das Modulieren von pharmakologisch ak-
+tiven Wirkstoffen, aber auch von Materialeigenschaften attraktiv macht. Man unterscheidet
+zwischen μ-elektronenreichen und μ-elektronenarmen Heteroaromaten. Die Reaktivität,
+Elektronendichte-Verteilung, Polarisation und sterische Beanspruchung sind Eigenschaften,
+welche die Heteroaromaten vom Benzen unterscheiden. Es gibt auch bi- oder mehreyclische
+Aromaten (z.B. Indol, Benzofurane, Purine etc.), jedoch wurde hier das Augenmerk auf mo-
+nocyclische Systeme beschränkt. Um den Rahmen nicht zu sprengen, wurden praktisch nur
+solche Substanzen gesammelt, die keine weiteren Substituenten am Heteroaromaten tragen.
+Bei dieser strukturellen Modifikation kommt unweigerlich der Begriff Bioisosterie ins Spiel.
+Da sich die Bioisosterie aber nicht nur auf Ring-zu-Ring-Transformationen beschränkt und
+diese Thematik ein ebenso wichtiges wie interessantes Werkzeug des Medizinalchemikers ist,
+wurde eigens ein Exkurs zur Bioisosterie erstellt.
+
+Kapitel 4.1.
+Pyrrolylalkylamine (~20)
+
+
+Kapitel 4.2.
+Furanylalkylamine (~15)
+
+
+Kapitel 4.3.
+Thienylalkylamine (~40)
+
+
+Kapitel 4.4.
+Selenienylalkylamine (3)
+
+
+Kapitel 4.5.
+Telluroylalkylamine (1)
+
+
+Kapitel 4.6.
+Imidazolylalkylamine (~15)
+
+
+Kapitel 4.7.
+Oxazolylalkylamine (1)
+
+
+Kapitel 4.8.
+Thiazolylalkylamine (~10)
+
+
+Kapitel 4.9.
+Isoxazolylalkylamine (3)
+
+
+Kapitel 4.10.
+Isothiazolylalkylamine (2)
+
+
+Kapitel 4.11.
+Pyridylalkylamine (~15)
+
+
+Kapitel 4.12.
+Diazinylalkylamine (3)

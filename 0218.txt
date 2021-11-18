@@ -1,0 +1,44 @@
+den kann, geschieht die Norepinephrin- Ausschüttung ausschließlich in der Peripherie
+und führt so zu dem bekannten Cheese Effect [17]. Wenn man sich diesen Prozess vor
+Augen hält, wird klar, dass die eigentlichen Prozesse tatsäc hlich im Zellinneren ablaufen
+und dass Tyramin zuerst in die Zelle eindringen muss, bevor es irgendwelche Effekte
+haben kann. Diese Tatsache erklärt auch, weshalb Hemmstoffe des Norepinephrin-
+Transporters den Cheese Effect verhindern können [27, 28]. Generell gilt es als gefährlich,
+MAO-Hemmer mit Stoffen zu kombinieren, die den Serotonin-Transporter SERT hem-
+men, da die Gefahr eines Serotonin-Syndroms besteht [29].
+	Auch wenn es detailliert bisher nicht untersucht ist, muss zwangsläufig auch ein
+MAO-Hemmer zuerst in die Zelle aufgenommen werden, um den Tyramin-Abbau zu
+hemmen. Für harmanartige Verbindungen ist beschrieben, dass sie über den Dopamin-
+Transporter ins Zellinnere geschleust werden [30].
+	Angesichts der Fülle an anderen Aminoxidasen und FAD-abhängigen Enzymen, ist
+es nicht verwunderlich, wenn sogenannte „MAO-Hemmer“ auch noch andere Enzym-
+systeme beeinflussen. Theoretisch sollten die genannten Klassen von MAO-Hemmern,
+deren Bindungsmechanismus mit dem FAD weiter oben erklärt ist, keinen Einfluss auf
+die anderen Aminoxidasen haben, die über einen anderen Kofaktor verfügen. Anhand
+der SSAO wurde hingegen gezeigt, dass Propargylamine ebenso in der Lage sein können,
+kupferhaltige Aminoxidasen zu hemmen.
+	Viele ältere Untersuchungen zu MAO-Hemmern müssen exakt auf ihre Aussagekraft
+hin untersucht werden, da das Enzym oft aus Organen isoliert und nicht exakt charakteri-
+siert wurde. Eine gängige Methode zur näheren Unterscheidung der Aminoxidasen war es,
+sie in semicarbazidsensitive und nicht-semicarbazidsensitive Fraktionen zu unterteilen. Für
+solche In-vitro-Untersuchungszwecke wurde manchmal auch Hydroxylamin oder Amino-
+guanidin verwendet. Diese Verbindungen werden als carbonyl-reactive agents bezeichnet und
+sind Chemikalien, die als Medikamente keinerlei Bedeutung haben. Auch solche Untersu-
+chungen mit unterschiedlichen Hemmstoffen zur Unterteilung der Aminoxidasen müssen
+sehr differenziert betrachtet werden. So zeigte sich, dass selbst die semicarbazidsensitiven
+Fraktionen nicht einheitlich sein müssen und die Diaminoxidase (DAO), die Histamin
+abbaut, z.B. auch durch Semicarbazid gehemmt wird.
+
+
+Hier kann man weitere Informationen zu
+Substanzen und deren Wechselwirkungen mit
+Aminoxidasen finden:
+
+Kapitel 1
+Kapitel 3.1.2, 3.2.1, 3.3, 3.4, 3.7, 3.11,
+            3.12.1, 3.13
+Kapitel 4.3, 4.6
+Kapitel 6.2.2.4, 6.3.4, 6.3.7
+Kapitel 7.2.1, 7.3.6, 7.5.1
+Kapitel 8.4.1.2, 8.4.6, 8.4.10, 8.5.5,
+           8.5.8, 8.5.17, 8.6.1

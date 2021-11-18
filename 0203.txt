@@ -1,0 +1,32 @@
+	Die Substanz 17 erwies sich in verschiedenen Tieren als potentes Anorektikum und war
+diesbezüglich ungefähr einen Drittel so potent wie Amphetamin [9] (man erkennt die enge
+strukturelle Verwandtschaft zu Phentermin; siehe Kapitel 3.7). Daher wurde eine Vielzahl
+von Derivaten (Substituenten am Aromaten und am Stickstoff) hergestellt und untersucht
+10]. Manche Substituenten am Aromaten vermochten die Wirkung leicht zu verstärken, an-
+dere senkten sie. Die Substitution am Stickstoff senkte die anorektische Wirkung allgemein.
+Einige N- und N-N-(di)substituierte Derivate der Verbindung 19 wurden Jahre später von
+Teotino et al. auf ihre MAO-Inhibition hin untersucht und mit Tranylcypromin (1) verglichen
+[11]. Dabei zeigte sich, dass keine der Substanzen die Aktivität der MAO zu inhibieren ver-
+mochte. Allerdings erwiesen sich dennoch einige Derivate als ZNS-aktiv (Ratten; i.p. oder
+s.c., z. B. Erhöhung oder Senkung der Motilität, anorektische Wirkung).
+
+	Im Jahre 2004 wurden fluorierte Derivate (anter anderem 22-25 und deren diastereome-
+renreinen Isomere) von Tranylcypromin (1) auf ihre MAO-inhibitorischen Eigenschaften
+untersucht (als Inhibitoren der Tyramin-Oxidase aus Arthrobacter sp.) [12]. Dabei war das De-
+rivat (±)-frans-2-Fluor-2-phenyleyclopropylamin (23; „Fluortranylcypromin“ genannt) rund
+10mal potenter als Tranylcypromin (1). Daraufhin wurde untersucht, welchen Einfluss Subs-
+tituenten am Aromaten haben [13] und wie sich die Enantioselektivität gestaltet [14]. Das
+trans-N,N-Dipropyl-tranylcypromin 26 wurde mit vielen anderen strukturell Verwandten auf
+die Interaktion mit Serotonin 5-HT1A-Rezeptoren untersucht (Ki=24nM, [3H]-8-OH-DPAT
+Verdrängung) [15]. Milnacipran (27; (±)cis) [16] ist ein gemischter selektiver Wiederaufnah-
+me-Hemmer für Norepinephrin und Serotonin (SNRI) und wurde 1997 als Antidepressivum
+zugelassen (Ixel*, Dalcipran®) [17]. Das Spiropentan-Derivat 28 wäre eine weitere mögliche
+Modifikation, die allerdings bisher noch nicht beschrieben ist (die aminfreie Verbindung ist
+in [18] synthetisch beschrieben).
+
+
+
+	Die nächstgrößere alicyclische Verbindung trägt das Cyclobutan-Grundgerüst. So wurde
+1960 das homologe 3-Phenyleyclobutylamin (29) [19] und 1961 2-Phenylcyclobutylamin (30;
+jeweils racemisches cis- und trans-Derivat) [20] beschrieben. Allerdings erwiesen sich diese
+Tranylcypromin-Analoga hinsichtlich ihrer MAO-Hemmung als inaktiv [21]. Die Derivate

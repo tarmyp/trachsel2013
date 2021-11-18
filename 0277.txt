@@ -1,0 +1,36 @@
+Abb. 1. Räumliche Anordnung des signifikant gewinkelten AMDA (1, exo-Konformation, links) sowie
+des planaren 9-Aminomethylanthracen (8, rechts). Optimiert mit der Force-Field-Methode im Programm
+Moloc [5-7].
+
+
+
+	AMDA (1) weist ein signifikant gefaltetes trizyklisches System mit einer freien Rotation
+um die Aminomethyl-Bindung auf (Abb. 1). Die rigidisierten Strukturen 9-17 weisen unter-
+schiedliche Faltwinkel (~111-174°) sowie unterschiedlich eingeschränkte Rotationsfreiheiten
+der Aminomethyl-Einheit auf [1].
+	Es wurde keine quantitative Beziehung (linear oder parabolisch) zwischen der Affinität
+und irgendeinem geometrischen Parameter gefunden, und so ist nicht bekannt, ob AMDA
+() den optimalen Faltwinkel aufweist; lediglich eine bemerkenswerte Sensitivität gegenüber
+kleinen strukturellen Änderungen konnte festgestellt werden. Die Interpretation der Resul-
+tate wurde durch die zusätzliche sterische Beanspruchung rigider Systeme erschwert (siehe
+zu dieser Problematik auch die Einleitung im Kapitel 3.13).
+
+	Beim Betrachten der chemischen Struktur fällt auf, dass AMDA (1) eine allgemeine Ähn-
+lichkeit zu unterschiedlichen Arzneistoffen oder Arzneistoffklassen aufweist. Zum einen zu
+den trizyklischen Antidepressiva wie z.B. Imipramin (18), die an Monoamin-Transportern
+als Hemmstoffe wirken, aber auch Antagonisten am Histamin H1-Rezeptor sind (siehe auch
+Exkurs Antidepressiva). Dann zeigt AMDA (l) gewisse Ähnlichkeiten zum Antihistamini-
+kum Diphenhydramin (20, siehe auch Abb. 2) bezüglich der Pharmakophore, ähnlich wie
+das rigidere Cyproheptadin (19), das ebenfalls ein Antihistaminikum ist, das aber zudem an
+Serotonin-Rezeptoren als Antagonist bindet. Zum anderen sind da die klassischen Antipsy-
+chotika vom Phenothiazin-Typs (z.B. Chlorpromazin, 21, siehe auch Abb. 3).
+	Insbesondere viele der frühen Entwicklungen von Antihistaminika und trizyklischen
+Antidepressiva weisen eine mehr oder weniger ausgeprägte simultane Wirkung auf, sie
+hemmen die Wiederaufnahme von Monoaminen und sind unter anderem Antagonisten des
+5-HT2-Rezeptors sowie von Histamin-Rezeptoren. Die „Selektivität“ zugunsten des antiall-
+ergischen Effekts konnte durch den Kunstgriff gewonnen werden, die Moleküle polarer zu
+gestallten. Dadurch wurde diesen Substanzen die Fähigkeit, die Blut-Hirn-Schranke über-
+Winden zu können, weitgehend entzogen. Doch das Feature der zwei Arylteile sowie einer
+Aminoalkylgruppe bleibt bis heute in Antihistaminika weitgehend erhalten, und somit bleibt
+auch die Verwandtschaft mit den trizyklischen Antidepressiva bestchen (siche auch Exkurs
+Antidepressiva).

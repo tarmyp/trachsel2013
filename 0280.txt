@@ -1,0 +1,22 @@
+gebraucht [13, 14]. Um herauszufinden, ob AMDA (1) vergleichbar den 5-HT2A-Rezeptor
+besetzt, wurden schließlich strukturelle Verschmelzungen zwischen AMDA (1) und Cypro-
+heptadin (19), Imipramin (18), und N-Alkylierungen davon hergestellt, so z.B, 22-24 und
+auf die Affinitäten zum 5-HT2A-Rezeptor geprüft (zusammengefasst in [1]). Struktur 22 (Ki=
+0.7nM) zeigt eine bemerkenswert hohe Affinität, und auch die siebengliedrige Ringstruk-
+tur 23 (Ki= 9nM) erweist sich als hoch affin. Wird umgekehrt das Heptatrien-Element aus
+Cyproheptadin (19) auf die ursprüngliche Leitstruktur AMDH (2, Ki= 112nM) übertragen,
+so verliert man enorm an Affinität (24, Ki= 4125nM).
+
+
+
+	Wie in der Medizinalchemie üblich, wurden Ringe durch einen Heterocyclus ersetzt
+(Substanzen 25-28) (siehe auch Exkurs Bioisosterie) [1].
+
+
+
+	Imipramin (18) weist im Vergleich zu AMDA (1) eine unterschiedlich lange Seitenket”
+auf, und der exocyclische Stickstoff ist N,N-dimethyliert. Diese strukturelle Charakteristik
+wurde auch auf die AMDA-Struktur angewendet (Tabelle 2). Das N-methylierte AMDA-
+Derivat 29 (Ki= 52nM) zeigt eine um den Faktor 2.5, das N,N-dimethylierte AMDA-Derivat
+30 (Ki= 540nM) um Faktor 25 schwächere Affinität zum [PH]Ketanserin-markierten 5-HT2A-
+Rezeptor als AMDA (1, Ki= 20nM) [1].

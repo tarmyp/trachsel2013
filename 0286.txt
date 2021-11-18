@@ -1,0 +1,37 @@
+Zusammenfassung
+
+	Der zunächst aus computerbasierten Berechnungen entwickelte Grundkörper von
+AMDA (1, Ki= 20nM) erwies sich als potenter 5-HT2A‚-Rezeptor-Antagonist. Aufgrund der
+Ähnlichkeit von AMDA zu Antihistaminika (z.B. Cyproheptadin, 19 und Diphenhydramin,
+20) und Antidepressiva (z.B. Imipramin, 18), begann man die Affinitäten an anderen Targets
+5-HT2A, 5-HT2C, Histamin H1, oder Monoamin Transportern) zu prüfen und sogenannte
+cross-target-Struktur-Wirkungsbeziehungen aufzustellen. Im Gegensatz zu Imipramin (18) hat
+AMDA (1) praktisch keine Affinität zum Serotonin- und Norepinephrin-Transporter. Es
+wurden zwar hoch affine Liganden für 5-HT2- (z.B. 50, Ki= 1.3nM, oder 51, Ki= 3.2nM) oder
+H1-Rezeptoren gefunden (z.B. 31, Ki= 0,5nM), jedoch wies keiner der an diesen Rezeptor-
+Typengemessenen Liganden höhere Selektivitäten auf. Die geschaffenen Grundlagen könnten
+dazu dienen, selektivere Antihistaminika oder Schlafmittel, die über das Antagonisieren der
+Histamin- oder der Serotonin-Rezeptoren wirken, zu finden. Es wäre wünschenswert, zu
+all den in diesem Kapitel besprochenen Verbindungen auch Affinitäten zu allen anderen
+potentiellen Targets, wie Muscarin- und Dopamin-Rezeptoren zu haben. So könnte genau
+gesagt werden, welche strukturelle Variation welche Targets in welchem Maße beeinflusst.
+	Die absichtlich nicht näher spezifizierte generelle Formel (67) führte zu pharmazeutisch
+interessanten Wirkstoffen und wertvollen Medikamenten. Einige davon werden unter
+anderem im Exkurs Antidepressiva besprochen. Die Entwicklung um AMDA (1) ist eine
+weitere medizinalchemische Variation: zwei Aromaten und ein Amin — ein Prozess, der als
+noch nicht abgeschlossen gilt.
+
+
+
+Literatur
+
+[1] R. B. Westkaemper, R. A. Glennon. Curr. Top. Med. Chem. 2002, 2, 575.
+[2] R. B. Westkaemper, M. Dukat, R. A. Glennon. Med. Chem. Res. 1991, 2, 401.
+[3] R. B. Westkaemper, S. P. Runyon, M. L. Bondarey, J. E. Savage, B. L. Roth, R.A.
+    Glennon. Eur. J. Pharmacol. 1999, 380, R5.
+[4] R. B. Westkaemper, S. P. Runyon, J. E. Savage, B. L. Roth, R. A. Glennon. Bioorg
+    Med. Chem. Lett. 2001, 11, 563.
+[5] P. Gerber. Moloc, a Molecular Design Softmare Suite, 2010. http://www.moloc.ch”
+[6] P. Gerber. This software was a generous gift from Paul Gerber, thank you
+    much! 2010,
+[7] Many thanks to Daniel Bur. 2010.

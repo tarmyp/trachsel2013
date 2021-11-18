@@ -1,0 +1,40 @@
+3.13. Benzannellierte Cycloalkylamine
+
+
+
+Um zu verstehen, wie man sich die räumliche Anordnung von Amphetamin (siehe Kapi-
+tel 2) bei der Wirkungsentfaltung im Körper vorzustellen hat wurden etliche Studien erfasst.
+Mit dem Ziel, das aktive Konformer (oder eines davon) von Amphetamin zu mimetisieren,
+räumte man strukturell verwandten Verbindungen eine geringere Zahl von Freiheitsgraden
+ein. Dazu wurden sterisch rigide Analoge von Amphetamin synthetisiert und auf ihre ver-
+schiedenen biologischen Wirkungen untersucht. Würde eine so konformationell „eingefro-
+rene“ Struktur in einem der Tests eine Wirkung ausgeprägter entfalten, so könnte diese mög-
+licherweise eine aktive Konformation von der Muttersubstanz nachahmen. In den allermeis-
+ten Fällen zeigten jedoch diese rigiden Amphetamin-Analoge keine Verbesserung bezüglich
+der ZNS-Aktivität (siehe dazu z. B. Lokomotionsstudien von Van der Schoot et al. [1] und
+Diskriminationsstudie von Glennon et al. [2]), sie verhielten sich in den getätigten Tests als we-
+niger aktiv. Folgende Denkanstöße könnten helfen, diesen Sachverhalt besser zu verstehen.
+
+	Grundsätzlich kann man ein System nicht messen, ohne es zu beeinflussen. In diesem
+Falle bedeutet dies, nur ein Vernachlässigen eines (wesentlichen) Sachverhalts oder ein Ein-
+bringen neuer Atomgruppen, oder das Fixieren von solchen kann indirekt einen unscharfen
+Aufschluss über eine mögliche aktive Konformation geben. Man verwendet beispielsweise
+softwareunterstützte Modellierprogramme, die dazu dienen, Moleküle zu „berechnen“. Da-
+mit erhofft man sich, zeigen zu können, wie diese zum einen in der energetisch günstigsten
+Konformation vorliegen und wie sie zum anderen beispielsweise mit einem Rezeptor, En-
+zym oder Transporter interagieren. Das Konformer mit der niedrigsten berechneten Ener-
+gie ist ein Mischzustand aus unzähligen Möglichkeiten, wie das Molekül vorliegen kann.
+Dies muss jedoch nicht gezwungenermaßen der aktiven Konformation entsprechen. Das
+Vorliegen der Konformationen gleicht einer statistischen Verteilung, so dass innerhalb der
+vorhandenen chemischen Verbindung sowohl Moleküle mit einer sehr tiefen Energie als
+auch mit einer sehr hohen Energie anfallen. Die mit Hilfe von Computerprogrammen erhal-
+tenen Strukturen basieren auf Berechnungen; man versucht Faktoren wie pH-Wert, Solvata-
+tionsmedium, Energiedifferenz aus Konformationsänderungs-Aufwand und Ligand-Target-
+Bindung mit einzubeziehen. Ein weiterer Ansatz zur Aufklärung der möglichen räumlichen
+Struktur einer Verbindung in respektive während ihrem mit einem Target interagierenden
+Zustand ist die physikalische Methode der Röntgenstrukturanalyse. So misst man Kristalle
+der Substanz selbst oder vom Substrat am Target. Bei der Röntgenstrukturanalyse wird, wie
+auch bei NMR-Messungen zur räumlichen Strukturaufklärung, außer ‚Acht gelassen, dass
+diese Methoden Bilder repräsentieren, die nicht im entsprechenden physiologischen Medium
+aufgenommen worden sind (zur Flexibilität von Phenethylaminen und Amphetamin siehe
+beispielsweise [3] oder [4]).

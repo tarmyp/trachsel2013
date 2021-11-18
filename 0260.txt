@@ -1,0 +1,43 @@
+	Andererseits kann die schon erwähnte sterische Rigidisierung eın Abbild von möglichen
+Konformationen liefern. Es ist jedoch verständlich, dass auch dieser Kunstgriff den vorlie-
+genden Konflikt nicht immer lösen kann, da man keine Möglichkeit hat, ein Molekül in eine
+bestimmte Konformation zu zwingen, ohne ein zusätzliches Atom oder zusätzliche Bindung
+anzuführen. Durch diese Modifikation werden unter Umständen sterisch andere Platzverhält-
+nisse beansprucht. Auch die Pharmakodynamik und -kinetik kann stark beeinflusst werden. In
+gewissen Fällen kann aber eine Rigidisierung durchaus zum Erfolg beitragen (z.B, [5]).
+	Ein weiterer zu beachtender Punkt ist das multifunktionale, an mehreren Targets simulta-
+ne Wirken einer Substanz und/oder die Wirkung von allfälligen Metaboliten. Rigidisierte Ana-
+loga können durchaus an einzelnen Targets einen stärkeren Effekt hervorrufen und gleich-
+zeitig an anderen frei von einer Wirkung sein oder auch mit einem neuen Target interagieren.
+Das von außen beobachtete Wirkspektrum resultiert als Summe aller Effekte und kann sich
+bei einem rigiden Analogon sehr differenziert zu dem der Muttersubstanz verhalten.
+
+	Das Aminobenzocyclobuten-Derivat 1 ist der kleinste untersuchte benzannellierte Ami-
+noalicyclus und kann als Extremkonformation von 2-Phenethylamin (Kapitel 1) betrachtet
+werden (Benzocyclopropen enthält den kleinstmöglichen Alicyclus, jedoch wurden davon
+nie Aminoderivate hergestellt. Synthese siehe z. B. [6]). Es ist eine chirale Verbindung. Subs-
+tanz 1 wurde zusammen mit anderen cyclischen Benzylaminen (3, 19 und 34) auf die Hem-
+mung der Phenylethanolamin-N-Methyltransferase (ENMT, E.C. 2.1.1.28) untersucht [7].
+PNMT katalysiert den Umsatz von Norepinephrin zu Epinephrin (zusammengefasst in [8]).
+Die Hemmung des Enzyms PNMT bedeutet, dass die Produktion von Epinephrin (Adrena-
+lin) im ZNS unterdrückt wird so dass dabei die Rolle von Norepinephrin als Neurotransmit-
+ter genauer untersucht werden könnte [9]. Die Synthese von 1, 2 und einigen substituierten
+Verbindungen sind 1964 beschrieben worden [10] (siehe auch das Benzocyclobuten 2C-BCB
+im Kapitel 8.5.27.1). Die Motivation der Autoren beruht auf der „chemischen Einzigarüg-
+keit eines Vierringes direkt verknüpft mit einem Aromaten“ und mit der Ähnlichkeit zu den
+Phenethylaminen. Die Synthese des Aminomethylbenzocyclobutens 2 und einiger arylsubs-
+tituierter Analoga wurde 1970 in einem Patent beschrieben mit dem Hinweis auf pharmako-
+logisch interessante Eigenschaften, z. B. als Analgetika [11].
+
+
+
+	1-Aminoindan (1-AI; 3) trägt den nächstgrößeren benzannellierten Alicyclus. Hier sind
+zwei Positionsisomere durch Verschieben der Aminogruppe möglich. 1-Aminoindan (1-AI;
+3) zeigte in vitro eine stärkere Hemmung der PNMT als die homologen Cyclen 1, 19 und 34
+[7]. Generell wurden die besten Resultate erzielt wenn der Alieyclus aus fünf Atomen bestand.
+Weiter wurde 1-AI (3) auf die Fähigkeit hin untersucht, die Catecholamin-Aufnahme im Hirn
+der Ratte (Synaptosome des Corpus Striatum und des Hypothalamus) zu hemmen [12]. Es inhi-
+bierte die Catecholamin-Aufnahme in Hirnregionen schwächer als 2-Aminoindan (2-Al; 14).
+	Das Derivat 4 zeigte eine rund 20mal potentere, irreversible Monoaminoxidase (MAO)-
+Hemmung als Pargylin (5) [13]. Dadurch inspiriert wurden weitere, am Stickstoff substituierte
+Derivate untersucht (H, Methyl-, Ethyl-, Propinyl- und Butinyl-Reste) [13].

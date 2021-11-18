@@ -1,0 +1,30 @@
+	Von Pipradrol (61; präziser: α-Pipradrol) existieren noch weitere Regioisomere, die al-
+lerdings pharmakologisch andere Wirkspektren aufweisen: β- oder 3-Pipradrol (66) scheint
+ähnliche Effekte zu haben, wie Pipradrol (61) und wurde von Hoffmann La Roche im Jahre
+1957 als Stimulans, das keine cholinergen Nebenwirkungen hat patentiert [94]. Das γ- oder
+4-Pipradrol (67) trägt auch den Namen Frenquel oder Azacyclonol und wirkt als Dopamin-
+Antagonist antipsychotisch [95]. Seinen N-Phosphorsäure-Derivaten wurde zugeschrieben,
+dass sie die Cocain- oder Pipradrol-induzierte Lokomotion verringern und den Phenobarbi-
+tal-induzierten Schlaf verlängern [96]. Ein sehenwerter freigegebener CIA-Film (1955) aus
+dem Videoarchiv der National Archives dokumentiert detailliert die antagonisierende Wirkung
+von Frenquel auf LSD im Menschen [133].
+
+
+
+	Das Piperidinring-Positionsisomer 3-Phenylpiperidin (68) enthält die Phenethylamin-
+Substruktur. Es wurde bis anhin nur synthetisch beschrieben [56]. Das Derivat 69 ist unter
+dem Namen 3-PPP (3-(3'-Hydroxyphenyl)-N-(1-propyl)piperidin) bekannt. Es ist für seine
+Affinität zum Sigma-Rezeptor bekannt und wurde z.B. daraufhin untersucht, inwieweit es die
+antikonvulsive Wirkung von herkömmlichen Antiepileptika beeinflusst [97]. Zudem bindet
+es an Dopamin D2-Rezeptoren [98]. Das (+)-Enantiomer wirkt schwach agonistisch und das
+(-)-Enantiomer antagonistisch [98].
+
+
+
+	Eine weitere strukturelle Variante ist das Verschieben des Stickstoffs im Piperidin-
+Ring respektive des Arylrests in die 4-Position von Piperidin. Das von Glennon et al.
+untersuchte 4-Phenylpiperidin (70) [99] zeigte eine mäßige, rund fünfmal höhere Affinität
+zu Sigma-Rezeptoren (Ki= 1980nM; [3H]DTG-Austausch) als 1-Phenylpiperazin (72) oder
+1-Benzylpiperazin (73, siehe Kapitel 3.12.4.2). Geeignete Substitution am Stickstoff (z.B.
+Struktur 71) führte zu hochaffinen Sigma-Liganden [99]. Gegenüber den Serotonin-5-HT2A-
+und 5-HT2C-Rezeptoren zeigte 4-Phenylpiperidin (70) keine Affinitäten (Ki> 10000nM) [100].

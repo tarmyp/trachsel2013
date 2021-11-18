@@ -1,0 +1,14 @@
+Tabelle 1. Wirkung verschiedener Tetrahydroisochinolin-Strukturen auf die Lokomotion von Mäusen [3].
+
+
+
+	Zusammen mit anderen substituierten TIQ wurde das einfachste TIQ (13) von Sall und
+Grunewald auf die Hemmung der Phenylethanolamin-N-Methyltransferase (PNMT, siehe
+auch Kapitel 3.13) geprüft [4]. Das Enzym PNMT fungiert in Kombination mit S-Adenosyl
+methionin (SAM) im Körper an unterschiedlichen Stellen als Methylgruppen-Überträger und
+konvertiert so beispielsweise Norepinephrin (Noradrenalin) zu Epinephrin (Adrenalin). Mit
+dem Ziel, weitere PNMT-inhibierende Moleküle zu finden, synthetisierten Grunewald und
+seine Mitarbeiter weitere konformationell eingeschränkte Benzylamine bzw. TIQ (15, 18-25)
+[5] sowie benzannellierte Cycloalkylamine, die im Kapitel 3.13 beschrieben sind. Als einzige
+Verbindung zeigte 3-Methyl-TIQ (15, Ki= 3.04μM) eine stärkere PNMT-Inhibition als TIQ
+(13, Ki= 10.34μM). Neben der Struktur 15 enthält auch 23 die Methamphetamin-Substruktur.

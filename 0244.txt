@@ -1,0 +1,29 @@
+	Die Verbindungen des Typs 74 tragen einen zusätzlichen Phenyl-Ring in der Position
+4 (R=H, Methyl, Ethyl, Isopropyl). Solche 4,4-Diphenylpiperidine wurden 1977 in einem
+Patent erwähnt und sollten ursprünglich als hocheffiziente ZNS-Stimulanzien dienen [101].
+Laut den Patentinhabern reicht eine tiefe Dosis aus, um bei einer oralen oder parenteralen
+Applikation über eine längere Zeit eine erhöhte Aufmerksamkeit und Wachsamkeit zu
+erzielen. Dabei seien diese Effekte weder von Unruhe noch einer motorischen Stimulierung
+begleitet. Beispielsweise konnte die Verbindung mit R= Isopropyl bei einer Dosierung von
+5mg/kg die Lokomotion von Mäusen um 20% erhöhen, wobei Amphetamin bei gleicher
+Dosierung diese um 100% steigerte. Der Blutdruck wurde durch die neuen Substanzen nicht
+beeinflusst. Als Anwendungsgebiete wurden unter anderem Behandlung von Depressionen,
+Müdigkeit, Demenz und Fettleibigkeit erwähnt. Es wurde gemäß den Autoren keine
+Gewöhnung oder Toleranz beobachtet; Mäuse, Ratten oder Hunde zeigten über längere Zeit
+bei gleichbleibender Dosis dieselben Reaktionen.
+	Später erhielten Verbindungen des Typs 74 Namen wie Medipin (R=Methyl), Prodipin
+(R=i-Propyl) oder Budipin (75) (R=t-Butyl). Die klinischen Entwicklungen mit den ersten
+beiden Substanzen wurden abgebrochen. Budipin (75) jedoch findet bis heute seine An-
+wendung als zentralwirkendes Mittel gegen die Parkinson-Krankheit [102]. Sein Wirkansatz
+erfolgt über die Bindung resp. Blockierung der NMDA- und Sigma-Rezeptoren [103, 104].
+Die dopaminerge Neurotransmission scheint dabei nicht involviert zu sein. Die Verbindung
+Selegilin, welche ebenfalls zur symptomatischen Bekämpfung der Parkinson-Krankheit ver-
+wendet wird, wirkt durch Erhöhung des extrazellulären Dopamins, siehe Kapitel 3.2.1 und
+Exkurs Aminoxidasen.
+
+	Gerlach ex al. führten Trialkylsilyl-Gruppen in Verbindungen des Typs 74 an den Stick-
+stoff ein (anstelle R=Alkyl steht R="Trialkylsilyl) und erhofften sich, durch die stark erhöhte
+Lipophilie eine höhere Konzentration im ZNS zu erreichen [105]. Die Silyl-Verbindungen
+zeigten in etwa die gleichen In-Vivo-Effekte (Neurotransmitterkonzentrationen), wie sie mit
+Budipin (75) erreicht wurden, Die Entdeckung von biologisch aktiven Organo-Silicum-
+verbindungen (Silatrane) von Voronkov [106] im Jahre 1966 veranlasste Stasch et al., den

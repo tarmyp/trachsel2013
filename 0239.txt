@@ -1,0 +1,22 @@
+	Auf neuronaler Ebene bindet Methylphenidat (52) stereoselektiv und enantioselektiv
+an den Dopamin (DA)- und Norepinephrin (NE)-Transporter (eudysmisches Verhältnis
+52b/52a = 8.58 resp. 6.84) [68] und hemmt dabei die DA-Wiederaufnahme in vitro sowie in
+vivo vergleichbar wie Cocain [70].
+	Eine potenziell wichtige Rolle scheint NE bei der Wirkung von Methylphenidat (52) zu
+tragen; die extrazellulären NE-Konzentrationen werden durch 52 ebenfalls erhöht [67]. Die
+extrazellulären Serotonin (5-HT)-Konzentrationen konnten im Versuchstier selbst bei sehr
+hohen Dosierungen (30mg/kg) Methylphenidat (52) nicht beeinflusst werden [67], was mit
+einer geringen Affinität am 5-HT-Transporter einhergeht [71, 72].
+
+	Methylphenidat-analoge Strukturen wurden auf ihre DA-Transporter (DAT) Affinitäten
+geprüft. Die Naphthylderivate (53 und 54), vor allem das 2-Naphthyl-methylphenidat (54)
+hatten verglichen mit Methylphenidat (52) eine höhere Affinität zum DAT [73]. Neuere
+Untersuchungen aus dem Jahre 2004 bestätigten diesen Trend [74]. Das 3,4-Dichlorderivat
+(55) zeigt im Vergleich Methylphenidat (52) eine um den Faktor fünfzig bessere DA-
+Bindungsaffinität.
+
+	In einem interessanten Artikel zeigten Meltzer et al., dass der bisher als notwendig
+geglaubte Ankerpunkt zur Interaktion mit Monoamintransportern, der basische
+Stickstoff, nicht ein absolutes Erfordernis ist [72] (bereits Madras et al. zeigten, dass das
+Vorhandensein eines Stickstoff-Atoms nicht essenziell für das Blockieren der Monoamin-
+transporter ist |75]). So legten sie unter anderem dar, dass das Ersetzen des Stickstoffs

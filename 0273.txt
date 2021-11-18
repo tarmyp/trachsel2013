@@ -1,0 +1,33 @@
+	In ihrer Studie zu Struktur-Aktivitäts-Beziehungen kommen sie zusammenfassend zum
+Schluss, dass konformationell relativ freie Isomere die Aktivität der ursprünglich untersuch-
+ten Benzylamine verstärken. Aus der Überbrückung vom Typ 20-24 resultiert allerdings ein
+vollständiger Verlust der PNMT-Inhibition durch negative sterische Interaktion mit dem
+aktiven Zentrum des Enzyms [5]. Obwohl oder wahrscheinlich gerade, weil die Funktion
+von Epinephrin im Gehirn bis heute unklar bleibt, forschten Grunewald und seine Mitarbeiter
+weiter und entdeckten mit der Struktur 26 (R: H, div. Alkylreste) neue, potente und selektive
+PNMT-Inhibitoren, welche die ZNS-Epinephrin-Biosynthese mit einem Ki, im nanomolaren
+Bereich hemmen [6] (für die zahlreichen Arbeiten auf diesem Forschungsgebiet siehe [7]).
+PNMT-Inhibitoren könnten möglicherweise zur Behandlung von Angina Pectoris, Herzin-
+farkt oder Angststörungen dienen [9].
+
+
+
+3.14.3. Cyclophane
+
+	Die Verbindungen 27 und 28 sind „exotische“ Phenylalkylamine, die in einem über-
+brückten Ringsystem die beiden para-Positionen eines Aromaten einbinden. Derartige Subs-
+tanzen werden Paracyclophane genannt. Im Tierversuch verursachte 4-Azapara[9]cyclophan
+(28) eine Erweiterung der Pupillen, ohne dabei symphatomimetische oder anticholinergische
+Anzeichen zu äussern [8]. Im Kapitel 7.3.6 ist ein [2.2]Paracyclophan beschrieben.
+
+
+
+Zusammenfassung
+
+	Mit den Tryptaminen, Ergolinen und 'Tetrahydroisochinolinen könnte eine praktisch un-
+ermessliche Anzahl von pharmakologisch interessanten Verbindungen in die Gruppe der
+benzannellierten Azacycloalkane gehören. Da diese Substanzen jedoch eigenständige Subs-
+tanzklassen bilden, wurde hier nur eine kleine Anzahl an Verbindungen erwähnt. Das rigi-
+disierte Amphetamin- oder Methamphetamin-Analogon 15 erwies sich im Lokomotionstest
+an Ratten als völlig wirkungslos. Einige TIQ-Derivate haben sich als PNMT-Hemmstoffe
+entpuppt, ein therapeutischer Nutzen ist jedoch zum jetzigen Zeitpunkt unklar.

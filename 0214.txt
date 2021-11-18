@@ -1,0 +1,23 @@
+	Das Tranyleypromin (11) stand für viele weitere Substanzen Modell, z,B, Ver-
+bindungen 12 und 13, die einen Cyclopropanring ‚und einen basischen Stickstoff
+tragen, Im vorliegenden Buch gibt es in diversen Kapiteln (3.4, 3.7, 3,11, 4.3, 6.3, 7.3.6,
+7.5.1, 8.4.7 und 8.5.27.1) Beispiele für mehr oder weniger potente MAC )-Inhibitoren,
+die höchstwahrscheinlich alle mit Hilfe eines Cyclopropyl-Fragmentes an das FAD
+binden. Das Tranyleypromin ist der einzige Vertreter dieser Klasse, der es je auf den
+Markt geschafft hat. Es bindet über einen radikalischen Mechanismus unter Öffnung
+des gespannten Cyclopropyltings kovalent an das FAD, wodurch das Enzym ebenfalls
+irreversibel gehemmt wird [1].
+
+
+
+	Die Propargylamin-Hemmstoffe wie z.B. 7-10 (Tabelle 1) sind eine neuere
+Substanzklasse, mit Selegilin (14) als Hauptvertreter. Auch sie binden irreversibel an das
+FAD des Enzyms. Im ersten Schritt wird ein α-ständiges H der Propargylamin-Gruppe
+abstrahiert. Nach einigen H-Shifts ergibt sich schließlich ein alkenyliertes FAD [13].
+
+
+
+	Bis auf Clorgylin hemmen die Propargylamine vor allem die MAO-B. Clorgylin
+(8) ist ein selektiver und irreversibel bindender MAO-A-Hemmer. Prinzipiell ist aber
+weniger die reaktive funktionelle Gruppe als der Rest des Moleküls für die Subtyps“
+lektivität verantwortlich. Somit eignen sich die Propargylamin-Derivate vor allem zur

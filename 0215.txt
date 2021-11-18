@@ -1,0 +1,26 @@
+Behandlung von Morbus Parkinson. Lazabemid (18) ist der einzige reversible MAO-B-
+Hemmstoff, der auf dem Markt ist [14].
+
+	Es gibt allerdings einige reversibel bindende MAO-A-Hemmer. Genannt seien hier
+das Moclobemid (19), Harmin (20) und Metralindol (21), ein Derivat, das vor allem in
+Russland verbreitet ist. Alle Drei binden reversibel und selektiv an die MAO-A, weshalb
+man sie häufig als RIMA (reversible Inhibitoren der MAO-A) bezeichnet. Die Klasse
+der RIMA wird als Antidepressiva vermarktet und hat sowohl wegen der Reversibilität
+als auch der Selektivität weniger ausgeprägte Unverträglichkeiten mit Nahrungsmitteln.
+Harmin (20) ist ein Naturstoff, der als Arzneimittel keine Bedeutung hat [15]. Die
+reversibel bindenden Hemmer passen in die Bindetasche des aktiven Zentrums und
+konkurrieren auf kompetetive Weise mit dem natürlichen Substrat.
+
+
+
+	Die MAO besitzt auch eine allosterische Bindungsseite. Da alle Liganden, die
+gut an diese Bindestelle passen, und so die Enzymaktivität hemmen, ein Imidazolin-
+Grundgerüst tragen, spricht man auch von einer Imidazolin-Bindungsstelle. Es zeigte
+sich, dass diese sogenannte Imidazolin-Bindungsseite nicht mit dem Kofaktor FAD
+assoziiert ist. Die Liganden Idazoxan (22) und Cirazolin (23) sind gleichzeitig auch α2-
+Antagonisten, und Antazolin (24) ein Antihistaminikum der ersten Generation. Da
+die Liganden indirekt Einfluss auf nachgeschaltete Prozesse haben, spricht man auch
+von einem I2-Rezeptor, der auf dem Enzym lokalisiert ist. Therapeutisch wird diese
+allosterische Bindetasche bisher nicht verwendet, allerdings könnten Arzneistoffe vom
+Imidazolin-Typ auf ihre Fähigkeit hin, die MAO zu hemmen, untersucht werden, damit
+es zu keinen Wechselwirkungen kommt [16].

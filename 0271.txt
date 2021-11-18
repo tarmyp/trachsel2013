@@ -1,0 +1,28 @@
+	Das Isoindolin-Derivat 11 wird durch formelles Cyclisieren von Pargylin (12, Mono-
+aminoxidase-Hemmer, siehe auch Exkurs Aminoxidase) erhalten und wurde synthetisch
+beschrieben [2].
+
+
+
+3.14.2. Tetrahydroisochinoline
+
+	Zu den benzannellierten Azacycloalkanen kann man auch die Tetrahydroisochinoline
+(TIQ), mit der Grundstruktur 13 zählen. Eine Vorstellung der Vielfältigkeit dieses Systems
+kann im Exkurs Naturstoffe gewonnen werden. Hier werden nur einige TIQ diskutiert, die
+gewisse Ähnlichkeit zur Struktur von Amphetamin (Kapitel 2), bzw. Methamphetamin (Ka-
+pitel 3.1.1.1) haben. Ein Entscheidungskriterium war zudem, welche biologischen Daten
+zusammengetragen wurden, und das Feld wurde bewusst eng gesteckt.
+
+
+
+	Von einigen wenigen TIQ-Derivaten wurde die lokomotorische Aktivität bestimmt [3].
+Bei Dosen, wo (+)-Methamphetamin (MA, 2mg/kg) in Mäusen gegenüber der Kontroll-
+gruppe eine Zunahme um über 600% der Bewegungsaktivität bewirkte, erreichten die un-
+tersuchten Substanzen 13-16 (Tabelle 1) weniger als 80% der Kontrollgruppe, woraus sich
+schließen lässt, dass keine signifikante Erhöhung der lokomotorischen Stimulation erfolgt.
+Verbindung 15 gleicht — strukturell betrachtet — am ehesten dem Methamphetamin. Die Af-
+finitäten zum 5-HT2A-Rezeptor erwiesen sich allesamt als sehr schwach.
+	Generell, so formulieren es die Autoren der Studie, erwiesen sich die Aminotetraline
+(17; siehe auch Kapitel 3.13) aktiver als die entsprechenden TIQ. Demnach gibt es keine
+Hinweise, dass die TIQ-Konformation für die lokomotorische Aktivität von Amphetamin-
+Derivaten wichtig ist [3].

@@ -1,0 +1,27 @@
+4.2. Furanylalkylamine
+
+
+
+4.2.1. 2-Furanylalkylamine
+
+	Im Vergleich zu Thiophen unterscheiden sich die physicochemischen Eigenschaften des
+Furans weitaus mehr von Benzen. Furan wird zwar wie Thiophen zu den μ-elektronenrei-
+chen Heteroaromaten gezählt. Die hohe Elektronegativität des Sauerstoffs bewirkt jedoch
+eine schwächere Delokalisation der freien Elektronenpaare; daher wird auch eine nichtaro-
+matische Elektronenverteilung angenommen. Ungeachtet dieser erst viele Jahre später fol-
+genden Erkenntnisse wurden beispielsweise im Jahre 1920 die Furanderivate 1-(2'-Furanyl)-
+2-ethylamin (2-FEA; 1) und 2-Furanylmethylamin (2) als Bioisostere der Benzen-Analoga
+untersucht [1, 2]; beide Verbindungen wirkten blutdrucksenkend in Katzen, was im Gegen-
+satz zu 2-Phenethylamin (3) steht, wo ein Blutdruckanstieg beobachtet wird (siehe Kapitel
+1). Weiter erwähnt ein Patent aus dem Jahre 1933 das Ephedrin-Analogon 4, ohne nähere
+Angaben zur Pharmakologie [3].
+
+
+
+	Durch die Erkenntnisse, dass Thiophen manchmal gut als Bioisoster in biologisch ak-
+tiven Phenylverbindungen fungiert (siehe Kapitel 4.3), wurden Erienmeyer und Simon 1941
+motiviert, Furan in biologisch aktiven Verbindungen näher zu untersuchen und einzuführen
+[4. Die schon damals bekannten Wirkungen von Phenylalkylaminen und insbesondere von
+Amphetamin (6) veranlasste die beiden Autoren, die drei 2-Furanylalkylamine 7-9 als Ana-
+loge herzustellen.
+	Im gleichen Jahr veröffentlichten Alles und Feigen ihre Studie zur Wirkung von 2-FAP

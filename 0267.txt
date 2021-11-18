@@ -1,0 +1,44 @@
+Zusammenfassung
+
+	Aus der Substanzklasse der benzannellierten Cycloalkylamine entspringen mindestens
+zwei therapeutisch wertvolle Substanzen, die mehr oder weniger selektiv die MAO-A und
+MAO-B irreversibel hemmen. Dazu zählen Rasagilin (10a) und Ladostigil (12), denen neu-
+roprotektive Eigenschaften zugeschrieben werden. Zudem wirken sie neurodegenerativen
+Krankheiten entgegen. Eine Reihe von rigiden Analoga (z.B. 1, 3, 19, 20, 34) wurde auf die
+Fähigkeit hin geprüft, das Enzym PNMT zu hemmen. Dessen Hemmung unterbindet die
+Epinephrin-Synthese im ZNS. Der pharmakologische Nutzen dieser Inhibition bleibt bis
+anhin ungeklärt. Im Vergleich zu Amphetamin zeigte 2-AT (20) 50mal stärkere inhibitorische
+Eigenschaften. Einige Substanzen wurden als rigide Analoge von Amphetamin untersucht
+(z.B. 2-Al; 14, 2-AT; 20, 2-ADN; 25), wobei alle Derivate in vivo schwächer wirksam waren
+(Drug-Discrimination-Studie, Lokomotion).
+
+Literatur
+
+[1] J. B. Van der Schoot, E. J. Ariens, J. Van Rossum, J. A. Hurkmanns. Arzneim. Forsch.
+    1962, 12, 902.
+[2] R. A. Glennon, R. Young, A. E. Hauck, J. D. McKenney. Pharmacol. Biochem. Behav.
+    1984, 21, 895.
+[3] C. L. Border, D. J. Craik, B. P. Shehan. Magn. Res. Chem. 1993, 31, 222.
+[4] S. Sun, E. R. Bernstein. J. A. Soc. 1996, 118, 5086.
+[5] G. L. Grunewald, K. M. Markovich, D. J. Sall. J. Med. Chem. 1987, 30, 2191.
+[6] R. Okazaki, M. Ooka, N. Tokitoh, N. Inamoto. J. Org. Chem. 1985, 50, 180.
+[7] R. W. Fuller, B. W. Roush, S. K. Hemrick, H. D. Snoddy, B. B. Molloy. Life Sci. 1978,
+    22,1421.
+[8] D.L. Wong, A. Lesage, B. Siddall, J. W. Funder. FASEB J. 1992, 6, 3310.
+[9] C. L. Gee, N. Drinkwater, J. D. Tyndall, G. L. Grunewald, Q. Wu, M. J. McLeish, J.
+    L. Martin. J. Med. Chem. 2007, 50, 4845.
+[10] J. A. Skorcz, J. E. Robertson. J. Med. Chem. 1965, 8, 255.
+[11] R.F. Jenny, K. Schenker. Verfahren zur Herstellung von neuen Cyclobutenderivaten.
+     CH485647, 1970.
+[12] A.S. Horn, S. H. Snyder. J. Pharm. Exp. Ther. 1972, 180, 523.
+[13] C. F. Heubner, E. M. Donoghue, A.J. Plummer, P. A. Furness. J. Med. Chem. 1966, 9,
+     830.
+[14] D. Steinhilber, M, Schubert-Zsilavecz, H. J. Roth. Medizinische Chemie: Targets und
+     Arzneistoffe. Deutscher Apotheker Verlag: Stuttgart, D, 2005.
+[15] S. Mandel, O. Weinreb, T. Amit, M. B. Youdim. Brain Res. Brain Res. Rev. 2005, 48,
+     379.
+[16] S. Tazik, S. Johnson, D. Lu, C, Johnson, M. B. Youdim, C. A. Stockmeier, X. M. Ou.
+     Neurotox. Res. 2009, 15, 284.
+[17] US Food and Drug Administration. FDA Approves the First Treatment for
+     Dementia of Parkinson's Disease. http://www.fda.gov/NewsEvents/Newsroom/
+     PressAnnouncements/2006/ucm108680.htm

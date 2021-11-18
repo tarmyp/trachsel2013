@@ -1,0 +1,45 @@
+Das bezüglich MAO-Inhibition potentere S-Enatiomer von Amphetamin (5) hemmt die
+MAO-A reversibel, wobei die α-Methyl-Gruppe das Molekül vor dem metabolischen
+Abbau schützt [3]. Es passt in die Bindetasche, aber in der α-Position ist das Proton, das
+hier grau gezeigt wird, durch die zusätzliche Methylgruppe nicht zugänglich [4].
+	Amphetamin (5) wird zwar zu Phenylaceton (6) metabolisiert, aber das übernimmt
+das Cytochrom-P450-System [5].
+
+
+Welchen Nutzen hat man davon?
+
+	Wie erwähnt, bauen Aminoxidasen Amine zu Aldehyden ab. Die entstandenen
+Aldehyde werden darauf bevorzugt zu Carbonsäuren oxidiert oder in geringerem Maße
+zum entsprechenden Alkohol reduziert. Bei der Reaktion vom Amin zum Aldehyd fällt
+immer auch Wasserstoffperoxid an, das zum „oxidativen Stress“ beiträgt und potenziell
+zellschädigend wirkt. Das sind jedoch normale Prozesse, die in einem gesunden
+Organismus ständig ablaufen, ohne ihn zu schädigen.
+	Amine können in unserem Körper unterschiedlicher Herkunft sein: Viele Neuro-
+transmitter sind Amine, es existieren etliche sogenannte biogene Amine, die entweder
+in unserem Körper selbst entstehen oder aber fermentativ in proteinreicher Nahrung
+zugeführt werden. Nicht zuletzt haben viele Arzneistoffe oder Fremdstoffe (Xenobioti-
+ka) ebenfalls Aminstruktur. Die meisten der genannten Verbindungen haben eine Wir-
+kung auf den Organismus, sei es ein gewünschter oder unerwünschter Effekt. All diese
+Verbindungen werden in der Regel von Aminoxidasen abgebaut. In manchen Fällen,
+besonders bei Aminen mit mehreren großen Resten am oder um den Stickstoff, spielt
+für den Abbau auch Cytochrom P450 eine Rolle bei der N-Desalkylierung [6]. Im Fol-
+genden werden nun einive Aminoxidasen kurz charakterisiert.
+
+
+Steckbriefe der Aminoxidasen
+
+	Bevor die prominente Monoaminoxidase MAO detaillierter besprochen wird, sollen
+zunächst ein paar weniger bekannte Aminoxidasen charakterisiert werden. Die folgende
+Aufzählung ist nicht komplett. Lysyl-Oxidasen (LOX), die z.B. im Tumorgeschehen eine
+Rolle spielen [7] werden hier nicht besprochen.
+	Das FAD-abhängige Enzym Renalase kommt in gelöster Form extrazellulär vor
+und wird manchmal auch als MAO C bezeichnet. Zu MAO A und B hat die Renalase
+keine große strukturelle Ähnlichkeit. Sie metabolisiert weder Serotonin, Tyramin, noch
+Benzylamin und wird nicht durch die Propargylamin-Hemmstoffe Pargylin (7) oder
+Clorgylin (8) gehemmt (Siehe Tabelle 2). Sie scheint jedoch in einem gewissen Maß Ca-
+techolamine abzubauen und reguliert so den Blutdruck. Sie wurde im Gehirn und auch
+in der Peripherie identifiziert und stellt ein aktuelles Forschungsgebiet dar [8-10].
+	Die Diaminoxidase oder DAO (codiert durch das Gen AOC1), kommt intrazel-
+lulär vor, gehört zu den kupferhaltigen Aminoxidasen und ist am Abbau von Histamin
+maßgeblich beteiligt. Sie baut auch aliphatische Diamine wie Cadaverin und Putrescin ab
+und lässt sich durch Semicarbazid hemmen.

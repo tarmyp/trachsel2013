@@ -1,0 +1,27 @@
+pharmazeutischen Wirkstoffen sowie in Naturstoffen anzutreffen ist. Sie ist derart weit ver-
+breitet, dass dazu ohne weiteres ein eigenständiges Werk kreiert werden könnte (dem interes-
+sierten Leser sei zumindest betreffend psychedelisch wirksame Tryptamine und Ergoline das
+Standardwerk TiHKAL von Shulgin und Shulgin wärmstens empfohlen [9]). Es wird deshalb
+hier bewusst darauf verzichtet, auf die — wenn auch sehr spannenden — Indole, Tryptamine
+(z.B. den psychedelischen Naturstoff DMT, 22, oder den Neurotransmitter Serotonin; 5-HT,
+23), Ergoline (z.B. das potente Psychedelikum LSD, 24) und einige weitere einzugehen; eine
+kleine Übersicht ist im Exkurs Naturstoffe zu finden. Wer sich eingehend mit der serotoner-
+gen Neurotransmission auseinandersetzen möchte, der sei auf ausführliche Standardwerke
+verwiesen [10, 11].
+
+Literatur
+
+[1] O. Klamerth, W. Kutscher. Chem. Ber. 1952, 85, 444.
+[2] W. Herz, D.S. Raden, D. R. K. Murty. J. Org. Chem. 1956, 21, 896.
+[3] I. Putokhin. J. Russ. Phys-Chem. Soc. 1930, 62, 2226.
+[4] O. Klamerth, W. Kutscher. Z. Physiol. Chem. 1952, 289, 229.
+[5] W. Schuett, H. Rapoport. J. Am. Chem. Soc. 1962, 84, 2266.
+[6] V.J. Demopoulos. J. Heterocycl. Chem. 1988, 25, 635.
+[7] C.D. Micheli. Farmaco, Ed. Sci. 1984, 39, 277.
+[8] C.D. Micheli. Farmaco, Ed. Sci. 1986, 41, 913.
+[9] A.T. Shulgin, A. Shulgin. TiHKAL - The Continuation. Transform Press: Berkeley,
+    CA, 1997.
+[10] B.L. Roth. The Serotonin Receptors: From Molecular Pharmacology to Human Therapeutics.
+     Springer: Berlin, D, 2006.
+[11] B. Olivier, I. Van Wijngaarden, W. Soudijn. Serotonin Receptors & Their Ligands.
+     Elsevier Science Ltd.: Amsterdam, NL, 1997.

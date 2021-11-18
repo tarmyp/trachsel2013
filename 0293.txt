@@ -1,0 +1,20 @@
+4.1. Pyrrolylalkylamine
+
+	Pyrrol zählt wie Thiophen und Furan zu den μ-elektronenreichen heteroaromatischen
+Fünfringen. Seine Aromatizität wird zwischen derjenigen von Furan und Thiophen ein-
+gestuft, wobei Thiophen den ausgeprägtesten aromatischen Charakter zeigt. Pyrrol weist
+genauso wie Indol auch nur eine niedrige Basizität auf (pKa= -3.8). Ursache dafür ist die
+Delokalisierung des freien Elektronenpaars zugunsten der Aromatizität. Dieses steht für eine
+Protonierung nicht mehr zur Verfügung,
+	Pyrrol erlangt aufgrund seines breiten Vorkommens in der Natur ein nicht unwesentli-
+ches Interesse. So tritt es beispielsweise als Baustein im Hämoglobin, im Chlorophyll, im Vi-
+tamin B12, in Proteinen, Enzymen und Nucleinsäuren auf. Trotz diesem breiten Vorkommen
+wurde nur eine Handvoll Pyrrolylalkylamine untersucht.
+
+4.1.1. 1-Pyrrolalkylamine
+
+	Pyrrol kann unter den heteroaromatischen Fünfringen im Gegensatz zu Thiophen,
+Furan oder Selenophen am Heteroatom substituiert werden. So stellten Klamerth und
+Kutscher 1952 2-(1-Pyrrolyl)-ethylamin (1) her [1]. Vier Jahre später veröffentlichten Herz,
+Raden und Murty die Synthesen der 1-Pyrrolylalkylamine 1-7, jedoch ohne Hinweise auf die
+pharmakologischen Eigenschaften [2].

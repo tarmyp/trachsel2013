@@ -1,0 +1,28 @@
+	Um den strukturellen Analogien und den Bindungseigenschaften zum Serotonin-5-HT2A-
+sowie Histamin-H -Rezeptor präziser auf den Grund zu gehen, untersuchten Shah et al.
+eine Reihe von Substanzen, die einerseits dem AMDA und andererseits dem Grundgerüst
+des H1-Antagonisten Diphenhydramin (20) ähneln [15]. Sie gingen dabei der Frage nach,
+ob mit strukturellen Variationen eine Selektivität zwischen den beiden Rezeptoren erreicht
+werden kann (Tabelle 2). Das Antihistaminikum Diphenhydramin (20) wurde früher vor
+allem zur Therapie von Allergien verwendet (Abb. 2), wird heute aber nur noch bei Übelkeit
+und wegen seiner sedativen Wirkung gegen Schlaflosigkeit eingesetzt. Es gibt im Internet
+Erfahrungsberichte über das veränderte, traumartige Erleben mit missbräuchlich hohen
+Dosen von Diphenhydramin (20). Zum [’H]Mepyramin-markierten H1,-Rezeptor zeigte sich
+Diphenhydramin (20, K= InM) hoch affın [16].
+	Wie aus Tabelle 2 hervorgeht, konnte lediglich eine mäßige H1 vs. 5-HT2A-Selektivität
+erreicht werden, und das potenteste Derivat (31, Ki= 0.5nM vs. 22nM) erwies sich gleichzeitig
+als eines der selektivsten [15]. Die hohe Affinität zum H1-Rezeptor erstaunt nicht; es weist
+eine recht hohe strukturelle Verwandtschaft zu Diphenhydramin (20) auf.
+	Generell zeigen die ringgeschlossenen Derivate (1, 29-31 und 33-37) höhere Affinitäten,
+als die ringoffenen Gegenspieler (5, 38-45). Von den sterisch weniger eingeschränkten
+Diphenylalkylamin-Derivaten hin zu den Tricyclen bleibt die H1-Affinität erhalten oder sie
+wird erhöht. Hingegen geht ein Öffnen des mittleren Sechsrings hin zu Diphenylalkylamin-
+Derivaten allgemein mit einem deutlichen Affinitätsverlust vor allem am 5-HT2A-Rezeptor
+einher.
+
+
+
+	Anders als bei den Affinitäten zum 5-HT2A-Rezeptor [1] wirkt sich eine zunehmende
+N-Alkylierung von AMDA (1) positiv auf die Affinität zum H1-Histamin-Rezeptor aus [15];
+zu diesem zeigte 30 (Ki,= 25nM) eine ungefähr zehnmal höhere Affinität als AMDA (1, Ki=
+197nM) und 29 (Ki= 189nM, siehe Tabelle 2). Durch die N,N-Dimethylierung werden offen-

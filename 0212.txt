@@ -1,0 +1,46 @@
+	Die Retina-spezifische Aminoxidase oder RAO (codiert durch das Gen AOC2),
+scheint ein breites Spektrum von Phenethylaminen metabolisieren zu können. Sie
+kommt extrazellulär vor. Obwohl die mRNA des Enzyms in unterschiedlichem Gewebe
+gefunden wurde, konnte bisher nur im Auge eine eindeutige Enzymaktivität festgestellt
+werden. Auch sie kann durch Semicarbazid gehemmt werden [11].
+	Die eigentliche Semicarbazid-sensitive Aminoxidase SSAO (codiert durch das
+Gen AOC3) ist schon lange bekannt. Sie ist ein lösliches, kupferhaltiges Enzym, das nur
+extrazellulär vorkommt. Clark et al. untersuchten schon 1965 die Deaminierungsraten
+von unterschiedlichen Phenethylaminen (siehe auch Tabelle 1 im Kapitel 8.6). Dabei
+stellten sie z.B. fest, dass Mescalin ausschließlich über Semicarbazid-sensitive Aminoxi.
+dasen metabolisiert wird. Die SSAO wird auch von Propargylaminen gehemmt.
+	Die Monoaminoxidasen (MAO) haben den Enzymcode EC 1.4.3.4 und sind für
+den Abbau der Neurotransmitter von besonderer Wichtigkeit, da sie die Signalmole-
+küle im Zellinneren, wenn sie nicht mehr benötigt werden, „unschädlich machen“. Sie
+sind an die Mitochondrienmembran gebunden und kommen somit ausschließlich im
+Zellinneren vor, wo sie nicht für den Abbau von extrazellulär befindlichen, also ausge-
+schütteten Neurotransmittern zur Verfügung stehen. Extrazellulär befindliche Neuro-
+transmitter werden fast ausschließlich durch Rücktransport in die Zelle (reuptake) in-
+aktiviert. Wenn die Neurotransmitter dann im Zellinneren sind, werden sie entweder
+durch die MAO schnell abgebaut oder durch den vesikulären Monoamintransporter
+(VMAT) in schützende Vesikel verpackt, wo sie für eine erneute Wiederausschüttung zur
+Verfügung stehen. Wenn Xenobiotika durch die MAO abgebaut werden, dann gilt für sie
+ebenfalls, dass sie zuvor in die Zelle gelangen müssen.
+	Bisher ist die MAO die einzige Aminoxidase, die als Arzneimittel-Target thera-
+peutisch Bedeutung hat. MAO-Hemmstoffe werden seit vielen Jahrzehnten gezielt ent-
+wickelt, und es existieren unzählige Vertreter, die üblicherweise in ihre therapeutische
+Anwendung oder ihre Subtypselektivität eingeteilt werden. Hier geschieht die Einteilung
+eher aus chemisch-mechanistischer Sicht.
+
+
+MAO-Hemmer: Einteilung in Hemmmechanismen
+
+	Man kennt zwei Isoenzyme: die MAO-A und die MAO-B. Sie sind die prominentes-
+ten Vertreter der Aminoxidasen. Es existieren viele Hemmstoffe, die unterschiedliche
+Indikationsgebiete haben, die von Depression über Morbus Parkinson bis hin zu Nar-
+kolepsie reichen. Die Hemmstoffe sind entweder selektiv oder unselektiv, und binden
+entweder reversibel (das heißt kompetetiv) oder irreversibel (das heißt kovalent). Um
+einen systematischen Überblick zu bekommen, sollen die MAO-Hemmer hier nach
+ihren molekularen Wirkmechanismen klassifiziert werden. Man kann die irreversibel
+bindenden MAO-Hemmer strukturell vor allem in 3 Gruppen aufteilen: Hydrazin-,
+Cyclopropyl- und Propargylamin-Derivate (Tabelle 1).
+
+	Verbindungen 14 - 17 gehören zur Klasse der Hydrazin-Derivate, die mittlerweile
+wegen ihrer relativ hohen Toxizität als obsolet eingestuft werden. Sie werden zunächst
+durch die MAO abgebaut, wobei ein Radikal entsteht. Durch die generell hohe Reaktivität
+von Radikalen kann auch die eher unselektive Hemmung beider MAO-Typen, wie auch

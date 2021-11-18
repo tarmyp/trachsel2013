@@ -1,0 +1,22 @@
+zeigen 2-THMAP (11, Kapitel 4.3.1) und 3-THMAP (12, Kapitel 4.3.2) im Menschen
+ebenfalls eine stimulierende Wirkung,
+
+	Nebst den Schwerpunkten Blutdruck und Stimulanzien galt den histaminartigen Deri-
+vaten eine höhere Aufmerksamkeit. Histamin (13, Kapitel 4.6) ist ein Naturstoff mit weiter
+Verbreitung, und zugleich fungiert es als wichtiger Neurotransmitter im peripheren sowie
+zentralen Nervensystem. Eine histaminartige Wirkung konnte vor allem mit Heterocyclen
+erreicht werden, welche in der 2-Position zum endocyclischen Stickstoff eine Alkylamin-
+Seitenkette tragen; dazu zählen beispielsweise das Thiazol-Derivat 14 (Kapitel 4.8) und die
+Pyridyle 2-PYEA (15) und 2-PYAP (16, Kapitel 4.1.1). Das positionsisomere 3-PYEA (17,
+Kapitel 4.1.2) erwies sich als nicht histamin-artig, 3-PYAP (18, Kapitel 4.11.2) war verstärkt
+vasokonstriktiv und 4-PYEA (19, Kapitel 4.11.3) vermochte den Blutdruck ebenfalls zu er-
+höhen. Die zugrunde liegenden Mechanismen — die Frage, ob ein dem 2-Phenethylamin
+(2) oder dem Histamin (13) ähnlicher Wirkmechanismus vorliegt — wurden allerdings nicht
+abgeklärt.
+
+
+
+	Zusammenfassend kann gesagt werden, dass die Thienyl-Analoga eindeutig am besten
+als Bioisostere von 2-Phenethylamin (2) oder Amphetamin (5) fungieren und dass hist-
+aminartige Wirkungen erzielt werden, wenn ein N-haltiger Heterocyclus in der 2-Position
+eine 2-Aminoalkyl-Seitenkette trägt.

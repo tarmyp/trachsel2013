@@ -1,0 +1,27 @@
+Exkurs:
+Aminoxidasen
+
+
+Wie funktionieren Aminoxidasen?
+
+	Aminoxidasen sind für den Metabolismus von Alkylaminen und Arylalkylaminen
+von entscheidender Bedeutung, Auch wenn sie unterschiedliche Cofaktoren benötigen,
+teils unterschiedliche Substrate bevorzugen und es unterschiedliche Hemmstoffe gibt,
+geschieht im Prinzip mit all den Aminen dasselbe: Sie werden in Aldehyde umgewandelt
+und es entstehen dabei Ammoniak und Wasserstoffperoxid.
+
+
+
+Nebst den Monoaminoxidasen (MAO) existieren im Körper eine Reihe anderer
+Aminoxidasen, die unterschiedliche Amine bevorzugt abbauen und durch unterschiedli-
+che Hemmstoffe gehemmt werden können.
+	Funktionell, das heißt bezüglich ihrer Cofaktoren, mit deren Hilfe die Oxidation des
+Amins vollzogen wird, lassen sich die Aminoxidasen in zwei Gruppen unterteilen:
+
+	1.) Flavinhaltige Aminoxidasen, die mittels FAD (Flavin-Adenin-Dinucleotid; 1)
+die Oxidation vollziehen. In diese Gruppe gehören die Monoaminoxidasen MAO-A und
+MAO-B, die nur intrazellulär vorkommen, und die Renalase, die extrazellulär vorkommt.
+Das α-ständige H des Amins geht dabei auf das FAD über. Bei der Rückreaktion, also
+bei der Regeneration des Cofaktors FAD, entsteht das Wasserstoffperoxid [1].
+
+	

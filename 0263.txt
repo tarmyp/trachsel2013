@@ -1,0 +1,42 @@
+	Weiter wurden die Substanzen 15 und 16 untersucht [23]. Sie sollten als Wirkstoffe in
+Analogie zu Ephedrin (siehe Kapitel 3.5) Verwendung finden. Die Autoren beschrieben die-
+se Substanzen als aktive Bronchodilatatoren und verwiesen auf eine verstärkte Toxizität mit
+zunehmender Größe des N-Substituenten. Auf den gewünschten Effekt, die Erweiterung
+der Lungen, schienen diese Modifikationen wenig Einfluss zu haben. Alle untersuchten De-
+rivate hatten nur einen marginalen Einfluss auf den Blutdruck von Hunden.
+
+	N-Substituierte 2-Aminoindane des Typs 17 und 18 wurden auf diverse pharmako-
+logische Eigenschaften untersucht, beispielsweise als potenzielle Analgetika und Ent-
+zündungshemmer [22]. Dabei wurde beobachtet, dass einige der getesteten Verbindungen
+des Typs 17 den arteriellen Blutdruck in anästhesierten Hunden leicht erniedrigten. Die ge-
+testeten Verbindungen des 'Typs 17 waren inaktiv als Entzündungshemmer. Von weiteren
+Molekülen dieses Typs (17 und 18) wollte man wissen, ob sie eine neuropharmakologische
+Aktivität aufweisen. Dabei wurde vom entsprechenden Pyrrolidino-Derivat in Mäusen eine
+beachtliche amphetaminähnliche Wirkung festgestellt, dies bereits ab 3mg/kg. Wie die Au-
+toren dies untersuchten, wurde nicht erwähnt. Interessant ist der strukturelle Vergleich zu
+den Derivaten des Prolintan-Typs (siehe Kapitel 3.2.1) sowie des Pyrovaleron-Typs (siehe
+α-Pyrrolidinopentiophenon oder α-PVP im Kapitel 3.5), bei dem eine Hemmung der Mo-
+noamin-Wiederaufnahme erzielt wird. Es ist nicht auszuschließen, dass die Strukturen 17-18
+ähnliche pharmakologische Eigenschaften zeigen.
+
+
+
+	Die nächsthöheren benzannellierten alicyclischen Amine stellen die Aminotetraline dar.
+Hier sind ebenfalls zwei Positionen der Aminogruppe möglich und beide anfallenden Ver-
+bindungen sind chiral. 1-Aminotetralin (1-AT; 19) wurde zusammen mit anderen benzannel-
+lierten alicyclischen Aminen (1, 3 und 34) als Inhibitoren der PNMT getestet (in vitro) und
+erwies sich schwächer als das kleinere 1-AI (3) [7].
+
+2-Aminotetralin (2-AT; 20) zeigte in einer Lokomotionsstudie nur 10% der Aktivität
+von Amphetamin (Mäuse, i.p.) [1], jedoch konnte später die stimulierende Wirkung in
+Mäusen bis zu 8mg/kg nicht bestätigt werden ([24]; zusammengefasst in [26]). Unter den
+benzannellierten Verbindungen 14, 20, 35 und 36 substituierte 2-AT (20) in einer Drug-
+Discrimination-Studie an Ratten für Amphetamin am potentesten, es erwies sich als fast halb
+so aktiv wie Amphetamin [2].
+	Die Wirkung der Verbindungen 20-24 auf den Blutdruck wurde in Katzen und Ratten
+untersucht [27]. Für 2-AT (20) stellte man für beide untersuchten Tiere einen Blutdruckan-
+stieg fest. Dieser Effekt nahm durch das Einführen von Substituenten mit zunehmender
+Größe am Stickstoff kontinuierlich bis hin zur Verbindung 24 ab. Weitere Untersuchungen
+zur Fähigkeit, Epinephrin zu blockieren, sowie zur Wirkung auf die Atmung lassen den Au-
+tor dieser Studie schließen, dass der Einfluss auf den Blutdruck durch das Ausschütten von
+u zustande kommt.

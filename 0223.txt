@@ -1,0 +1,25 @@
+3.12. Phenylalkylazacycloalkane
+
+
+
+	Das Einbinden des basischen Stickstoffs vom Phenethylamin-Pharmakophor in ein
+Ringgerüst führt zu einer sehr großen Anzahl pharmakologisch wirksamer Verbindungen.
+Solche Substanzen werden zu den Azacycloalkanen gezählt. Die Klasse zeichnet sich durch
+strukturelle Vielfalt mit unterschiedlichsten Pharmakologischen Wirkungen aus, und einige
+Derivate haben den Sprung auf den pharmazeutischen Markt geschafft.
+
+3.12.1. Aziridine
+
+	Der kleinste Aza-Cyclus wird vom dreigliedrigen Aziridin dargestellt. Die Synthese von
+1-Phenylaziridin (1) und der 2-Phenylaziridine 2-5 wurde beispielsweise 1962 von Brois be-
+schrieben [1]. Das Positionsisomer 2-Phenylaziridin (2) kann als Phenethylamin-Analog be-
+trachtet werden, bei dem der Stickstoff mit dem benzylischen Kohlenstoffatom verbunden
+ist. Es zeigte eine Monoaminoxidase (MAO)-inhibitorische Aktivität [2], was Wells et al.
+1966 dazu veranlasste, die N-substituierten 2-Phenylaziridine 6 (R = Methyl, Ethyl, Iso-
+propyl, 2-Phenethyl) und 1-(2-Phenethyl)aziridin (7) ebenfalls auf diese Fähigkeit hin zu
+prüfen. In vitro (Homogenisat aus der Rattenleber) zeigten alle Verbindungen eine Inhibi-
+tion, allerdings nicht so ausgeprägt wie der MAO-Hemmer Iproniazid. Struktur 3 stellt ein
+cyclisiertes Amphetamin-Analog dar, bei dem die Amin-Funktion mit der Benzylposition
+verbunden ist, und Verbindung 5 kann als cyclisiertes Phentermin-Analog betrachtet wer-
+den (siehe Kapitel 3.7).
+

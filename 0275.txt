@@ -1,0 +1,32 @@
+3.15. AMDA und Abkömmlinge
+
+
+
+	Das Derivat 9-(Aminomethyl)-9,10-dihydroanthracen (1; AMDA) steht exemplarisch für
+Substanzen, die einen mit zwei Benzen-Ringen annellierten Aminoalkyl-Alicyclus aufweisen.
+In der chemischen Struktur von AMDA (1) findet sich die Phenethylamin-Grundstruktur
+wieder.
+	Aryl-unsubstituierte Phenylalkylamine zeigen generell geringe Affinitäten zu den 5-HT2-
+Rezeptoren (zusammengefasst in [1]). Die Vermutung, dass ein zweiter aromatischer Ring
+die Affinität steigern könnte, veranlasste Westkaemper, Dukat und Glennon, diverse compu-
+terbasierte Strukturberechnungen zu tätigen [2]. Daraus entstanden neue Ideen, welche
+schließlich zur Entdeckung von AMDH (5-Aminomethyl-10,11-dihydro-5H-dibenzo[a,d]-
+cycloheptadien, 2) führte. Es zeigte zum [3H]Ketanserin-markierten 5-HT2A-Rezeptor eine
+ordentliche Affinität (Ki= 112nM).
+
+
+
+	Diese neue Leitstruktur führte zu einer umfassenden Struktur-Affinitäts-Studie, welche
+die Wichtigkeit des zweiten Aryl-Rings und die geometrische Beziehung zwischen den beiden
+aromatischen Ringen untersuchte [3, 4]. Der Review-Artikel von Westkaemper und Glennon
+präsentiert das minutiöse Untersuchen der strukturellen Erfordernisse dieser Ligand-Klasse,
+an welchem nachstehend weitgehend festgehalten wird [1]. Soweit nicht anders vermerkt,
+sind alle folgenden angegebenen Affinitäten unterhalb der Strukturen K-Werte, die aus Bin-
+dungsstudien mit [3H]Ketanserin-markierten 5-HT2A-Rezeptoren ermittelt wurden.
+
+	Die Strukturen 3-8 sind jeweils Teilelemente vom nach AMDH (2) entdeckten AMDA (1,
+Ki= 20nM), einem potenten und selektiven 5-HT2A-Rezeptor Antagonist [3]. Es fällt auf, dass
+keines dieser Derivate auch nur näherungsweise die Affinität zum [H]Ketanserin-markierten
+5-HT2A, Rezeptor von AMDA (1) erreicht, Es muss demzufolge nicht nur durch die postu-
+lierte Präsenz eines zweiten Aryl-Teils, sondern zusätzlich durch die spezielle Geometrie der
+beiden Aryl-Teile zueinander und zur Seitenkette eine hohe Affinität mit AMDA (1) erreicht

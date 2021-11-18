@@ -1,0 +1,29 @@
+	Zunächst galten die Untersuchungen zu AMDA () der Interaktion mit dem 5-HT2A-
+Rezeptor. Durch das Antagonisieren des 5-HT2A-Rezeptors erhofft man sich heute neue
+Ansätze, um Schlafstörungen behandeln zu können [8]. Erst später richtete sich der Fokus
+auf die Histamin H1-Interaktion, denn auch Liganden des Histamin H1,-Rezeptors stellen
+eine viel versprechende Behandlungsmethode von Schlafstörungen dar [9, 10].
+	Es ist strukturell erkennbar, wieso die frühen Generationen von Antiallergika wie Cypro-
+heptadin (19) oder Diphenhydramin (20) als Nebenwirkung einen sedativen Effekt auf den
+Patienten ausüben, und so gewisse Wirkstoffe nebst der antiallergischen Wirkung auch als
+Schlafmittel genutzt werden können. Die Analyse der Struktur-Wirkungsbeziehung von
+AMDA (1) liefert Grundlagen für die Entwicklung selektiverer Wirkstoffe, so dass die ge-
+wünschte Wirkung gezielter erreicht wird.
+
+
+
+	Trotz, oder vielleicht gerade wegen der spärlich vorhandenen pharmakophoren Gruppen
+(zwei aromatische Ringe und Aminogruppe) und der Ähnlichkeiten zu Imipramin (18) und
+Cyproheptadin (19) ist AMDA (1) relativ selektiv — zumindest an den geprüften Targets -
+und zeigt im Gegensatz zu 18 und 19 keine Affinität zu den Serotonin- und Norepinephrin-
+"Transportern, dies zumindest im kompetitiven Assay (Tabelle 1) [1].
+
+
+Tabelle 1. Angaben der Ki-Werte in nM. Werte aus [1, 11].
+
+
+
+	Dies verleitete zur Vermutun, dass z.B, für Imipramin (18) ein anderer Bindungsmodus
+als für AMDA (!) vorliegt [12]. Das ursprünglich als Antidepressivum enwickelte
+Cyproheptadin (19) ist ein Histamin/Serotonin H1/5-HT2-Antagonist und wird heute
+vor allem gegen allergische Reaktionen eingesetzt, wird aber auch als Appetit-Stimulans

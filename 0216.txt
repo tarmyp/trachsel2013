@@ -1,0 +1,46 @@
+Indikationen für MAO-Hemmer
+
+MAO-Hemmer werden therapeutisch verabreicht, um den natürlichen Neuro-
+transmitter--Abbau zu bremsen. Der erste MAO-Hemmer, Iproniazid (9) war eigent-
+lich ein Anti-Tuberkulosemittel. Als sich bei den klinischen Versuchen eine deutliche
+Stimmungsaufhellung und Antriebssteigerung der Patienten zeigte, lag eine Verwendung
+als Antidepressivum nahe. Man geht davon aus, dass bei Depression generell ein Sero-
+tonin- und Norepinephrin-Mangelzustand herrscht [17], dem durch die Hemmung der
+MAO effektiv entgegengewirkt werden kann. Da die meisten trizyklischen Antidepres-
+siva eine ausgeprägte Sedierung hervorrufen, stellen die MAO-Hemmer eine therapeu-
+tische Alternative dar. Abgesehen von den Neben- und Wechselwirkungen, die weiter
+unten besprochen werden, können mit MAO-Hemmern sogar bei therapieresistenten
+Depressionen gute Erfolge verbucht werden [17].
+	Auch bei Patienten mit Morbus Parkinson herrscht ein akuter Mangel an Neuro-
+transmittern, und zwar an Dopamin. Der MAO-B-Hemmstoff Selegilin (14) gilt immer
+noch als „Gold-Standard“ und wird als Zusatzmedikation zur Dopamin-Prodrug
+L-Dopa verabreicht (siehe auch Kapitel 7.5.1). Wo und wann immer die MAO arbeitet,
+entsteht H,O,. Und wann immer ein Amin daran gehindert wird, von der MAO abgebaut
+zu werden (egal ob allosterisch, orthosterisch, reversibel oder irreversibel), lässt sich
+dies, gerade bei Medikamenten zur Behandlung neurodegenerativer Erkrankungen, als
+neuroprotektiver Nebeneffekt präsentieren [18].
+
+
+Ungewollte und gewollte Wechselwirkungen
+
+	Die irreversible Enzymhemmung an sich scheint weniger ein Problem darzustellen,
+da die Enzyme binnen einiger Tage wieder regeneriert werden. Vielmehr zeigt sich die
+Problematik bei den MAO-Hemmern darin, dass — wie schon eingangs erwähnt — auch
+viele biogene Amine aus der Nahrung über die MAO abgebaut werden. Solange die
+MAO ihre Funktion ausübt, macht sich nicht bemerkbar, welche pharmakologischen
+Eigenschaften die Nahrungsinhaltsstoffe haben können. Bei einer kompletten MAO-
+Hemmung und der Einnahme von biogenen Aminen ist die häufigste Wechselwirkung
+ein teils lebensbedrohlicher Blutdruckanstieg, eine sogenannte hypertensive Krise.
+Das prominenteste dieser „schlechten“ biogenen Amine ist das Iyramin. Tyramin ist
+das Decarboxylierungsprodukt der Aminosäure Tyrosin, die vor allem in fermentier-
+ter, proteinreicher Nahrung vorkommt: Salami, Wein, Bier, Sojasauce, Hefeextrakt,
+Schokolade und natürlich Käse (gr.: ?????, sprich tyros = Käse, woraus sich die Namen
+Tyrosin und 'Tyramin ableiten). Des weiteren sollten auch Fischprodukte, Leber und
+einige Hülsenfrüchte gemieden werden [19]. Da Käse die prominenteste Quelle für Ty-
+ramin ist, spricht man, wenn es während der Behandlung mit MAO-Hemmern und
+noch bis zu zwei Wochen danach zu hypertensiven Krisen durch die Kombination mit
+Nahrungsmitteln kommt, vom Tyramin- oder „Cheese“-Effekt. Alle Stoffe, die zu
+einer erhöhten Neurotransmitterkonzentration führen, wie z.B. auch Stimulanzien oder
+sogar einfache Schleimhaut-Abschweller oder Asthmamittel können in Kombination
+mit MAO-Hemmern bedrohliche hypertensive Krisen auslösen. Da die meisten MAO-
+Hemmer doch auch andere Aminoxidasen hemmen können, kann der Metabolismus

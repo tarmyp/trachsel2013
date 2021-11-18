@@ -1,0 +1,19 @@
+bar gewisse strukturelle Erfordernisse erfüllt (vergleiche ehenaikeher Strukturen von Imipra-
+min (18), Cyproheptadin (19) sowie Diphenhydramin 20). Das Verlängern der Seitenkette,
+zusammen mit den N-Alkylierungen, offenbarte einen Propyl-Linker als optimale Lange
+zwischen dem tricyclischen System und Amin für beide Bindungstellen.
+	Interessant ist auch, welchen Einfluss die Kettenlänge auf die Affinität zum 5-HT2A
+Rezeptor hat. Im Falle der doppelten Benzylaminstruktur von 32 (Ki= 12000nM), scheint der
+Abstand von Aromat zu basischem Amin zu gering zu sein, um eine Interaktion einzugehen.
+Sobald 2 C-Atome zwischen den Aromaten und dem Stickstoff sind, hat man die hohen
+Affinitäten von AMDA (1, Ki= 20nM). Wenn der Abstand im Fall von 33 (Ki= 480nM) um
+ein C-Atom zu einer doppelten Propylaminstruktur erweitert wird, werden die Affinitäten
+
+
+
+Tabelle 2. Affinitäten diverser AMDA- sowie Diphenylalkylamin-Derivate zu den 5-HT2A- sowie H1-
+Rezeptoren [1, 15].
+
+
+
+a) nicht bestimmt.

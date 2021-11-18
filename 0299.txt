@@ -1,0 +1,32 @@
+	Das 2-(2-Furanyl)-2-propenylamin 16 wurde als möglicher Inhibitor der Dopamin-B-
+Hydroxylase (DBH) getestet und mit anderen Arylstrukturen verglichen [9]. Bei den In-vitro-
+Tests (DBH aus der Nebenniere des Rindes) zeigte 16 (Ki= 410μM) im Vergleich zu dem
+2-Thienyl-Analogon 17 (Ki= 35μM) eine 10mal schwächere DBH-Inhibition, und gegenüber
+dem Phenyl-Analogon 18 (Ki= 13000μM) eine 300mal stärkere DBH-Inhibition. Das Enzym
+DBH wandelt in den noradrenergen Nervenendigungen Dopamin in Norepinephrin um.
+Durch seine Hemmung steht mehr Dopamin und weniger Norepinephrin zur Verfügung.
+Es wird angenommen, dass DBH-Hemmstoffe zur Behandlung von posttraumatischen
+Belastungsstörungen oder Cocainabhängigkeit angewendet werden könnten.
+
+
+
+4.2.2. 3-Furanylalkylamine
+
+	Die 3-Furanylalkylamine sind nur sehr spärlich in der Literatur beschrieben, vermut-
+lich aus folgendem Grund: Wie Thiophen lässt sich auch Furan mit Elektrophilen meistens
+sehr selektiv in 2-Position substituieren. Furane, die in 3-Position substituiert sind, erfor-
+dern demnach für ihre Synthese einen deutlich größeren Aufwand. Die im Vergleich zu den
+2-Thienyl-Derivaten biologisch sehr schwach aktiven 2-Furanyl-Verbindungen boten wenig
+Anlass, aufwändige Synthesen in Angriff zu nehmen. Dennoch werden hier einige der weni-
+gen beschriebenen 3-Furanylalkylamine gezeigt.
+
+	Die beiden Verbindungen 3-Furanylmethylamin (19) und 1-(3-Furanyl)-2-ethylamin
+(3-FEA; 20) wurden als Intermediate bei einer Synthese benötigt (3-FEA wurde als sehr
+instabil bezeichnet) [10]. Verbindung 21 wurde als möglicher Inhibitor der Dopamin-ß-
+Hydroxylase getestet [9]. 21 (Ki= 230μM) zeigte bei einem In-vitro-Experiment (DBH aus
+Nebenniere des Rindes) eine vergleichbare Aktivität wie sein 2-Furanyl-Analog 16 (Ki=
+410uM). Im Gegensatz dazu zeigte sich, dass bei den Thienyl-Verbindungen die 2-Thienyl-
+Verbindung 17 (Ki= 35μM) gegenüber dem 3-Thienyl-Derivat 22 (Ki= 570μM) eine zehn-
+mal stärkere Inhibition aufwies. Interessanterweise erwies sich das Phenyl-Analogon 18 als
+inaktiv (Ki= 13000μM), so dass hier durch Einführen eines Heteroaromaten eine deutliche
+Steigerung der Potenz zur Hemmung dieses Enzyms erreicht wird.
