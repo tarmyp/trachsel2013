@@ -14,7 +14,7 @@ keine Affinität zu den Monoamin-Transportern. Ausgehend von AMDA (72) wurden za
 reiche Abkömmlinge hergestellt und untersucht, und man entdeckte dabei auch (unselektive)
 5-HT2A-Liganden, die sich potenter als AMDA (72) erwiesen.
 
-Fazit Derivate mit benzannclierten Cyclen: Durch das konformationelle Einschränken
+	Fazit Derivate mit benzannelierten Cyclen: Durch das konformationelle Einschränken
 der Seitenkette von Amphetamin gehen die stimulierenden Eigenschaften weitgehend
 verloren. Mit AMDA-artigen Substanzen erhält man potente 5-HT2A- und 5-HT2C-Liganden
 (z.B. Substanz 72).

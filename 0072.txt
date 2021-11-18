@@ -1,13 +1,14 @@
 	Interessanterweise kann hier eine N,N-Dialkylierung die stimulierenden Eigenschaften
-aufrecht erhalten (Dimethylcathinon; 20), dies steht im Gegensatz zu N,N-Dimethylampher-
+aufrecht erhalten (Dimethylcathinon; 20), dies steht im Gegensatz zu N,N-Dimethylamphet-
 amin (8), das weitgehend inaktiv ist. Weiter ist auch α-PVP (21) ein Psychostimulans, und
-Diethylpropion (22), das in manchen Ländern zur kurzzeitigen Behandlung von Fettleibig.
-keit verwendet wird, zeigt relativ wenig Missbrauchspotenzial. Generell geht der Be
+Diethylpropion (22), das in manchen Ländern zur kurzzeitigen Behandlung von Fettleibig-
+keit verwendet wird, zeigt relativ wenig Missbrauchspotenzial. Generell geht der ampheta-
 minartige „Releaser“-Effekt mit zunehmender Seitenkettenlänge verloren, wohingegen der
 hemmende Effekt auf Monoamintransporter erhalten bleibt.
 
 
-	Das Einführen von stark elektronenziehenden Substituenten (z.B CF3 oder CN) an der
+
+	Das Einführen von stark elektronenziehenden Substituenten (z.B. CF3 oder CN) an der
 Seitenkette senkt die Basizität des Stickstoffs so stark, dass die für Amphetamin typischen
 Eigenschaften komplett verlorengehen. Die Basizität der jeweiligen Amine wird dadurch
 so drastisch gesenkt, dass eine Interaktion in protonierter Form unter physiologischen
@@ -19,7 +20,7 @@ konnten (z.B. mit den Substanzen 23-27).
 	Fazit Heteroatome im Bereich der Seitenkette: Durch ß-HO-Gruppen werden verstärkt
 Wechselwirkungen mit adrenergen Rezeptoren erzielt. Durch die ß-Keto-Einheit erzielt
 man ähnlich zu Amphetamin (3) eine Freisetzung von DA und NE, woraus stimulierende
-Effekte resultieren können; wird dabei die «-Alkylkette verlängert, so gehen die Release-
+Effekte resultieren können; wird dabei die α-Alkylkette verlängert, so gehen die Release-
 Eigenschaften zunehmend verloren, und die Hemmung der Monoamin-Wiederaufnahme
 wird aufrecht erhalten. Stark elektronenziehende Atome oder Gruppen können den pKa-
 Wert der Amine derart stark verändern, dass eine Protonierung und somit Wechselwirkung

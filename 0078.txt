@@ -2,18 +2,19 @@
 ein sehr breites Spektrum an pharmakologischen Wirkungen erzielt werden kann.
 
 	Das strukturell einfache Derivat Phendimetrazin (63) wurde zur kurzzeitigen Behand
-lung von Fettleibigkeit vermarktet. Es ist zudem ein potentes Psychostimulans. Phendime
+lung von Fettleibigkeit vermarktet. Es ist zudem ein potentes Psychostimulans. Phendime-
 trazin (63) selber zeigt auf neurologischer Ebene wenig Wirkung: es ist eine Prodrug für
-Phenmetrazin (64). Dieses setzt DA und NE frei und ist eigentlich für die stimulierende Wir.
-kung verantwortlich. Phenylpiperazine 65 wirken je nach Aryl-Substituenten unterschiedlich,
-Berichtet wird von entaktogener, psychedelischer oder stimulierender Wirkung, Sie interagie-
+Phenmetrazin (64). Dieses setzt DA und NE frei und ist eigentlich für die stimulierende Wir-
+kung verantwortlich. Phenylpiperazine 65 wirken je nach Aryl-Substituenten unterschiedlich.
+Berichtet wird von entaktogener, psychedelischer oder stimulierender Wirkung. Sie interagie-
 ren unselektiv mit diversen Serotonin-Rezeptor Subtypen.
 
 	Und schließlich zeigt Benzylpiperazin (66) psychostimulierende Eigenschaften. Es
 bewirkt einen Anstieg von extrazellulärem Dopamin sowie Serotonin.
 
 
-	Fazit Derivate mit cyclischer Seitenkette: Durch diese Möglichkeit, strukturelle Ände
+
+	Fazit Derivate mit cyclischer Seitenkette: Durch diese Möglichkeit, strukturelle Ände-
 rungen vorzunehmen, bieten sich viele unterschiedliche pharmakologische Wirkprofile an,
 angefangen bei der MAO-Inhibition durch Tranylcypromin (44), über kombinierte DA- und
 NE- freisetzende Agenzien (z.B. Fencamfamin; 45 oder Phenmetrazin; 64), kombinierte DA-
@@ -25,7 +26,7 @@ oder NMDA-Antagonisten (PCP; 60 und Ketamin; 61).
 
 Derivate mit benzannellierten Cyclen (Kapitel 3.13, 3.14 und 3.15)
 
-	Unter den benzannellierten Derivaten versteht man Alicyelen, die mit einer Benzen
+	Unter den benzannellierten Derivaten versteht man Alicyelen, die mit einer Benzen-
 Einheit eine Verknüpfung in 1,2-Position aufweisen. Die Phenethylamin-Einheit ist durch
 das Anbinden zweier C-Atome der Seitenkette an die Benzen-Rinheit rigidisiert und somit
 konformationell eingeschränkt. Das macht diese Strukturen für die Medizinalchemie attrak-

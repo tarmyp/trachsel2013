@@ -1,4 +1,4 @@
-	Unter den Phenylpropylaminen gibt es auch interessante Vertreter, Verschiedene β-Aryl-
+	Unter den Phenylpropylaminen gibt es auch interessante Vertreter. Verschiedene β-Aryl-
 oxy-phenylpropylamine wirken als Hemmstoffe der Monoamin-Transporter und sind in vie-
 len Antidepressiva wiederzufinden, so z.B. im bekannten Fluoxetin (Prozac; 43).
 
@@ -8,7 +8,7 @@ len Antidepressiva wiederzufinden, so z.B. im bekannten Fluoxetin (Prozac; 43).
 
 Derivate mit cyclischer Seitenkette (Kapitel 3.11 und 3.12)
 
-	Diese Klasse von Substanzen ist enorm divers. Man kann zwischen den Phenylalkyleyc-
+	Diese Klasse von Substanzen ist enorm divers. Man kann zwischen den Phenylalkylcyc-
 loalkylaminen (Kapitel 3.11) und den Phenylalkylazacycloalkanen (Kapitel 3.12) unterschei-
 den.
 
