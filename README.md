@@ -1,5 +1,5 @@
-# trachsel2013
-Trachsel et.al's book Phenethylamine digitised and translated into English
+# Phenethylamine: Von der Struktur zur Funktion (English)
+Trachsel et al.'s seminal book "Phenethylamine: Von der Struktur zur Funktion" digitised and translated into English.
 
 ## TODO
 - [x] scan/photograph pages into JPEGs
@@ -26,7 +26,7 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
   - [ ] pages 700-799
   - [ ] pages 800-899
   - [ ] pages 900-1003
-- [ ] Re-render molecule diagrams:
+- [ ] Molecule diagram images (PNG/JPEG):
   - [ ] pages 1-99
   - [ ] pages 100-199
   - [ ] pages 200-299
@@ -37,7 +37,7 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
   - [ ] pages 700-799
   - [ ] pages 800-899
   - [ ] pages 900-1003
-- [ ] Make clean images from book (e.g. advertisements)
+- [ ] Extract clean images from book (e.g. advertisements)
   - [ ] pages 1-99
   - [ ] pages 100-199
   - [ ] pages 200-299
@@ -48,13 +48,12 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
   - [ ] pages 700-799
   - [ ] pages 800-899
   - [ ] pages 900-1003
-- [ ] Resolve all translation issues
+- [ ] Resolve all translation problems in the Issues area of the project
 - [ ] Compile in LateX
 - [ ] Render PDFs:
-  - [ ] link to/from chapters
+  - [ ] link to/from book chapters
   - [ ] sections
   - [ ] English
-  - [ ] German
 
 ## Nice-to-have TODO
 - [ ] hyperlinks for references
@@ -63,41 +62,61 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
 - [ ] hyperlinks to profiles of authors/researchers
 
 ## Contributing!
-### Translate into English
+### Translate pages into English
 This is the primary goal of this project so getting English translations is high priority (instead of, say, extracting images).
 
 Try to do one translation __per commit__.
 
 You are encouraged to put multiple translation into one Pull Request (PR) so the project doesn't get overloaded with PRs.
 
-Checklist:
+Translation checklist:
 * select a German page to translate (e.g. 0723.txt)
-* ensure that the OCR text output in that file matches up **exactly** with the image i.e. 0723.jpg
+* ensure that the OCR text output in that file matches up **exactly** with the text in the image:
   * it's important to get German characters correct
-  * it's __not so important__ to get subscripts and superscripts correct (they're secondary to the task of translation)
+  * it's __not so important__ to get subscripts and superscripts correct (they're secondary to the task of translation, and will be dealt with after translation is complete)
 * translate the German into English
   * Google Translate has been doing quite fine with this task, so far. YMMV.
   * __try__ to preserve the white-space:
     * between paragraphs
     * at the start of paragraphs
-* **if something doesn't quite translate** then put this in the PR you create for your work. 
+* **if something doesn't quite translate** then mention this in the PR you create for your work.
 
 ### Make corrections to English translations
-This is pretty simple. Have a look through the English translations and if you find anything that needs attention then make a GitHub Issue.
+This is pretty simple. Have a look through the English translations and if you find anything that needs attention then make a GitHub Issue. **Follow the format of previous GitHub issues**. This helps the people reviewing your work :)
 
-**Follow the format of previous GitHub issues**. This helps the people reviewing your work :)
+Alternatively, make a PR with the changes in them!
 
 ### Extracting images
 The images in the book - things like advertisements, __not__ molecule diagrams - need cropping out and cleaning up.
 
-Preferably they'd appear in grayscale so that they appear properly in the PDF that will eventually be rendered.
+Preferably they'd be in grayscale so that they appear properly in the PDF that will eventually be rendered. This means the image doesn't contain any coloured artifacts, that sort of thing.
 
-Make high quality PNG or JPEG files and name them after the page they're from. e.g. 0072_advertisement_1.png, 0072_advertisement_2.png
+Render them:
+* in PNG or JPEG format
+* high quality
+* black and white (i.e. grayscale).
+
+Name them:
+* prefixed with the page number
+* descriptively, as best you can. For example (refer to pages in book):
+  * 0448_diet_pill_ad.jpg, 0448_redux_pill.jpg
+  * 0441_buddha_on_scales.jpg, 0441_eskatrol.jpg, 0441_syndrox.jpg, 0441_tight_squeeze.jpg
 
 ### Molecular diagrams
-The digital book will need ALL of the molecular diagrams present in the physical .. that's a lot of diagrams!
+The digital book will need ALL of the molecular diagrams present in the physical book .. that's a lot of diagrams!
 
-As long as they look 95% like the original it doesn't matter how they'd made. They could be cropped out as per 'Extracting images' or made from scratch using something like ChemDraw or any number of online molecular diagram softwares.
+As long as they look __95% like the original__ it doesn't matter how they're made. They could be cropped out as per the instructions for 'Extracting images' or made from scratch using something like ChemDraw or any number of online molecular diagram softwares.
+
+Render them:
+* in PNG or JPEG format
+* high quality
+* black and white.
+
+Name them:
+* prefixed with the page number
+* descriptively, as best you can. For example (refer to pages in book):
+  * 0440_5_Amphetamin.png, 0440_6_Methamphetamin.png
+  * 0451_34.png, 0451_35.png
 
 ## Inhaltsverzeichnis
 ```
