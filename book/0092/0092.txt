@@ -1,6 +1,6 @@
 glichen mit 3.8% bei den Patienten mit bekannten Risikofaktoren. Nach Berücksichtigen
 der verschiedenen Altersgruppen und statistischer Datenanalyse (95% Vertrauensintervall,
-P<0.0001), ließ sich die Aussage ableiten, dass Patienten mit einer idiopathischen PAH zehn-
+p<0.0001), ließ sich die Aussage ableiten, dass Patienten mit einer idiopathischen PAH zehn-
 mal häufiger Stimulanzien benutzt haben als Patienten mit anderen Formen pulmonaler Hy-
 pertonie.
 
@@ -24,7 +24,7 @@ len sich MDMA (14%) und weitere, nicht genau definierte ATS (22%). Von den 17 To
 Methamphetamin (2), welche die Behörden 2005 beschlagnahmten, kamen 63% aus Ost-
 und Südostasien und 36% aus den USA.
 	Die geschätzte illegale Produktion von Amphetaminen (Amphetamin und Methamphet-
-amin (2), ohne MDMA,) beliefen sich in 2005 auf 370t, davon fallen 290t auf Methamphet-
+amin (2), ohne MDMA) beliefen sich in 2005 auf 370t, davon fallen 290t auf Methamphet-
 amin (2) und 80t auf Amphetamin, und war während den letzten Jahren ähnlich hoch [30].
 Schätzungen kommen wie folgt zustande: 1.) Beschlagnahmung der ATS, 2.) Beschlagnah-
 mung von Vorstufen, 3.) Schätzung an ATS-Konsumenten. Die Autoren beschreiben die
