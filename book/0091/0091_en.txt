@@ -1,0 +1,45 @@
+Changes in the structure of the reuptake mechanisms are responsible [1]. 
+Chronic methamphetamine consumption changes the structure of the brain, as 
+demonstrated by imaging studies [23]. These studies revealed significant 
+deviations in the regions responsible for emotions and memory in the brain 
+of methamphetamine addicts. In certain areas of the brain, some of these 
+defects appear to be reversible; these regions showed regeneration after 
+two years of methamphetamine abstinence [23]. This went hand in hand with 
+the better performance in specific memory tests. Within the same period, 
+however, other parts of the brain had not recovered, which indicates a 
+long-lasting change / destruction of certain regions [23]. Even after 
+three years of methamphetamine abstinence, decreased levels of striatal 
+DA transporters were found in humans. It's more detailed documents that 
+methamphetamine (2) causes a long-lasting reduction in DA and its metabolites 
+in animal experiments (rodents and non-human primates) [25].
+    All of these studies, often very detailed and on the complex mechanisms 
+of action, lead to the conclusion that it is toxic at the neuronal level. 
+The interested reader is referred to [1, 25, 26].
+
+    Methamphetamine (2) penetrates the nerve cell and displaces monoamines there; 
+this not only increases the concentration inside the cell, but also in the 
+synaptic gap. The neurotoxicity of methamphetamine seems to be dependent 
+on these two increases in concentration [27]. Because methamphetamine (2) 
+excessively increases the dopamine concentration, dopamine quinones and 
+reactive oxygen species (ROS) are formed [25]. In addition, the extracellular 
+glutamate levels are increased, which leads to an intracellular increase in 
+the calcium concentration and in turn leads to the activation of NO synthase (NOS). 
+This NOS now controls the formation of reactive nitrogen compounds (RNS). 
+As the name suggests, these compounds (ROS and RNS) are highly reactive and 
+can not only damage proteins, lipids and DNA in their environment, but also 
+directly influence the energy production of the cell by inhibiting the mitochondria. 
+Together with other cascading actions not described in detail here, important proteins 
+can no longer be synthesized, such as the essential vesicular monoamine transporter 2 (VMAT-2). 
+This oxidative stress can lead to an altered permeability of the blood-brain barrier. 
+This can possibly lead to an undesirable interaction with antipsychotic drugs that 
+are used in methamphetamine psychosis [25]. It becomes intuitively clear how 
+sensitively such cascade-like mechanisms are coordinated with one another. 
+By changing this delicate balance, the damage can occur in all its dimensions.
+
+Pulmonary Artery Hypertension (PAH)
+
+As with fenfluramine and phentermine, consuming methamphetamine (2) greatly 
+increases the risk of developing pulmonary hypertension [28]. In a study 
+with 340 participants who were diagnosed with idiopathic 
+pulmonary artery hypertension (PAH) (due to no externally known cause), 
+29% had a history of stimulants (amphetamine, methamphetamine (2) or cocaine),
