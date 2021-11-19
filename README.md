@@ -63,6 +63,9 @@ Trachsel et al.'s seminal book "Phenethylamine: Von der Struktur zur Funktion" d
 
 ## Contributing!
 ### Translate pages into English
+NOTE: take a look at PR #2 for inspiration for a properly organised contribution.
+
+
 This is the primary goal of this project so getting English translations is high priority (instead of, say, extracting images).
 
 Try to do one translation __per commit__.
@@ -80,6 +83,8 @@ Translation checklist:
     * between paragraphs
     * at the start of paragraphs
 * **if something doesn't quite translate** then mention this in the PR you create for your work.
+* name the new file with "\_en" at the end. For example:
+  * 0723_en.txt
 
 ### Make corrections to English translations
 This is pretty simple. Have a look through the English translations and if you find anything that needs attention then make a GitHub Issue. **Follow the format of previous GitHub issues**. This helps the people reviewing your work :)
