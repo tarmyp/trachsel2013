@@ -1,0 +1,19 @@
+	Interessanterweise zeigen einige Vertreter dieser Substanzklasse hohe Affinität zum
+5-HT1A-Rezeptor (Ki< 10nM) [51]. Man hoffte, diese Eigenschaft bei der Behandlung von
+Depressionen nutzen zu können, aufgrund des nachfolgend beschriebenen Zusammen-
+hangs.
+	Eine bisher als Nachteil betrachtete Eigenschaft der Antidepressiva, die als selektive Seroto-
+nin-Wiederaufnahmehemmer (SSRI) fungieren, ist die lange Zeitspanne bis zum Einsetzen der
+stimmungsaufhellenden Wirkung (ungefähr zwei Wochen; neuere Medikamente wie Duloxetin
+können innerhalb einer Woche wirken, siehe auch Exkurs Antidepressiva). Obwohl das Erhöhen
+der Serotoninkonzentration im synaptischen Spalt durch Hemmung der Wiederaufnahme das
+primäre Wirkprinzip von SSRI darstellt, scheint der Grund für das Einsetzen einer antidepressi-
+ven Wirkung durch SSRI teilweise in der Senkung der Feuerungsaktivität von Serotonin-Neuro-
+nen zu liegen (verursacht durch die Aktivierung von 5-HT1aAutorezeptoren der Raphe-Kerne
+zu Beginn der Behandlung). So werden die 5-HT1A-Rezeptoren mit weniger Serotonin beliefert.
+	Durch die Antagonisierung der 5-HT1A-Rezeptoren mit Substanzen wie 47-49 erwünschte
+man sich nun bei gleichzeitiger Abgabe mit einem SSRI (z.B. Fluoxetin, Fluvoxamin oder Paro-
+xetin) ein schnelleres Einsetzen der therapeutisch erwünschten Wirkung (zusammengefasst in
+[52]). Zumindest zeigten die Untersuchungen mit Pindolol (51) - ebenfalls ein potenter Anta-
+gonist am 5-HT1ARezeptor - ein mögliches schnelleres Einsetzen und in manchen Fällen eine
+verstärkte klinische Wirkung von Antidepressiva [52].

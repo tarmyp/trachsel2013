@@ -1,0 +1,37 @@
+Position erhöhen die Selektivität zugunsten der ß1-Rezeptoren. Dadurch wird das Risiko,
+tingert, dass es bedingt durch den ß2-Antagonismus zu atemdepressiven Nebenwirkun er-
+führt. Bei den direkt wirkenden Sympathomimetika des Phenethylamin-Typs führen Kleine
+Reste am Stickstoff tendenziell zur agonistischen Interaktion mit α-und ß-, mittelgroße a
+ß1- und ß2-, und große mit β2-Rezeptoren. Generell sind für die Bindung an ß- und teilweise
+auch α-adrenergen Rezeptoren ein voluminöser Rest am Stickstoff, eine aliphatische HO-
+Gruppe und ein aromatischer Teil wichtig, unabhängig, ob es sich um Agonisten oder Anta-
+gonisten handelt. Alle bekannten Betablocker mit Aryloxypropanolamin-Struktur lassen sich
+an ihrem Namen erkennen, da sie auf das Suffix -olol enden.
+
+
+
+Abb. 3. Die beiden für adrenerge Interaktionen bedeutsamen Grundgerüste der Arylethanolamine und
+der Aryloxypropanolamine.
+
+
+
+	Wie bereits erwähnt, führen ortho-Substituenten zu potenten, wenn auch eher unselek-
+tiven ß-Rezeptorantagonisten. Um diese Entdeckungen zu stützen und die Anforderungen
+weiter zu untersuchen, wurden diverse strukturelle Modifikationen getätigt; hier werden die
+2-arylsubstituierten Derivate gezeigt. Beispielsweise konnte durch die Substanz Procinol
+(46), die einen 2-Cyclopropylrest enthält, in Ratten der Blutdruck mit einer rund zehnmal
+geringeren Menge gesenkt werden als mit Propranolol (35) [50]. Diese Substanz erreichte
+den pharmazeutischen Markt nicht.
+	Die Verbindungen Penbutolol (47; Betapressin®), Oxprenolol (48; Trasicor®), Alpreno-
+lol (49; Aptin®) und Timolol (50; Blocadren®) ermöglichen effizient eine mehr oder weniger
+unselektive Blockade der ß-Rezeptoren und werden zur. Behandlung von arteriellem Bluthoch-
+druck und/oder zur Senkung der Herzfrequenz sowie zur Senkung der Erregbarkeit des Her-
+zens eingesetzt.
+	Timolol (50) findet zudem Einsatz bei der Behandlung von Glaucomen. Die Verbin-
+dungen mit einem ungesättigten Rest in der 2-Position wie Oxprenolol (48) und Alprenolol
+(49) erwiesen sich als partielle Agonisten (geringe Efficacy) und nicht als Antagonisten. Da-
+durch sind sie in der Lage, eine adrenerge Überaktivität an β-Rezeptoren genauso wie ein
+Antagonist abzufangen. Im Ruhezustand, wenn ein reiner Antagonist keinerlei Effekte zeigt,
+wirken sie wegen ihrer intrinsischen sympathomimetischen Aktivität (ISA) leicht kreislaufsti-
+mulierend, Dadurch soll gerade im Ruhezustand ein gewisser Grundtonus aufrechterhalten
+bleiben und einem möglichen Herzstillstand vorgebeugt werden [48].

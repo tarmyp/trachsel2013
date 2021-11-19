@@ -1,0 +1,29 @@
+	Es gibt noch neuere 'Transformationen der Bioisosterie, so wurden beispielsweise in
+letzter Zeit auch Pharmaka und Riechstoffe entwickelt, bei denen ein quartäres C-Atom
+durch Silicium und Germanium substituiert wurde (z.B. [2]).
+
+
+Deuterium-Analoga: Ersatz von Wasserstoff-Atomen
+
+	Obwohl der Austausch von Wasserstoffatomen mit Deuteriumatomen nahelie-
+gend ist, wird diese Methode bis heute nicht breit eingesetzt. Dabei wäre-ein derartiger
+Tausch in verschiedener Hinsicht vorteilhaft und erfolgversprechend. Deuterium ist ers-
+tens hinsichtlich Größe und Gestalt dem Wasserstoff sehr ähnlich, und zweitens ist die
+Deuterium-Kohlenstoff-Bindung aufgrund der doppelten Masse von Deuterium rund
+sieben Mal stärker (kinetischer Isotopeneffekt). Durch die strukturelle Nähe kann davon
+ausgegangen werden, dass die deuterierte Verbindung sehr ähnliche Eigenschaften zei-
+gen wird, patentrechtlich jedoch als neue Substanz gilt. Seit einigen Jahren sind deshalb
+Unternehmen wie Auspex Pharmaceuticals [7] oder CONCERT Pharmaceuticals [8, 9]
+genau auf diesem Gebiet aktiv. Indem sie in altbewährten Stoffen Wasserstoff durch
+Deuterium ersetzen, kreieren sie neue, genauso wirksame und eventuell sogar meta-
+bolisch stabilere Arzneimittel. Mit diesem Ansatz sparen die Firmen viel Geld, da die
+eigentliche Suche nach wirksamen Stoffen wegfällt.
+	Wahrscheinlich war Shulgin einer der ersten, der diesen Approach bei psychoaktiven
+Substanzen vorgenommen und am eigenen Leibe getestet hat [4]. Er hat Mescalin (1)
+in β-Position dideuteriert (2) und auch an der Methoxy-Gruppe in 4-Position alle 3
+Wasserstoff-Atome durch Deuterium ersetzt (3, siehe Kapitel 8.4.6). Für Mescalin (1),
+β-D (2) und 4-D (3) wurde ein identischer Dosisbereich von 180-360mg gefunden, und
+das psychologische Wirkspektrum divergierte kaum [4]. Da Reid et al. an Ratten fest-
+stellten, dass α,α-Dideuterophenethylamin (4, siche Kapitel 1.) gegenüber der Mono-
+aminoxidase (MAO) inert ist [5], synthetisierten Trachsel et al. das entsprechende α,α-
+Dideuteromescalin (5; α-D) [6]. Dieses erwies sich um etwa einen Drittel potenter als

@@ -1,0 +1,23 @@
+4.12. Diazinylalkylamine
+
+	Ersetzt man in dem Heteroaromaten Pyridin (1) eine CH-Gruppe mit einem N-Atom, so
+erhält man die Diazine. Es sind drei verschiedene Positionsisomere möglich: Pyridazin (2),
+Pyrimidin (3) und Pyrazin (4). Durch das zusätzliche elektronenziehende N-Atom werden
+die Verbindungen weit weniger basisch (pKa= 2.24, 1.23 und 0.51) als Pyridin (pKa = 5.2).
+
+
+
+	Die Diazinylalkylamine wurden sehr spärlich untersucht und meist nur chemisch be-
+schrieben, da sie lediglich als chemische Intermediate benötigt wurden.
+
+	Im Pyridazin (2) ist die Seitenkette in zwei möglichen Positionen (3- oder 4-substituiert)
+denkbar. Das Derivat 5 wurde chemisch beschrieben [1].
+
+	Pyrimidin (3) würde mit einer Seitenkette drei Positionsisomere zulassen. In Analogie zu
+Histamin (6) wurde unter anderen Verbindungen das Pyrimidin-Derivat 7 daraufhin unter-
+sucht, inwieweit es durch die Monoaminoxidase metabolisiert wird [2].
+
+	Durch die Symmetrie von Pyrazin (4) existiert beim Vorhandensein einer Seitenkette
+nur ein Positionsisomer. Bei Untersuchungen zur Chemie von Pyrazinen stellten Singerman
+und Livine in den 1960er Jahren mehr als zehn 2-(2-Pyrazinyl)-ethylamine 8 her (R= H und
+Alkyl) [3].

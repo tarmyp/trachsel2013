@@ -1,0 +1,45 @@
+Zusammenfassung
+
+	Die 2-substituierten Phenylalkylamine sind im Vergleich zu anders substituierten Phe-
+nylalkylaminen nicht bis ins letzte Detail untersuchte Verbindungen. Jedoch stechen die
+Phenoxypropanolamine hervor, da sie ausgerüstet mit einer HO-Gruppe in der Seitenkette
+und einer voluminösen N-Substitution die ß1-adrenergen Rezeptoren antagonisieren. Die
+Substanzen 47-50 sind potente ß-Blocker, die eine Senkung der Herzfrequenz und des Blut-
+drucks sowie eine geringere Erregbarkeit des Herzens erzielen, aber auch zur Behandlung von
+Angstsymptomen eingesetzt werden können.
+	Weiter ist die Substanz 8-OH-DPAT (36) erwähnenswert. Sie ist ein rigidisiertes, 2-sub-
+stituiertes Phenylalkylamin mit ausgeprägter Affinität zum 5-HT1A-Rezeptor (Agonist), was
+sie in radioaktiv markierter Form zur Standardsubstanz bei Untersuchungen dieses Sero-
+toninrezeptor-Subtyps macht.
+
+
+Literatur
+
+[1] J. S. Buck. J. Am. Chem. Soc. 1932, 54, 3661.
+[2] G. Barger, H. H. Dale. J. Physiol. 1910, 41, 19.
+[3] R. A. Glennon, S. M. Liebowitz, D. Leming-Doot, J. A. Rosecrans. J. Med. Chem.
+    1980, 23, 990.
+[4] A. Rotman, J. Lundstrom, E. McNeal, J. Daly, C. R. Creveling, J. Med. Chem. 1975,
+    18, 138.
+[5] E. C. Pesterfield, J. K. Patel. ortho-substituierte Phenaethylamine und Verfahren zu
+    ihrer Herstellung. DE1959898, 1969.
+[6] R. A. Glennon. J. Med. Chem. 1987, 30, 1.
+[7] R. A. Glennon, S. M. Liebowitz, G. M. Anderson, 3rd. J. Med. Chem. 1980, 23, 294.
+[8] J. B. Rangisetty, M. Dukat, C. S. Dowd, K. Herrick-Davis, A. DuPre, S. Gadepalli,
+    M. Teitler, C. R. Kelley, N. A. Sharif, R. A. Glennon. J. Med. Chem. 2001, 44, 3283.
+[9] L. C. Clark, F. Benington, R. D. Morin. J. Med. Chem. 1965, 8, 353.
+[10] J.J. Knittel, A. Makriyannis. J. Med. Chem. 1981, 24, 906.
+[11] C. L. Border, D. ]. Craik, B. P. Shehan. Magn. Res. Chem. 1993, 31, 222.
+[12] S. Kölliker, M. Oehme. Anal. Bioanal. Chem. 2004, 378, 1294.
+[13] R. A. Glennon, R. Young, F. Benington, R. D, Morin. J. Med. Chem. 1982, 25, 1163.
+[14] R. A. Glennon, J. D. McKenny, R. A. Lyon, M. Titeler. J. Med. Chem. 1986, 29, 194.
+[15] S. Kang, J. P. Green. Nature 1970, 226, 645.
+[16] R. A. Glennon, R. Young, A. E. Hauck. Pharmacol. Biochem. Behar. 1985, 22, 723.
+[17] J. B. van der Schoot, E. J. Ariens, ]. M. van Rossum, J. A. T. M. Hurkmans. Arzneim.
+     Forsch. 1962, 12, 902.
+[18] L. N. Domelsmith, T. A. Eaton, K. N. Houk, G. M. Anderson III, R. A. Glennon,
+     A.T. Shulgin, N. Castagnoli Jr., P. A. Kollman. J. Med. Chem. 1981, 24, 1414.
+[19] R. A. Glennon, J. A. Rosecrans, R. Young, Eur. J. Pharmacol. 1981, 76, 353.
+[20] R. V. Heinzelman, B. D. Aspergren. J. Am. Chem. Soc. 1953, 75, 925.
+[21] M. Langlois, B. Bremont, $, Shen, A. Poncet, J. Andtieux, S. Sicsic, I. Serraz, M.
+     Mathe-Allainmat, P. Renard, P. Delagrange. J. Med. Chem. 1995, 38, 2050.

@@ -1,0 +1,20 @@
+Ring-zu-Kette-Transformation
+
+	Diese Transformation wird bei der Optimierung der Leitstruktur eher selten
+vorgenommen. Zumindest konnten für β-adrenerge Substanzen des Typs 35 und
+36 die Bioisostere 37 und 38 gefunden werden. Es wurde auch erfolgreich bei
+Serotonintransporter-Hemmstoffen verwendet. So findet man beim Fluvoxamin (39)
+diese recht unübliche Struktureinheit. Im Vergleich mit anderen typischen „-oxetinen“,
+wie Fluoxetin (40, siehe auch Kapitel 3.10, Exkurs Monoamin-Transporter sowie Exkurs
+Antidepressiva) trägt es nur einen Aromaten.
+
+
+
+	Eine weitere Ring-zu-Kette-Transformation ist der Austausch eines Aromaten durch
+ein konjugiertes Alkin. So gelang es Gmeiner et al., z.B. Dopamin-D3-selektive Verbin-
+dungen herzustellen, bei denen erfolgreich ein Aromat durch konjugierte Alkine ersetzt
+wurde, wie in 42 und 43 gezeigt [15-17]. Offensichtlich sind derartige Gruppen wie ein
+Aromat dazu befähigt, π-π Wechselwirkungen mit dem Dopamin-D3-Rezeptor einzuge-
+hen und eine Dipropylaminotetralin-Einheit (41) zu mimetisieren. Allerdings gilt zu be-
+achten, dass derart schwerwiegende strukturelle Variationen auch dazu führen können,
+dass sich der Bindungsmodus verändert.

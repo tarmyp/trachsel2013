@@ -1,0 +1,42 @@
+
+druck; W: Prüfung der in vivo [3H]NE-Aufnahmehemmung und [3H]NE-Freisetzung im Mäuseherz; X:
+Auswirkungen auf die Catecholamin-Konzentration im Rattenhirn; Y: MAO-Inhibition; Z: Als Anorekti-
+kum untersucht (schlechter als Amphetamin); AA: Ki-Werte für [3H]5-HT ‚Aufnahmehemmung des Sero-
+tonintransporters; AB: Zusammenhang zwischen physikalischen Konstanten (lonisierungspotential) und
+5-HT-Rezeptoraffinität; AC: In vitro Potenz für DA-, NE-, und 5-HT-Freisetzung (in Selbstverabreichungs-
+versuchen mit Rhesusaffen wurde die Beziehung zwischen der serotonergen Aktivität und den verstär-
+kenden Effekten untersucht); AD: Bindungsdaten 5-HT1A- und Sigma-Rezeptoren; AE: Freisetzung und
+Wiederaufnahme von Monoaminen sowie Bestimmung der 5-HT2A/B/C-Rezeptor Affinitäten; AF: Synthese
+und Einfluss auf Blutdruck- und Atmungsfrequenz an Katzen: AG" Analytik: NMR, GC-MS; AH: Anorek-
+tische, lokalanästhetische, antimikrobielle und analgetische Wirkung getestet.
+
+
+6.2.1. Ein paar erwähnenswerte Verbindungen
+
+	Die Verbindung 3-Methoxyamphetamin (3-MA; 3) wird gelegentlich auch MMA ge-
+nannt, vom Namen Metamethoxyamphetamin entspringend. Dabei ist jedoch Vorsicht ge-
+boten: MMA wird ebenso verwendet für die Substanz 3-Methoxy-4-methylamphetamin (siehe
+Kapitel 7.5.4.1), und daher sollte nur der Term 3-MA bezeichnend für 3-Methoxyamphetamin
+(3) gebraucht werden. Die Substanz wirft beim Betrachten ihrer chemischen Struktur die
+Frage auf, ob sie sich als psychoaktiv erweist. Einerseits trägt 3-MA die Substruktur des sti-
+mulierenden Amphetamins (42), andererseits besitzt es durch die Methoxy-Gruppe partiell
+die Struktur von bekannten psychedelischen Substanzen wie den 2,5-Dimethoxy-4-substitu-
+ierten Phenylalkylaminen (43, siche Kapitel 8.5) auf. Zudem ist es ein Isomer des potentiell
+gefährlichen und psychoaktiven 4-Methoxyamphetamins (siehe Kapitel 6.3.3).
+
+
+
+	Mit einer Drug-Discrimination-Studie (Ratten) zeigten Glennon, Young und Hauck, dass
+3-MA (8, ED50= 3.4mg/kg) für rac. Amphetamin (42, ED50= 0.62 mg/kg) substituiert [8].
+Somit war 3-MA diesbezüglich rund ein Fünftel so potent wie Amphetamin. Für das Psyche-
+delikum 2,5-Dimethoxy-4-methylamphetamin (DOM, racemisch; 44) erfolgte keine Substi-
+tution (Versuchstiere: Ratten) [11].
+	Zu den Serotonin 5-HT2A- sowie 5-HT2C-Rezeptor-Subtypen zeigte 3-MA (3) jeweils Af-
+finitäten jenseits von 10µM (agonistisch sowie antagonistisch markiert) [15, 40]. Die tiefen
+Rezeptoraffinitäten widerspiegeln die Resultate aus der Diskriminationsstudie mit DOM
+(44): Psychedelika des Phenylalkylamin-Typs zeigen generell hohe Affinitäten an den ge-
+nannten Serotoninrezeptoren, und die hohe Affinität geht allgemein mit psychedelischen Ef-
+fekten einher (sofern die funktionelle Aktivität agonistischer Natur ist; siehe Kapitel 8.5.1).
+Diese In-vitro- und In-vivo-Experimente lassen darauf schließen, dass 3-MA (3) zumindest
+betreffend psychedelischer oder stimuliernder Effekte im Menschen wenig wirksam ist. Of-
+fenbar sind bis anhin keine aussagekräftigen Erfahrungsberichte zur Wirkung im Menschen

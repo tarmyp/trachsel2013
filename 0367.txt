@@ -1,0 +1,27 @@
+toninrezeptoren zeigt [41]. Zwei Jahre später konnte für 8-OH-DPAT (36) die Selektivität
+für den Serotonin-5-HT1A-Rezeptorsubtyp gezeigt werden [42]. An geklonten h5-HT1A-Re-
+zeptoren beträgt die Bindungskonstante im Durchschnitt Ki= 3nM [43]. 8-OH-DPAT (36)
+zeigt nicht nur eine Selektivität zu den 5-HT,-Rezeptoren, sondern auch eine 500-fache
+Subtyp-Selektivität für den 5-HT1A- gegenüber dem 5-HT1B-Rezeptor. Die Stereoselektivität
+von 8-OH-DPAT (36) gegenüber der Interaktion mit dem 5-HT1A-Rezeptor ist gering [44].
+Aufgrund seines Rezeptor-Selektivitätsprofils wurde 8-OH-DPAT (36) schließlich in einer
+radiomarkierten Form ([3H]8-OH-DPAT) vielerorts als Hot Ligand in Verdrängungsstudi-
+en am 5-HT1A-Rezeptor verwendet. Eine Modifikation am Stickstoff zeigte, dass kleinere
+Alkylreste als N,N-Dipropyl zu einer leichten Abschwächung der Affinität führen und eine
+N,N-Dibutyl-Substitution der Affinität um den Faktor 100 abträglich ist [41]. Später wurde
+herausgefunden, dass 8-OH-DPAT (36) zudem ein Agonist des 5-HT7-Rezeptors ist [45]
+und mit dem Serotonin-Transporter (SERT) interagiert [46].
+
+	Das MeO-analoge Derivat 8-MeO-DPAT (38) hat ähnliche Affinitäten am 5-HT1A-Re-
+zeptor wie 36 [6]. Das zum 8-OH-DPAT (36) analoge und offenkettige Phenethylamin 39
+zeigte am gleichen Rezeptor einen hundertfachen Affinitätsverlust [6].
+
+
+
+	Die Cyclopropan-Derivate 40-43 wurden ebenfalls auf dem 5-HT1A-Rezeptor gemessen,
+Die beiden trans-Stereoisomeren von 40 zeigten dabei unterschiedliche Affinitäten zum
+5-HT1A-Rezeptor [47]. Das [1R-2S]-40 lag mit einer Bindungskonstante von Ki= 4.9nM im
+Bereich von 8-OH-DPAT (36), während [1S-2R]-40 28mal weniger affin war (Ki= 140nM).
+Der Effekt eines Ersatzes der 8-OH-Gruppe durch ein Brom-, Fluoratom oder eine CE3-
+Gruppe auf die Affinität zum 5-HT1A-Rezeptor wurde ebenfalls geprüft (jeweils rac. trans;
+Ki-Werte: 41: 22nM, 42: 59nM, und 43: >1000nM).

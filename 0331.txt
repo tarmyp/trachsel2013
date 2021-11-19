@@ -1,0 +1,19 @@
+4.10. Isothiazolylalkylamine
+
+
+
+	Die Isothiazolylalkylamine sind sehr spärlich untersucht worden. Angeregt durch die zu-
+nehmend einfachere Chemie der Isothiazole in den 1960er Jahren wurde dieser aromatische
+Heterocyclus in pharmakologisch aktiven Verbindungen anstelle des Benzen-Kerns einge-
+setzt. So stellten Bennett et al. die beiden Verbindungen 2-(5-Isothiazolyl)ethylamin (1) und
+1-(5-Isothiazolyl)-2-aminopropan (2) als mögliche Histamin- und Amphetamin-Analoga her
+[1]. Eine pharmakologische Untersuchung wurde jedoch nicht dokumentiert. Regioisomere,
+bei denen die Seitenkette in einer anderen Position am Isoxazol befestigt ist, wurden bisher
+nicht beschrieben.
+
+
+
+Literatur
+
+[1] B. A. Bennet, D. H. Jones, R. Slack, K. R. H. Wooldridge. J. Chem. Soc. 1965, 700,
+     3834.

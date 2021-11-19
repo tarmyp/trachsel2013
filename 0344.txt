@@ -1,0 +1,24 @@
+Kette-zu-Kette-Transformation
+
+	Die bioisosteren Beziehungen zwischen Gruppen wie Estern (27), Amiden (28),
+Ureaten (44), Carbamaten (45) und Thioureaten (46) sind seit langem bekannt und
+werden auch heute bei medizinalchemischen Optimierungen angewendet.
+
+
+
+	Ester (27) werden im Körper oft rasch enzymatisch durch Esterasen abgebaut,
+Amide (28) hingegen viel langsamer. Im Bereich der Lokalanästhetika konnte man
+dadurch Wirkstoffe mit besserer Verträglichkeit und längerer Wirkdauer erhalten [18].
+
+	Häufig können Ester (27) oder Amide (28) invertiert werden. Das bedeutet, dass die
+carbonsäuretragende Gruppe und die Alkohol- oder Aminkomponente umgetauscht wer-
+den, ohne dass dabei die Affinität zum Target verloren geht. In den meisten Fällen ändert
+sich allerdings der Metabolismus der Verbindungen beachtlich. Die beiden prominentes-
+ten Vertreter sind wahrscheinlich das Pethidin (47) und sein inverser Ester, das MPPP (48,
+siehe Kapitel 3.12.4.1). In der Peptidchemie ist die Vorgehensweise des Invertierens weit
+verbreitet. Hier spricht man von retro, wenn die Verknüpfungsstelle vertauscht wird (Struk-
+turen 49 and 50). Wenn zudem die Stereochemie von L-Aminosäure zu D-Aminosäure
+geändert wird, spricht man von einem retro-inverso approach [19].
+
+	Nebst den klassischen Vertauschungen von Atomen und Gruppen ist die Ähnlichkeit
+bei der α-Trifluormethyl-Gruppe (51) zu einer Amid-Gruppe (28) nicht offensichtlich,

@@ -1,0 +1,37 @@
+6.1.2. 2-Substituierte Phenoxyalkylamine als Betablocker
+
+	Betablocker, oder besser gesagt adrenerge β-Rezeptorantagonisten wirken meist an den β1-
+Rezeptoren, die v.a. am Herzen lokalisiert sind. Dort verringern sie die Verengung der Gefäße 
+durch endogenes Norepinephrin und erzeugen so eine Gefäßerweiterung und damit verbun-
+den eine Blutdrucksenkung sowie eine effektivere Pumpleistung des Herzen. Zudem senken
+ß1-Antagonisten die Herzfrequenz (negative Chronotropie), die Kontraktionskraft (ee
+Inotropie) und verringern die Erregbarkeit des Herzens (negative Dromotropie). So können
+Betablocker bei koronarer Herzkrankheit, funktionellen Herzkreislauf-Störungen und Hyper-
+tonie eingesetzt werden. Ausserdem werden Betablocker bei Angstsymptomen und (essenziel-
+lem) Tremor verwendet [24]. ß2-Rezeptoren befinden sich hingegen vor allem in den Bronchien.
+Eine Antagonisierung führt zu einer Verengung der Bronchien und hat therapeutisch keinen
+Nutzen. Allerdings ist der β2-Antagonismus durch unselektive Betablocker dafür verantwort-
+lich, dass bei Asthmatikern unter Umständen Asthmaanfälle ausgelöst werden können [48].
+
+	Der schottische Wissenschaftler J. W. Black entwickelte in den 1950er und 1960er Jahren
+den bis heute therapeutisch verwendeten Betablocker Propranolol (35, Inderal®; Abb. 1 und
+2), wofür er schließlich 1988 den Nobelpreis in Medizin erhielt [49]. Als Basis zu dessen
+Entwicklung diente die Modellsubstanz Pronethalol (Alderlin, Nethalide, 44, Betablocker), die
+sich aufgrund des ungünstigen Wirkprofils nicht vermarkten ließ.
+	Pronethalol (44) hat die prominente Arylethanolamin Struktur, die eigentlich von direkten
+Sympathomimetika (adrenergen Agonisten) oder indirekten Sympathomimetika (Norepinephrin-
+Releaser oder Transporter-Hemmstoffe) bekannt ist. In diesem Buch sind etliche Vertreter
+dieser Klassen erwähnt (siehe z.B. Kapitel 6.2.3.1, 6.3.9, oder 7.6) und die bekannten Effek-
+te reichen von Bronchienerweiterung hin zu Kreislaufstimulation (Blutdruckerhöhung und
+Steigerung der Herzfrequenz). Man spricht im Zusammenhang mit sympathomimetischer
+Wirkung auch oft von einem Fight-and-flight-Effekt. Sympathomimetika tragen häufig das
+Suffix -rin (z.B. Epinephrin, Ephedrin, Synephrin, Etilephrin u.v.m.). Es ist daher verwun-
+derlich, dass Pronethalol (44) einen entgegengesetzten Effekt hat und ein Antagonist ist. Bis
+auf wenige Ausnahmen wie Dichlorisoprenalin, Labetalol oder Sotalol (siche Kapitel 6.3.9)
+hat die Struktur der Arylethanolamine vor allem adrenerge Agonisten hervorgebracht oder
+Substanzen, die an den Monoamintransportern wirken.
+
+
+
+Abb. 1. Pronethalol (44) diente als Leitverbindung bei der Entwicklung des ersten kommerziellen Beta-
+blockers Propranolol (35; Inderal®). Beide Substanzen sind unselektive β1/β2-Antagonisten.

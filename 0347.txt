@@ -1,0 +1,35 @@
+5. Ersatz des Arylteils durch nichtaromatische Reste
+
+
+
+5.1. Alkylamine
+
+	Mit ihren Untersuchungen um die Wende des 19. Jahrhunderts schufen Barger und Dale fun-
+dierte Grundlagen im Bereich der Phenylalkylamine. Die beiden ermöglichten und beeinflussten
+mitihren Pionierarbeiten eine Vielzahl von nachfolgenden Arbeiten bis in die aktuelle Zeit. Bis ins
+Jahr 1910 erfolgten einige Arbeiten auf physiologischer wie dann auch auf chemischer Seite,
+und schließlich präsentierten die beiden Forscher das bis dato errungene Wissen aus eigenen
+Studien sowie von vorhergehenden Arbeiten anderer Wissenschaftler [1]. Sie stellten als erste
+fest, dass 2-Phenethylamine sympathomimetische Wirkung haben.
+	Die Erforschungen der Struktur des aktiven Prinzips der suprarenalen Medulla (des
+inneren Teils der Nebenniere) beginnend im Jahre 1897 ergaben, dass dieses durch Epi-
+nephrin (1) gestaltet wird (Epinephrin = Adrenalin, das auch den Namen Renalin trägt!).
+Dies führte danach zu Untersuchungen von strukturell verwandten Substanzen, welche die
+Grundstruktur A und B tragen (zusammengefasst in [1]. Eine dieser Substanzen war auch
+racemisches Epinephrin. Die Substanzen mit der Grundstruktur B wurden durch Reduktion
+der Keto-Gruppe in A erhalten und zeigten in Versuchstieren in den meisten Fällen im Ge-
+gensatz zu den Verbindungen A eine stark erhöhte norepinephrinartige Wirkung (Details zur
+Wirkung von Epinephrin und Norepinephrin siehe Kapitel 7.5.2).
+
+
+
+	Alle aktiven Verbindungen enthielten eine 3,4-Dihydroxyphenylgruppe, was zunächst
+zur Annahme führte, dass diese Catecholgruppe die essenziell aktive Gruppe dieser Ver-
+bindungen ist. Diese Vermutung wurde durch den Sachverhalt gestützt, dass während der
+intravenösen Applikation von Catechol (2) der Blutdruck anstieg. Bei der Verabreichung
+von 2-(Methylamino)-ethanol (3), der als Teil von Epinephrin (1) nach dem Entfernen der
+Catecholgruppe übrig bleibt, blieb der Blutdruck unbeeinflusst (Abb. 1.) Interessant ist die
+damals herrschende Betrachtungsweise der Wirkung einer Substanz. Vielleicht herrschte
+durch die damals sehr mechanisch-industriell geprägte Zeitepoche ebenfalls eine redukti-
+onistische mechanische Betrachtung der Moleküle, die dazu führte, das Molekül einfach zu
+zetschneiden, um dann den einen Teil davon testen zu können. Barger und Dale wiesen jedoch

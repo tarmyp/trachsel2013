@@ -1,0 +1,47 @@
+ckelter Wirkstoffe darstellt (Siehe Exkurs Anorektika). Dieser Rezeptortyp kann für das
+Auftreten von Herzklappenfehlern (VHD, engl. valvular heart disease) ausgeschlossen werden,
+da nur wenige dieser Rezeptoren in Herzklappen exprimiert sind [50]. Das Problem, das
+mit Fenfluramin (23) auftritt, liegt in der Fähigkeit seiner Hauptmetaboliten, zusätzlich an
+den 5-HT2B-Rezeptor zu binden und diesen zu aktivieren: Das Agonisieren des 5-HT2B-
+Rezeptors wird u.a. für die VHD verantwortlich gemacht. Heute werden Anstrengungen
+unternommen, selektive 5-HT2C-Agonisten zu entwickeln, welche die gewünschte anorekti-
+sche Wirkung zeigen, ohne dabei den 5-HT2B-Rezeptor zu aktivieren. Die Aktivierung des
+5-HT2B-Rezeptors kann auch die Plasma-5-HT-Levels erhöhen [98] und dadurch möglicher-
+weise eine pulmonalarterielle Hypertonie (PAH) bewirken.
+	Ein weiteres Problem ist die Fähigkeit von Fenfluramin (23), die Serotonin-Konzent-
+rationen durch Freisetzung im Plasma zu erhöhen (siehe Tabelle 3): Nebst vielen anderen
+Eigenschaften vermag Serotonin auch eine Mitogenese (Stimulierung der Zellteilung) sowie
+Vasokonstriktion zu erzeugen. Veränderte Konzentrationen von Serotonin im Blut sind in
+die Pathogenese von VHD sowie primärer pulmonalarterieller Hypertonie (PAH) involviert
+zusammengefasst in [44]). Die Verabreichung von Fenfluramin (23) an Ratten vermochte
+zwar die 5-HT-Konzentrationen im Blut nicht derart zu erhöhen, dass eine Kontraktion der
+pulmonalen Arterien erfolgte, jedoch lagen sie genügend hoch, um eine Mitogenese in den
+glatten Muskelzellen der Pulmonalarterien zu erzeugen [44].
+	Diese beiden Faktoren — Aktivierung des 5-HT2B-Rezeptors → VHD, und Erhöhung
+der 5-HT-Konzentrationen im Blut → PAH - könnten schließlich dazu geführt haben, dass
+Fenfluramin (23) dieses Nebenwirkungsprofil zeigt (für Untersuchungen zu PAH und SERT-
+Substrate siehe Kapitel 3.12.3). In Experimenten mit Ratten konnte zudem gezeigt werden,
+dass wiederholtes Verabreichen von (+)-S-Fenfluramin (23a) eine langanhaltende Erschöp-
+fung der Serotoninkonzentrationen im Hirngewebe erzeugt [43].
+
+	In den 1980er Jahren konnte gezeigt werden, dass vor allem die S-Form für die anorek-
+tische- und die R-Form für die sedierende Wirkung verantwortlich ist [53]. Das racemische
+Fenfluramin erhielt von der FDA 1973 die Zulassung als Anorektikum (Pondimin® und Pon-
+derax®), und das S-Enantiomer war ab 1996 unter dem Namen Redux® auf dem Markt;
+beide wurden 1997 aufgrund der starken Nebenwirkungen vom Markt zurückgezogen (siehe
+auch Exkurs Anorektika).
+
+	Episoden mit starken Nebenwirkungen von Anorektika des Phenethylamin-Typs haben
+sich mehrmals wiederholt (siehe Methamphetamin, Aminorex, Phenmetrazin, Phendimetra-
+zin, Fenfluramin, Sibutramin), und alle bis auf Phentermin (63) mussten wieder vom Markt
+genommen werden. Obschon einige Neuentwicklungen im Gange sind und man sehr mi-
+nuziös zu verhindern versucht, dass diese Moleküle Agonisten des 5-HT2B-Rezeptors (→
+VHD) oder Substrate des Serotonintransporters SERT (→ PAH) sind, stellt sich auch auf-
+grund anderer Nebenwirkungen (siehe Sibutramin) die grundsätzliche Frage, ob das über
+Jahrtausende auf genetischer Basis evolutionär ausgeklügelte System zur Aufrechterhaltung
+des Hungers einfach durch ein Molekül ausgeschaltet werden kann. Bis zur Industrialisie-
+rung war auch für die heutige Erste Welt kein Überfluss an Nahrungsmitteln vorhanden,
+und der Hunger war schließlich einer der lebenserhaltenden Triebe. Ob das Überlisten des
+Hungergefühls durch einen Wirkstoff nachhaltiger ist als eine Ernährungsumstellung und
+sportliche Aktivität darf im Interesse der Gesundheit nicht durch die chemischen Industrien
+beantwortet werden. Weitere Diskussion siehe Exkurs Anorektika.

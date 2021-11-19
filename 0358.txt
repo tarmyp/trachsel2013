@@ -1,0 +1,30 @@
+	Anfang des 20. Jahrhunderts wurde Tyramin (2) von der Firma Burroughs Welkom als
+blutdrucksteigerndes Mittel vermarktet und war somit das erste Epinephrin-Analogon, das
+in der Medizin eingeführt wurde (zusammengefasst in [2]). Da es aber nicht effizient genug
+war, wurden diese ersten Struktur-Wirkungs-Beziehungen bis heute mit dem Ziel weiterver-.
+folgt, natürliche Funktionen der biogenen Amine zu imitieren oder zu unterbinden. Tyramin
+(2) ist zudem Teilstruktur der Aminosäure L-Tyrosin (4). L-Tyrosin (4) wird im Körper durch
+Tyrosinhydroxylase zu L-Dopa (5) hydroxyliert, das dann weiter im Gehirn über mehrere
+Schritte zu Dopamin (DA, 6), Norepinephrin (NE) und Epinephrin umgebaut wird (Details
+siehe Kapitel 7.5).
+
+
+
+	Gründe für das Interesse an monosubstituierten Phenylalkylaminen dürften in erster Li-
+nie ihre einfache Chemie sein, aber auch die Nähe zur natürlichen Aminosäure L-Tyrosin (4)
+oder zu den 3,4-disubstituierten Neurotransmittern Dopamin (6) und Norepinephrin (3). So
+ergab sich die Frage, ob man die natürlichen Neurotransmitter/Hormone durch strukturelle
+Vereinfachung mimetisieren kann.
+
+	Die 2-substituierten Phenylalkylamine zeigen allgemein wenig Aktivität im ZNS (Kapitel
+6.1). Erwähnenswert sind jedoch die zahlreichen 2-substituierten Aryloxyphenylalkylamine,
+die sich als effektive Betablocker erwiesen haben. Auch die 3-substituierten Substanzen zei-
+‚gen bis auf wenige Ausnahmen (z. B. Fenfluramin, 13; Kapitel 6.2.2) wenig nennenswerte
+Interaktionen mit dem ZNS. Pharmakologisch betrachtet dürften die 4-substituierten Phe-
+nylalkylamine die interessantesten sein (Kapitel 6.3). Es ist jedoch aufgrund wenig vorhan-
+dener oder unvollständiger Datensätze schwierig, jeweils einen Trend der Wirkungsstärken
+anzugeben. Die Wirkungsstärke nimmt beim Verschieben des Substituenten aus der 2-, über
+die 3- hin zur 4-Position innerhalb der Amphetamine zu (mit MeO: Substitution in Amphet-
+amin-trainierten Ratten; mit MeS: Hemmung der Nahrungsaufnahme) oder die 3-substitu-
+ierten Amphetamine sind wirkungsstärker als die 4-substituierten Analoga (mit CF3: Hem-
+mung der Nahrungsaufnahme).

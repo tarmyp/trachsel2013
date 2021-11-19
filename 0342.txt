@@ -1,0 +1,21 @@
+Kette-zu-Ring-Transformation
+
+	Auch diese Transformation ist ein gängiger Versuch, die biologische Wirkung zu
+beeinflussen. Oft wird die Carbonsäure-Funktion 21 durch Tetrazole 22, Isoxazole 23
+und Oxadiazole 24 ersetzt. Jeder dieser Heterocyclen hat amphotere Eigenschaften,
+d.h. ihre Stickstoffatome können protoniert werden oder, je nach pH, auch Protonen
+abgeben.
+	Ein Beispiel, wo die Natur quasi selbst einen bioisosteren Austausch vorgenommen
+hat, ist der Fliegenpilz-Wirkstoff Muscimol (25, siehe Kapitel 4.9), ein potenter sowie
+selektiver GABA, -Agonist. Hier fungiert der 3-Hydroxyisoxazol-Heterocyclus 23
+als rigidisiertes Bioisoster zur Carbonsäurefunktion der Gamma-Aminobuttersäure
+(GABA, 26).
+
+
+
+	Für Ester (27) und Amide (28) wurden ebenfalls zahlreiche Heterocyclen verwendet.
+Ohne Anspruch auf Vollständigkeit seien hier Oxadiazole (29), Oxazoline (30) und Al-
+kyltetrazole (31) genannt [11]. Im Arbeitskreis von Gmeiner wurde z.B. die Amidstruktur
+von Metoclopramid (ein Antiemetikum) durch einen Oxazol- (32), Thiazol- (33) und
+Cycloamidin-Heterocyclus (34) ersetzt, woraus man neue Dopamin-D4-Rezeptor-Ligan-
+den erhielt [12-14].

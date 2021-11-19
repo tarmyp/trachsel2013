@@ -1,0 +1,35 @@
+Tabelle 1. Ausgewählte 2-substituierte Phenylalkylamine (Fortsetzung)
+
+
+
+A: Synthese; B: Effekte auf Blutdruck; C: Serotonin-Rezeptor-Affinitäten; D: [3H]NE-Aufnahmehemmung
+und [3H]NE-Freisetzung am Mäuseherz; E: Getestet auf die Inhibition der MAO; F: Konformationsanalyse
+mittels NMR; G: Analytik; H: Korrelation zwischen Aktivität (im Mensch) und elektronischem Zustand hal-
+luzinogener Amphetamine. Vorhersage für OMA: 0.9 (Mescalin = 1); J: Drug-Discrimination-Studie (Trai-
+ning drug: Amphetamin); K: Lokomotionsstudien (Vergleich mit Amphetamin, i.p. Mäuse); L: SAR-Studie:
+Zusammenhang zwischen Valenz-lonisierungspotential und 5-HT Rezeptoraffinität (UV-Photoelektro-
+nenspektroskopie); M: Drug-Discrimination-Studie (Training drug: DOM); N: Drug-Discrimination-Studie
+(Training drug: 5-MeO-DMT); O: Als Ligand für Melatoninrezeptoren untersucht; P: Als Anorektikum un-
+tersucht. Keine der beschriebenen Verbindungen hat das Potenzial, wie das im Experiment als Vergleichs-
+substanz verwendete Amphetamin den Appetit zu unterdrücken; Q: In vivo Charakterisierung (Ratten,
+Katzen. Blutdruck, LD50, Motilität, Verhaltenstest, Beeinflussung des Metabolismus); R: Beeinflussung
+des Blutdrucks und Atmungsfrequenz in Katzen.
+
+
+
+6.1.1. Ein paar erwähnenswerte Verbindungen
+
+	Die Verbindung 2-Methoxyamphetamin (OMA und 2-MA genannt; 5) lässt beim Be-
+trachten ihrer chemischen Struktur die Frage aufkommen, ob sie sich als psychoaktiv erweist.
+Einerseits trägt es die Struktur des stimulierenden Amphetamins, andererseits weist es durch
+die Methoxygruppe partiell die Struktur von bekannten psychoaktiven Substanzen wie die
+2,5-Dimethoxy-4-substituierten Phenylalkylaminen (siehe Kapitel 8.5) auf. Weiter ist es ein
+Positionsisomer des 3-Methoxyamphetamins (Kapitel 6.2) sowie des psychoaktiven 4Me
+thoxyamphetamins (Kapitel 6.3).
+	Die im Jahre 1962 von van der Schoot et al. getätigte Lokomotionsstudie mit Mäusen
+zeigte zunächst, dass 2-MA (5) im Vergleich zu Amphetamin (i.p.) die Bewegungsaktivität
+nicht zu steigern vermochte [17]. Mit einer Drug-Diskrimination-Studie (Ratten) zeigten
+Glemon, Young und Hauck später, dass 2-MA (5, ED50= 7.8mg/kg) für rac. Amphetamin
+(ED50= 0.62mg/kg) substituiert [16], und diesbezüglich war 2-MA (5) knapp 1/10 so potent
+wie rac, Amphetamin. Für das Psychedelikum 2,5-Dimethoxy-4-methylamphetamin (DOM,
+racemisch; 26) erfolgte keine Substitution (Versuchstiere: Ratten) [13].

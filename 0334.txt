@@ -1,0 +1,20 @@
+7 [10]. Strukturell betrachtet ist 1-(2-Pyridyl)-2-aminopropan (6; 2-PYAP) ein Isoster von
+Amphetamin (8). Es zeigte in Katzen eine verstärkte histaminartige Wirkung [10].
+	Die Herstellung von 6 wurde auch in Ref. [5] beschrieben. 1975 stellten Tiedemann und
+Büchi anter anderem die 2-Pyridylderivate 9 und 10 sowie deren Piperidin-Analoga 11 und 2
+her, jedoch ohne auf die pharmakologischen Eigenschaften einzugehen (R und R': diverse
+Alkyl- und/oder Arylreste) [6].
+
+
+
+4.11.2. 3-Pyridylalkylamine
+
+	Aufgrund der markant unterschiedlichen Wirkungen zwischen den Positionsisomeren
+2-PYEA (1) und 4-PYEA (14) wurde von Niemann und Hays 1942 das 2-(3-Pyridy))ethylamin
+(13; 3-PYEA) hergestellt und untersucht [4]. 3-PYEA (13) glich nicht dem 2-PYEA (1)
+und wies eine dem 4-PYEA (14) ähnelnde Wirkung auf; es zeigte keinen histaminartigen
+Effekt. Während 2-PYEA (1) Histamin (5) mimetisiert, erwiesen sich 3-PYEA (13) und
+4-PYEA (14) als Blutdruck steigernde Verbindungen, die in der Katze 10-20% der Wirkung
+von Phenethylamin (15; siehe auch Kapitel 1) erreichten. Im Kaninchen erwiesen sie sich
+bei höheren Dosierungen als Blutdruck senkende Agentien, was wiederum untypisch für
+Histamin (5; siehe auch Kapitel 4.6) ist.

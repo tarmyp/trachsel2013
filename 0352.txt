@@ -1,0 +1,25 @@
+	Die Cyelohexen-Verbindungen 23-25 enthalten anstelle des Aromaten vom Phenethyl-
+amin-Gerüst einen Alicyclus mit einer Doppelbindung. Diese zwingt die Ringe doch im-
+merhin in eine etwas planarere Konformation, als die der zuvor beschriebenen Cyclohexan-
+Derivaten. Von CyHEA (23) wurde die Interaktion mit Dopamin-β-monooxygenase un-
+tersucht [15]. Das Isopropylanalog 24 beschrieben Burger, Standridge und Stjernstrom in ihren
+Untersuchungen zu alicyclischen Alkylaminen spärlich [4]. Verbindung 25 wurde als kom-
+petitiver Inhibitor der PNMT untersucht und war mit einem Ki= 110µM signifikant aktiver
+als Amphetamin (Ki= 740µM) [9]. Die 1,4-Dihydrobenzen-Verbindungen 26-27 und einige
+N- und N,N-(di)substituierte Analoga sind in einem Patent als Intermediate für Substanzen
+mit antiinflammatorischen Eigenschaften erwähnt [16].
+
+
+
+	Führt man die homologe Reihe weiter, so fallen die Cycloheptyl- und Cyclooctylalkyl-
+amine an. Die Verbindungen 28 [8, 10] und 29 [8] wurden synthetisch beschrieben. Rafferty
+et al. zeigten in ihren Versuchen, dass 29 als kompetitiver Inhibitor der PNMT mit einem
+Ki= 86µM signifikant aktiver als Amphetamin (Ki= 740µM) ist [9].
+	Die pseudoaromatischen Cyeloheptatrienverbindungen (Tropilidene) 30-32 wurden auf
+ihre analeptische Wirkung hin getestet [17]. Sie sind direkte Analoge von Phenethylamin,
+Amphetamin und Methamphetamin, worin anstelle des Phenylrings ein Cycloheptatrienring
+steht. Im Rüttelkäfig erzeugten 31 und 32 immerhin eine halb so starke Stimulation der Rat-
+ten wie Amphetamin bei vergleichbarer Dosis. In mit Phenobarbital vorbehandelten Hunden
+zeigte 30 (1.0-8.0mg/kg) eine kurz anhaltende und 31 (0.5-1.0mg/kg) eine länger dauernde
+Blutdruckerhöhung, In Ratten vermochte 31 die Nahrungsaufnahme bei 8.2mg/kg um 50%
+zu verringern und bewirkte bei dieser Dosierung eine Stimulierung des ZNS.

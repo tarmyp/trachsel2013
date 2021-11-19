@@ -1,0 +1,34 @@
+	Zum Schluss sei auf die folgende interessante Sachlage hingewiesen. Um hohe Affinität-
+ten zu 5-HT2A/C-Rezeptoren zu erlangen, erwiesen sich MeO-Gruppen in Phenylalkylaminen
+allgemein als sehr wichtig (Ausnahmen und detaillierte Erklärung siehe Kapitel 6.3.5, 7.2.1,
+7.3.4, 8.5.1, 8.5.21 und 8.5.22). Man würde demnach für Norfenfluramin eine tiefere Affinität
+zu den HT2A- sowie HT2C-Rezeptoren als für 3-Methoxyamphetamin (3) erwarten. Interes-
+santerweise ist das Gegenteil der Fall, und dies lässt erneut die Frage nach der besonderen
+Eigenschaft der F3C-Gruppe aufkommen (Affinitäten für 22a und 3 aus antagonistischem
+Markieren; Werte aus [51] und [15]). Bis anhin ist kein 2,4,5-trisubstituiertes Phenylalkylamin
+(siehe Kapitel 8.5) mit einer 2- oder 5-F3C-Gruppe bekannt.
+
+
+
+6.2.2.3. Der 5-HT2C-Rezeptor und die Nahrungsaufnahme
+
+	Der 5-HT2C-Rezeptor wurde 1984 aus Bindungsstudien mit Radioliganden identifiziert
+(zusammengefasst in [54]). Die Expression dieses Rezeptors findet in verschiedenen Hirnre-
+gionen statt, und eine 5-HT2C-Rezeptoraktivierung mit dem (natürlichen) Liganden Seroto-
+nin moduliert die Dopaminausschüttung in anderen Hirnbereichen [55].
+
+	Man geht heute davon aus, dass die 5-HT2C-Rezeptoren in der serotonergen Kontrolle
+der Appetitregulierung eine zentrale Rolle spielen. Mäusen, denen man künstlich die 5-HT2C-
+Rezeptoren ausgeschaltet hat (knock out) wurden fettleibig. Die Wissenschaft und die Phar-
+maforschung versuchen Fettleibigkeit durch das selektive Aktivieren (Agonisieren) des Sero-
+tonin-5-HT2C-Rezeptors zu behandeln. Solche Moleküle, darunter einige mit struktureller
+Verwandtschaft zu Fenfluramin (Strukturen 47-55) wurden 2006 von Nilsson zusammenge-
+fasst [54]. Das (+)-Enantiomer von 1841 CERM (47) zeigt eine hohe Affinität am 5-HT2C-
+Rezeptor und eine 40-fache Selektivität gegenüber dem 5-HT2A-Rezeptor. Die Verbindung
+48 zeigte eine anorektische Wirkung im Tiermodell und wurde zu diesem Zweck bereits in
+den 1970er Jahren von der Firma Ciba patentiert, Bei neueren Untersuchungen erwies sich 48
+als wirksamer, selektiver 5-HT2C-Rezeptoragonist (Ki 5-HT2C= 12nM, Ki 5-HT2B= 1000nM).
+Strukturell ähnlich, aber klinisch fortgeschrittener präsentierte Arena Pharmaceuticals den An-
+tiadipositas-Kandidat Lorcaserin (Belviq®, APD-356, 49) [56]. Mit diesem selektiven 5-HT2C-
+Rezeptoragonisten erhielt im Jahre 2012 erstmals seit 13 Jahren wieder ein Anorektikum eine
+Zulassung in den USA [97].

@@ -1,0 +1,25 @@
+Mescalin (1) und liegt somit im Dosisbereich von TMA (6, siehe auch Kapitel 8.4.6).
+TMA (6, siehe Kapitel 8.4.3) besitzt im Vergleich zu Mescalin (1) durch die α-Me-Gruppe
+einen erhöhten Schutz vor dem Abbau durch die Aminoxidase. In Substanz 5 dürfte der
+kinetische Isotopeneffekt zum langsameren Abbau durch die Aminoxidase beitragen.
+
+
+Ring-zu-Ring-Transformation
+
+	Das Ersetzen eines heterocyclischen oder carbocyclischen Rings durch einen ande-
+ren heterocyclischen Ring ist vermutlich die am meisten verbreitete Methode, um eine
+bioisostere Transformation vorzunehmen. Das bekannteste Beispiel dürfte der Ersatz
+eines Benzenringes durch eine Thiophen-Einheit sein, da Dutzende von solchen Bei-
+spielen in der Literatur zu finden sind (siehe auch Kapitel 4.3).
+	Thiophen (7) hat im Vergleich zu den anderen Heteroaromaten 8-18 die größte
+physikochemische Ähnlichkeit zu Benzen. Das Verwenden von π-Elektronenmangel-
+N-Heteroaromaten wie 15-18 kann durch deren unsymmetrische Elektronenverteilung
+und Basizität eine wesentliche Beeinflussung des Wirkprofils mit sich bringen. Damit
+verbunden ändern sich die Lipophilie, die Löslichkeit und somit die Verteilung im Orga-
+nismus wie auch die Wechselwirkung mit Targetproteinen, die Verstoffwechselung und
+Ausscheidung,
+
+
+
+	Die Forschungsgruppe von Gmeiner hat auch Paracyclophan (19) oder Ferrocen (20)
+erfolgreich als bioisostere Einheiten eingesetzt [10].

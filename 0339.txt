@@ -1,0 +1,37 @@
+Exkurs:
+Bioisosterie
+
+
+Erste Anfänge und Definitionen
+
+	Die Tatsache, dass chemische Verbindungen unterschiedliche physikalische und che-
+mische Eigenschaften mit sich bringen und, dass verschiedene chemische Gruppen für
+unterschiedliche Eigenschaften verantwortlich sind, veranlasste Langmuirim Jahre 1919,
+den Begriff „Isosterie“ zu definieren (zusammengefasst in [1]). Dabei bezeichnete er
+solche Gruppen als „Isostere“, die einem Molekül vergleichbare physikalische oder che-
+mische Eigenschaften verleihen.
+	Im Jahre 1951 führte Friedman den Begriff „Bioisosterie“ ein (zusammengefasst
+in [1]). Seine Absicht war, strukturell verwandte Verbindungen mit gleichartiger bio-
+logischer Aktivität zu klassifizieren. Unter „Bioisosteren“ ganz allgemein versteht
+man physiko-chemisch vergleichbare Atome oder -Gruppen, die der entsprechenden
+Leitstruktur ein nahezu identisches biologisches Wirkspektrum verleihen. Moleküle un-
+tereinander können auch als Bioisoster bezeichnet werden, wenn sie dabei ein nahezu
+identisches Wirkspektrum haben oder sie an der selben Bindungsstelle aktiv sind. Ak-
+tivität bedeutet in diesem Fall sowohl agonistische wie auch antagonistische Aktivität.
+	Ziel bei bioisosteren Variationen ist das Ändern der chemischen Struktur, ohne sich
+dabei von der gewünschten Wirkung zu entfernen. Durch moderate Änderungen sollen
+gezielt Eigenschaften des Moleküls wie targetspezifische Selektivität, metabolische Sta-
+bilität, Wasserlöslichkeit oder Toxizität optimiert werden.
+
+	Die Begriffsverwendung „Bioisostere“ wird traditionellerweise in klassische und
+nichtklassische Isostere aufgeteilt; sie erfolgt jedoch in vielen Publikationen durch-
+mischt, so dass hier nur nach der Äquivalenz unterschieden wurde (Tabelle 1) [1]. Einer-
+seits kann ein Atom oder eine Atomgruppe durch andere Atome oder Atomgruppen
+ausgetauscht werden. Andererseits werden oft nicht nur einzelne Atome oder Gruppen
+ausgetauscht, sondern ganze Substrukturen. Man unterscheidet dabei zwischen folgen-
+den Transformationen, die anschließend besprochen werden: Ring → Ring; Kette →
+Ring; Ring → Kette und Kette → Kette.
+
+
+
+Tabelle 1. Äquivalente diverser Atome und Atomgruppen [1].

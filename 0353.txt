@@ -1,0 +1,31 @@
+	Mit der etwas exotischen Idee, Adamantyl-Analoga von Amphetamin und Meth-
+amphetamin zu untersuchen, kreierten Runt, De Nardo und Fabrissin Verbindungen des Typs
+33 [18]. Sie gingen der Frage nach, welchen Einfluss die im Vergleich zu Amphetamin er-
+höhte Lipophilie auf die pharmakologischen Eigenschaften hat. In Versuchstieren wurde
+jedoch keine nennenswerte Wirkung von 33 auf die motorische Aktivität festgestellt [18]. In
+einer weiteren Arbeit wird 33 aufgrund von In-vivo-Experimenten eine Antiparkinson’sche
+Wirkung zugesprochen [19]. Interessant ist die strukturelle Verwandtschaft zum Anti-Par-
+kinsonmittel Amantadin (34) sowie zum Antidementivum und NMDA-Antagonisten Me-
+mantin (35). In zuvor erwähnter Arbeit ist auch das racemische exo-Trimethylennorbornan-
+Derivat 36 beschrieben [18]. Für dieses wurde ebenfalls keine amphetaminähnliche Wirkung
+festgestellt.
+
+
+
+5.3. Metallocene
+
+	Eine andere Art, den Aromaten in Arylalkylaminen zu ersetzen, bieten die Metalloce-
+ne. Metallocene werden auch als „Sandwich-Verbindungen“ bezeichnet, da sie das Metall
+zwischen zwei Cyclopentadienyleinheiten komplexiert haben. Dadurch sind die Metallo-
+cene im Gegensatz zu den vorher besprochenen Verbindungen mit ersetztem Aryl-Teil,
+tatsächlich aromatisch und stellen ein weniger populäres Bioisoster zu Phenyl-Ringen dar.
+Diese Möglichkeit veranlasste 1961 Loev und Flores, das eisenhaltige Ferrocenderivat FIPA
+(Ferrocenylisopropylamin, 37) herzustellen [20]. In ihrer Kurzbeschreibung erwähnten sie
+eine sehr schwache anorektische und ZNS-stimulierende Wirkung. Einige Jahre später un-
+tersuchten Hanzdik, Kishore und Tessel eingehend die biologische Aktivität dieser Verbindung
+(Pharmakologie, Kinetik, Metabolismus und Ausscheidung) [21]. Die Idee der Verbindung
+37 lag einerseits darin, sie als potenziellen Inhibitor der N-Dealkylierung einsetzen zu kön-
+nen, andererseits sollte dieser -Komplex gute Möglichkeiten bieten, mechanistische Studien
+über die aromatische Hydroxylierung durch CYP-450 Enzyme zu tätigen. Im Bereich von
+3-30mg/kg zeigte die Maus (i.p.) keine Änderung der motorischen Aktivität. An Ratten i.p.
+verabreichtes FIPA (37) wurde zu 32-43% unverändert ausgeschieden [21].

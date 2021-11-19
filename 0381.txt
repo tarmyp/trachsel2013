@@ -1,0 +1,33 @@
+Bewegungsaktivitätsstudie analoge Fenfluraminderivate [17]. Dabei erhöhten alle Substanzen
+mit Halogenen, HO, NO2 und Methoxygruppe) in Tabelle 2 außer diejenige mit R3=CF3
+(=Fenfluramin) die lokomotorische Aktivität, Allerdings war der Versuchsaufbau so ge-
+staltet, dass jeweils Dosierungen zum Erreichen einer maximalen Bewegungsstimulierung
+verwendet wurden, daher sind die Werte nur relativ vergleichbar. Mit dieser Versuchsan-
+ordnung versuchten die Autoren eine Korrelation zu finden. Entgegen den Erwartungen
+schienen hydrophobe (Hammett-π-Konstanten) und elektronische (Hammett-σ-Konstanten)
+Effekte in keinem Zusammenhang zu stehen; auch die Elektronegativität [48] zeigt nach
+eigenen Berechnungen keine Korrelation. Hingegen zeigen die Autoren, dass in multipler
+linearer Regression die Größe des Substituenten indirekt proportional zur lokomotorischen
+Aktivität stand (r=0.90) [17]. Je größer der Substituent R, desto weniger ausgeprägt ist die
+Anregung der lokomotorischen Aktivität. Allerdings ist der Wert „Größe“ mit Vorsicht zu
+genießen. Laut Autoren sei eher die Dicke als die Länge gemeint. Das Ausmaß der Lokomo-
+tionserhöhung korreliert nicht mit der molaren Refraktion (nach Hansch [49]). Fakt ist, dass
+sich die CF3-Gruppe durch die Summe ihrer physikochemischen Eigenschaften als optimal
+herausstellt. Die CF3-Gruppe hat auch in neueren Wirkstoffen mit anorektischen Eigen-
+schaften eine entscheidende Bedeutung (siehe Substanzen 47-55).
+
+
+6.2.2.2. Wirkmechanismus und Nebenwirkungen von Fenfluramin
+
+	Der Frage, wie Fenfluramin auf der pharmakologischen Ebene anorektisch wirkt, gingen
+Rothman et al. im Jahre 2003 detaillierter nach [34]. Sie untersuchten nicht nur die Ausschüt-
+tung und Hemmung der Wiederaufnahme von Monoaminen der verschiedenen Stereoiso-
+mere von Fenfluramin (23a und 23b), sondern auch die der N-desmethylierten Hauptme-
+taboliten 22a und 22b, namentlich der Norfenfluramine. Sie bestätigten, dass jeweils beide
+Stereoisomere von Fenfluramin (23) und Norfenfluramin (22) Substrate des Serotonintrans-
+porters (SERT) sind und als Freisetzer von Serotonin fungieren (siehe Tabelle 3 und 4).
+Weiter konnte gezeigt werden, dass (+)-S-Norfenfluramin (23a) sowie sein Hauptmetabolit
+(+)-S-Norfenfluramin (22a) potente Substrate des Norepinephrintransporters (NET) sind
+[34]. Die Verabreichung von Fenfluramin (23) an Ratten konnte schließlich die synaptischen
+Konzentrationen von 5-HT, DA und NE erhöhen, wobei dafür primär (+)-S-Norfenflura-
+min (22a) verantwortlich ist [34].

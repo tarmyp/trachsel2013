@@ -1,0 +1,38 @@
+illegalen Markt. Da sich Benzen oft bioisoster durch Thiophen ersetzen lässt (siehe Exkurs
+Bioisosterie, sowie Kapitel 4.3), kann spekuliert werden, dass Verbindungen des Typs 109,
+mit zweifach methyliertem Stickstoff, sehr ähnliche pharmakologische Eigenschaften haben,
+wie das Lefetamin (111) selbst.
+
+
+
+Zusammenfassung
+
+	Die Wahl des Substituenten in der Metaposition hat einen wichtigen Einfluss auf die
+pharmakologischen Eigenschaften. Eine 3-MeO-Gruppe am Amphetamingerüst liefert
+3-MA (3), das weder zu den 5-HT2A- noch zu den 5-HT2C-Rezeptoren affın ist und auch
+keine stimulierenden Eigenschaften besitzt, während mTAP (20) mit einer 3-Methylgruppe
+noch schwach stimulierend wirkt.
+	Sehr effizient wird mit einer 3-CF3-Gruppe die stimulierende Eigenschaft von Am-
+phetamin entkräftet, wobei jedoch der hungerunterdrückende Charakter erhalten bleibt.
+Das daraus hervorgegangene racemische Fenfluramin (Pondimin®, 23) sowie (+)-S-Fen-
+Aluramin (Redux®, 23a) wurden zur Gewichtskontrolle vermarktet, mussten aber 1997 we-
+gen Herzklappenschäden (VHD) und pulmonalarterieller Hypertonie (PAH) vom Markt
+zurückgezogen werden. Intensive mechanistische Untersuchungen zeigten das komple-
+xe Zusammenspiel zwischen Fenfluramin, seinen Stereoisomeren und seinen Metaboliten
+(Norfenfuramin, 22), mit verschiedenen Transportern und Rezeptoren. Während die ago-
+nistische Interaktion mit den Serotonin-5-HT2C-Rezeptoren die Nahrungsaufnahme redu-
+ziert, wird die agonistische Interaktion mit den in den Herzklappen vorhandenen 5HT2B-
+Rezeptoren u.a. für die VHD verantwortlich gemacht. Das durch Fenfluramin verursachte
+Erhöhen des peripheren Serotoninspiegels könnte zu einer Mitogenese in der Lunge, aber
+auch zu einer Kontraktion der Blutgefässe in der Lunge führen, wodurch die PAH entstehen
+könnte. Während die einen — Benfluorex (66) als ein naher Verwandter von Fenfluramin —
+vom Anorektika-Markt zurückgezogen wurden, stehen andere (Lorcaserin, 49) davor, diesen
+zu erobern.
+	Phenylalkylamine mit einer OH-Gruppe in der 3-Position des Aromaten erinnern an das
+Prominente Morphin (88). Wie schon beim Tramadol (91) wurde beim neuen zugelassenen
+Schmerzmittel Tapentadol (93) die Morphinstruktur nochmals stark vereinfacht. Die pheno-
+lische Hydroxygruppe scheint für die schmerzstillende Aktivität unerlässlich.
+	Phenolische Verbindungen, zusammen mit einer β-OH-Gruppe führten auch zu vaso-
+aktiven Verbindungen (z.B. 73-75) die mit adrenergen Rezeptoren interagieren und zur Re-
+gulierung diverser Gefäßerkrankungen (z.B. Abschwellen der Nasenschleimhaut, Blutdruck,
+Bronchodilatation etc.) benutzt werden können.

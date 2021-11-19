@@ -1,0 +1,32 @@
+4.11. Pyridylalkylamine
+
+	Pyridin besitzt wie Benzen sechs delokalisierte π-Elektronen. Durch den elektro-
+negativen Stickstoff wird die Elektronendichte im Ring gesenkt, weshalb Pyridin zu den
+π-elektronenarmen Heteroaromaten gezählt wird. Das Abziehen der π-Elektronen hat eine
+Polarisierung des Moleküls zur Folge. Pyridin ist schwach basisch (pKa = 5.2) und ist mit
+Wasser in jedem Verhältnis mischbar.
+
+
+4.11.1. 2-Pyridylalkylamine
+
+	Einige 2-Pyridylalkylamine wurden bereits zu Beginn des 20. Jahrhunderts hergestellt
+[1, 2], und manche von ihnen wurden 1941 wieder aufgegriffen. So beschrieben Walter et al.
+1941 nebst anderen Pyridylalkylaminen die Herstellung der Verbindungen 1-4 [3]. An iso-
+lierten Muskelfasern des Meerschweinchens und Kaninchens bewirkten die Verbindungen
+eine Kontraktion, wobei die Verbindungen 1-3 diesbezüglich nahezu die gleiche Aktivität
+wie Histamin (5) erreichten. In anästhesierten Katzen (i.v.) erzeugten diese Pyridyl-Derivate
+einen mäßigen bis deutlichen Blutdruckabfall, und im Gegensatz dazu wurde im Kaninchen
+der Blutdruck erhöht. Alle Substanzen wiesen eine niedrigere Toxizität als Histamin (5) in
+Kaninchen auf (i.v.) [3]. Aufgrund weiterer, nicht näher beschriebener pharmakologischer
+Tests vermuteten die Autoren für 2-(2-Pyridyl)ethylamin (1; 2-PYEA) eine dem Histamin (5)
+ähnelnde Wirkung, Für das Positionsisomer 2-(4-Pyridyl)ethylamin (13; 4-PYEA) ergaben
+sich aus den Untersuchungen sehr differenzierte Wirkungen.
+
+
+
+	Niemann und Hays postulierten, dass 2-PYEA (1) vor allem aufgrund der zu Histamin
+(6) analogen Fähigkeit, die Chelat-Ringstruktur la auszubilden, eine ähnliche Wirkung wie
+Histamin (5) besitzt (das Chelat 1a soll die Struktur des Chelats 5a mimetisieren) [4].
+
+	Aufgrund der interessanten pharmakologische Eigenschaften von 2-PYEA (1) wurde
+eine Handvoll α-Methyl-2-(2-pyridyl)ethylamine untersucht, so z. B. Verbindungen 6 und
