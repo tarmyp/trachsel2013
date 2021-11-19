@@ -63,7 +63,7 @@ Trachsel et al.'s seminal book "Phenethylamine: Von der Struktur zur Funktion" d
 
 ## Contributing!
 ### Translate pages into English
-NOTE: take a look at PR #2 for inspiration for a properly organised contribution.
+NOTE: take a look at [PR #2](https://github.com/aes256lamp/trachsel2013/pull/2) for inspiration for a properly organised contribution.
 
 
 This is the primary goal of this project so getting English translations is high priority (instead of, say, extracting images).
