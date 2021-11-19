@@ -8,7 +8,7 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
   - [x] pages 1-99
   - [x] pages 100-199
   - [x] pages 200-299
-  - [ ] pages 300-399
+  - [x] pages 300-399
   - [ ] pages 400-499
   - [ ] pages 500-599
   - [ ] pages 600-699
@@ -62,6 +62,42 @@ Trachsel et.al's book Phenethylamine digitised and translated into English
 - [ ] PubChem links for compounds
 - [ ] hyperlinks to profiles of authors/researchers
 
+## Contributing!
+### Translate into English
+This is the primary goal of this project so getting English translations is high priority (instead of, say, extracting images).
+
+Try to do one translation __per commit__.
+
+You are encouraged to put multiple translation into one Pull Request (PR) so the project doesn't get overloaded with PRs.
+
+Checklist:
+* select a German page to translate (e.g. 0723.txt)
+* ensure that the OCR text output in that file matches up **exactly** with the image i.e. 0723.jpg
+  * it's important to get German characters correct
+  * it's __not so important__ to get subscripts and superscripts correct (they're secondary to the task of translation)
+* translate the German into English
+  * Google Translate has been doing quite fine with this task, so far. YMMV.
+  * __try__ to preserve the white-space:
+    * between paragraphs
+    * at the start of paragraphs
+* **if something doesn't quite translate** then put this in the PR you create for your work. 
+
+### Make corrections to English translations
+This is pretty simple. Have a look through the English translations and if you find anything that needs attention then make a GitHub Issue.
+
+**Follow the format of previous GitHub issues**. This helps the people reviewing your work :)
+
+### Extracting images
+The images in the book - things like advertisements, __not__ molecule diagrams - need cropping out and cleaning up.
+
+Preferably they'd appear in grayscale so that they appear properly in the PDF that will eventually be rendered.
+
+Make high quality PNG or JPEG files and name them after the page they're from. e.g. 0072_advertisement_1.png, 0072_advertisement_2.png
+
+### Molecular diagrams
+The digital book will need ALL of the molecular diagrams present in the physical .. that's a lot of diagrams!
+
+As long as they look 95% like the original it doesn't matter how they'd made. They could be cropped out as per 'Extracting images' or made from scratch using something like ChemDraw or any number of online molecular diagram softwares.
 
 ## Inhaltsverzeichnis
 ```

@@ -33,3 +33,12 @@
 „  (lower-case double-quote)
 
 ±
+
+
+Subscript numbers
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+
+Superscript numbers
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+
+
