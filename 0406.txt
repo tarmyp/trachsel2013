@@ -1,0 +1,52 @@
+G: Isotopeneffekt in Zusammenhang mit MAO untersucht; H: QSAR bl zwischen halluzinogener
+Aktivität (im Menschen) und elektronischer Effekte der Phenylalkylamine; AN uKungeD auf 5-HT-
+Spiegel und auf die Tryptophanhydroxylase im Rattenhirn; J Metabolismusstud ien CYP2D; K: Biotrans-
+formationsstudien in trächtigen und „normalen“ Ratten. L: In-vivo-3[H]NE-Aufnahmehemmung
+und -3[H]NE-Freisetzung des entsprechenden Phenethylamins und ‚des Phenylethanolamins aus
+Mäuseherzen; M: Freisetzung von NE aus Mäuseherz; N: Wirkungen wie psychotomimetische Effekte
+(ED95 in mg/kg Ratte, ED100 in mg/kg Katze), Toxizität (Ratte), Metabolismus (Ratte), Bewegungszunahme
+und Veränderung des Blutdrucks; O: Bindungsstudie mit 5-HT1A- und Sigmarezeptoren; P: Effekte
+verschiedener Phenethylaminderivate (R- und S-Amphetamin, Ephedrin) auf α-Methyl-p-Tyrosin-
+induzierte Katalepsie in Katzen; Q: geprüft auf die Deaminierungsrate; R: Effekt auf Körpertemperatur
+sowie rage response (Wutreaktion) in Katzen; S: Humanaktivität (MPEA >400mg; PMA 80mg); T: SAR
+mit elektronischen, volumetrischen und Hydrophilitäts-Parametern; U: PC- und 'H-NMR Studien; V:
+Dosierungen bis 400mg inaktiv im Menschen; W: Als Ligand für Melatoninrezeptoren untersucht; X:
+Mit einer „Double conscious“-Studie, wurde die M.U. (Mescaline Units, Mescalin-Einheiten) auf den
+Wert M.U. = 5 bestimmt; Y: Auswirkung auf das EEG in Kaninchen. Änderung des Blutdrucks; Z: PNMT-
+Hemmunggsaktivität, Korrelation mit den Hammett-Konstanten (σ und π). Die 5-Isomere sind die aktiveren
+PNMT-Hemmer; AA: Asymmetrische Synthese. Bestimmung der jeweiligen Drehwerte; AB: Korrelation
+der psychotomimetischen Aktivität im Mensch und dem LogP. (Liegt mit 1.77 unter dem förderlichsten
+Bereich zwischen 2.89 und 3.72); AC: SAR unter Verwendung von molekularer Konnektivität; AD:
+Konformationsanalyse mittels ''C-NMR; AE: Messung von 5-HT-Freisetzung; AF: Drug Discrimination
+mit Amphetamin (ED50= 0.62mg/kg) als training drug. PMA ED50= 1.91mg/kg; AG: Affinitäten zu 5-HT1-
+und 5-HT2-Rezeptoren (Ki= 79uM und 34μM); AH: Drug-Discrimination-Studie. PMMA substituiert für
+MDMA, aber weder für DOM noch für Amphetamin; Al: Drug-Discrimination-Studie (training drug
+Amphetamin). Die Studie kommt zum Schluss, dass PETA (27) und PMA keinen amphetaminähnlichen
+Charakter besitzen; A): Affinität zu 5-HT,-Rezeptoren; AK: Affinität zu 5-HT1- und 5-HT2-Rezeptoren;
+AL: Drug-Discrimination-Studie (training drug 5-MeO-DMT); AM: Drug-Discrimination-Studie mit dem
+R-Isomer (training drug 5-MeO-DMT); AN: Drug-Discrimination-Studie, (training drug Amphetamin
+sowie DOM). Substituiert weder für DOM noch für Amphetamin. Toxikologische Untersuchungen; AO:
+LD50, Pressor-Effekt, Veränderung des Hexobarbital-induzierten Schlafes, MAO-I; AP: Pharmakologische
+Auswirkungen der alphaständigen CF3-Gruppe und des dadurch nicht mehr basischen Stickstoffs
+werden diskutiert (pKa fällt von ca. 10 auf ca. 5; keine biologischen Daten); AQ: QSAR-Studie; AR: als
+Radioprotektor getestet; AS: als Anorektikum untersucht; AT: im Zusammenhang mit Neurotoxizität
+Untersucht; AU: K-Werte für 3[H]5-HT Aufnahmehemmung an Serotonintransportern; AV: Wirkung auf
+das Verhalten von Katzen; AW: SAR, mit Hilfe der Körpertemperaturerhöhung im Kaninchen; AX: Drug-
+Discrimination-Studie, (training drug Amphetamin). Partielle Substitution für Amphetamin; AY: Potenz für
+DA-, NE-, und 5-HT-Freisetzung (in vitro). In Selbstverabreichungs-Versuchen mit Rhesusaffen wurde die
+Beziehung zwischen der serotonergen Aktivität und der Selbstverabreichung untersucht; AZ: Synthese;
+Blutdruck- und Atmungsfrequenzveränderung, antibakterielle Wirkung; BA: Serotonerge Effekte und
+Mechanismen in Ratten; BB: Psychostimulatorische Effekte in der Ratte; BC: ‚Analytik: NMR, GC-MS;
+BD: Vergleich der drei Halogenamphetamine (F, CI, Br), Effekte auf den Serotoninmetabolismus im
+Rattenhirn; BE: Untersuchungen zur Neurotoxizität; BF: Als Anorektikum, Lokalanästhetikum und auf
+antimikrobielle und analgetische Wirkung hin untersucht; BG: Drua-Discrimination-Studie (MDMA- und
+MEBDB-trainierte Ratten). Geprüft auf die Hemmung der Wiederaufnahme von 3[H]5-HT. Beeinflussung
+der Catecholaminspiegel und ihrer Metaboliten im Rattenhirn; BH: Substanzmengen im Rattenhirn
+untersucht. Spekulation über Neurotoxizität; BI: Patentschrift, synthetisch beschrieben. Verhalten in Katze
+Toxizität in Ratte; BJ: Verhalten, biologische und toxikologische Eigenschaften; BK: Verhalten von Ratten.
+Verschiedene biologische Tests, Antimikrobielle Daten; BL: keine Wirkung auf NS, MAO-I, Hungergefühl
+und Blutdruck.; BM: Verteilung von radioaktiv markiertem Para-Bromomethylamphetamin; BN: Synthese
+und Evaluation als bildgebendes Mittel in der Positronenemissions-Tomographie; BO: Blutdrucksteigernde
+Wirkung im Hund, anorektische Wirkung bei Ratten (Heterogruppen: SO2CF3, SO2CH3, C(=S)NHCH3);
+BP: Drug-Discrimination-Studien (training drugs Cocain; MDMA, DOM); BQ: SAR, 5-HT6-Antagonisten
+(positive Verhaltensverstärker).

@@ -1,0 +1,35 @@
+markierten r5-HT2A-Rezeptor eine erhöhte Affinität im Vergleich zu 129 (Ki= 150nM). Zum
+[3H]Mesulergin-markierten r5-HT2C-Rezeptor war die Affinität von 128 (Ki= 295nM) im Ver-
+gleich zu 129 (Ki= 28nM) etwas gesenkt, Auch das Weglassen beider MeO-Gruppen ergibt
+im Falle eines großen, lipophilen 4-Substituenten noch eine relativ hohe Affinität: So weist
+Substanz 130 (Ki= 60nM) immer noch eine beachtliche Affinität zum r5-HT2A-Rezeptor auf,
+am r5-HT2C-Rezeptor ist sie jedoch deutlich gesenkt (Ki= 525nM) [102, 103]. Anzufügen ist
+jedoch, dass sich Verbindungen mit einem derart großen (lipophilen) Rest in Position 4 als
+Antagonisten erwiesen [102, 103], und bis anhin die 2,5-MeO-Gruppen für eine agonistische
+Aktivität erforderlich sind (siehe Kapitel 7.2.1, 7.3.4, 8.5.1). Durch die geeignete Auswahl
+des 4-Substituenten können also antagonistische Liganden des 5-HT2A-Rezeptors erhalten
+werden. Das enorm lipophile Gebilde 130 kombiniert mit den wenigen pharmakophoren
+Gruppen (zwei Arylteile mit einem Amin) erinnert zumindest vom Konzept her an die li-
+pophilen AMDA-Derivate, die ebenfalls Antagonisten dieses Rezeptor-Subtyps sind (siehe
+Kapitel 3.15).
+
+
+6.3.6. Beta-Keto-Funktionalisierung (bk-Verbindungen)
+
+	Die stimulierenden Effekte von Pyrovaleron (131) wurden schon in den 1960er Jahren
+beschrieben (zusammengefasst in [104]). Im Jahre 1973 zeigte sich, dass es die Symptome
+chronischer Müdigkeit im Menschen reduzieren kann. Erst 1993 fand man, dass die lokomo-
+torische Aktivitätssteigerung an Mäusen (2mg/kg) parallel mit der Besetzung des DA-Trans-
+porters einhergeht [104]. Bezüglich Struktur-Aktivitäts-Beziehung (SAR) war bis vor kurzem
+wenig bekannt; das Ersetzen des Phenylrings durch einen Thiophenrest ergab vergleichbare
+Resultate, das Vergrößern des Fünfrings zu einem Sechsring am Stickstoff jedoch ging mit
+einem „substanziellen“ Verlust der Fähigkeit einher, die Monoamintransporter zu hemmen
+(zusammengefasst in [104]). Meltzer et al. präsentieren die Bindungskonstanten (DAT, SERT,
+NET) sowie die strukturellen Zusammenhänge diverser ringsubstituierter Verbindungen be-
+züglich ihrer Fähigkeit, die Aufnahme der radioaktiv markierten natürlichen Liganden DA,
+NE und 5-HT zu hemmen [104]. In der 4-Position am Arylring schienen verschiedene Reste
+(R4: Me >H > Br > F ≈ 1>> MeO; Struktur 132) toleriert zu werden, mit Ausnahme des
+CF,-Substituenten, der zumindest am DAT und am NET zu völligem Wirkverlust führte (Ki
+> 10000nM). Interessant ist die Analogie zu der 3-trifluormethylsubstituierten Verbindung
+Fenfluramin, wo durch das Hinzufügen der CF3-Gruppe die DAT/NET-medierte stimu-
+lierende Wirkung von Amphetamin in Mensch und Tier gesenkt wird (siehe Kapitel 6.2.2).

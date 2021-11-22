@@ -1,0 +1,28 @@
+NH2, Br) experimentelle Daten zur MAO-inhibitorischen Aktivität, und versuchten diese
+mit berechneten chemoelektronischen Konstanten (Hammett σ und π) zu korrelieren [111].
+
+
+6.3.8. Anorektika
+
+	Seit der Entdeckung von Amphetamin weiß man von seinen stimulierenden und anorek-
+tischen Eigenschaften (zum detaillierten geschichtlichen Werdegang siehe Kapitel 2). Erst in
+den 1960er Jahren gelang es Wissenschaftern, diese beiden Wirkungen zu trennen, und sie
+begannen mit der intensiven Forschung zugunsten eines geeigneteren Anorektikums.
+	Es sind massenhaft Variationen am Amphetamingerüst durchgespielt worden, so zum
+Beispiel N-Substitutionen, Änderungen an der Seitenkette (z.B. Einführen von Substitu-
+enten, oder Einbinden in Alicyclen oder Azacyclen; siehe Unterkapitel des Kapitels 3), und
+natürlich das hier diskutierte Einführen von Substituenten am Benzenring: Holland et al.
+synthetisierten verschiedene arylsubstituierte Amphetamine, untersuchten den Einfluss auf
+die Nahrungsaufnahme und bestimmten qualitativ die anorektische Wirkung [53]. Dabei
+trat offenbar das meta-Trifluoromethylderivat 144 (= Norfenfluramin) als besonders günstig
+hervor. Aus ihm entstand schließlich das Anorektikum Fenfluramin (133; siehe Kapitel 6.2.2
+sowie Exkurs Anorektika).
+
+
+
+	Unter den untersuchten Verbindungen zeigten auch 4-substituierte Amphetamine eine
+anorektische Wirkung (Versuchstiere: Ratten): die 4-SMe-, 4-CF3- und 4-NH2-Derivate
+4-MTA (33), 4-TEMA (P-1726, 53) und 4-AA (92) wiesen eine mittlere (ED50= 5-10mg/
+kg), und 4-DMAA (95) eine höhere (ED50= 5mg/kg) hungerunterdrückende Aktivität auf
+[53]. Substanz 38 erwies sich nur noch als sehr schwach aktiv (ED50= 10-30mg/kg), und die
+restlichen Derivate 46 sowie 145-148 wurden bis 30mg/kg als inaktiv eingeordnet.

@@ -1,0 +1,43 @@
+	Sibutramin (164) greift als Serotonin- und Norepinephrinwiederaufnahmehemmer
+(SNRI) in die zentralen Grundlagen von Hunger- und Sättigungsgefühl ein, ist aber kein
+Substrat des Serotonintransporters (SERT). Anorektika, die Substrate des SERT Sind, stehen
+allgemein im Verdacht, im Zusammenhang mit der tödlich verlaufenden Pulmonalen Hy-
+pertonie zu stehen (zum Wirkmechanismus: siehe Kapitel 3.12.3 sowie Exkurs Anorektika).
+
+
+
+	Coleman von der FDA schreibt in der Zeitschrift History of Medicine [124]: „Like dexfen-
+fluramine, sibutramine’s regulatory path to approval involved intense debates over the balance of its bensfits
+and risks.“ a)
+	Eine placebokontrollierte Doppelblindstudie mit dem Namen SCOUT (Sibutramine car-
+diovascular outcome trial) an etwa zehntausend Personen, die nicht nur übergewichtig waren,
+sondern auch ein erhöhtes kardiovaskuläres Risiko trugen, kam zu folgendem Zwischen-
+ergebnis: „Six-week treatment with Sibutramine appears to be efficacious, tolerable and safe in a high-risk
+population for whom Sibutramine is usually contraindicated.“ a) [125]. Die SCOUT-Studie begann
+2002 und wurde 6 Jahre lang durchgeführt. In den Auswertungsergebnissen vom Oktober
+2009 zeichnete sich ab, dass Zwischenfälle im kardiovaskulären Bereich (Herzattacken und
+Schlaganfälle) in der Sibutramingruppe häufiger auftraten als in der Placebogruppe. Da die
+Effektivität zudem auch nur mäßig war, empfahl das Committee for Medicinal Products for Human
+Use (CHMP) der European Medicine Agency (EMEA), am 21. Januar 2010, die Zulassung vor-
+läufig zu entziehen und Sibutramin vom Markt zu nehmen [126].
+
+
+6.3.9. Mit Beta-Rezeptoren interagierende Derivate
+
+	Wie schon in Kapitel 6.1.2 besprochen, haben die meisten Betablocker eine Arylosy-
+propanolaminstruktur (Abb. 3) und enden auf die Silbe -olol. Durch Variation von Aryl- und
+N-Substituenten können Selektivitäten und die funktionelle Aktivität an den Betarezeptoren
+beeinflusst werden.
+
+
+
+Abb. 3. Grundstruktur der Arylonypropanolamine.
+Sie ist in zahlreichen Betablockern zu finden.
+
+
+
+a) „Wie bei Dexfenfluramin führte man auf dem aufsichtsrechtlichen Weg bis zur Zulassung für Sibutramin intensive Debatten uber
+die Abwägung seiner Vorteile und Risiken."
+
+b) „Eine sechswöchige Behandlung mit Sibutramin scheint in einer Hochrisiko-Population, für die Sibutramin ublicherweise kontra-
+indiziert ist, wirksam, verträglich und sicher zu sein.“

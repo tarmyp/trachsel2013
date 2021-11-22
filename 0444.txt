@@ -1,0 +1,45 @@
+als unproblematisch gilt, so können Substrate des SERTT, die alsch umpolen und dadurch
+5-HT freisetzen, mit einer PAH im Zusammenhang stehen (siehe Kapitel 3.12.3). Da ge-
+netische Veränderungen am SERT auch mit PAH in Verbindung gebracht werden, ist es
+nicht unwahrscheinlich, dass der SERT auch im Falle der Anorektika an der Nebenwir-
+kung beteiligt ist [23]. Zusätzlich interagieren einige Anorektika mit verschiedenen Sero-
+tonin-5-HT2-Rezeptoren. Während dem Aktivieren der 5-HT2C-Rezeptoren die anorek-
+tische Wirkung zugesprochen wird, können bei der länger anhaltender Aktivierung der
+5-HT2B-Rezeptoren, die unter anderem in den Herzklappen reichlich exprimiert sind,
+Herzklappenfchler (valvular heart disease, VHD) auftreten 124] (siehe Kapitel 6.2.2.2). So
+sind Fälle von Herzklappenfehlern auch bei Parkinson-Patienten aufgetreten, die mit
+Dopaminagonisten des Ergolintyps behandelt wurden [25].
+	Zu Zeiten der Entwicklung von Aminorex in den 1950er Jahren war man weit ent-
+fernt von den heutigen molekularbiologischen Untersuchungsmöglichkeiten. Verein-
+facht ausgedrückt: Konnte man von einer chemischen Substanz im Versuchstier eine
+Pharmakologische Wirkung nachweisen und war die akute Toxizität nach damalig herr-
+schenden Maßstäben genügend gering, so war der Schritt hin zu klinischen Studien
+am Menschen nicht mehr weit entfernt. Erst viele Jahre später konnte das Wirkprinzip
+oder die Nebenwirkungen für zugelassene Wirkstoffe retrospektiv ansatzweise aufge-
+klärt werden. Erst die neuen Technologien und das dadurch errungene Wissen erlauben
+es heutzutage, neue Wirkstoffe viel vorsichtiger zu designen — auch wenn dies in einigen
+Jahrzehnten wiederum relativiert werden wird.
+	Die neuen Erkenntnisse zur Problematik der Anorektika führten dazu, dass mittler-
+weile der 5-HT2B-Rezeptor als sogenanntes Antitarget angesehen wird und jeder poten-
+zielle Arzneistoff sofort daraufhin untersucht wird. Ist ein Stoff ein 5-HT2B-Agonist,
+bedeutet das für seine Weiterentwicklung das sichere Aus [26]. Neuere Untersuchungen
+zeigen, dass auch der 5-HT1B-Rezeptor eine wichtige Rolle bei der PAH spielt und sich
+5-HT1B-Rezeptor Antagonisten zur Behandlung von PAH eignen könnten [27]. Heute
+gilt als Standard zur Behandlung von PAH die Antagonisierung der Endothelinrezepto-
+ren mithilfe von Bosentan (Tracleer®) [28].
+	Doch PAH und Herzklappenfehler sind nicht die einzigen Gründe, weswegen Ano-
+rektika des Phenethylamintyps einen schlechten Ruf haben. Ein weiterer wichtiger As-
+pekt ist, dass viele Vertreter dieser Klasse zentral stimulierend und eventuell auch eupho-
+zisierend wirken. Zudem kommt noch, dass diese Stoffe eine ausgeprägte Tachyphylaxie
+erzeugen. Das bedeutet, dass die stimulierende Wirkung bei regelmäßiger Einnahme
+immer schwächer wird. Diese beiden Eigenschaften sind regelrecht dazu prädestiniert,
+eine Abhängigkeit zu erzeugen [29]. Dem versuchte man beispielsweise mit der Verbin-
+dung Benzphetamin (14, Didrex®, siehe auch Kapitel 3.2.1) entgegenzuwirken. Es zeigt
+offenbar weniger stimulierende Eigenschaften aufgrund eines langsamen Metabolismus
+hin zu Amphetamin und Methamphetamin [30]. Es erhielt 1960 die Zulassung als Ano-
+rektikum und ist in den USA noch heute zugelassen (heute von Pfizer vermarktet). Bis
+heute wurde über keinen Fall von VHD oder PAH berichtet [31].
+
+	Im Zusammenhang mit dem Problem der Agonisierung des 5-HT2B-Rezeptors
+stellt sich die Frage nach den Auswirkungen bei der Einnahme potenter Psychedelika
+des Phenylalkylamintyps, denn diese zeigen zu dieser Bindungsstelle doch immerhin

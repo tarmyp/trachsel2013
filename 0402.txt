@@ -1,0 +1,32 @@
+Jahrhunderts wurde Tyramin (2) von der Firma Burroughs Wellcome als blutdrucksteigerndes
+Mittel vermarktet und war somit das erste Epinephrin-Analogon, das in der Medizin einge-
+führt wurde (zusammengefasst in [2])-.
+	Von Patienten mit Morbus Parkinson wird Tyramin (2) im Urin vermehrt ausgeschie-
+den, und in Insekten kommt es als Neurotransmitter im Nervensystem vor [1]. Ob es im
+Menschen eine Bedeutung als Neurotransmitter hat, ist nicht klar. Als biogenes Amin ist es
+neben anderen Aminen der endogene Ligand eines Spurenaminrezeptor-(TAAR)-Subtyps,
+eines GPCR-Rezeptors, der durch verschiedene endogene Amine stimuliert wird. Dessen
+Bedeutung ist bis heute noch nicht geklärt [3, 4].
+
+	Octopamin (3) ist ein Neurotransmitter, der im Nervensystem von wirbellosen Tieren
+(Invertebraten) vorkommt. Es beeinflusst zum Beispiel das motorische Verhalten der Ho-
+nigbiene [5].
+	Synephrin (4) findet sich in der Natur in verschiedenen Pflanzen [1] wie z.B. in Citrus-
+Arten, besonders in der Bitterorange (Citrus aurantium), in einem Kaktus (Coryphantha sp.),
+der in Mexiko und im Süden der USA heimisch ist, und zudem in Haloxylon salicornicum, einer
+Pflanze, die nebst Synephrin (4) auch andere Phenethylamine wie N-Methyltyramin (5) und
+Hordenin (6; N,N-Dimethylsynephrin) enthält [6].
+	Im Internet finden sich etliche Einträge, die Synephrin (4) vor allem als leistungsstei-
+gerndes und fettverbrennendes Mittel anpreisen. In den USA soll es als Ersatz für das mitt-
+lerweile rezeptpflichtige Ephedrin eingenommen werden. Überdies wird Synephrin (4; Oxe-
+drin) systemisch als Alpha-Sympathomimetikum verwendet [7].
+	Hordenin (6) zeigt in hohen Dosierungen ähnlich wie Ephedrin und Tyramin (2) eine blut-
+drucksteigernde Wirkung, Bei Heuschrecken wirkt es interessanterweise als Fraßhemmer [1].
+
+
+
+6.3.2. Übersicht der 4-substituierten Phenylalkylamine
+
+	Da sehr viele Phenylalkylamine mit einem 4-Substituenten existieren, werden diese ta-
+bellarisch zusammengefügt. In den anschließenden Kapiteln werden verschiedene Derivate
+in Bezug auf ihre gemeinsamen Pharmakologischen Eigenschaften besprochen. Zudem wer-

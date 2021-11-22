@@ -1,0 +1,20 @@
+6.3.5. 4-Substituierte Phenylalkylamine als 5-HT2A-Rezeptorantagonisten
+
+	Bis vor kurzem wurde angenommen, dass Phenylalkylamine für hohe 5-HT2A-Affinität
+idealerweise das 2,5-Dimethoxy-Substitutionsmuster zusammen mit einem kleinen lipo-
+philen Rest in Position 4 aufweisen (Struktur 102). Die Aktivierung dieses Serotoninrezep-
+tor-Subtyps wird als primäres Wirkprinzip von psychedelischen Phenylalkylaminen betrach-
+tet (siehe Kapitel 8.5.1).
+
+
+
+	Es konnte jedoch gezeigt werden, dass je nach Eigenschaft des 4-Substituenten die
+beiden Methoxygruppen für eine hohe Affinität nicht mehr unbedingt notwendig sind
+(Abb. 1) [102, 103]. So zeigte beispielsweise Substanz 128 (Ki= 18nM) zum [3H]Ketanserin-
+
+
+
+Abb. 1 Selbst ohne die 5- und 2-MeO-Gruppe kann mit Phenethylaminen eine relativ hohe Affinitat zum
+5-HT2A-Rezeptor erreicht werden - vorausgesetzt, ein grober und zugleich lipophiler 4-Substituent ist vor-
+handen. Solche Liganden erweisen sich allerdings als Antagonisten; der agonistische Bindungscharakter
+geht verloren [102, 103].

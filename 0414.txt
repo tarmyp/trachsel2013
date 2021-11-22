@@ -1,0 +1,38 @@
+	Den Einfluss des Halogenatoms in der 4-Position untersuchten Fuller et al. weiter im Jah-
+te 1975 [67]. In den durchgeführten Tests bestimmten sie die Halbwertszeiten im Rattenhirn
+von PFA (59), PCA (71) und PBA (82). Weiter wurde gezeigt, dass alle drei die Aktivität von
+Tryptophanhydroxylase (TPH) verringerten sowie die Konzentrationen von Serotonin und
+5-Hydroxyindolessigsäure (5-HIAA) im Rattenhirn verminderten. Durch PCA (71) und PBA
+(82) dauerte die Abreicherung von 5-HT im Gehirn mindestens eine Woche; PFA (59) hinge-
+gen reduzierte die Konzentration von 5-HT nur kurz (2-6h) und nach 24 Stunden war diese
+wieder normal. Eine Vorbehandlung der Versuchstiere mit dem Serotonin-Wiederaufnahme.
+hemmer (SSRI) Fluoxetin (123) verhinderte bei allen geprüften Halogenamphetaminen die
+Erschöpfung der Serotoninmengen [67].
+
+	4-Iodamphetamin (PIA, 87) ähnelt in vielen Hinsichten dem PCA (71), einschließlich Ge-
+webeverteilung, Halbwertszeit, Hemmung der [14C]-5-HT-Aufnahme sowie MAO-Inhibition
+(zusammengefasst in [71]). Auch die charakteristische Langzeit-Erschöpfung der Serotonin-
+mengen durch PIA (87) und PCA (71) und ihre Unterdrückung durch vorherige Fluoxetin-
+Gaben sind Gemeinsamkeiten. Die selektive serotonerge Neurotoxizität von PIA (87) ist
+weniger ausgeprägt als von PCA (71) [71]. In MDMA-trainierten Ratten substituierte PIA
+(87) zwar vollumfänglich, jedoch nicht so potent wie PCA (71).
+
+	Die Mechanismen, die der serotonergen Neurotoxizität unterliegen, sind bis heute Ge-
+genstand intensiver Debatten (zusammengefasst in [101]). Es wird vermutet, dass die Neu-
+rotoxizität mit der 5-HT-Ausschüttung und mit der Bindung als Substrat an den SERT in
+Zusammenhang steht. Dieser Umstand reicht aber alleine noch nicht aus, um die langanhal-
+tende Serotonin-Abreicherung zu erklären.
+	Es wurden in den letzten zwei Dekaden einige strukturelle Abwandlungen neurotoxi-
+scher Modellverbindungen getätigt, um mehr Einblick in die neuronalen Mechanismen zu
+erlangen. Es sollte hier nur flüchtig ein Einblick in die strukturelle Modifikation gegeben
+werden. Der interessierte Leser sei auf die originalen Artikel verwiesen [54, 65, 101].
+
+	Harvey et. al. untersuchte nebst den Halogenamphetaminen PFA (59), PCA (71) und
+PBA (82) auch das β,β-Difluor-4-chloramphetamin (126) [68]: alle bis auf PFA (59) zeig-
+ten im Tiermodell verringerte Serotoninwerte. Es wurden auch hier die neurotoxischen Ef-
+fekte durch Vorbehandeln mit Fluoxetin aufgehoben. Smith, Burrows and Miano bestätigten
+die Neurotoxizität einerseits von PCA (71), und andererseits auch von 4-Nitroamphetamin
+(4-NA, PNA, 98) [15]. Die Hypothese, dass die Hydroxylierung in der Beta-Position für die
+Neurotoxizität von PCA (71) verantwortlich ist, konnten sie durch Messen aller vier Ste-
+reoisomere von 4-Chlornorephedrin (127) nicht bestätigen, da diese in ihren Versuchen nicht
+neurotoxisch waren [15].

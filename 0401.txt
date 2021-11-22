@@ -1,0 +1,40 @@
+6.3. 4-Substituierte Phenylalkylamine
+
+
+
+	Den Verbindungen der 4-substituierten Phenylalkylamine wird seit Mitte des letzten
+Jahrhunderts vermehrt Beachtung geschenkt, was sich in ihrem relativ häufigen Vorkom-
+men widerspiegelt. Einer der Gründe dafür dürfte die einfache Chemie sein, aber auch der
+Verwandtschaftsgrad zur natürlichen Aminosäure Tyrosin (1) oder mit den 3,4-disubstitu-
+ierten Neurotransmittern Dopamin (Kapitel 7.5.1) und Norepinephrin (Kapitel 7.5.2) trug
+maßgeblich dazu bei. Schließlich findet sich der Grundkörper der 4-substituierten Phenyl-
+alkylamine in einigen pharmazeutischen Wirkstoffen zur Beeinflussung neurologischer Stö-
+rungen wie Depression (z. B. gesteuert durch die Hemmung der Monoaminoxidase) oder
+in Anorektika wieder. Zudem interagieren diverse 4-substituierte Phenylalkylamine mit. ent-
+sprechenden Adrenorezeptoren, weshalb sie zur Beeinflussung des Blutdrucks verwendet
+werden. Zunächst folgt an dieser Stelle eine kleine Einleitung zu den natürlich vorkommen-
+den 4-substituierten Phenylalkylaminen und ihrer Bedeutung.
+
+
+6.3.1. Natürlich vorkommende 4-substituierte Phenylalkylamine
+
+	Das L-Tyrosin (1a; L-Tyr) ist eine für den Menschen nicht-essenzielle Aminosäure [1],
+die bereits 1860 von Justus von Liebig aus Käse isoliert wurde (gr: ???? sprich tyros = Käse).
+Der durchschnittliche Gehalt beträgt in vielen Proteinen rund 3.5%. Das natürlich vorkom-
+mende L-Tyr (1a) ist fast geschmacklos oder etwas bitter, wohingegen D-Tyr (1b) eher süß
+schmeckt. L-Tyr (1a) wird durch Tyr-Monooxygenase zu Dopa hydroxyliert und wandelt sich
+in der Folge nacheinander zu Dopamin, Norepinephrin und Epinephrin um (Details siehe
+Kapitel 7.5.1).
+	Das Decarboxylierungsprodukt des Tyr (1a,b) nennt'man Tyramin (2). Es ist als biogenes
+Amin weit verbreitet [1]. So findet man es in Erbsen (Pisum sativum), Gerste (Hordeum vulgare),
+in Magnolia- und Desmodiumarten sowie ferner im Peyotekaktus Lophophora williamsü, aber
+auch im Menschen. Nahrungsmittel, wie z.B. Rotwein, Käse, Schokolade, Bier und Salami,
+enthalten Tyramin (2). Durch die Freisetzung und Wiederaufnahmehemmung von Nore-
+Pinephrin wirkt es als indirektes Sympathomimetikum, was zu eingr Blutdrucksteigerung
+führen kann. Unter normalen Bedingungen wird Tyramin (2) allerdings so rasch von der Mo-
+noaminoxidase (MAO) abgebaut, dass dieser Effekt nicht zum Tragen kommt. Das erklärt
+auch, weshalb Patienten, die z.B. zur Behandlung einer Depression MAO-Hemmer einneh-
+men, nach dem Konsum der genannten Nahrungsmittel eine potenziell lebensbedrohliche
+hypertensive Krise in Kombination mit schweren Kopfschmerzen erleiden können (siehe
+Exkurs Aminoxidasen). Eine durch "Tyramin ausgelöste Blutdrucksteigerung unter der Ein-
+nahme von MAO-Hemmern nennt man Tyramin- oder Cheese-Effekt. Zu Beginn des 20.

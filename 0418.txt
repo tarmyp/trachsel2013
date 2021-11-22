@@ -1,0 +1,32 @@
+	Interessant ist der Vergleich von Pyrovaleron (131) oder 4-MPPP (134) zum Para-Tol-
+ylaminopropan (4-Methylamphetamin; 4-MeA, pTAP, 40): es substituierte in einer Drug-
+Discrimination-Studie für S-Amphetamin (ED50 0.42 mg/kg, Ratten) nur partiell [60]. Im
+Vergleich zu Amphetamin erwies sich pTAP (40) als nur schwach antriebssteigernd (i.p.
+Maus; 9% der Wirkstärke von Amphetamin) [10]. Daher ist davon auszugehen, dass pTAP
+(40) im Menschen nur sehr schwach ausgeprägte amphetaminähnliche Wirkungen erzeugt,
+auch wenn es in zahlreichen Speedproben zusammen mit Amphetamin gefunden wurde
+[149]. Obschon 40 in vitro potent 5-HT, DA und NE freisetzt [61], wurde in 1200 eine für 5-HT
+bedeutend höhere und für DA tiefere Freisetzung festgestellt, was an der 5-HT-bedingten
+Stimulierung der 5-HT2C-Rezeptoren und darauffolgenden Dämpfung der DA-Freisetzung
+liegen könnte [151]. Auch die 5-HT-bedingte GABA-Freisetzung kann die DA-Freisetzung
+hemmen [150]. Die 4-Methylgruppe in 40 ändert demnach die Eigenschaften im Vergleich
+zu Amphetamin bedeutend. Umgekehrt befähigt eine β-Keto-Funktionalisierung zusam-
+men mit einer eventuell längeren Seitenkette und einer N,N-Dialkylierung (Pyrrolidin) die
+Verbindungen des Typs 132, als Wiederaufnahmehemmer der Monoamine zu wirken, was
+letztendlich ebenfalls zu einer Psychostimulation führt. Mehr Informationen zur β-Keto-
+Funktionalisierung arylunsubstituierter Verbindungen siehe Kapitel 3.5, und zur N,N-Dial-
+kylierung Kapitel 3.2.1.
+
+
+
+6.3.7. MAO-Inhibitoren
+
+	Die nachstehenden Verbindungen (139-143) wurden auf ihr Pozential hin untersucht,
+die Monoaminoxidase (MAO) zu hemmen (siehe auch Exkurs Aminoxidasen). Das unsubs-
+tituierte und trans-angeordnete Tranylcypromin (144) könnte man als Mutterverbindung be-
+zeichnen; es wird bis heute als MAO-Hemmer zur Behandlung von Depressionen eingesetzt
+(siehe Kapitel 3.11). In diesem Zusammenhang untersuchten Zirkle et al. Verbindungen des
+Typs 139 (R4= Me, MeO, CF3, C)) [107]. Für die Verbindungen des Typs 140 (R4= OH, MeO,
+NMe2, Cl) wurde erst kürzlich eine effiziente Synthese publiziert [108]. Weiter untersuchten
+Finkelstein et al. [109] Verbindungen des Typs 141 (R4= Me, MeO, F, Cl) und Burger et al. [110]
+Substanzen des Typs 142. Fuller et al. lieferten zu Verbindungen des Typs 143 (R4= Me, MeO,

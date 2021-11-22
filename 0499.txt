@@ -1,0 +1,33 @@
+[30]. Dessen Enantiomere R-20 und S-20 zeigten an [3H]DOB markierten 5-HT2A-Rezepto-
+ren der Ratte Bindungskonstanten von Ki= 1.5nM respektive K= 37.9nM [30]. Somit binden
+sie um den Faktor 36 respektive 6 potenter verglichen mit den Enantiomeren der nicht-
+aromatisierten Verbindung 19,
+	Nichols et al. geben als mögliche Erklärung an, dass einerseits die erhöhte Lipophilie eine
+bessere Interaktion mit der hydrophoben Region des Rezeptors zulässt, und andererseits
+die erweiterte Aromatizität in 20 verglichen mit 19 die Interaktion mit dem Rezeptor durch
+bevorzugtes π-stacking fördert [30] [31]. Obwohl die Wasserstoffbrücken-Akzeptoren im
+Furansystem schwächer sind, scheint das Benzodifuransystem sich vorzüglich für eine Inter-
+aktion zu eignen. Die intrinsische Aktivität blieb größtenteils unverändert.
+	Obwohl die Substanz 20 keinen 4-Substituenten aufweist, zeigt das R-Enantiomer eine
+Bindungskonstante, die mit DOB (4), einem der potentesten psychedelischen Amphetami-
+ne, vergleichbar ist. Es ist aber darauf hinzuweisen, dass R-20 eine eher tiefe funktionelle
+Potenz aufweist. Die äußerst potenten In-vivo-Verbindungen mit einem 4-Substituenten sind
+im Kapitel 8.5.27.2 beschrieben. Zu erwähnen ist weiter, dass die Enantiomere von 19 und
+20 im Vergleich zu ihren direkten 4-substituierten Analoga eine höhere Enantioselektivität
+am Rezeptor zeigten [30].
+	Das 2C-H-DFLY (21) wurde bis anhin in der Literatur nicht erwähnt.
+
+
+
+	Es stellte sich die Frage, was mit einer Ring-Homologisierung bewirkt werden kann.
+Whiteside et al. erweiterte die beiden heterocyclischen Dihydrofuran-Ringe und untersuchte
+Substanzen mit dem Strukturelement Hexahydrobenzodipyran [32]:
+
+
+
+	Die beiden Substanzen 2C-H-MOTH (22) und H-MOTH (23) dienten als Intermediate
+zur Herstellung und biologischen Untersuchung ihrer 4-substituierten Analoga; es ist nur die
+Synthese beschrieben [32]. Die 4-bromsubstituierten Analoga von 22 und 23 erwiesen sich in
+Diskriminationsstudien und in ihren Affinitäten am 5-HT2A-Rezeptor zwar weniger potent als
+ihre direkten Tetrahydrobenzodifuran-Gegenspieler, jedoch lagen sie mit ihren Werten immer
+noch im Bereich der potentesten nicht-rigiden Phenethylamine (siehe Kapitel 8.5.27.2).

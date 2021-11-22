@@ -1,0 +1,60 @@
+werden. Das differenzierte und verzögerte Wirkmuster verleitet den Konsumenten dazu,
+rasch nachzudosieren, was leicht zu einer Überdosis mit ernste n gesundheitlichen Gefahren
+wie Hyperthermie oder Monoaminoxidasehemmung (MAO) führen kann, bis hin zu fatalen
+Ereignissen.
+	Weiter dienten viele 4-substituierte Phenylalkylamine zur Erforschung der monoamin-
+ergen Neurotransmission. Während 4-MTA (33) nach einmaliger Verabreichung keine dau
+erhafte Senkung der Serotoninmengen im Gehirn von Ratten nach sich zieht, verursacht
+4-Chloramphetamin (PCA, 71) nach identischer Verabreichung eine lang anhaltende Sen-
+kung, PCA (71) dient in der Forschung als klassisches serotonerges Neurotoxin. Hingegen
+zeigte 4-Fluoramphetamin (PFA, 59) in diesen Versuchen keine Schädigung. Es entfaltet
+seine im Menschen schwach stimulierende Wirkung über eine dopaminerge Aktivität: es er-
+höht die Konzentration des extrazellulären Dopamins. Auch 4-Bromamphetamin (PBA, 82)
+sowie 4-Iodamphetamin (PIA, 87) erwiesen sich ähnlich wie 4-Chloramphetamin als neuro-
+toxisch und senkten die Serotonin-Konzentrationen nach einer einmaligen Verabreichung
+langanhaltend. In diesem Zusammenhang wurden auch Halogenthiophene untersucht, die
+tendenziell weniger neurotoxisch waren.
+	Einige anorektisch wirkende Verbindungen (z. B. 33, 53, 92, 95 sowie Sibutramin, 164)
+tragen einen Substituenten in der 4-Position. Durch das Einführen einer Trifluoromethyl-
+gruppe konnte die vom Amphetamin bekannte Stimulation unterdrückt werden, während
+sich die appetithemmenden Eigenschaften behaupteten. Generell verändert eine CF3-Grup-
+pe die Eigenschaften teilweise stark, ein Trend, den man auch bei den 3-substituierten Phe-
+nylalkylaminen wiederfindet (siehe Kapitel 6.2).
+	Es wurde auch eine Reihe von 4-substituierten Phenylalkylaminen als MAO-Hemmer
+(z.B. Substanzen 139-143) oder als Liganden der Betarezeptoren (z.B. Betablocker 165-168
+zur Behandlung von Bluthochdruck oder die Beta-Agonisten 170-171 als Wehenhemmer)
+entwickelt und teils noch heute verwendet.
+
+
+Literatur
+
+[1] M.R. J. Falbe. Römpp Lexikon, Naturstoffe. Thieme: 1997.
+
+[2] W. Sneader. Drug News Perspect. 2001, 14, 539.
+
+[3] T. A. Branchek, T. P. Blackburn. Curr. Opin. Pharmacol. 2003, 3, 90.
+
+[4] M. D. Berry. J. Neurochem. 2004, 90, 257.
+
+[5] B. L. Fussnecker, B. H. Smith, J. A. Mustard. J. Insect Physiol. 2006, 52, 1083.
+
+[6] A.M. El-Shazly, G. Dora, M. Wink. Pharmazie 2005, 60, 949.
+
+[7] E. Mutschler. Arzneimittelwirkungen. Wissenschaftliche Verlagsgesellschaft mbH: 1997.
+
+[8] P.N. Patil, J. B. LaPidus, A. Tye. J. Pharm. Exp. Ther. 1967, 155, 1.
+
+[9] R. K. Nandigama, D. E. Edmondson. Biochemistry 2000, 39, 15258.
+
+[10] J. van der Schoot, E. J. Ariens, R.J. van, J. A. Hurkmans. Arzneim. Forsch. 1962, 12,
+     902.
+
+[11] G. Barger, H. H. Dale. J. Physiol. 1910, 41, 19.
+
+[12] A. Lespagnol. Memoires presentes a la societe chimique 1963, 2744.
+
+[13] B. Belleau, M. Fang, J. Burba, J. Moran. J. Am. Chem. Soc. 1960, 82, 5752.
+
+[14] S. Kang, Nature 1970, 226, 645.
+
+[15] H. E. Smith, E. P. Burrows, J. D. Miano. J. Med. Chem. 1974, 17, 416.
