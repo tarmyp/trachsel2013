@@ -1,0 +1,5 @@
+p665
+8.2. 2,3,5-Trisubstituted phenylalkylamines
+
+25dimeo_epair_sar.png
+A: Based on models with rigidised substances and in-vitro as well as in-vivo experiments it is clear that the e-pairs of the 2,5-MeO-groups are in plane with the benzene ring and have to be optimally arranged as shown in order to obtain high biological activity. B: The substituent in the 3-position forces the 2-MeO substituent out of plane. C: The same repulsions can occur in 10 and 11 - yet they are relatively potent psychedelics. Consequently, they probably have a relatively high affinity for the 5-HT2A receptor. This in turn probably results from the presence of a 4-substituent.

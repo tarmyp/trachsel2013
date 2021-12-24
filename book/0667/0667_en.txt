@@ -1,0 +1,20 @@
+p667
+8.2. 2,3,5-Trisubstituted phenylalkylamines
+
+# Summary
+
+Very few compounds have been described in the literature that are substituted at the aromatic 2,3,5-position. The complicated chemistry and the fact that no extraordinary pharmacological properties had emerged for the tested compounds are the reasons for the few representatives. To the 5-HT2-receptor they show very little, if any, activity.
+
+# Literature
+
+[1] A. T. Shulgin. J. Med. Chem. 1966, 9, 445.
+[2] R. A. Glennon, R. Young. Pharmacol. Biochem. Behav. 1982, 17, 603.
+[3] R. A. Glennon, R. Young, A. E. Hauck. Pharmacol. Biochem. Behav. 1985, 22, 723.
+[4] A. T. Shulgin, A. Shulgin. PiHKAL — A Chemical Love Story, Transform Press: Berkeley, CA, 1995.
+[5] A. T. Shulgin. Psychotomimetic Drugs: Structure-Activity Relationships. In Handbook of Psychopharmacology, Plenum Press: New York, 1978; Vol. 11, p Chapter 6.
+[6] L. C. Clark, Jr., F. Benington, R. D. Morin. Ala. J. Med. Sci. 1964, 1, 417.
+[7] R. A. Glennon, R. Young, J. A. Rosecrans. Pharmacol. Biochem. Behav. 1982, 16, 553.
+[8] R. A. Glennon, J. A. Rosecrans, R. Young, Eur. J. Pharmacol. 1981, 76, 353.
+[9] R. A. Glennon, S. M. Liebowitz, G. M. Anderson, 3rd. J. Med. Chem. 1980, 23, 294.
+[10] K. Rasmussen, R. A. Glennon, G. K, Aghajanian. Eur. J. Pharmacol. 1986, 132, 79.
+[11] M. R. Seggel, G. D. Qureshi, R. A, Glennon. Life Sci. 1987, 41, 1077.
