@@ -1,0 +1,33 @@
+p653
+8.1. 2,3,4-Trisubstituierte Phenylalkylamine
+
+# 8.1. 2,3,4-Trisubstituierte Phenylalkylamine
+
+Die 2,3,4-trisubstituierten Phenylalkylamine treten als eher kleine Klasse auf. Zumindest
+was die Untersuchungen psychoaktiver Substanzen angeht, gingen daraus nur wenig biologisch aktive Verbindungen hervor. Diese frühen Erkenntnisse bremsten weitere Untersuchungen beträchtlich.
+
+Die Tabelle 1 gibt Auskunft darüber, welche Strukturen in welchem Zusammenhang untersucht wurden, Es wurden nur auszugsweise und als relevant eingestufte Literaturstellern
+angegeben.
+
+Tabelle 1. Ausgewählte 2,3,4-trisubstituierte Phenylalkylamine.
+=================================================================================
+Nr | Name            | R{\alpha} | R2  | R3  | R4  | Untersuchungen
+=================================================================================
+ 1 | 2-HO-Dopamin    | H         | HO  | HO  | HO  | B [1]; E [2]
+ 2 | Isomescalin     | H         | MeO | MeO | MeO | C [3-6]; A [7]; H [6]; H [8]
+ 3 |                 | H         | EtO | EtO | EtO | C [5]
+ 4 |                 | H         | MeO | OCH2O     | F [9]
+ 5 | 2-TIM           | H         | MeS | MeO | MeO | C [6, 10]; G [10]; H [6]
+ 6 | 3-TIM           | H         | MeO | MeS | MeO | C [6, 10]; G [10]; H [6]
+ 7 | 4-TIM           | H         | MeO | MeO | MeS | C [6, 10]; G [10]; H [6]
+ 8 | TMA-3           | Me        | MeO | MeO | MeO | D [11]; C [12]; K [13]; A [7]; H [6]
+ 9 | 2Me-MDA         | Me        | Me  | OCH2O     | C [14]; J [14]
+10 | 2F-MDA          | Me        | F   | OCH2O     | C [21]; M [15]
+11 |                 | Me        | MeO | Me  | MeO | L [16]
+12 | MMDA-3a, Trance | Me        | MeO | OCH2O     | D [11]; H [6]
+13 | MMDA-3b         | Me        | OCH2O     | MeO | H [6]; I [17]
+14 | 2T-MMDA-3a      | Me        | MeS | OCH2O     | H [6]
+15 |                 | Et        | MeO | MeO | MeO | A [7]
+=================================================================================
+a) A: Chemische Analyse via Massenspektroskopie; B: Einfluss auf Blutdruck; C: Synthese; D: Toxizität und Dosierung im Menschen; E: Angriff des Hydroxylradikals auf Dopamin, F: Analyse der molekularen Konnektivität; G: MAO-Inhibition; H: Humanpotenz; I: [^3H]-Dopamin- und [^3H]-Serotonin-Freisetzung; J: Geprüft als monoaminfreisetzendes Agens, sowie Diskriminationsstudien an Ratten mit diversen Training Drugs; K: Lokomotionsstudie an Mäusen; L: Geprüft auf Toxizität, Einfluss auf Barbiturat-Schlafzeit sowie Verhalten von Mäusen; M: Interaktion mit Monoamintransporter.
+

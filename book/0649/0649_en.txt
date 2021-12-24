@@ -1,0 +1,18 @@
+p649
+8. Trisubstituted phenylalkylamines
+
+Across all classes, the 3C derivatives are more potent than their 2C counterparts, although to varying degrees. The introduction of an \alpha-ethyl group leads to the 4C derivatives, which show drastically reduced potency in-vitro as well as in-vivo (Fig. 2). The 1C derivatives (benzylamines) are almost unexplored; first radioligand binding studies indicate low affinity. In-vivo data are so far almost completely lacking; massively reduced potencies can probably also be assumed (Chapter 8.5.16). There must be a C2 unit between the aryl moiety and the amino group. Substituents in
+in the \beta-position to the amine lead to increased sympathomimetic effects (influence on blood pressure etc.) in the case of an OH or MeO group, and to reduced human potency in the case of a \beta-Me group.
+
+Finally, Fig. 6 shows structure-activity relationships of the trisubstituted phenylalkylamines.
+
+# Sources
+
+[1] A. Heffter, Arch. Exp. Path. Pharm. 1989, 40, 385.
+[2] E. Späth. Monatsh. Chem. 1919, 40, 129.
+[3] P. Hey. Quart. J. Pharm. Pharmacol. 1947, 20, 129.
+[4] A. T. Shulgin, A. Shulgin. PiHKAL - A Chemical Love Storyy. Transform Press: Berkeley, CA, 1995.
+[5] D. I. Peretz, J. R. Smythies, W.C. Gibson. J. Ment. Sci. 1995, 101, 317.
+[6] A. T. Shulgin. J. Med. Chem. 1966, 9, 445.
+[7] T. S. Ray. PLoS One 2010, 5, e9019.
+[8] K. H. Slotta, J. Müller. Z. Physiol. Chem. 1936, 238, 14.

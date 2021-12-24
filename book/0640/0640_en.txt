@@ -1,0 +1,16 @@
+p640
+8. trisubstituted phenylalkylamines
+
+After plant products with intoxicating properties had been used for thousands of years without knowledge of their ingredients and active principles, the active principle of the magic cactus peyote was identified in 1897 [1]: Arthur Heffter gave the chloroform-soluble fraction of peyote, which is native to southern Texas and northern Mexico, the name "Mezkalin", which later became mescaline. In 1919, Ernst Späth was able to prove the chemical structure for the first time by synthesis [2]; he showed that mescaline is 3,4,5-trimethoxyphenethylamine (1). Mescaline was the first synthetically producible psychedelic.
+
+mescaline.png
+Mescaline
+
+Once the chemical structure was known and it was possible to produce this natural substance synthetically, not only was pharmacological and psychopharmacological research accelerated, but also in the field of chemistry new variations were increasingly produced and investigated on the basis of mescaline (1). The discovery of mescaline (1) marked the beginning not only of the history of trisubstituted phenylalkylamines, but also of psychedelics research in general.
+
+As already with 2-phenethylamine (2) and amphetamine (3) (see chapter 2), an {\alpha}-Me group leads to the enhancement of some pharmacological effects. The structural modification of mescaline (1) to TMA (4) [3] causes an increase in potency in humans
+(180-360mg vs. 100-250mg [4]), and in the process the psychedelic properties of mescaline (1) are not lost, but their nature changes [5].
+
+2pea_amph_tma.png
+
+A further modification, arranging the three MeO-groups on the phenyl ring of TMA (4) into all possible substitution patterns, yields the six trimethoxamphetamines (4-9) [6], among which TMA-2 (5) is the most potent, followed by TMA-6 (9) and TMA (4) [4]. These findings were - incidentally - fortunately consistent with the nature of the chemical substitution effects: A 2,5-dimethoxy substitution directs a (electrophilic) substituent exactly to the desired 4-position, so that the 2,4,5-trisubstituted phenylalkylamines are chemically much easier to access than other substitution patterns.

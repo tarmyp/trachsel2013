@@ -1,0 +1,13 @@
+p654
+8.1. 2,3,4-Trisubstituicrte Phenylalkylamine
+
+# 8.1.1. Ein paar erwähnenswerte Verbindungen
+
+Die einfache Struktur und gleichzeitig komplexe psychoaktive Wirkung von Mescalin (16; siehe Kapitel 8.4.1) führte zu vielen strukturellen Abwandlungen. So kam auch die Frage auf, ob ein Umplatzieren einer MeO-Gruppe hin zur Struktur von Isomescalin (IM, 2) ebenfalls zu einer psychedelisch wirkenden Substanz führt. Isomescalin (2) wurde erstmals von Slotta und Heller im Jahre 1930 hergestellt [4].
+Frühe Untersuchungen in den 1930er Jahren zeigten, dass Mescalin (16) in gesunden Personen einen viel stärkeren berauschenden Effekt erzeugte als in schizophrenen Probanden, und dass Isomescalin (IM, 2) praktisch einen umgekehrten Effekt aufweist [8]: Während es nahezu frei von einer psychotropen Wirkung in gesunden Probanden war, erwies es sich als effektiv in schizophrenen Patienten. Daher erhielt Isomescalin (2) auch den Namen "reziprokes Mescalin". Weitere Studien, die diese Sachlage weiter geklärt hatten, wurden scheinbar nie getätigt oder publiziert [6]. Es wurde schließlich bestätigt, dass Isomescalin (2) im gesunden Menschen bei Dosierungen von bis zu 400mg inaktiv ist [6].
+
+Die Frage nach der Umplatzierung der MeO-Gruppen stellte sich auch bei der Substanz TMA (17). Das 3C-Analogon (Definition siehe Kapitel 8.5.2) von Mescalin (16) erwies sich als fast doppelt so potent wie Mescalin, aber mit kürzerer Wirkdauer als letzteres (siehe Kapitel 8.4.3). Werden die MeO-Gruppen von TMA (17) hin zu TMA-3 (8) umplatziert, so erhält man wie im Falle Mescalin (16) / Isomescalin (2) eine wirkungsarme oder -lose Substanz (Abb. 1). Humanversuche mit TMA-3 (8) erfolgten bis zu 100mg, und zumindest bis zu dieser Dosierung waren keinerlei Veränderungen des Bewusstseinszustandes bemerkbar [6].
+
+345_to_234.png
+Abb. 1. Das Umplatzieren des 3,4,5-Trimethoxysubstitutionsmusters hin zu den 2,3,4-Derivaten geht mit einem Verlust der Psychoaktivität.
+

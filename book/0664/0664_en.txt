@@ -1,0 +1,9 @@
+p664
+8.2. 2,3,5-Trisubstituted phenylalkylamines
+
+If one compares the 2,3,5-analogues with the potent psychedelics DOM (2) and DOB (3), a loss of effect is evident, as with the trimethoxyamphetamines. In a drug discrimination study with rats, Iso-DOM (5; also called 3-Me-2,5-DMA) was only able to partially (34%) substitute for DOM (2) [7]. This shift of the methyl group from the 4 to the 3 position thus reduced the ability to substitute for DOM. Iso-DOM (S) was also only partially able to substitute for the hallucinogen 5-MeO-DMT [8]. Iso-DOM (5) showed more than 60-fold less affinity than DOM (2) at serotonin 5-HT2 receptors [9].
+
+Iso-DOB (6, also known as SL-7161) showed the same behaviour: At 5-HT2 receptors, Iso-DOB (6) showed 120-fold less affinity than DOB (3) [9] (see also [10, 11]), and for the hallucinogen 5-MeO-DMT, Iso-DOB (6) failed to substitute [8].
+
+245_to_235pea.png
+Fig. 1: Based on the in-vitro data (affinities to 5-HT3 receptors) and in vivo experiments (drug discrimination studies, human trials), a massive loss of effect of the 2,3,5-trisubstituted phenethylamines in humans can be assumed compared to the 2,4,5 series.

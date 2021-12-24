@@ -1,0 +1,11 @@
+p648
+8. Trisubstituted phenylalkylamines
+
+The amine moiety of phenethylamines is ultimately essential for the interaction with aspartate 155 in helix 3 (D3.32) of the receptor. With these anchor points (primary amine at a distance of 2C units from the aryl moiety, two MeO-groups and lipophilic 4-substituent), a trisubstituted phenylalkylamine is finally able to interact agonistically with the 5-HT2A and 5-HT2C receptor. N-alkylations are strongly detrimental to the affinity and the effect in humans; the opposite is the case when N-benzyl residues are introduced (see Chapter 8.4.2 and 8.5.26).
+
+If we now look at the remaining three classes (Fig. 5), namely the 2,3,4-, 2,3,5- and 2,3,6-series, we see that the last two do not have the important lipophilic 4-substituent. Although either a 2,5- or a 2,6-dimethoxy substitution may be present in the 2,3,5- and 2,3,6-series, the remaining 3-substituent is probably unable to mimic the function of the 4-substituent that is important in the other series. It is directed in a different direction and reaches the hydrophobic region only poorly (at least in the presence of small 3-substituents). Thus, the 3-substituent is probably not sufficient to grant a strong interaction with the 5-HT2A and 5-HT2C receptors. The 2,3,4-series has a 4-substituent, but it can only carry one more MeO substituent, which is important for the interaction, in the 2- or 3-position or both, but this is probably not sufficient for a strong interaction with the 5-HT2A and 5-HT2C receptors. There would have to be a MeO group on each side of the aryl moiety perpendicular to the 1,4-axis.
+
+Although only speculative, these are possible explanations to account for the significantly weaker effects of the few compounds studied.
+
+234_235_236_peas.png
+Fig. 5. The three remaining 2,3,4-, 2,3,5- and 2,3,6-series only partially exhibit the structural requirements to ensure high affinity to the 5-HT2A receptor; either the important 4-substituent, or the two MeO groups, one on each side of the 1,4-axis (see also Fig. 3). Both structural elements are essential for agonistic ligands with high affinities and human potency.

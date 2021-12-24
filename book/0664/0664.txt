@@ -1,0 +1,13 @@
+p664
+8.2. 2,3,5-Trisubstituierte Phenylalkylamine
+
+Vergleicht man die 2,3,5-Analoga mit den potenten Psychedelika DOM (2) und DOB (3), so zeigt sich wie bei den Trimethoxyamphetaminen ebenfalls ein Wirkverlust. In einer Drug-Discrimination-Studie mit Ratten vermochte Iso-DOM (5; auch 3-Me-2,5-DMA genannt) nur partiell (34%) für DOM (2) zu substituieren [7]. Dieses Verschieben der Methylgruppe aus der 4- in die 3-Position verminderte demnach die Fähigkeit, für DOM zu substituieren. Auch für das Halluzinogen 5-MeO-DMT vermochte Iso-DOM (S) nur partiell zu substituieren [8]. An Serotonin 5-HT2-Rezeptoren zeigte sich Iso-DOM (5) um mehr als das 60-fache weniger affin als DOM (2) [9].
+
+Iso-DOB (6, auch als SL-7161 bekannt) zeigte dasselbe Verhalten: An 5-HT2-Rezeptoren zeigte sich Iso-DOB (6) um das 120-fache weniger affin als DOB (3) [9] (siehe auch [10, 11]), und für das Halluzinogen 5-MeO-DMT vermochte Iso-DOB (6) nicht zu substituieren [8].
+
+245_to_235pea.png
+Abb. 1. Aufgrund der in-vitro-Daten (Affinitäten zu 5-HT3-Rezeptoren) und in-vivo-Experimente (Drug Discrimination-Studien, Humanversuche) darf im Vergleich zu der 2,4,5-Serie von einem massiven Wirkverlust der 2,3,5-trisubstituierten Phenethylamine im Menschen ausgegangen werden.
+
+
+
+

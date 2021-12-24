@@ -1,0 +1,22 @@
+p657
+8.1. 2,3,4-Trisubstituted phenylalkylamines.
+
+This reflects the assumed higher sensitivity of the DA transporter to structural modifications [14]. At the human serotonin transporter (hSERT), 2Me-MDA (9) binds with a Ki=700nM equally potent as MDA (20) [18] (Table 3). 2-Me-MDA (9) binds to the human serotonin transporter (hSERT) with Ki=700nM, equal potency as MDA (20) [18].
+
+Table 3. Ki values for [^3H]-5-HT uptake inhibition
+at hSERT [18].
+========================================
+Substance     | hSERT Ki [^3H]-5-HT (nM)
+========================================
+MDA (20)      | 700
+2Me-MDA (9)   | 700
+5Me-MDA (21)  | 900
+6Me-MDA (22)  | 2200
+========================================
+
+
+Furthermore, the compounds were tested for their in-vivo activity in a drug discrimination study [14]. As would be expected from the data on uptake inhibition, none of compounds 9 and 22-23 substituted for the catecholamine releaser amphetamine (see chapter 2.3.2). For the serotonin-releasing, entactogen MBDB (see chapter 7.5.7.2), 9 and 21 were somewhat more potent substitutes than MDA (20). It was also shown that the two substances 9 and 21 substituted for the psychedelic DOI (see chapter 8.5.10) at approximately the same doses as for the serotonin releaser MBDB [14].
+
+For the substances 2Me-MDA (9) and 5Me-MDA (21), an effect similar to MDA (20) can be assumed in humans, with a somewhat less pronounced stimulant component. This is speculative, however, and only one anecdotal report has emerged to date: While 10mg of 2Me-MDA (9) showed no significant effects, 40mg proved to be very MDA-like, initial effects after 20min, colour changes (blue to green, after 30-40min), duration of effect around 12h, with lasting stimulation and mydriasis lasting up to around 20h [19]. The 6Me-MDA (22) shows effects at 160mg for around 8h [20].
+
+Substance 10 (2F-MDA) is a fluorine analogue of 3,4-methylenedioxyamphetamine (20, MDA; see chapter 7.5.7.1). It was prepared by Trachse/et al. together with the two other positional isomers 5F-MDA (23) and 6F-MDA (24) (for synthesis see Fig. 3, as well as Chapter 8.4.11 and Chapter 8.5.23) [21] and tested for interaction with the monoamine transporters (competitive assay, Table 4) [22]. It is difficult to compare the values obtained with values of other substances from other experiments. If labelled by means of tritiated selective transporter inhibitors, only the competition at exactly that binding site is obtained. Another method is to determine the direct reuptake inhibition of tritiated monoamines (functional assay). By modifying the assay, a statement on the inhibition of reuptake or release of monoamines could also be made. For derivatives of the releaser MDA, the determination of the ability to release would be more meaningful than the displacement of a labelled transporter inhibitor from its binding pocket.

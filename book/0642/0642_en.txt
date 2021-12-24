@@ -1,0 +1,9 @@
+p642
+8. Trisubstituted phenylalkylamines
+
+A prominent representative here is DOB-DFLY (14). It
+models the binding orientation of the two MeO-groups of this class and is one of the most potent serotonin 5-HT2A and 5-HT2C receptor agonists. The N-benzylated derivatives can be regarded as a relatively new class (see Chapter 8.5.26). Depending on the N-benzyl substituent, these phenylalkylamines - in contrast to the largely inactive N-alkylated derivatives - also show very high affinities for the 5-HT2A and 5-HT2C receptors (e.g. 25I-NBOMe; 15).
+
+2,4,5-pea.png
+
+The 3,4,5-series includes the previously mentioned mescaline (1), but there are dozens of other exciting derivatives, although they can never match the popularity of mescaline (1) (see Chapter 8.4). The 3,4,5-series comprises about 140 compounds, as further representatives besides mescaline (1) and TMA (4) the substances methallylscaline (MAL; 16), trifluoromescaline (TFM; 17), 3-thiomescaline (3-TM; 18) and 3C-AL (19) are shown here. The 3,4,5 series may have been somewhat neglected compared to the 2,4,5 series because it does not lead to the most potent compounds. Nevertheless, many interesting representatives are found in this class, and they also deserve a detailed elucidation of the neuropharmacological processes. These have - in comparison to the 2,4,5-trisubstituted phenylalkylamines - only been sparsely investigated, and the same pharmacology has been suspected as is known from the 2,4,5 series. Initial results exist, and it is thought that there is a slightly different binding orientation at the serotonin 5-HT2A receptor. In this class, many structural variations have never been tested before, and it thus holds great potential of new active substances.

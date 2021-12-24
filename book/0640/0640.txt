@@ -1,0 +1,20 @@
+p640
+8. Trisubstituierte Phenylalkylamine
+
+Nachdem pflanzliche Erzeugnisse mit berauschenden Eigenschaften ohne Wissen über deren Inhaltsstoffe und Wirkprinzipien bereits seit Jahrtausenden genutzt worden waren, konnte im Jahre 1897 das aktive Wirkprinzip des Zauberkaktus Peyote identifiziert werden
+[1]: Arthur Heffter gab der chloroformlöslichen Fraktion aus dem im Süden von Texas und im Norden Mexikos heimischen Peyote den Namen Mezkalin, welcher später zu Mescalin wurde. Im Jahre 1919 konnte Ernst Späth mittels Synthese erstmals die chemische Struktur
+beweisen [2]; er zeigte, dass es sich bei Mescalin um 3,4,5-Trimethoxyphenethylamin (1) handelt. Mescalin war das erste synthetisch herstellbare Psychedelikum.
+
+mescaline.png
+Mescalin
+
+Als nun die chemische Struktur bekannt war und man diesen Naturstoff fortan synthetisch herstellen konnte, wurde nicht nur die pharmakologische und psychopharmakologische Forschung beschleunigt, auch im Bereich der Chemie wurden ausgehend von Mescalin (1) zunehmend neue Abwandlungen hergestellt und untersucht. Mit der Entdeckung von Mescalin (1) begann nicht nur die Geschichte der trisubstituierten Phenylalkylamine, sondern die
+der Psychedelikaforschung allgemein.
+
+Wie bereits bei 2-Phenethylamin (2) und Amphetamin (3, siehe Kapitel 2) führt auch hier eine {\alpha}-Me-Gruppe zur Verstärkung einiger pharmakologischer Effekte. Die strukturelle Modifikation von Mescalin (1) zu TMA (4) [3] bewirkt eine Erhöhung der Potenz im Menschen
+(180-360mg vs. 100-250mg [4]), und dabei kommen die psychedelischen Eigenschaften von Mescalin (1) nicht abhanden, sie ändern sich jedoch in ihrer Natur [5].
+
+2pea_amph_tma.png
+
+Eine weitere Modifikation, das Arrangieren der drei MeO-Gruppen am Aromaten von TMA (4) zu allen möglichen Substitutionsmustern, liefert die sechs Trimethoxamphetamine (4-9) [6], unter denen TMA-2 (5) das potenteste ist, gefolgt von TMA-6 (9) und TMA (4) [4]. Diese Erkenntnisse waren — ganz nebenbei — glücklicherweise im Einklang mit der Beschaffenheit der chemischen Substitutionseffekte: Eine 2,5-Dimethoxysubstitution dirigiert einen (elektrophilen) Substituenten genau in die gewünschte 4-Position, so dass die 2,4,5-tri-
+substituierten Phenylalkylamine chemisch viel einfacher zugänglich sind als andere Substitutionsmuster.

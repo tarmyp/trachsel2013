@@ -1,0 +1,12 @@
+p648
+8. Trisubstituierte Phenylalkylamine
+
+Der Aminteil der Phenethylamine ist letztendlich für die Interaktion mit dem Aspartat 155 in Helix 3 (D3.32) des Rezeptors unentbehrlich. Mit diesen Ankerpunkten (primäres Amin im Abstand von 2C-Einheiten zum Arylteil, zwei MeO-Grupppen und lipophiler 4-Substituent) vermag schließlich ein trisubstituiertes Phenylalkylamin agonistisch mit dem 5-HT2A- und 5-HT2C-Rezeptor zu interagieren. N-Alkylierungen sind der Affinität und der Wirkung im Menschen stark abträglich; das Gegenteil ist der Fall bei Einführung von N-Benzylresten (siehe Kapitel 8.4.2 und 8.5.26).
+
+Betrachtet man nun die übrigen drei Klassen (Abb. 5), namentlich die 2,3,4-, 2,3,5- und 2,3,6-Serien, so erkennt man, dass die letzten beiden den wichtigen, lipophilen 4-Substituenten nicht aufweisen. Zwar können in der 2,3,5- und 2,3,6-Serie entweder eine 2,5- oder eine 2,6-Dimethoxysubstitution vorliegen, jedoch vermag der übrigbleibende 3-Substituent die Funktion des in den anderen Serien wichtigen 4-Substituenten wohl nicht nachzuahmen. Er ist in eine andere Richtung gerichtet und erreicht die hydrophobe Region nur schlecht (zumindest beim Vorhandensein kleiner 3-Substituenten). So reicht der 3-Substituent vermutlich nicht aus, um eine starke Interaktion mit den 5-HT2A- und 5-HT2C-Rezeptoren zu gewähren. Die 2,3,4-Serie weist zwar einen 4-Substituenten auf, jedoch kann sie lediglich noch einen für die Interaktion wichtigen MeO-Substituenten tragen, und zwar in der 2- oder 3-Position oder in beiden, was vermutlich jedoch nicht für eine starke Interaktion mit den 5-HT2A- und 5-HT2C-Rezeptoren ausreicht. Es müsste auf beiden Seiten des Arylteils senkrecht zur 1,4-Achse je eine MeO-Gruppe vorhanden sein.
+
+Obwohl nur spekulativ, sind dies mögliche Erklärungsansätze, um die deutlich schwächeren Wirkungen der wenigen untersuchten Verbindungen zu begründen.
+
+234_235_236_peas.png
+Abb. 5. Die drei übrigen 2,3,4-, 2,3,5- und 2,3,6-Serien weisen nur teilweise die strukturellen Erfordernisse auf, um eine hohe Affinität zum 5-HT2A-Rezeptor zu gewährleisten; entweder den wichtigen 4-Substituenten, oder die zwei MeO-Gruppen, jeweils eine pro Seite der 1,4-Achse (siehe auch Abb. 3). Beide Strukturelemente sind für agonistische Liganden mit hohen Affinitäten und Humanpotenz essenziell.
+

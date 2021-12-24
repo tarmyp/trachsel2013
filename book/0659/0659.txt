@@ -1,0 +1,12 @@
+p659
+8.1. 2,3,4-Trisubstituierte Phenylalkylamine
+
+Der Effekt eines Fluoratoms in Dopamin (DA; 30) [24] und auch Norepinephrin (NE; 31) [24-26] wurde intensiv untersucht. Die Fluorierung in der 2-Position (2F-DA; 32) beeinträchtigte die \beta-Hydroxylierung (zu Norepinephrinderivaten) stärker als durch die Fluorierung in der 6-Position (6F-DA; 33). Beide Derivate wurden gut in die Speichervesikel von sympathischen Neuronen aufgenommen. Weiter wurden die adrenergen Eigenschaften untersucht. Fluorierung in der 2-Position von Phenethanolaminen (die gemischten \alpha/\beta-adrenergen Agonisten Norepinephrin und Epinephrin, sowie der selektive \alpha-adrenerge Agonist Phenylephrin und der selektive \beta-adrenerge Agonist Isoproterenol) senkte die Affinität des Agonisten für \alpha-adrenerge Rezeptoren, während die 6-Fluorierung die Affinität deutlich für \beta-adrenerge Rezeptoren senkte (zusammengefasst in [26]).
+
+fluoro_da_ne.png
+
+Wenn in TMA-3 (8) formal zwei MeO-Gruppen zu einer Methylendioxygruppe zusammmengeschlossen werden (Abb. 4, A), dann erhält man die beiden Substanzen MMDA-3a (12) und MMDA-3b (13). Interessanterweise führt das Rigidisieren hin zu MMDA-3a (Trance; 12) zu einer aktiven Verbindung; sie ist psychoaktiv in einer Dosierung von 20-80mg und die Wirkung hält 10-16h an [6]. Es stellt sich die Frage nach den neuropharmakologischen Prinzipien. Vermutet werden darf eine Interaktion mit den Monoamintransportern sowie schwächer mit 5-HT2-Rezeptoren. MMDA-3b (13) wurde bis anhin bis zu einer Dosierung von 80mg getestet, wobei sich keine Wirkung spürbar machte [6]. In der Fähigkeit, 5-HT freizusetzen, war 13 gleich potent wie (+)-S-MDMA, Die DA-Freisetzung war etwa vergleichbar mit (-)-R-MDMA [17].
+Ein Quervergleich zu den 3,4-5-trisubstituierten Phenylalkylaminen zeigt bei der analogen Rigidisierung ein anderes Ergebnis (Abb. 4, B): TMA (17) und MMDA (34) zeigen im Menschen dieselbe erforderliche Dosierung (siehe Kapitel 8.4.11).
+
+Das Derivat 2T-MMDA-3a (14, Abb. 4, C) liegt strukturell zwischen MMDA-3a (12) und 2-TIM (5). Es wurde bis anhin im Menschen nur bis 12mg getestet und war wirkungslos.
+

@@ -1,0 +1,22 @@
+p658
+8.1. 2,3,4-Trisubstiuierte Phenylalkylamine
+
+Über die Wirkung der Derivate 10, 23 und 24 im Menschen ist bis anhin nichts bekannt.
+
+fluoro-mda.png
+
+Tabelle 4. Ki-Werte diverser Fluoranaloga von MDA. Hemmung der Aufnahme von [^3H]WIN-35428, [^3H]Nisoxetin und [^3H]Citalopram am DAT, NET und SERT, respektive [22].
+=============================================================
+Substanz         | DAT Ki (nM) | NET Ki (nM) | SERT Ki (nM)
+=============================================================
+MDMA (29) ^{3a)} | >10000^{b)} | >10000      | >10000
+2F-MDA (9)       | >10000      | >10000      | 8064
+5F-MDA (23)      | >10000      | >10000      | >10000
+6F-MDA (24)      | >10000      | >10000      | >10000
+=============================================================
+a) Daten aus [23]; für MDA (20) nicht bekannt. b) mit [^3H]GBR 12935 geprüft.
+
+fluoromda_synthesis.png
+Abb. 3. Syntheseschema für 2F-MDA (10). a) CH2Br2, Cs2CO3, DMF, 110°C; 90%. b} TiCl4, CHCl2OCH3,
+DCM; 76%. c} EtNO2, AcOH, BuNH2, mol. Sieb, 90°C; 74%. d) AlH3, THF, 0°C; 77%, als HCl-Salz.
+

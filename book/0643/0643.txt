@@ -1,0 +1,12 @@
+p643
+8. Trisubstituierte Phenylalkylamine
+
+345-pea.png
+
+Die dritthäufigste Klasse ist die 2,4,6-Serie (Kapitel 8.6). Es dürfte vor allem an der etwas erschwerten Chemie liegen, dass diese potenziell aktive Klasse bisher nur wenig untersucht wurde. Die wenigen existierenden Vertreter wie z.B. {\Psi}-DOM (Pseudo-DOM; 20) weisen eindeutig darauf hin, dass sie im Vergleich zur 2,4,5-Serie in vitro sowie in vivo nur leicht weniger potent sind; auch sie interagieren mit den 5-HT2A- und 5-HT2C—Rezeptoren. Hier liegt ein sehr großes Potenzial für neue, bis anhin unbekannte Verbindungen, denn aufgrund erster Erkenntnisse könnten sich sehr viele der getätigten Modifikationen innerhalb der 2,4,5-Serie
+auf die 2,4,6-Serie übertragen lassen. So wären wiederum hunderte potenzielle 5-HT2A- und 5-HT2C-Rezeptorliganden und auch psychedelische Verbindungen denkbar.
+
+psi-dom.png
+
+Die 2,3,4-Serie wurde bereits 1936 tangiert [B]; Isomescalin (21) erwies sich im Vergleich zu Mescalin (1) selbst in hohen Dosierungen (400mg) als inaktiv (siehe Kapitel 8.1). Auch die wenigen zusätzlich geprüften Substanzen mit diesem Substitutionsmuster ließen vermuten,
+dass diese Klasse nur wenige aktive Derivate liefern kann.

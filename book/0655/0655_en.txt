@@ -1,0 +1,9 @@
+p655
+8.1. 2.3,4-Trisubstituted phenylalkylamines
+
+In conclusion, it cannot finally be said that TMA-3 (8) is inactive, but analogies suggest that even doses greater than 300mg have no psychoactive effects. Anyhow, TMA-3 (8; ED50 = 7.89mg/kg) fully substituted in DOM-trained rats (ED50 = 0.44mg/kg) [27]. Van der Schoot showed in his studies that TMA-3 (8) could not stimulate locomotion in mice (i.p.) [13].
+
+Replacing a methoxy group in mescaline (16) with a methylthio group led to a drastic increase in the potency of these substances (Fig. 2. 4-thiomescaline; 18, see also Chapter 8.4.9.1, and 3-thiomescaline; 19, Chapter 8.4.9.2). The thio-analogues of isomescaline (2) were also investigated, but the three possible derivatives 2-TIM (5), 3-TIM (6) and 4-TIM (7) were found to be inactive (TIM = thioisomescaline) at doses of 240mg (160mg for the last one).
+
+thioisomescaline_relations.png
+Fig. 2: In the case of mescaline (16), replacement of O by S causes a significant increase in human potency. Whether this also applies to isomescaline (2, Fig. 1) cannot be conclusively answered with the thioisomescaline derivatives 5-7, as the active human dose was not found for either them or isomescaline (2).

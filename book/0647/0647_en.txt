@@ -1,0 +1,9 @@
+p647
+8. Trisubstituted phenylalkylamines
+
+It can be assumed that the other two substituents of the three series mentioned, the 3,5- 2,5- or 2,6-dimethoxy residues, are needed to form bonds with their lone-pair electrons via hydrogen bonds to the 5-HT2A and 5-HT2C receptor. This has been studied in more detail for the 2,4,5-series (see Chapters 8.5.21 and 8.5.27.2) and it has been recognised that this appears to be true at least for agonistic interaction with these receptors. If large, lipophilic 4-substituents are present, high affinities can still be achieved without the MeO groups; however, the interaction is then antagonistic in nature (see Chapters 7.2.1 and 7.3.4).
+The importance of the 4-substituent, the MeO groups and their arrangement are also supported by the following facts. If one of the MeO groups or the 4-substituent in a class is removed, the resulting compounds lose their affinities for the 5-HT2A and 5-HT2C receptors, and they are also no longer or barely active in humans (the resulting disubstituted phenylalkylamines are described in the corresponding chapters, see Fig. 4).
+
+pea_and_their_meos.png
+Fig. 4. The importance of the MeO groups for high 5-HT2A receptor affinities as well as human potency can be seen by selectively removing one MeO group at a time. The resulting disubstituted compounds exhibit few of the properties mentioned. The same is generally true when the
+4-substituent is removed.

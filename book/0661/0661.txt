@@ -1,0 +1,33 @@
+p661
+8.1. 2,3,4-Trisubstituierte Phenylalkylamine
+
+# Zusammenfassung
+
+Es gibt nur wenige Vertreter dieser Substanzklasse. Isomescalin (2) scheint ausschließlich auf schizophrene Menschen psychotrope Wirkung zu haben. Auf Gesunde zeigt es bis 400mg keine Wirkung, Die im Menschen geprüften Derivate waren bis auf MMDA-3a (12) inaktiv. Auch Schwefelanaloga zeigten in Humanstudien bis in Bereiche von 100mg keine psychoaktiven Effekte. Daraus lässt sich vermuten, dass die 2,3,4-trisubstituierten Phenylalkylamine höchstens geringe Affinitäten zum 5-HT2A-Rezeptor haben (siehe Kapitel 8 für Erklärungsansätze). Substanzen, die eine 3,4-Methylendioxygruppe tragen — also MDA-Analoga — wirken im Menschen vornehmlich über eine Interaktion mit den Monoamintransportern. Ein kleiner Rest wie eine Methylgruppe an Position 2 scheint die Wirkung am Menschen und auch die 5-HT-Freisetzung bzw. -Wiederaufnahmehemmung gegenüber MDA (20) etwas zu verstärken. Die fluorierten MDA-Analoga wurden auf ihre Fähigkeit, Monoamine freizusetzen, noch nicht untersucht.
+
+
+# Literatur
+
+[1] G. Barger, H. H. Dale, J. Physiol. 1910, 41, 19.
+[2] A. Slivka, G. Cohen, J. Biol. Chem. 1985, 260, 15466.
+[3] Erne. Helv. Chim. Acta 1950, 33, 912.
+[4] K. H. Slotta, H. Heller. Chem. Ber. 1930, 63, 3029.
+[5] K. H. Slotta, G. Szyszka. J. Prakt. Chem. 1933, 137, 339.
+[6] A. T. Shulgin, A. Shulgin. PiHKAL — A Chemical Love Story. Transform Press: Berkeley, CA, 1995.
+[7] S. Kolliker, M. Oehme. Anal. Bioanal. Chem. 2004, 378, 1294.
+[8] K. H. Slotta, J. Müller. Z. Physiol, Chem. 1936, 238, 14.
+[9] R. A. Glennon, L. B. Kier, A. T. Shulgin. J. Pharm. Sci. 1979, 68, 906.
+[10] P. Jacob, 3rd, A. T. Shulgin. J. Med. Chem. 1981, 24, 1348.
+[11] A. T. Shulgin, Experientia 1964, 20, 366.
+[12] A. T. Shulgin, J. Med. Chem. 1966, 9, 445.
+[13] J. van der Schoot, E. J. Ariens, J. van Rossum, J. A. Hurkmans. Arzneimittelforschung 1962, 72, 902.
+[14] M. A. Parker, D. Marona-Lewicka, D. Kurrasch, A. T. Shulgin, D. E. Nichols. J. Med. Chem. 1998, 41, 1001.
+[15] D. Trachsel, D. Lehmann. Unveröffentlichte Arbeiten, 2009.
+[16] B. T. Ho, W. M. Mclsaac, R. An, L. W. Tansey, K. E. Walker, L. F. Englert, Jr., M. B. Noel. J. Med. Chem. 1970, 13, 26.
+[17] D. J. McKenna, X. M. Guan, A. T. Shulgin. Pharmacol. Biochem. Behav. 1991, 38, 505.
+[18] C. C. Walline, D. E. Nichols, F. I. Carroll, E. L. Barker. J. Pharmacol. Exp. Ther. 2008, 325, 791.
+[19] Anonym. Persönliche Mitteilung, 2009.
+[20] P. Rausch. Persönliche Mitteilung, 2009.
+[21] D, Trachsel, D. Lehmann. Unveröffentlichte Arbeiten, 2008.
+[22] D. Trachsel, V. Setola, B. Roth. Unveröffentlichte Arbeiten, 2008.
+

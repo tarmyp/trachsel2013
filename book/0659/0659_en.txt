@@ -1,0 +1,11 @@
+p659
+8.1. 2,3,4-Trisubstituted phenylalkylamines
+
+The effect of a fluorine atom in dopamine (DA; 30) [24] and also norepinephrine (NE; 31) [24-26] has been intensively studied. Fluorination in the 2-position (2F-DA; 32) impaired \beta-hydroxylation (to norepinephrine derivatives) more than by fluorination in the 6-position (6F-DA; 33). Both derivatives were well taken up into the salivary vesicles of sympathetic neurons. The adrenergic properties were further investigated. Fluorination in the 2-position of phenethanolamines (the mixed \alpha/\beta-adrenergic agonists norepinephrine and epinephrine, as well as the selective \alpha-adrenergic agonist phenylephrine and the selective \beta-adrenergic agonist isoproterenol) lowered the affinity of the agonist for \alpha-adrenergic receptors, while 6-fluorination significantly lowered the affinity for \beta-adrenergic receptors (summarised in [26]).
+
+fluoro_da_ne.png
+
+When two MeO groups in TMA-3 (8) are formally combined to form a methylenedioxy group (Fig. 4, A), the two compounds MMDA-3a (12) and MMDA-3b (13) are obtained. Interestingly, rigidity towards MMDA-3a (trance; 12) leads to an active compound; it is psychoactive at a dosage of 20-80mg and the effect lasts 10-16h [6]. The question arises as to the neuropharmacological principles. An interaction with the monoamine transporters and, to a lesser extent, with 5-HT2 receptors may be suspected. MMDA-3b (13) has so far been tested up to a dosage of 80mg, with no noticeable effect [6]. In the ability to release 5-HT, 13 was equally potent as (+)-S-MDMA, DA release was comparable to (-)-R-MDMA [17].
+A cross-comparison with the 3,4,5-trisubstituted phenylalkylamines shows a different result for analogous rigidisation (Fig. 4, B): TMA (17) and MMDA (34) show the same required dosage in humans (see Chapter 8.4.11).
+
+The derivative 2T-MMDA-3a (14, Fig. 4, C) lies structurally between MMDA-3a (12) and 2-TIM (5). It has only been tested in humans up to 12mg and was ineffective.

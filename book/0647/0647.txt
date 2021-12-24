@@ -1,0 +1,9 @@
+p647
+8. Trisubstituierte Phenylalkylamine
+
+Man kann annehmen, dass die anderen beiden Substituenten der drei genannten Serien, die 3,5- 2,5- oder 2,6-Dimethoxyreste, benötigt werden, um mit deren Lone-Pair-Elektronen über Wasserstoffbrücken zum 5-HT2A- und 5-HT2C-Rezeptor Bindungen ausbilden zu können. Für die 2,4,5-Serie wurde dies detaillierter untersucht (siehe Kapitel 8.5.21 und 8.5.27.2) und man hat erkannt, dass dies zumindest für die agonistische Interaktion mit diesen Rezeptoren zu gelten scheint. Liegen große, lipophile 4-Substituenten vor, so können zwar ohne die MeO-Gruppen trotzdem hohe Affinitäten erreicht werden; die Interaktion ist dann jedoch antagonistischer Natur (siehe Kapitel 7.2.1 und 7.3.4).
+Die Wichtigkeit des 4-Substituenten, der MeO-Gruppen und deren Anordnung werden auch durch folgende Sachlage untermauert. Entfernt man nämlich jeweils eine der MeO-Gruppen oder den 4-Substituenten in einer Klasse, so verlieren die resultierenden Verbindungen ihre Affinitäten zu den 5-HT2A- und 5-HT2C-Rezeptoren, und sie sind auch im Menschen nahezu nicht mehr aktiv (die so entstandenen disubstituierten Phenylalkylamine sind in den entsprechenden Kapiteln beschrieben, siehe Abb. 4).
+
+pea_and_their_meos.png
+Abb. 4. Die Wichtigkeit der MeO-Gruppen für hohe 5-HT2A-Rezeptoraffinitäten sowie Humanpotenz lässt sich durch selektives Entfernen jeweils einer MeO-Gruppe erkennen. Die resultierenden disubstituierten Verbindungen weisen nur wenig der genannten Eigenschaften auf. Dasselbe gilt allgemein, wenn der
+4-Substituent entfernt wird.

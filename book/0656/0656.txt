@@ -1,0 +1,20 @@
+p656
+8.1. 2,3,4-Trisubstituierte Phenylalkylamine
+
+Ob hier das Einführen des Schwefels einen Einfluss auf die Aktivität hat respektive eine Steigerung bewirkt, kann nicht abschließend festgestellt werden, da weder für die Muttersubstanz Isomescalin (2) noch für die drei Thio-Analoge 5-7 eine wirksame Dosis gefunden wurde.
+
+Während Psychedelika ihre pharmakologischen Wirkungen primär durch agonistische Interaktion mit Serotonin-5-HT2A-Rezeptoren ausüben (siehe Kapitel 8.5.1), wirken Entaktogene wie MDMA oder MBDB (siehe Kapitel 7.5.6 und 7.5.7.2) primär als Freisetzer der Monoamine, MDA (20) liegt zwischen den beiden Klassen, es erzeugt eine psychedelische sowie entaktogene Wirkung (und auch eine stimulierende, siehe Kapitel 7.5.7.1), was sich auf neuronaler Ebene widerspiegelt. Diese Substanz wurde als Startpunkt gewählt, um zu erkunden, welche Effekte strukturelle Modifikationen haben [14]. Da serotoninfreisetzende Substanzen sich in einem Ratten-Modell als antidepressiv erwiesen, untersuchten Parker et al. den Einfluss der Ringmethylierung von MDA (20) auf die Potenz und die Selektivität dieser Substanzen (9 und 21-22) als Freisetzer von 5-HT vs. DA und NE [14].
+
+ring_substituted_mda.png
+
+In der Tabelle 2 ist zu erkennen, dass die Substanzen 9 und 21 potenter und selektiver in der Hemmung der [^3H]-Serotoninakkumulation (Synaptosomen der Ratte) sind als die Muttersubstanz MDA (20). Die Substanz 2Me-MDA (9) und 5Me-MDA (21) gelten als potente Serotoninfreisetzer, und sie sind nur etwas weniger potent als MTA oder PIA (siehe Kapitel 6.3). Die beiden Substanzen 2Me-MDA (9) und 5Me-MDA (21) zeigen eine bemerkenswerte Selektivität für 5-HT vs. DA von über 100.
+
+Tabelle 2. IC50 für Monoamin-Aufnahmehemmung in Synaptosomen von Ratten und Selektivitäten [14].
+==========================================================================================================
+Substanz | IC50 [^3H]-5-HT (nM) | IC50 [3H]-DA (nM) | IC50 [^3H]-NE (nM) | Selektivität 5-HT/DA | 5-HT/NE
+==========================================================================================================
+MDA (20) | 478                  | 890               | 266                | 2                    | <1
+2Me-MDA  | 93                   | 12000             | 1937               | 129                  | 21
+5Me-MDA  | 107                  | 11600             | 1494               | 108                  | 14
+6Me-MDA  | 783                  | 28300             | 4602               | 36                   | 6
+==========================================================================================================

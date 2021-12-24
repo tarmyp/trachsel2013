@@ -1,0 +1,13 @@
+p646
+8. trisubstituted phenylalkylamines
+
+However, depending on the 4-substituent, the corresponding derivatives of the 3,4,5-series may well be equally potent or even more potent (see Chapter 8.4.11). The derivatives of the 2,4,5-series also appear to have a marked affinity for the 5-HT2A and 5-HT2C receptor; however, more substances of both series with identical 4-substituents would have to be measured for a direct comparison to be able to make conclusive statements. In binding studies with antagonistic radioligands (ketanserin and mesulergin), of the substances measured so far, even the 3,4,5-substituted phenethylamines that are most potent in humans show only relatively low affinities.
+An important difference is also the influence of an \alpha-Me group: In the 3,4,5-series, this causes only a weak increase in in-vivo potency (Chapter 8.4.10). This is in stark contrast to the 2,4,5 series, where the presence of an \alpha-Me group makes a substance up to a factor of 10 more potent in humans (Chapter 8.5.15). Unfortunately, there are currently too few in-vitro data on the 3,4,5-series to be able to explain the differences observed in humans between the two classes.
+
+# Interstructural commonalities
+
+The 3,4,5-, 2,4,5- and 2,4,6-series have some things in common: The 4-substituent can assume the largest steric expansion and significantly determines in-vitro data (e.g. affinities, functional potency and functional selectivity, metabolism) as well as the nature of perceptual and consciousness changes in humans. Small, lipophilic substituents lead to potent 5-HT2A and 5-HT2C receptor agonists, large, lipophilic ones to antagonists. The 4-substituent interacts with a hydrophobic region of the receptor. Its variation decisively alters the character of action.
+Another common feature of these three classes is the arrangement of the two remaining substituents on the aromatic: One MeO group each is arranged perpendicular to the 1,4-axis (Fig. 3).
+
+345_245_246-similarities.png
+Fig. 3: Similarities between the 3,4,5-, 2,4,5- and 2,4,6-series: All have a MeO group on one side of the 1,4-axis, and each of the series has the 4-substituent, which is crucial for a high affinity to the 5-HT2A receptor as well as for the psychedelic character of action.

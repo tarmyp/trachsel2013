@@ -1,0 +1,21 @@
+p658
+8.1. 2,3,4-Trisubstituted phenylalkylamines
+
+So far, the effects of the derivatives 10, 23 and 24 in man are unknown.
+
+fluoro-mda.png
+
+Table 4. Ki values of various fluorine analogues of MDA. Inhibition of the uptake of [^3H]WIN-35428, [^3H]nisoxetine and [^3H]citalopram at the DAT, NET and SERT, respectively [22].
+=============================================================
+Substance        | DAT Ki (nM) | NET Ki (nM) | SERT Ki (nM)
+=============================================================
+MDMA (29) ^{a)}  | >10000^{b)} | >10000      | >10000
+2F-MDA (9)       | >10000      | >10000      | 8064
+5F-MDA (23)      | >10000      | >10000      | >10000
+6F-MDA (24)      | >10000      | >10000      | >10000
+=============================================================
+a) Data from [23]; not known for MDA (20). b) Tested with [^3H]GBR 12935.
+
+fluoromda_synthesis.png
+Fig. 3. Synthesis of 2F-MDA (10). a) CH2Br2, Cs2CO3, DMF, 110°C; 90%. b) TiCl4, CHCl2OCH3,
+DCM; 76%. c) EtNO2, AcOH, BuNH2, molecular sieves, 90°C; 74%. d) AlH3, THF, 0°C; 77%, as hydrochloride.

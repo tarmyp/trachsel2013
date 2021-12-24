@@ -1,0 +1,14 @@
+p663
+8.2. 2,3,5-Trisubstituted phenylalkylamines
+
+# 8.2. 2,3,5-Trisubstituted phenylalkylamines
+
+235pea.png
+
+The 2,3,5-trisubstituted phenylalkylamines are generally only sparsely studied substances. On the one hand, the exceedingly difficult chemistry hinders the accessibility of such compounds: producing them requires elaborate synthesis methods, and even today the synthesis strategies are a challenge. On the other hand, with isolated substances that are direct analogues of potent psychoactive structures, it has been shown that they largely lose their pharmacological properties. This could be the reason why only very few further investigations have been carried out on this substance class.
+
+Three substances have been pharmacologically tested as direct analogues of the known psychoactive (psychedelic) compounds TMA-2 (1), DOM (2) and DOB (3) (Fig. 1): TMA-4 (4), Iso-DOM (5) and Iso-DOB (6). They all carry the significant 4-substituent in the 3-position. This is significant because potent serotonin 5HT2A/C receptor agonists of the phenethylamine type carry a 2,5-dimethoxy substitution paired with a small, lipophilic substituent in the 4-position (see Chapter 8.5.1). The question arises whether the 2,5-dimethoxy substitution with a substituent in the 3-position also leads to potent psychedelics or serotonin-5HT2A/C receptor agonists. The compounds discussed below should provide information on this.
+
+The synthesis of 2,3,5-trimethoxyamphetamine (TMA-4, 4) was described by Shulgin in 1966 [1]. In drug discrimination studies, Glennon and Young showed that TMA-4 (4) was able to substitute in DOM-trained rats (DOM: ED50 = 0.44mg/kg) [2]. With an ED50 = 16.5mg/kg, TMA-4 (4) even proved to be weaker than mescaline (7; ED50 = 14.6mg/kg). It was further tested whether TMA-4 (4) is able to substitute for amphetamine [3]. The amphetamine stimulus did not generalise completely for any of the trimethoxyamphetamines tested, and TMA-4 (4) even behaved like saline.
+Shulgin finally mentions a human dose of >80mg, because there was not enough material to do further tests due to the poor yield in synthesis [4]. A single experiment with 80mg produced an impressive introspective state, and the intensity of intoxication was compared to 50ug LSD or 120mg TMA [5]. Statements on effects were scanty, so it is not possible to say conclusively what type of effect TMA-4 is [4].
+2,3,5-trimethoxyphenethylamine (2,3,5-TMPEA, 7) was tested together with many other phenethylamines as a substrate for aminooxidase [6] (see table 1 in chapter 8.6).

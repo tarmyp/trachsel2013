@@ -1,0 +1,20 @@
+p656
+8.1. 2,3,4-Trisubstituted Phenylalkylamines
+
+Whether the introduction of sulphur has an influence on the activity cannot be conclusively determined, as no effective dose was found either for the parent substance isomescaline (2) or for the three thio-analogues 5-7.
+
+While psychedelics exert their pharmacological effects primarily through agonistic interaction with serotonin 5-HT2A receptors (see Chapter 8.5.1), entactogens such as MDMA or MBDB (see Chapters 7.5.6 and 7.5.7.2) act primarily as releasers of monoamines, MDA (20) lies between the two classes, it produces a psychedelic as well as an entactogenic effect (and also a stimulating one, see Chapter 7.5.7.1), which is reflected at the neuronal level. This substance was chosen as a starting point to explore the effects of structural modifications [14]. Since serotonin-releasing compounds were found to be antidepressant in a rat model, Parker et al. investigated the influence of ring methylation of MDA [20] on the potency and selectivity of these compounds [9 and 21-22] as releasers of 5-HT vs. DA and NE [14].
+
+ring_substituted_mda.png
+
+As seen in Table 2, compounds 9 and 21 are more potent and selective in inhibiting [^3H]-serotonin accumulation (rat synaptosomes) than the parent compound MDA (20). The substances 2Me-MDA (9) and 5Me-MDA (21) are considered potent serotonin releasers, and they are only slightly less potent than MTA or PIA (see Chapter 6.3). The two compounds 2Me-MDA (9) and 5Me-MDA (21) show a remarkable selectivity for 5-HT vs. DA of over 100.
+
+Table 2. IC50 for monoamine uptake inhibition in rat synaptosomes and selectivities [14].
+=======================================================================================================================
+Substance | IC50 [^3H]-5-HT (nM) | IC50 [3H]-DA (nM) | IC50 [^3H]-NE (nM) | Selectivity 5-HT/DA  | Selectivity 5-HT/NE
+=======================================================================================================================
+MDA (20)  | 478                  | 890               | 266                | 2                    | <1
+2Me-MDA   | 93                   | 12000             | 1937               | 129                  | 21
+5Me-MDA   | 107                  | 11600             | 1494               | 108                  | 14
+6Me-MDA   | 783                  | 28300             | 4602               | 36                   | 6
+=======================================================================================================================

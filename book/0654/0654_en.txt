@@ -1,0 +1,12 @@
+p654
+8.1. 2,3,4-Trisubstituted phenylalkylamines
+
+# 8.1.1 A few notable compounds
+
+The simple structure and simultaneously complex psychoactive effects of mescaline (16; see chapter 8.4.1) led to many structural modifications. Thus, the question arose whether a repositioning of a MeO group towards the structure of isomescaline (IM, 2) also leads to a psychedelically active substance. Isomescaline (2) was first produced by Slotta and Heller in 1930 [4].
+Early studies in the 1930s showed that mescaline (16) produced a much stronger intoxicating effect in healthy subjects than in schizophrenic subjects, and that isomescaline (IM, 2) had virtually the opposite effect [8]: while it was almost free of a psychotropic effect in healthy subjects, it proved effective in schizophrenic patients. This is why isomescaline (2) was also given the name "reciprocal mescaline". Further studies that clarified this factual situation were never carried out or published [6]. It was eventually confirmed that isomescaline (2) is inactive in healthy humans at doses up to 400mg [6].
+
+The question of the repositioning of the MeO groups also arose with the substance TMA (17). The 3C analogue (see chapter 8.5.2 for definition) of mescaline (16) proved to be almost twice as potent as mescaline, but with a shorter duration of action than the latter (see chapter 8.4.3). If the MeO groups of TMA (17) are repositioned towards TMA-3 (8), one obtains a substance with little or no effect, as in the case of mescaline (16) / isomescaline (2) (Fig. 1). Human trials with TMA-3 (8) were carried out up to 100mg, and at least up to this dosage no changes in the state of consciousness were noticeable [6].
+
+345_to_234.png
+Fig. 1. Repositioning of the 3,4,5-trimethoxy substitution pattern towards the 2,3,4-derivatives is accompanied by a loss of psychoactivity.

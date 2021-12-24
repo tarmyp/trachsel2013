@@ -1,0 +1,19 @@
+p649
+8. Trisubstituierte Phenylalkylamine
+
+Über alle Klassen betrachtet sind die 3C-Derivate wirkungsstärker als ihre 2C-Gegenspieler, wenn auch in unterschiedlichem Ausmaß. Das Einführen einer {\alpha}-Ethylgruppe führt zu den 4C-Derivaten, die in vitro sowie in vivo eine drastisch reduzierte Potenz aufweisen (Abb. 2). Die 1C-Derivate (Benzylamine) sind nahezu unerforscht; erste Radioligand-Bindungsstudien deuten auf eine tiefe Affinität hin. In-vivo-Daten fehlen bisher fast gänzlich; wahrscheinlich ist ebenfalls von massiv reduzierten Wirkstärken auszugehen (Kapitel 8.5.16). Zwischen dem Arylteil und der Aminogruppe muss eine C2-Einheit liegen. Substituenten in
+der {\beta}-Position zum Amin führen im Falle einer OH- oder MeO-Gruppe verstärkt zu sympathomimetischen Wirkungen (Einfluss auf Blutdruck etc.), und im Falle einer {\beta}-Me-Gruppe
+zu reduzierter Human-Potenz.
+
+Die Abb. 6 zeigt abschließend Struktur-Aktivitäts-Beziehungen der trisubstituierten Phenylalkylamine.
+
+
+# Literatur
+[1] A. Heffter, Arch. Exp. Path. Pharm. 1989, 40, 385.
+[2] E. Späth. Monatsh. Chem. 1919, 40, 129.
+[3] P. Hey. Quart. J. Pharm. Pharmacol. 1947, 20, 129.
+[4] A. T. Shulgin, A. Shulgin. PiHKAL - A Chemical Love Storyy. Transform Press: Berkeley, CA, 1995.
+[5] D. I. Peretz, J. R. Smythies, W.C. Gibson. J. Ment. Sci. 1995, 101, 317.
+[6] A. T. Shulgin. J. Med. Chem. 1966, 9, 445.
+[7] T. S. Ray. PLoS One 2010, 5, e9019.
+[8] K. H. Slotta, J. Müller. Z. Physiol. Chem. 1936, 238, 14.

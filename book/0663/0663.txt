@@ -1,0 +1,14 @@
+p663
+8.2. 2,3,5-Trisubstituierte Phenylalkylamine
+
+# 8.2. 2,3,5-Trisubstituierte Phenylalkylamine
+
+235pea.png
+
+Die 2,3,5-trisubstituierten Phenylalkylamine sind allgemein sehr spärlich untersuchte Substanzen. Einerseits hindert die überaus erschwerte Chemie die Zugänglichkeit derartiger Verbindungen: Sie herzustellen erfordert aufwändige Synthesemethoden, und noch heute sind die Synthesestrategien eine Herausforderung. Andererseits konnte mit vereinzelten Substanzen, die direkte Analoga zu potenten psychoaktiven Strukturen sind, gezeigt werden, dass diese weitgehend die pharmakologischen Eigenschaften verlieren. Das könnte der Grund dafür sein, dass nur sehr wenige weitere Untersuchungen zu dieser Substanzklasse getätigt wurden.
+
+Es sind drei Substanzen als direkte Analoga zu den bekannten, psychoaktiven (psychedelischen) Verbindungen TMA-2 (1), DOM (2) und DOB (3) pharmakologisch geprüft worden (Abb. 1): TMA-4 (4), Iso-DOM (5) und Iso-DOB (6). Sie tragen alle den bedeutsamen 4-Substituent in der 3-Position. Bedeutsam ist dies, weil potente Serotonin 5HT2A/C-Rezeptoragonisten des Phenethylamintyps eine 2,5-Dimethoxysubstitution tragen gepaart mit einem kleinen, lipophilen Substituenten in der 4-Position (siehe Kapitel 8.5.1). Es stellt sich die Frage, ob die 2,5-Dimethoxysubstitution mit einem Substituenten in der 3-Position ebenfalls zu potenten Psychedelika resp. Serotonin-5HT2A/C-Rezeptoragonisten führt. Die im Folgenden besprochenen Verbindungen sollen Aufschluss darüber liefern.
+
+Die Synthese des 2,3,5-Trimethoxyamphetamins (TMA-4, 4) beschrieb Shulgin im Jahre 1966 [1]. In Drug-Discrimination-Studien zeigten Glennon und Young, dass TMA-4 (4) in DOM-trainierten Ratten zu substituieren vermag (DOM: ED50 = 0.44mg/kg) [2]. Mit einer ED50 = 16.5mg/kg erwies sich TMA-4 (4) sogar als schwächer als Mescalin (7; ED50 = 14.6mg/kg). Weiter wurde geprüft, ob TMA-4 (4) für Amphetamin zu substituieren vermag [3]. Der Amphetaminstimulus generalisierte für keines der geprüften Trimethoxyamphetamine komplett, und TMA-4 (4) verhielt sich gar wie Kochsalzlösung.
+Shulgin erwähnt schließlich eine Humandosis von >80mg, denn aufgrund der schlechteren Ausbeute bei der Synthese war nicht genügend Material vorhanden, um weitere Tests zu tätigen [4]. Ein einziges Experiment mit 80mg erzeugte einen beeindruckenden introspektiven Zustand, und die Intensität der Berauschung wurde mit 50ug LSD oder 120mg TMA verglichen [5]. Die Aussagen zur Wirkungen waren dürftig, so dass nicht abschließend gesagt werden kann, welcher Wirktyp TMA-4 (4) ist,
+Das 2,3,5-Trimethoxyphenethylamin (2,3,5-TMPEA, 7) wurde zusammen mit vielen anderen Phenethylaminen als Substrat für Aminooxidase geprüft [6] (siehe Tabelle 1 im Kapitel 8.6).

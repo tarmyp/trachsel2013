@@ -1,0 +1,23 @@
+p657
+8.1. 2,3,4-Trisubstituierte Phenylalkylamine
+
+Dies spiegelt die angenommene höhere Sensitivität des DA-Transporters gegenüber strukturellen Modifikationen wider [14]. Am humanen Serotonintransporter (hSERT) bindet 2Me-MDA (9) mit einem Ki=700nM gleich potent wie MDA (20) [18] (Tabelle 3).
+
+Tabelle 3. Ki-Werte für [^3H]-5-HT-Aufnahmehemmung
+am hSERT [18]
+========================================
+Substanz     | hSERT Ki [^3H]-5-HT (nM)
+========================================
+MDA (20)     | 700
+2Me-MDA (9)  | 700
+5Me-MDA (21) | 900
+6Me-MDA (22) | 2200
+========================================
+
+
+Weiter wurden die Verbindungen in einer Drug-Discrimination-Studie auf ihre In-vivo-Aktivität geprüft [14]. Wie man aus den Daten zur Aufnahmehemmung erwarten würde, substituierte keine der Verbindungen 9 und 22-23 für den Catecholaminfreisetzer Amphetamin (siehe Kapitel 2.3.2). Für die serotoninfreisetzende, entaktogene Substanz MBDB (siehe Kapitel 7.5.7.2) vermochten 9 und 21 etwas potenter zu substituieren, als dies MDA (20) tat. Es wurde auch gezeigt, dass die beiden Substanzen 9 und 21 bei etwa gleichen Dosierungen für das Psychedelikum DOI (siehe Kapitel 8.5.10) substituierten, wie bei dem Serotonin-Releaser MBDB [14].
+
+Für die Substanzen 2Me-MDA (9) und 5Me-MDA (21) lässt sich eine im Menschen dem MDA (20) ähnelnde Wirkung vermuten, mit einer etwas weniger ausgeprägten stimulierenden Komponente. Dies ist allerdings spekulativ, und es ist bis anhin nur ein anekdotischer Bericht aufgetaucht: Während 10mg 2Me-MDA (9) keine signifikanten Effekte zeigten, erwiesen sich 40mg als sehr MDA-ähnlich, initiale Effekte nach 20min, Farbveränderungen (blau zu grün, nach 30—40min), Wirkungsdauer rund 12h, wobei eine bleibende Stimulation und eine Mydriasis bis zu rund 20h anhielten [19]. Das 6Me-MDA (22) zeigt Wirkungen bei 160mg während rund 8h [20].
+
+Die Substanz 10 (2F-MDA) ist ein Fluoranalog zu 3,4-Methylendioxyamphetamin (20, MDA; siehe Kapitel 7.5.7.1). Es wurde von Trachse/et al. zusammen mit den beiden anderen Positionsisomeren 5F-MDA (23) und 6F-MDA (24) hergestellt (Synthese siehe Abb. 3, sowie Kapitel 8.4.11 und Kapitel 8.5.23) [21] und auf die Interaktion mit den Monoamintransportern geprüft (kompetitiver Assay, Tabelle 4) [22]. Es ist schwer, die erhaltenen Werte mit Werten anderer Substanzen aus anderen Experimenten zu vergleichen. Wenn mittels tritiierten, selektiven Transporter-Hemmstoffen markiert wird, wird nur die Kompetition an exakt dieser Bindungsstelle erhalten. Eine andere Methode ist, die direkte Wiederaufnahmehemmung von tritiierten Monoaminen zu bestimmen (funktioneller Assay). Durch Modifikation des Versuchs könnte auch eine Aussage über die Hemmung der Wiederaufnahme oder der Freisetzung von Monoaminen gemacht werden. Für Derivate des Releasers MDA wäre die Bestimmung der Fähigkeit zum Release aussagekräftiger als die Verdrängung eines markierten Transporterhemmstoffs aus seiner Bindetasche.
+

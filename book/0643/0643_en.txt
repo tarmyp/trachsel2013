@@ -1,0 +1,10 @@
+p.643
+8. Trisubstituted Phenylalkylamines
+
+345-pea.png
+
+The third most common class is the 2,4,6-series (Chapter 8.6). It is probably mainly due to the somewhat complicated chemistry that this potentially active class has been little studied so far. The few existing representatives such as {\Psi}-DOM (pseudo-DOM; 20) clearly indicate that they are only slightly less potent in vitro and in vivo compared to the 2,4,5-series; they also interact with the 5-HT2A and 5-HT2C receptors. Here lies a very great potential for new, hitherto unknown compounds, because on the basis of initial findings, many of the modifications made within the 2,4,5-series could be transferred to the 2,4,6-series. In turn, hundreds of potential 5-HT2A and 5-HT2C receptor ligands and also psychedelic compounds would be conceivable.
+
+psi-dom.png
+
+The 2,3,4-series was already tampered with in 1936 [8]; isomescaline (21) proved to be inactive compared to mescaline (1) even in high doses (400mg) (see Chapter 8.1). The few additional substances tested with this substitution pattern suggested that this class may only yield a few active derivatives.
